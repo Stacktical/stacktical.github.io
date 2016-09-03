@@ -9,10 +9,10 @@
 title: Stacktical
 email: founders@stacktical.com
 description: > # this means to ignore newlines until "baseurl:"
-  Stacktical lets you find out how many concurrent users your application 
+  Stacktical lets you find out how many concurrent users your application
   can handle, with very little testing effort. Timesaver. Lifesaver.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://stacktical.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.stacktical.com" # the base hostname & protocol for your site
 twitter_username: willitscale
 github_username:  stacktical
 
