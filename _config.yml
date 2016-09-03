@@ -5,16 +5,62 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Build settings
+markdown: kramdown
+
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
 # Site settings
-title: Stacktical
+title: Will it scale?
 email: founders@stacktical.com
-description: > # this means to ignore newlines until "baseurl:"
-  Stacktical lets you find out how many concurrent users your application
-  can handle, with very little testing effort. Timesaver. Lifesaver.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.stacktical.com" # the base hostname & protocol for your site
+description: >
+  A blog by Stacktical, the easiest way to find out how many concurrent users your application
+  can handle.
+baseurl: ""
+url: "http://blog.stacktical.com"
 twitter_username: willitscale
 github_username:  stacktical
 
-# Build settings
-markdown: kramdown
+email: founders@stacktical.com
+#blog logo
+logo: "/assets/img/stacktical.png"
+# blog cover
+cover: "/assets/img/bg_sky.jpg"
+
+name: 'The Stacktical Blog'
+author: 'Stacktical'
+author_image: "/assets/img/stacktical.png"
+
+paginate:	5
+
+#used to display twitter cards
+twitter_handle: '@willitscale'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url: https://twitter.com/willitscale
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
