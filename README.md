@@ -1,23 +1,15 @@
-# Mediumish - Jekyll Theme
+# Stacktical Blog
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+The Stacktical Blog is powered by Jekyll and Github Pages.
 
-![mediumish](assets/img/mediumish-jekyll-template.png)
+# Instal dependencies
 
+Simply run `bundle install` at the root of the repository.
 
-### Copyright
+If they are not installed on your system just yet, you might need to install `bundle` and `jekyll` to proceed.
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+# Run the blog locally
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+Use the following command to run the Stacktical Blog on your computer:
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+`bundle exec jekyll -c _config.yml --incremental`
