@@ -1,0 +1,57 @@
+# Site
+name: "The Stacktical Blog"
+title: "The Stacktical Blog"
+description: "Welcome to the official blog of Stacktical, the Decentralized SLA Platform powered by the DSLA token."
+logo: 'assets/img/logo.png'
+favicon: 'assets/img/logo.png'
+baseurl: ''
+google_analytics: ''
+disqus: 'stacktical'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  WilhemPujar:
+    name: 'Wilhem Pujar'
+    display_name: 'Wilhem Pujar'
+    gravatar: 22dc6d7cb68c703ab7eeccf965a29034
+    email: 'wilhem.pujar@stacktical.com'
+    web: https://stacktical.com
+    twitter: https://twitter.com/WilhemPujar
+    description: "Co-founder and CEO at Stacktical. Co-creator of the DSLA Network."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
