@@ -7,7 +7,7 @@ categories: [ Reporting ]
 image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 ---
 
-# A quick look at what kept us busy last week.
+# A quick look at what kept us busy last week
 
 ### Product & Technology
 
