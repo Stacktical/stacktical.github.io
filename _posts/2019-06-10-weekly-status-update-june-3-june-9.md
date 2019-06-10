@@ -13,16 +13,16 @@ image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 
 #### Product
 * *Stacktical Website*  
-Initially used as the platform destination, [https://stacktical.com](https://stacktical.com) will soon host our new corporate website.
+Initially used as the platform destination, *[https://stacktical.com](https://stacktical.com)* will soon host our new corporate website.
 
 * *Stacktical Blog*  
 We've finished deploying our new blogging system (you're here!) and are currently proceeding the migrations of our posts.
-From now on, [https://blog.stacktical.com](https://blog.stacktical.com) will be the main destination for our publications.
+From now on, *[https://blog.stacktical.com](https://blog.stacktical.com)* will be the main destination for our publications.
 
 * *DSLA Network*  
 The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.
 
-* *Practice Management*
+* *Practice Management*  
 We are refactoring of git flows, Definition of Ready, Definition of Done, as well as other agile deliverables in preparation with the upcoming sprint.
 
 #### Technology  
@@ -35,13 +35,13 @@ After diving into a first Oracle integration, we have decided to pursue our expe
 #### Business
 
 * *Sales*  
-We have closed a deal with a lead in the media industry. With more than 50% of media companies requireing 99.999% uptime SLA from their cloud service provider, it will be the opportunity to further explore the needs of this vertical.
+We have closed a deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider. This collaboration will be the opportunity to further explore the needs of this vertical.
 
 #### Marketing
 
 * *Sales Enablement*  
 Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
-This new deck will serve as a basis for further business development efforts with exchanges.
+This new deck will serve as a basis for further business development efforts with exchanges and financial services.
 
 * *Blogging*  
 We are exprimenting with new audio and video format.
@@ -59,7 +59,8 @@ To improve our efficiency in dealing reaching agreements with our stakeholders, 
 We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network. 
 
 * *Cryptocurrency Exchanges*  
-We have approached major DEX platform that we have been experimenting with for the past weeks.
+We have approached major DEX platform that we have been experimenting with for the past weeks. We're hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.
 
 * *Partnerships*  
-We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases. We will make sure to make a proper announcement in due time.
+We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.  
+We will make sure to make a proper announcement in due time.
