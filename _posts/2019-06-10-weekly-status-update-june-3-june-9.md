@@ -2,9 +2,9 @@
 layout: post
 featured: false
 title:  "Weekly Status Update: June 3rd, 2019 - June 9th, 2019"
-author: WilhemPujar
+author: Team
 categories: [ Reporting ]
-image: assets/img/2019-06-10-weekly-status-update.jpg
+image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 ---
 
 # A quick look at what kept us busy last week.

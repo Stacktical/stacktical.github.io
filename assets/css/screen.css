@@ -1,14 +1,16 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+
+body {
+    font-family: Muli, sans-serif;
+}
+
 .mainheading {
     padding: 1rem 0rem;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 10px -10px #eaeaea;
 }
 
 a {
@@ -188,6 +190,10 @@ section.recent-posts {
     margin-bottom: 2rem;
 }
 
+.post-top-meta hr {
+    margin: 10px 0 5px 0;
+}
+
 .post-top-meta .author-thumb {
     width: 72px;
     height: 72px;
@@ -279,8 +285,18 @@ span.post-read-more a:hover {
     color: green;
 }
 
+navbar {
+    font-family: Muli, sans-serif;
+}
+
 .mediumnavigation .navbar-brand {
     font-weight: 500;
+}
+
+.mediumnavigation .navbar-brand span {
+    display: inline-block;
+    height: 30px;
+    font-weight: 700;
 }
 
 .mediumnavigation .dropdown-menu {

@@ -12,6 +12,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  Team:
+    name: 'Team'
+    display_name: 'Team Stacktical'
+    gravatar: d8c1c1b45f2fe69edac3806d574a183f
+    email: 'contact@stacktical.com'
+    web: https://stacktical.com
+    twitter: https://twitter.com/Stacktical
+    description: "The team behind Stacktical and the DSLA token."
   WilhemPujar:
     name: 'Wilhem Pujar'
     display_name: 'Wilhem Pujar'

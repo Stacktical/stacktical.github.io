@@ -5,8 +5,8 @@
     <description>Welcome to the official blog of Stacktical, the Decentralized SLA Platform powered by the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2019 03:41:38 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 03:41:38 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2019 11:42:11 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2019 11:42:11 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -93,8 +93,8 @@ We have signed a new partnership with a fellow blockchain company to empower new
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/weekly-status-update/</link>
-        <guid isPermaLink="true">http://localhost:4000/weekly-status-update/</guid>
+        <link>http://localhost:4000/weekly-status-update-june-3-june-9/</link>
+        <guid isPermaLink="true">http://localhost:4000/weekly-status-update-june-3-june-9/</guid>
         
         
         <category>Reporting</category>
