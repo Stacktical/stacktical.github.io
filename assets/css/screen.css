@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,700&display=swap');
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -5,6 +7,12 @@
 
 body {
     font-family: Muli, sans-serif;
+    font-weight: 300;
+    color: #3D4752;
+}
+
+strong {
+    font-weight: 700;
 }
 
 .mainheading {
@@ -704,6 +712,7 @@ h4,
 h5,
 h6 {
     font-family: Muli, sans-serif;
+    color: #3D4752;
 }
 
 .article-post .h1,

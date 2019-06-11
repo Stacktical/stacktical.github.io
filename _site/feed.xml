@@ -2,103 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the official blog of Stacktical</title>
-    <description>We're a Service Level Agreement Platform powered by Smart Contracts and the DSLA token.</description>
+    <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2019 23:57:53 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 23:57:53 +0200</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2019 07:45:20 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2019 07:45:20 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Weekly Status Update: June 3rd, 2019 - June 9th, 2019</title>
         <description>&lt;h1 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h1&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;product--technology&quot;&gt;Product &amp;amp; Technology&lt;/h3&gt;
 
 &lt;h4 id=&quot;product&quot;&gt;Product&lt;/h4&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stacktical Website&lt;/em&gt;&lt;br /&gt;
-Initially used as the platform destination, &lt;em&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;&lt;/em&gt; will soon host our new corporate website.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stacktical Blog&lt;/em&gt;&lt;br /&gt;
-We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.
-From now on, &lt;em&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/em&gt; will be the main destination for our publications.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;DSLA Network&lt;/em&gt;&lt;br /&gt;
-The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Practice Management&lt;/em&gt;&lt;br /&gt;
-We are refactoring of git flows, Definition of Ready, Definition of Done, as well as other agile deliverables in preparation with the upcoming sprint.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stacktical Website&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Initially used as the platform destination, &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;&lt;/strong&gt; will soon host our new corporate website.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Stacktical Blog&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.
+From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DSLA Network&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Practice Management&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are refactoring of git flows, Definition of Ready, Definition of Done, as well as other agile deliverables in preparation with the upcoming sprint.&lt;/p&gt;
 
 &lt;h4 id=&quot;technology&quot;&gt;Technology&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;DSLA Network&lt;/em&gt;&lt;br /&gt;
-After diving into a first Oracle integration, we have decided to pursue our experiments using a competing solution.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DSLA Network&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;After diving into a first Oracle integration, we have decided to pursue our experiments using a competing solution.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;business--marketing&quot;&gt;Business &amp;amp; Marketing&lt;/h3&gt;
 
 &lt;h4 id=&quot;business&quot;&gt;Business&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Sales&lt;/em&gt;&lt;br /&gt;
-We have closed a deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider. This collaboration will be the opportunity to further explore the needs of this vertical.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sales&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;We have closed a deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider. This collaboration will be the opportunity to further explore the needs of this vertical.&lt;/p&gt;
 
 &lt;h4 id=&quot;marketing&quot;&gt;Marketing&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Sales Enablement&lt;/em&gt;&lt;br /&gt;
-Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
-This new deck will serve as a basis for further business development efforts with exchanges and financial services.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Blogging&lt;/em&gt;&lt;br /&gt;
-We are exprimenting with new audio and video format.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Contests&lt;/em&gt;&lt;br /&gt;
-We have started designing a new contest in preparation with the upcoming listing of the DSLA token.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sales Enablement&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
+This new deck will serve as a basis for further business development efforts with exchanges and financial services.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Blogging&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are exprimenting with new audio and video format.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Contests&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We have started designing a new contest in preparation with the upcoming listing of the DSLA token.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;legal-finance&quot;&gt;Legal &amp;amp; Finance&lt;/h3&gt;
 
 &lt;h4 id=&quot;legal&quot;&gt;Legal&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Ops&lt;/em&gt;&lt;br /&gt;
-To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ops&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/p&gt;
 
 &lt;p&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Cryptocurrency Exchanges&lt;/em&gt;&lt;br /&gt;
-We have approached major DEX platform that we have been experimenting with for the past weeks. We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Partnerships&lt;/em&gt;&lt;br /&gt;
-We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.&lt;br /&gt;
-We will make sure to make a proper announcement in due time.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cryptocurrency Exchanges&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;We have approached major DEX platform that we have been experimenting with for the past weeks. We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Partnerships&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.&lt;br /&gt;
+We will make sure to make a proper announcement in due time.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/weekly-status-update-june-3-june-9/</link>
-        <guid isPermaLink="true">http://localhost:4000/weekly-status-update-june-3-june-9/</guid>
+        <link>http://localhost:4000/reporting/2019/06/10/weekly-status-update-june-3-june-9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/10/weekly-status-update-june-3-june-9.html</guid>
         
         
-        <category>Reporting</category>
+        <category>reporting</category>
         
       </item>
     
@@ -106,20 +124,20 @@ We will make sure to make a proper announcement in due time.&lt;/p&gt;
         <title>2 years and a new blog</title>
         <description>&lt;h2 id=&quot;changing-how-we-tell-stories&quot;&gt;Changing how we tell stories&lt;/h2&gt;
 
-&lt;p&gt;One of my main objectives for the past year has been to cultivate our ability to write engaging content about the Stacktical ecosystem. Between the mathematical models that we use to predict the scalability of systems, our ongoing efforts in decentralizing service level agreements and our daily operations, there are endless opportunities to share insights with our &lt;em&gt;&lt;a href=&quot;https://t.me/stacktical&quot; target=&quot;_blank&quot;&gt;ever growing community&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;One of my main objectives for the past year has been to cultivate our ability to write engaging content about the Stacktical ecosystem. Between the mathematical models that we use to predict the scalability of systems, our ongoing efforts in decentralizing service level agreements and our daily operations, there are endless opportunities to share insights with our &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot; target=&quot;_blank&quot;&gt;ever growing community&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;So far, our &lt;em&gt;&lt;a href=&quot;https://medium.com/stacktical&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt; publications have proved useful in doing exactly that, often through rendez-vous like our weekly status updates. But in order to ensure your ability to consume Stacktical content without restrictions in the long run, we’ve decided to embrace a more open alternative as our main communication channel.&lt;/p&gt;
+&lt;p&gt;So far, our &lt;strong&gt;&lt;a href=&quot;https://medium.com/stacktical&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;&lt;/strong&gt; publications have proved useful in doing exactly that, often through rendez-vous like our weekly status updates. But in order to ensure your ability to consume Stacktical content without restrictions in the long run, we’ve decided to embrace a more open alternative as our main communication channel.&lt;/p&gt;
 
-&lt;p&gt;Moving forward, the Stacktical Blog at &lt;em&gt;&lt;a href=&quot;https://blog.stacktical.com&quot; target=&quot;_blank&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/em&gt; will your premier destination for product, market and corporate news about Stacktical and the DSLA token. We are ready to double down on blogging while venturing into new, multimedia grounds.&lt;/p&gt;
+&lt;p&gt;Moving forward, the Stacktical Blog at &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot; target=&quot;_blank&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will your premier destination for product, market and corporate news about Stacktical and the DSLA token. We are ready to double down on blogging while venturing into new, multimedia grounds.&lt;/p&gt;
 
 &lt;p&gt;Thank you for visiting!&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/migrating-our-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/migrating-our-blog/</guid>
+        <link>http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</guid>
         
         
-        <category>Company News</category>
+        <category>company</category>
         
       </item>
     

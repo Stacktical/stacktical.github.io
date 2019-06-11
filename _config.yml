@@ -5,10 +5,10 @@ description: "A Service Level Agreement (SLA) Platform, powered by Blockchain Sm
 logo: 'assets/img/logo.png'
 favicon: 'assets/img/logo.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-74934840-1'
 disqus: 'stacktical'
 include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Authors
 authors:
