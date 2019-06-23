@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jun 2019 11:44:07 +0200</pubDate>
-    <lastBuildDate>Sun, 23 Jun 2019 11:44:07 +0200</lastBuildDate>
+    <pubDate>Sun, 23 Jun 2019 11:53:35 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Jun 2019 11:53:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -186,7 +186,7 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
 &lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;We are preparing a series of new commercial decks.&lt;/li&gt;
+  &lt;li&gt;We are preparing a series of new commercial presentation.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -226,9 +226,14 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;We are still actively reaching pre-agreements with both decentralized (D) and centralized (X) exchanges.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;We have reached a new pre-agreement with a centralized cryptocurrency exchange.&lt;/li&gt;
+  &lt;li&gt;We have reached a new pre-agreement with a decentralized cryptocurrency exchange.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h4 id=&quot;finance--dsla-supply-management&quot;&gt;Finance / DSLA Supply Management&lt;/h4&gt;
+&lt;p&gt;We are still actively pursueing opportunities with both decentralized (D) and centralized (X) exchanges.&lt;/p&gt;
+
+&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;In preparation for exchange listing, we plan on burning 1B DSLA tokens.&lt;/li&gt;
@@ -236,7 +241,7 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
 
 &lt;p&gt;This will reduce the total supply from 10B to 9B DSLA.&lt;/p&gt;
 
-&lt;h4 id=&quot;legal--privacy-policy&quot;&gt;Legal / Privacy Policy&lt;/h4&gt;
+&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;How do you enforce the right to be forgotten in an immutable environment?&lt;/p&gt;
@@ -368,63 +373,127 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;business--marketing&quot;&gt;Business &amp;amp; Marketing&lt;/h3&gt;
+&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
 
-&lt;h4 id=&quot;business&quot;&gt;Business&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sales&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We have closed a deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider. This collaboration will be the opportunity to further explore the needs of this vertical.&lt;/p&gt;
-
-&lt;h4 id=&quot;marketing&quot;&gt;Marketing&lt;/h4&gt;
+&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sales Enablement&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;We are exprimenting with new audio and video format.&lt;/li&gt;
+  &lt;li&gt;We have started designing a new contest in preparation with the upcoming listing of the DSLA token.&lt;/li&gt;
+  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
-This new deck will serve as a basis for further business development efforts with exchanges and financial services.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2 years and a new blog&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/company/2019/06/10/a-new-blog-for-stacktical.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Blogging&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;We have discussed co-marketing opportunities with our close partners.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We are exprimenting with new audio and video format.&lt;/p&gt;
+&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Contests&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;We have started validating DSLA Network Platform Access plans with our close partners.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We have started designing a new contest in preparation with the upcoming listing of the DSLA token.&lt;/p&gt;
+&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have closed a new deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider.&lt;br /&gt;
+This collaboration will be the opportunity to further explore the needs of this vertical.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
+This new deck will serve as a basis for further business development efforts with exchanges and financial services.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;partnerships&quot;&gt;Partnerships&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will make sure to make a proper announcement in due time.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;legal-finance&quot;&gt;Legal &amp;amp; Finance&lt;/h3&gt;
+&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
 
-&lt;h4 id=&quot;legal&quot;&gt;Legal&lt;/h4&gt;
+&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;0 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/33?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA ROI since ICO&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/1?scale=1&amp;amp;title=ico&amp;amp;suffix=X&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ops&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;We have reached a pre-agreement with a centralized cryptocurrency exchange.&lt;/li&gt;
+  &lt;li&gt;We have approached major DEX platform that we have been experimenting with for the past weeks.&lt;/li&gt;
+  &lt;li&gt;We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/p&gt;
-
-&lt;p&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/p&gt;
+&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cryptocurrency Exchanges&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;In preparation for exchange listing, we plan on burning 1B DSLA tokens.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We have approached major DEX platform that we have been experimenting with for the past weeks. We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/p&gt;
+&lt;p&gt;This will reduce the total supply from 10B to 9B DSLA.&lt;/p&gt;
+
+&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Partnerships&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.&lt;br /&gt;
-We will make sure to make a proper announcement in due time.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/reporting/2019/06/10/weekly-status-update-june-3-june-9.html</link>

@@ -86,7 +86,7 @@ Please refer to the `Legal / Privacy Policy` of this post for details.
 
 #### Sales / Enablement
 
-* We are preparing a series of new commercial decks.
+* We are preparing a series of new commercial presentation.
 
 <hr />
 
@@ -102,15 +102,19 @@ Please refer to the `Legal / Privacy Policy` of this post for details.
 | DSLA ROI since ICO | ![progress](http://progressed.io/bar/1?scale=1&title=ico&suffix=X "progress") |  
 | DSLA Listing ETA | **July 2019** |
 
-We are still actively reaching pre-agreements with both decentralized (D) and centralized (X) exchanges.
 
-#### Finance / DSLA Supply Management
+* We have reached a new pre-agreement with a centralized cryptocurrency exchange.
+* We have reached a new pre-agreement with a decentralized cryptocurrency exchange.
+
+We are still actively pursueing opportunities with both decentralized (D) and centralized (X) exchanges.
+
+#### Finance / Ops
 
 * In preparation for exchange listing, we plan on burning 1B DSLA tokens.
 
 This will reduce the total supply from 10B to 9B DSLA.
 
-#### Legal / Privacy Policy   
+#### Legal / Ops
 
 > How do you enforce the right to be forgotten in an immutable environment? 
 
