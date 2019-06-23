@@ -48,6 +48,37 @@ pre {
     margin-bottom: -rem;
 }
 
+ul.task-list {
+    padding: 0;
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-right: 7px;
+}
+
+table {
+    margin-bottom: 40px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #eaeaea;
+}
+
+table tbody {
+    margin-bottom: 20px;
+    background: #fafafa;
+}
+
+table td {
+    padding-right: 20px;
+    font-size: 0.8em;
+    font-weight: 400;
+}
+
+table thead {
+    border-bottom: 1px solid #eaeaea;
+    box-shadow: 0 10px 10px -10px #eaeaea;
+}
+
 .mediumnavigation {
     background: rgba(255, 255, 255, .97);
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
@@ -91,6 +122,8 @@ section.recent-posts {
 .article-post ol,
 .article-post ul {
     margin-bottom: 1.5rem;
+    list-style-type: square;
+    padding-left: 1em;
 }
 
 .article-post ol ol,
@@ -358,8 +391,8 @@ navbar {
 .article-post {
     font-family: Muli, sans-serif;
     font-size: 1.1rem;
-    line-height: 1.84;
-    color: rgba(0, 0, 0, .8);
+    line-height: 2;
+    color: #3D4752;
 }
 
 blockquote {
@@ -822,6 +855,10 @@ iframe {
     background-image: url(../img/jumbotron.jpg);
     background-size: cover;
     background-position: center center;
+}
+
+.jumbotron.fortags h2 {
+    color: #fff;
 }
 
 .jumbotron.fortags a {
