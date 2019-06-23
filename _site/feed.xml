@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jun 2019 09:15:57 +0200</pubDate>
-    <lastBuildDate>Sun, 23 Jun 2019 09:15:57 +0200</lastBuildDate>
+    <pubDate>Sun, 23 Jun 2019 11:44:07 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Jun 2019 11:44:07 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -102,11 +102,11 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/85?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/10?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
@@ -257,44 +257,114 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
       <item>
         <title>Weekly Status Update: June 3rd, 2019 - June 9th, 2019</title>
         <description>&lt;h1 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h1&gt;
-&lt;hr /&gt;
 
-&lt;h3 id=&quot;product--technology&quot;&gt;Product &amp;amp; Technology&lt;/h3&gt;
+&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
 
-&lt;h4 id=&quot;product&quot;&gt;Product&lt;/h4&gt;
+&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/0?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/0?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/0?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stacktical Website&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Initially used as the platform destination, &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;&lt;/strong&gt; will soon host our new corporate website.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Initially used as the platform destination, &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;&lt;/strong&gt; will soon host our new corporate website.&lt;/p&gt;
+&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/80?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=released&quot; alt=&quot;availability&quot; title=&quot;availability&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stacktical Blog&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.&lt;/li&gt;
+  &lt;li&gt;From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.
-From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/p&gt;
+&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/80?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/0?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;DSLA Network&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.&lt;/p&gt;
+&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Practice Management&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;After diving into a first Oracle integration, we have decided to pursue our experiments using a competing solution.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;We are refactoring of git flows, Definition of Ready, Definition of Done, as well as other agile deliverables in preparation with the upcoming sprint.&lt;/p&gt;
-
-&lt;h4 id=&quot;technology&quot;&gt;Technology&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;DSLA Network&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After diving into a first Oracle integration, we have decided to pursue our experiments using a competing solution.&lt;/p&gt;
 
 &lt;hr /&gt;
 

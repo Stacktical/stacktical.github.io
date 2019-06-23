@@ -41,8 +41,8 @@ image: assets/img/2019-06-17-weekly-status-update-june-10-june-16.jpg
 | Task        | Status           |
 | :------------- | :-------------|
 | Specifications | ![progress](http://progressed.io/bar/80?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/100?title=progress "progress") |
+| Developments | ![progress](http://progressed.io/bar/85?title=progress "progress") |
+| Quality Assurance | ![progress](http://progressed.io/bar/10?title=progress "progress") |
 | Release ETA | **July 2019** |  
 
 * The Product, Tech and Legal teams attended a series of workshop about Privacy by Design.  
