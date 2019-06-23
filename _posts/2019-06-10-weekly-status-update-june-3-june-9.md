@@ -31,7 +31,8 @@ image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 | Quality Assurance | ![progress](http://progressed.io/bar/100?title=progress "progress") |
 | Release ETA | ![availability](http://progressed.io/bar/100?title=released "availability") |  
 
-* We've finished deploying our new blogging system (you're here!) and are currently proceeding the migrations of our posts.
+* We've finished deploying our new blogging system (you're here!) and are currently proceeding the migrations of our posts.  
+
 * From now on, **[https://blog.stacktical.com](https://blog.stacktical.com)** will be the main destination for our publications.
 
 #### Product / DSLA Network
@@ -103,7 +104,7 @@ We will make sure to make a proper announcement in due time.
 
 * We have reached a pre-agreement with a centralized cryptocurrency exchange.
 * We have approached major DEX platform that we have been experimenting with for the past weeks.  
-* 
+
 We're hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.
 
 #### Finance / Ops
@@ -114,8 +115,7 @@ This will reduce the total supply from 10B to 9B DSLA.
 
 #### Legal / Ops
 
-* To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.
-
+* To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.  
 * We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network. 
 
 

@@ -45,10 +45,10 @@ image: assets/img/2019-06-17-weekly-status-update-june-10-june-16.jpg
 | Quality Assurance | ![progress](http://progressed.io/bar/10?title=progress "progress") |
 | Release ETA | **July 2019** |  
 
+* The scope of our next iteration has been defined.  
 * The Product, Tech and Legal teams attended a series of workshop about Privacy by Design.  
 Please refer to the `Legal / Privacy Policy` of this post for details.
  
-* The scope of our next iteration has been defined.  
 
 > Learn more about our agile development methodology [here](https://www.agilealliance.org/glossary/scrum/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'scrum))~searchTerm~'~sort~false~sortDirection~'asc~page~1)).
 

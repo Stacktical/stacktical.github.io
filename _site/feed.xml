@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jun 2019 11:53:35 +0200</pubDate>
-    <lastBuildDate>Sun, 23 Jun 2019 11:53:35 +0200</lastBuildDate>
+    <pubDate>Sun, 23 Jun 2019 11:56:10 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Jun 2019 11:56:10 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -116,13 +116,9 @@
 &lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Product, Tech and Legal teams attended a series of workshop about Privacy by Design.&lt;br /&gt;
-Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Privacy Policy&lt;/code&gt; of this post for details.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The scope of our next iteration has been defined.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;The scope of our next iteration has been defined.&lt;/li&gt;
+  &lt;li&gt;The Product, Tech and Legal teams attended a series of workshop about Privacy by Design.&lt;br /&gt;
+Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Privacy Policy&lt;/code&gt; of this post for details.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
@@ -328,8 +324,12 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
 &lt;/table&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.&lt;/li&gt;
-  &lt;li&gt;From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
@@ -472,8 +472,9 @@ This new deck will serve as a basis for further business development efforts wit
 &lt;ul&gt;
   &lt;li&gt;We have reached a pre-agreement with a centralized cryptocurrency exchange.&lt;/li&gt;
   &lt;li&gt;We have approached major DEX platform that we have been experimenting with for the past weeks.&lt;/li&gt;
-  &lt;li&gt;We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/p&gt;
 
 &lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
 
@@ -486,12 +487,8 @@ This new deck will serve as a basis for further business development efforts wit
 &lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/li&gt;
+  &lt;li&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
