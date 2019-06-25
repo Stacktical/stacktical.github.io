@@ -6,6 +6,8 @@ author: Team
 categories: [ news, outages ]
 image: assets/img/2019-06-25-verizon-routing-outage-june-24.jpg
 ---
+## My name is route
+
 On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).
 
 According to [Cloudflare's incident report](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/), although they repeatedly called and emailed their support, the Cloudflare Ops team still had not hear from Verizon at the time of writing, over 8 hours after the incident. Nobody was aware of Verizon taking action to resolve the issue.

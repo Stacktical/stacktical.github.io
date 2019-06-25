@@ -5,13 +5,15 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jun 2019 14:39:43 +0200</pubDate>
-    <lastBuildDate>Tue, 25 Jun 2019 14:39:43 +0200</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2019 14:41:38 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2019 14:41:38 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Verizon Knocked Large Parts of the Internet Offline Yesterday</title>
-        <description>&lt;p&gt;On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).&lt;/p&gt;
+        <description>&lt;h2 id=&quot;my-name-is-route&quot;&gt;My name is route&lt;/h2&gt;
+
+&lt;p&gt;On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).&lt;/p&gt;
 
 &lt;p&gt;According to &lt;a href=&quot;https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/&quot;&gt;Cloudflare’s incident report&lt;/a&gt;, although they repeatedly called and emailed their support, the Cloudflare Ops team still had not hear from Verizon at the time of writing, over 8 hours after the incident. Nobody was aware of Verizon taking action to resolve the issue.&lt;/p&gt;
 
