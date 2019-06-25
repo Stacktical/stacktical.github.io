@@ -14,8 +14,6 @@ According to [Cloudflare's incident report](https://blog.cloudflare.com/how-veri
 
 > At Cloudflare, we wish that events like this never take place, but unfortunately the current state of the Internet does very little to prevent incidents such as this one from occurring.
 
-It is important to understand that outages like this one in fact triggering a series of cascading incidents, just like Discord, the popular crypto-friendly messaging app was impacted by Cloudflare's outage, itself caused by Verizon's mistake.
-
 Fortunately, routing security technologies like [RPKI](https://blog.cloudflare.com/cloudflares-rpki-toolkit/) and Decentralized Security SLAs powered by [Stacktical](https://stacktical.com) could bring new ways to mitigate these risks in the future.
 
 Read more about the news on [The Verge](https://www.theverge.com/2019/6/24/18715308/discord-down-outage-cloudflare-problems-crunchyroll-feedly).
