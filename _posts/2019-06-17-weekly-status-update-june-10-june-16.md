@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "Weekly Status Update: June 9th, 2019 - June 16th, 2019"
 author: Team
 categories: [ reporting ]
