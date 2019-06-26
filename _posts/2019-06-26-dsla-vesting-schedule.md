@@ -4,7 +4,7 @@ featured: true
 title:  "DSLA Vesting Schedule"
 author: Team
 categories: [ reporting ]
-image: assets/img/2019-06-25-dsla-vesting-schedule.jpg
+image: assets/img/2019-06-26-dsla-vesting-schedule.jpg
 ---
 
 ## Vesting Schedule

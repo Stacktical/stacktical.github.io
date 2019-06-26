@@ -5,36 +5,9 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2019 17:43:04 +0200</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2019 17:43:04 +0200</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2019 17:56:15 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2019 17:56:15 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Verizon Knocked Large Parts of the Internet Offline Yesterday</title>
-        <description>&lt;h2 id=&quot;my-name-is-route&quot;&gt;My name is route&lt;/h2&gt;
-
-&lt;p&gt;On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href=&quot;https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/&quot;&gt;Cloudflare’s incident report&lt;/a&gt;, although they repeatedly called and emailed their support, the Cloudflare Ops team still had not hear from Verizon at the time of writing, over 8 hours after the incident. Nobody was aware of Verizon taking action to resolve the issue.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;At Cloudflare, we wish that events like this never take place, but unfortunately the current state of the Internet does very little to prevent incidents such as this one from occurring.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Fortunately, routing security technologies like &lt;a href=&quot;https://blog.cloudflare.com/cloudflares-rpki-toolkit/&quot;&gt;RPKI&lt;/a&gt; and Decentralized Security SLAs powered by &lt;a href=&quot;https://stacktical.com&quot;&gt;Stacktical&lt;/a&gt; could bring new ways to mitigate these risks in the future.&lt;/p&gt;
-
-&lt;p&gt;Read more about the news on &lt;a href=&quot;https://www.theverge.com/2019/6/24/18715308/discord-down-outage-cloudflare-problems-crunchyroll-feedly&quot;&gt;The Verge&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</guid>
-        
-        
-        <category>news</category>
-        
-        <category>outages</category>
-        
-      </item>
     
       <item>
         <title>DSLA Vesting Schedule</title>
@@ -137,12 +110,39 @@
 &lt;strong&gt;ETA&lt;/strong&gt;: July 31st&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2019/06/25/dsla-vesting-schedule.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/25/dsla-vesting-schedule.html</guid>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2019/06/26/dsla-vesting-schedule.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/26/dsla-vesting-schedule.html</guid>
         
         
         <category>reporting</category>
+        
+      </item>
+    
+      <item>
+        <title>Verizon Knocked Large Parts of the Internet Offline Yesterday</title>
+        <description>&lt;h2 id=&quot;my-name-is-route&quot;&gt;My name is route&lt;/h2&gt;
+
+&lt;p&gt;On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/&quot;&gt;Cloudflare’s incident report&lt;/a&gt;, although they repeatedly called and emailed their support, the Cloudflare Ops team still had not hear from Verizon at the time of writing, over 8 hours after the incident. Nobody was aware of Verizon taking action to resolve the issue.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At Cloudflare, we wish that events like this never take place, but unfortunately the current state of the Internet does very little to prevent incidents such as this one from occurring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fortunately, routing security technologies like &lt;a href=&quot;https://blog.cloudflare.com/cloudflares-rpki-toolkit/&quot;&gt;RPKI&lt;/a&gt; and Decentralized Security SLAs powered by &lt;a href=&quot;https://stacktical.com&quot;&gt;Stacktical&lt;/a&gt; could bring new ways to mitigate these risks in the future.&lt;/p&gt;
+
+&lt;p&gt;Read more about the news on &lt;a href=&quot;https://www.theverge.com/2019/6/24/18715308/discord-down-outage-cloudflare-problems-crunchyroll-feedly&quot;&gt;The Verge&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</guid>
+        
+        
+        <category>news</category>
+        
+        <category>outages</category>
         
       </item>
     
