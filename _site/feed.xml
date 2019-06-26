@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jun 2019 14:54:31 +0200</pubDate>
-    <lastBuildDate>Tue, 25 Jun 2019 14:54:31 +0200</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2019 17:43:04 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2019 17:43:04 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -33,6 +33,354 @@
         <category>news</category>
         
         <category>outages</category>
+        
+      </item>
+    
+      <item>
+        <title>DSLA Vesting Schedule</title>
+        <description>&lt;h2 id=&quot;vesting-schedule&quot;&gt;Vesting Schedule&lt;/h2&gt;
+
+&lt;p&gt;The distribution of the DSLA tokens to token sale contributors follows a specific calendar called a vesting schedule.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A token vesting process is a common process in which a number of tokens are secured and locked away by a company for a certain period of time. It helps to prevent market price manipulations and protect the stability of the token over time. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;initial-allocation-per-token-sale-contributor-type&quot;&gt;Initial allocation per token sale contributor type&lt;/h2&gt;
+
+&lt;h3 id=&quot;private-sale-contributor&quot;&gt;Private sale contributor&lt;/h3&gt;
+&lt;p&gt;This type of contributor has obtained &lt;strong&gt;25% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;http://progressed.io/bar/25?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pre-sale-contributor&quot;&gt;Pre sale contributor&lt;/h3&gt;
+&lt;p&gt;This type of contributor has obtained &lt;strong&gt;50% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;http://progressed.io/bar/50?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;public-sale-contributor&quot;&gt;Public sale contributor&lt;/h3&gt;
+&lt;p&gt;This type of contributor has obtained &lt;strong&gt;75% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;http://progressed.io/bar/75?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;agreement-for-future-token-allocation&quot;&gt;Agreement for future token allocation&lt;/h2&gt;
+
+&lt;p&gt;According to our token sale smart contract and other signed agreements, a token sale contributor is authorized to claim &lt;strong&gt;25% more DSLA from her total DSLA purchase, every 3 months, since January 1st 2018.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is the corresponding vesting table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; At Purchase&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; March 31st&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; June 30th&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; September 30th&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Private sale contributor&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/25&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre sale contributor&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Public sale contributor&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;how-to-claim-expert-users&quot;&gt;How to claim (expert users)&lt;/h2&gt;
+
+&lt;p&gt;To claim your tokens, expert user can directly call the public &lt;strong&gt;claimTokens()&lt;/strong&gt; function from the wallet used to contribute to the DSLA token sale.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;    /**
+      * @dev Allows the sender to claim the tokens he is allowed to withdraw
+      */
+    function claimTokens() public {
+        require(getWithdrawableAmount(msg.sender) != 0);
+
+        uint256 amount = getWithdrawableAmount(msg.sender);
+        withdrawn[msg.sender] = withdrawn[msg.sender].add(amount);
+
+        _deliverTokens(msg.sender, amount);
+    }
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Please see &lt;a href=&quot;https://github.com/Stacktical/stacktical-tokensale-contracts/blob/master/contracts/Crowdsale/DSLACrowdsale.sol&quot;&gt;our token sale contract repository&lt;/a&gt; for reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-claim-all-users&quot;&gt;How to claim (all users)&lt;/h2&gt;
+
+&lt;p&gt;Users will need to wait for the claimTokens() feature to be available on the official Stacktical Website. &lt;br /&gt;
+&lt;strong&gt;ETA&lt;/strong&gt;: July 31st&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2019/06/25/dsla-vesting-schedule.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/25/dsla-vesting-schedule.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
+    
+      <item>
+        <title>Weekly Status Update: June 17th, 2019 - June 23rd, 2019</title>
+        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h2&gt;
+
+&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
+
+&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/10?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Specifications are complete.&lt;/li&gt;
+  &lt;li&gt;We are halfway through developments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=released&quot; alt=&quot;availability&quot; title=&quot;availability&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No new developments for the Stacktical Blog this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/90?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Specifications of our upcoming major release are complete.&lt;/li&gt;
+  &lt;li&gt;We are now confident in our ability to release the DSLA Network Platform within two weeks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;80% of the DSLA Network infrastructure has been completed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We have experienced some unforeseen configuration challenges and our operations have been slightly delayed accordingly. No impact on development.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
+
+&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Weekly Status Update: June 9th, 2019 - June 16th, 2019&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/17/weekly-status-update-june-10-june-16.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are experimenting with text-to-speech technologies for our audio production pipeline.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are getting ready to list the DSLA token information on popular discovery platforms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DSLA Network listing fees have been validated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will make sure to share our pricing table with the community soon.&lt;/p&gt;
+
+&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are still refactoring our sales pipeline in preparation for our upcoming pipeline development activities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The work continues with a series of new commercial presentation.&lt;/li&gt;
+  &lt;li&gt;We have introduced a new lead scoring approach.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
+
+&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;3 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/33?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA ROI since ICO&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/1?scale=1&amp;amp;title=ico&amp;amp;suffix=X&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have reached our 3/3 objective with DEX pre-agreements.&lt;/li&gt;
+  &lt;li&gt;We have been introduced to two new centralized cryptocurrency exchanges through one of our advisors.&lt;/li&gt;
+  &lt;li&gt;We had a meeting with a European centralized cryptocurrency exchanges through one of our partners.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are still actively pursueing opportunities with both decentralized (D) and centralized (X) exchanges.&lt;/p&gt;
+
+&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
+
+&lt;p&gt;1B DSLA tokens have been burnt.&lt;/p&gt;
+
+&lt;p&gt;The total supply has shrinked from 10B to 9B DSLA.&lt;/p&gt;
+
+&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Our Legal Officer will be joining the upcoming DSLA Network iteration to enable developers to ship GDPR-related user stories.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</guid>
+        
+        
+        <category>reporting</category>
         
       </item>
     
