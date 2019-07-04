@@ -17,7 +17,7 @@ image: assets/img/2019-07-01-weekly-status-update-june-23-june-30.jpg
 | :------------- | :-------------|
 | Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
 | Developments | ![progress](http://progressed.io/bar/65?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/10?title=progress "progress") |
+| Quality Assurance | ![progress](http://progressed.io/bar/25?title=progress "progress") |
 | Release ETA | **July 2019** |  
 
 * Development is still in progress.
