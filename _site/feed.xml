@@ -5,9 +5,256 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2019 17:56:15 +0200</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2019 17:56:15 +0200</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2019 15:24:40 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2019 15:24:40 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Weekly Status Update: June 24th, 2019 - June 30th, 2019</title>
+        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h2&gt;
+
+&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
+
+&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/65?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/10?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Development is still in progress.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=released&quot; alt=&quot;availability&quot; title=&quot;availability&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No new developments for the Stacktical Blog this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/95?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Entering the final stage of the DSLA Network developments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The DSLA Network infrastructure is operationnal.&lt;/li&gt;
+  &lt;li&gt;We are now in full capacity to continuously deliver product updates to the general public.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
+
+&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Vesting Schedule&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/26/dsla-vesting-schedule.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Verizon Knocked Large Parts of the Internet Offline Yesterday&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/news/outages/2019/06/25/verizon-routing-outage-june-24.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Weekly Status Update: June 17th, 2019 - June 23rd, 2019&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/24/weekly-status-update-june-17-june-23.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have broadcasted our first &lt;a href=&quot;https://www.youtube.com/watch?v=LJv4Uu1BDKM&quot;&gt;test Ask Me Anything (AMA)&lt;/a&gt; with the community.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LJv4Uu1BDKM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have updated our media and communication plan for the launch of the DSLA Network.&lt;/li&gt;
+  &lt;li&gt;We have updated our media and communication plan for the launch of the DSLA token on cryptocurrency exchanges.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No new Distribution tasks this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prices have been updated to better reflect market demand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No new Sales tasks this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No new Sales Enablement tasks this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Marketing Team keeps developing our leads database to meet the requirements of the Business Development Team.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
+
+&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;3 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/66?title=progress&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA ROI since ICO&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/1?scale=1&amp;amp;title=ico&amp;amp;suffix=X&quot; alt=&quot;progress&quot; title=&quot;progress&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are only on step away from getting listed on a 1st cryptocurrency exchanges out of the 2 pre-agreements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have started working on supply management simulations involving multiple networks and protocols.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have meet with a cryptocurrency law firm to explore synergies.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2019/07/01/weekly-status-update-june-23-june-30.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/07/01/weekly-status-update-june-23-june-30.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
     
       <item>
         <title>DSLA Vesting Schedule</title>

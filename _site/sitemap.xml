@@ -25,6 +25,10 @@
 <lastmod>2019-06-26T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reporting/2019/07/01/weekly-status-update-june-23-june-30.html</loc>
+<lastmod>2019-07-01T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -47,5 +51,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/outages/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

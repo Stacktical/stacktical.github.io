@@ -440,12 +440,34 @@ blockquote {
     border-radius: 50%;
 }
 
+.share a.social {
+    display: inline-block;
+    margin-top: 10px;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    color: #2196F3;
+    border-color: #2196F3;
+    border-radius: 100%;
+}
+
+.share a.social:hover {
+    color: #fff;
+    background: #8BC34A;
+}
+
 .svgIcon {
     vertical-align: middle;
 }
 
 .sticky-top-offset {
     top: 100px;
+}
+
+.video iframe {
+    margin-bottom: 20px;
+    border: 1px solid #3D4752;
+    box-shadow: 0 10px 10px -10px #3D4752;
 }
 
 @media (min-width:1024px) {
