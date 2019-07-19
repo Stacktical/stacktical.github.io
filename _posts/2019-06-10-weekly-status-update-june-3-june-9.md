@@ -15,9 +15,9 @@ image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/0?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/0?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/0?title=progress "progress") |
+| Specifications | 0% |
+| Developments | 0% |
+| Quality Assurance | 0% |
 | Release ETA | **July 2019** |  
 
 * Initially used as the platform destination, **[https://stacktical.com](https://stacktical.com)** will soon host our new corporate website.
@@ -26,10 +26,10 @@ image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/80?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Release ETA | ![availability](http://progressed.io/bar/100?title=released "availability") |  
+| Specifications | 80% |
+| Developments | 100% |
+| Quality Assurance | 100% |
+| Release ETA | Released |  
 
 * We've finished deploying our new blogging system (you're here!) and are currently proceeding the migrations of our posts.  
 
@@ -39,9 +39,9 @@ image: assets/img/2019-06-10-weekly-status-update-june-3-june-9.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/50?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/80?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/0?title=progress "progress") |
+| Specifications | 50% |
+| Developments | 80% |
+| Quality Assurance | 0% |
 | Release ETA | **July 2019** |  
 
 * The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.
@@ -98,8 +98,8 @@ We will make sure to make a proper announcement in due time.
 | :------------- | :-------------|
 | Pre-agreements (DEX) | **0 out of 3 objective(s)** |
 | Pre-agreements (Centralized) | **1 out of 1 objective(s)** |
-| DSLA Listing Status | ![progress](http://progressed.io/bar/33?title=progress "progress") |
-| DSLA ROI since ICO | ![progress](http://progressed.io/bar/1?scale=1&title=ico&suffix=X "progress") |  
+| DSLA Listing Status | 33% (1/3) |
+| DSLA ROI since ICO | N/A |  
 | DSLA Listing ETA | **July 2019** |
 
 * We have reached a pre-agreement with a centralized cryptocurrency exchange.

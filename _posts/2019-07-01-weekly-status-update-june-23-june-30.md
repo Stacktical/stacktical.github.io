@@ -15,9 +15,9 @@ image: assets/img/2019-07-01-weekly-status-update-june-23-june-30.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/65?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/25?title=progress "progress") |
+| Specifications | 100% |
+| Developments | 65% |
+| Quality Assurance | 25% |
 | Release ETA | **July 2019** |  
 
 * Development is still in progress.
@@ -26,10 +26,10 @@ image: assets/img/2019-07-01-weekly-status-update-june-23-june-30.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Release ETA | ![availability](http://progressed.io/bar/100?title=released "availability") |  
+| Specifications | 100% |
+| Developments | 100% |
+| Quality Assurance | 100% |
+| Release ETA | Released |  
 
 * No new developments for the Stacktical Blog this week.  
 
@@ -37,9 +37,9 @@ image: assets/img/2019-07-01-weekly-status-update-june-23-june-30.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/95?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/75?title=progress "progress") |
+| Specifications | 100% |
+| Developments | 95% |
+| Quality Assurance | 75% |
 | Release ETA | **July 2019** |  
 
 * Entering the final stage of the DSLA Network developments.
@@ -100,8 +100,7 @@ The Marketing Team keeps developing our leads database to meet the requirements 
 | :------------- | :-------------|
 | Pre-agreements (DEX) | **3 out of 3 objective(s)** |
 | Pre-agreements (Centralized) | **2 out of 1 objective(s)** |
-| DSLA Listing Status | ![progress](http://progressed.io/bar/66?title=progress "progress") |
-| DSLA ROI since ICO | ![progress](http://progressed.io/bar/1?scale=1&title=ico&suffix=X "progress") |  
+| DSLA Listing Status | 66% (2/3) |
 | DSLA Listing ETA | **July 2019** |
 
 * We are only on step away from getting listed on a 1st cryptocurrency exchanges out of the 2 pre-agreements.

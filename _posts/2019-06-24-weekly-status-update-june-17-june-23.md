@@ -15,9 +15,9 @@ image: assets/img/2019-06-24-weekly-status-update-june-17-june-23.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/50?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/10?title=progress "progress") |
+| Specifications | 100% |
+| Developments | 50% |
+| Quality Assurance | 10% |
 | Release ETA | **July 2019** |  
 
 * Specifications are complete.
@@ -27,10 +27,10 @@ image: assets/img/2019-06-24-weekly-status-update-june-17-june-23.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Release ETA | ![availability](http://progressed.io/bar/100?title=released "availability") |  
+| Specifications | 100% |
+| Developments | 100% |
+| Quality Assurance | 100% |
+| Release ETA | Released |  
 
 * No new developments for the Stacktical Blog this week.  
 
@@ -38,9 +38,9 @@ image: assets/img/2019-06-24-weekly-status-update-june-17-june-23.jpg
 
 | Task        | Status           |
 | :------------- | :-------------|
-| Specifications | ![progress](http://progressed.io/bar/100?title=progress "progress") |
-| Developments | ![progress](http://progressed.io/bar/90?title=progress "progress") |
-| Quality Assurance | ![progress](http://progressed.io/bar/50?title=progress "progress") |
+| Specifications | 100% |
+| Developments | 90% |
+| Quality Assurance | 50% |
 | Release ETA | **July 2019** |  
 
 * Specifications of our upcoming major release are complete. 
@@ -96,8 +96,7 @@ We have experienced some unforeseen configuration challenges and our operations 
 | :------------- | :-------------|
 | Pre-agreements (DEX) | **3 out of 3 objective(s)** |
 | Pre-agreements (Centralized) | **2 out of 1 objective(s)** |
-| DSLA Listing Status | ![progress](http://progressed.io/bar/33?title=progress "progress") |
-| DSLA ROI since ICO | ![progress](http://progressed.io/bar/1?scale=1&title=ico&suffix=X "progress") |  
+| DSLA Listing Status | 33% |
 | DSLA Listing ETA | **July 2019** |
 
 * We have reached our 3/3 objective with DEX pre-agreements.
