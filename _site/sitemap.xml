@@ -29,6 +29,10 @@
 <lastmod>2019-07-01T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reporting/trading/2019/07/21/dsla-listing-cryptocurrency-exchange-p2pb2b-july-25.html</loc>
+<lastmod>2019-07-21T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -51,6 +55,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/outages/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/trading/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
