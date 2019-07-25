@@ -15,7 +15,7 @@ We have no exact date to share at this stage, but according to official informat
 
 ## Don't do DSLA deposits to the exchange yet
 
-Yesterday, members in our community noticed that the DSLA deposit feature has mistakenly been made available to all users on the exchange, despite any official announcement from P2PB2B and Stacktical.
+Yesterday, members in our community noticed that the DSLA deposit feature had mistakenly been made available to all users on the exchange, despite any official announcement from P2PB2B and Stacktical.
 
 **Please refrain from doing any DSLA deposit until further notice, you might lose your assets.**
 
@@ -33,7 +33,7 @@ We would like to take this unfortunate opportunity to announce that, along with 
 
 We will make sure to share the ins and outs of our partnership in a dedicated post.
 
-Ultimately, this bad situation is a foundational step to a future where uptime, deposit, withdrawal and other exchange commitments, are backed with Stacktical's Decentralized Service Level Agreements and the DSLA token.
+Ultimately, this bad customer experience is a foundational step to a future where uptime, deposit, withdrawal and other exchange commitments, are backed with Stacktical's Decentralized Service Level Agreements and the DSLA token.
 
 It does help to have a taste of your own medecine.
 
