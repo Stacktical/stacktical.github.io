@@ -25,7 +25,7 @@ The postponement of the DSLA listing is the result of integration issues, raised
 
 While we undertand your frustration, we believe that P2PB2B team's approach to handling the issue is in the true spirit of reliability engineering, and we appreciate their commitment to maintaining a good quality of service for their exchange, even if it means exposing the Stacktical team and our community to some downtime.
 
-It's in our DNA to approach these situations cold-headed, since Stacktical has been created to help service providers align their reliability engineering and customer service capabilities with the risk that customers are willing to bear.
+It's in our DNA to approach these situations cool-headed, since Stacktical has been created to help service providers align their reliability engineering and customer service capabilities with the risk that customers are willing to bear.
 
 ## Turning a bad situation into an opportunity
 
