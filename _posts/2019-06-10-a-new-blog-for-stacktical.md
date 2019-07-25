@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "2 years and a new blog"
 author: WilhemPujar
 categories: [ company ]
