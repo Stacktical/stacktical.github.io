@@ -12,4 +12,4 @@ If they are not installed on your system just yet, you might need to install `bu
 
 Use the following command to run the Stacktical Blog on your computer:
 
-`bundle exec jekyll -c _config.yml --incremental`
+`bundle exec jekyll s`
