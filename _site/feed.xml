@@ -5,9 +5,44 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2019 12:58:56 +0200</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2019 12:58:56 +0200</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2019 01:53:48 +0200</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2019 01:53:48 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>New Partnership Announcement — Stacktical (DSLA) x XYO Network (XYO)</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Stacktical and XYO announce their partnership to empower the future of the Travel Industry using their respective technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;PARIS, FRANCE — Stacktical, a Blockchain Platform for managing Service Level Agreements (SLA), and XYO, the first Geospatial Blockchain Network, are joining forces to introduce Geospatial Decentralized Service Level Agreements to airline companies, airports and the entire Travel Industry.&lt;/p&gt;
+
+&lt;p&gt;Last year, over 20 million luggages were declared lost by airlines, and a record number of flight delays were reported. In this context, it is mission-critical to empower travel service providers with effortless ways to track belongings and soothe inconvenienced travelers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“Together, Stacktical and XYO can better align airport logistics capabilities with the risk that consumers are willing to bear, and ultimately alleviate the frustration of travelers upon delays and other service failures. Our partnership is also a unique opportunity to improve the existing Flight Compensation Regulation 261/2004, that entitles travelers to compensation following flight delays”&lt;/strong&gt;, commented Wilhem Pujar, CEO and co-founder at Stacktical&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;About XYO&lt;/strong&gt;&lt;br /&gt;
+[LOGO HERE]&lt;/p&gt;
+
+&lt;p&gt;The XYO Network is a Blockchain crypto-location oracle network backed by cryptography. Their Partners include mapping giant Esri, Re/Max Mexico and Spaceflight Industries. XYO Advisors come from leading organizations including National Geographic and the World Economic Forum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Stacktical&lt;/strong&gt;&lt;br /&gt;
+[LOGO HERE]&lt;/p&gt;
+
+&lt;p&gt;Powered by the DSLA token, Stacktical is a Service Level Agreement (SLA) platform for documenting, bargaining and tracking service commitments between service providers, employees and customers. Stacktical ambitions to better align the interests of service stakeholders by creating an open network of highly automated agreements that can boost employee morale and settle customer disputes using DSLA token service credits.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/partnership/press%20release/2019/07/30/stacktical-dsla-partnership-xyo-network.html</link>
+        <guid isPermaLink="true">http://localhost:4000/partnership/press%20release/2019/07/30/stacktical-dsla-partnership-xyo-network.html</guid>
+        
+        
+        <category>partnership</category>
+        
+        <category>press release</category>
+        
+      </item>
     
       <item>
         <title>DSLA Listing (Slightly) Delayed</title>
