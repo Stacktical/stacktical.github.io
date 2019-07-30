@@ -5,9 +5,50 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2019 12:58:56 +0200</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2019 12:58:56 +0200</lastBuildDate>
+    <pubDate>Tue, 30 Jul 2019 22:32:43 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2019 22:32:43 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>New Partnership Announcement — Stacktical (DSLA) x XYO</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Stacktical and XYO announce their partnership to empower the future of Internet of Things* (IoT) by using their respective technology to use data resulting from the geolocation of goods connected with the blockchain in transparent and auditable conditions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;PARIS, FRANCE — Stacktical, a Blockchain platform for managing Service Level Agreements (SLA), and XYO, the first geospatial blockchain network, are joining forces to integrate geospatial Decentralized Service Level Agreements (DSLA) into the digital ecosystem of Internet of Things (IoT).&lt;/p&gt;
+
+&lt;p&gt;One sector in particular, the airline industry, faces critical challenges. In year 2018 only, over 20 million luggage were declared lost by airline companies, and a record number of flight delays were reported. In this context, easing the customer experience by providing airline companies technologically advanced ways to track their mobile goods, but also providing effortless ways to access compensation to travelers are urgent.&lt;/p&gt;
+
+&lt;p&gt;Our shared goal is to use our respective platforms such as the geolocalization sensors developed by XYO network and the Decentralized Service Level Agreements provided by Stacktical to help airline companies transparently commit to the end-to-end tracking of luggage using connected devices but also instantly compensate travellers when service levels agreed by airlines companies are not met.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Together, Stacktical and XYO can decentralize The Flight Compensation Regulation 261/2004 that entitles travelers to compensation following flight delays. But contrary to fintech companies in this space, we are not interested in collecting fees in exchange for managing travelers claims: we are removing the very need for claims using smart contracts, cryptocurrencies and IoT devices”,&lt;/strong&gt; commented Wilhem Pujar CEO and co-founder of Stacktical.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“XYO and Stacktical brings a new generation of guarantees that scales from the logistics of luggage by airlines to Food delivery. With cryptographically-backed geospatial data tied to cryptographically-secure SLA Smart Contracts a whole new level of automation is achievable to benefits consumers and service providers just like we do with online services”&lt;/strong&gt;, commented Jean-Daniel Bussy CTO and co-founder of Stacktical.**&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;About XYO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The XYO Network is a Blockchain crypto-location oracle network backed by cryptography. Their Partners include mapping giant Esri, Re/Max Mexico and Spaceflight Industries. XYO Advisors come from leading organizations including National Geographic and the World Economic Forum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Stacktical&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Powered by the DSLA token, Stacktical is a Service Level Agreement (SLA) platform for documenting, bargaining and tracking service commitments between service providers, their partners and their customers. Stacktical ambitions to better align the interests of all service stakeholders with the Stacktical platform by creating a trustless network of highly automated agreements that can boost employee morale and settle customer disputes using DSLA token service credits. We hope to bring new levels of efficiency and trust in tracking scenario and in the settlement of tracking failures.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Tue, 30 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/partnership/press-release/2019/07/30/stacktical-partnership-xyo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/partnership/press-release/2019/07/30/stacktical-partnership-xyo.html</guid>
+        
+        
+        <category>partnership</category>
+        
+        <category>press-release</category>
+        
+      </item>
     
       <item>
         <title>DSLA Listing (Slightly) Delayed</title>
@@ -50,6 +91,22 @@
         <category>reporting</category>
         
         <category>trading</category>
+        
+      </item>
+    
+      <item>
+        <title>Linking an istio enabled GKE cluster to Cloud Services</title>
+        <description>&lt;h2 id=&quot;-access-google&quot;&gt;&lt;i class=&quot;fas fa-calendar&quot;&gt;&lt;/i&gt; Access Google&lt;/h2&gt;
+
+</description>
+        <pubDate>Mon, 22 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/cloud/istio/2019/07/22/gke-cloud-build.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cloud/istio/2019/07/22/gke-cloud-build.html</guid>
+        
+        
+        <category>cloud</category>
+        
+        <category>istio</category>
         
       </item>
     
@@ -1176,27 +1233,6 @@ This new deck will serve as a basis for further business development efforts wit
         
         
         <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>2 years and a new blog</title>
-        <description>&lt;h2 id=&quot;changing-how-we-tell-stories&quot;&gt;Changing how we tell stories&lt;/h2&gt;
-
-&lt;p&gt;One of my main objectives for the past year has been to cultivate our ability to write engaging content about the Stacktical ecosystem. Between the mathematical models that we use to predict the scalability of systems, our ongoing efforts in decentralizing service level agreements and our daily operations, there are endless opportunities to share insights with our &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot; target=&quot;_blank&quot;&gt;ever growing community&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;So far, our &lt;strong&gt;&lt;a href=&quot;https://medium.com/stacktical&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;&lt;/strong&gt; publications have proved useful in doing exactly that, often through rendez-vous like our weekly status updates. But in order to ensure your ability to consume Stacktical content without restrictions in the long run, we’ve decided to embrace a more open alternative as our main communication channel.&lt;/p&gt;
-
-&lt;p&gt;Moving forward, the Stacktical Blog at &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot; target=&quot;_blank&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will your premier destination for product, market and corporate news about Stacktical and the DSLA token. We are ready to double down on blogging while venturing into new, multimedia grounds.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</guid>
-        
-        
-        <category>company</category>
         
       </item>
     
