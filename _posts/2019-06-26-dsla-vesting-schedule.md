@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Vesting Schedule"
 author: Team
 categories: [ reporting ]

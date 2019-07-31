@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Listing (Slightly) Delayed"
 author: WilhemPujar
 categories: [ reporting, trading ]
