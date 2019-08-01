@@ -5,9 +5,33 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Jul 2019 18:37:15 +0200</pubDate>
-    <lastBuildDate>Wed, 31 Jul 2019 18:37:15 +0200</lastBuildDate>
+    <pubDate>Thu, 01 Aug 2019 12:50:40 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2019 12:50:40 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA/ETH debuts trading on P2PB2B</title>
+        <description>&lt;h2 id=&quot;-trade-dslaeth-now&quot;&gt;&lt;i class=&quot;fas fa-rocket&quot;&gt;&lt;/i&gt; Trade DSLA/ETH now&lt;/h2&gt;
+
+&lt;p&gt;Dear community and valued customers, we inform you that the DSLA token has debuted trading under the DSLA/ETH pair, on the &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;P2PB2B cryptocurrency exchange&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Acquiring DSLA tokens will enable you to provision your Decentralized Service Level Agreements, and use the staking, rewarding, and compensation features of the upcoming DSLA Network Platform.&lt;/p&gt;
+
+&lt;p&gt;P2PB2B is a &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/rankings/exchanges/&quot;&gt;Top 50 CMC exchange&lt;/a&gt;&lt;/strong&gt;, with more than $165M in daily trading volume.&lt;/p&gt;
+
+&lt;p&gt;Start trading DSLA/ETH  &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt; now&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/trading/2019/08/01/dsla-eth-cryptocurrency-exchange-trading-p2pb2b.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/trading/2019/08/01/dsla-eth-cryptocurrency-exchange-trading-p2pb2b.html</guid>
+        
+        
+        <category>reporting</category>
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>New Partnership Announcement — Stacktical (DSLA) x XYO Network (XYO)</title>
@@ -1220,27 +1244,6 @@ This new deck will serve as a basis for further business development efforts wit
         
         
         <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>2 years and a new blog</title>
-        <description>&lt;h2 id=&quot;changing-how-we-tell-stories&quot;&gt;Changing how we tell stories&lt;/h2&gt;
-
-&lt;p&gt;One of my main objectives for the past year has been to cultivate our ability to write engaging content about the Stacktical ecosystem. Between the mathematical models that we use to predict the scalability of systems, our ongoing efforts in decentralizing service level agreements and our daily operations, there are endless opportunities to share insights with our &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot; target=&quot;_blank&quot;&gt;ever growing community&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;So far, our &lt;strong&gt;&lt;a href=&quot;https://medium.com/stacktical&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;&lt;/strong&gt; publications have proved useful in doing exactly that, often through rendez-vous like our weekly status updates. But in order to ensure your ability to consume Stacktical content without restrictions in the long run, we’ve decided to embrace a more open alternative as our main communication channel.&lt;/p&gt;
-
-&lt;p&gt;Moving forward, the Stacktical Blog at &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot; target=&quot;_blank&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will your premier destination for product, market and corporate news about Stacktical and the DSLA token. We are ready to double down on blogging while venturing into new, multimedia grounds.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company/2019/06/10/a-new-blog-for-stacktical.html</guid>
-        
-        
-        <category>company</category>
         
       </item>
     
