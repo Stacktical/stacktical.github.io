@@ -5,9 +5,93 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2019 12:50:40 +0200</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2019 12:50:40 +0200</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2019 04:27:03 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 04:27:03 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA Trading Competition</title>
+        <description>&lt;h1 id=&quot;competition-will-begin-shortly&quot;&gt;Competition will begin shortly&lt;/h1&gt;
+
+&lt;p&gt;Dear community, to celebrate the 1st listing of the DSLA token, and bring further liquidity to our DSLA/ETH market, we are proud to organize a DSLA trading competition and enable the 50 best DSLA traders on the P2PB2B cryptocurrency exchange to win more than 5,000,000.00 DSLA in prizes!&lt;/p&gt;
+
+&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rank&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt; Winning Prize&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;#1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,000,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;1st Place in Trading Volume&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;#2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;500,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;2nd Place in Trading Volume&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;#3&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;200,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;3rd Place in Trading Volume&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;#4 to #10&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;100,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;4th to 10th Place in Trading Volume&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;#11 to #50&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;40,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;11th to 50th Place in Trading Volume&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Extra&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,000,000.00 DSLA&lt;/td&gt;
+      &lt;td&gt;* Referral Champion*&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;The contest will run from &lt;strong&gt;August 3rd, 2019 to November 3rd, 2019 23:59 (CET)&lt;/strong&gt;.&lt;br /&gt;
+Dates are subject to change as we are still finalization preparation with P2PB2B.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-requirements&quot;&gt;General Requirements&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;All participants must meet the following requirements to be eligible for a prize&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Participant must hold at least &lt;strong&gt;50K DSLA&lt;/strong&gt; from the beginning to end of competition&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Participant’s total &lt;strong&gt;DSLA BUY&lt;/strong&gt; volume must exceed &lt;strong&gt;50K DSLA&lt;/strong&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Participant must be verified on the P2PB2B cryptocurrency exchange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please note that &lt;strong&gt;wash trading is strictly forbidden&lt;/strong&gt; (perpetrators will be instantly disqualified).&lt;/p&gt;
+
+&lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
+
+&lt;p&gt;The official registration page to the DSLA trading competition will be available shortly.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, if you don’t have a P2PB2B account yet, we advise you to &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;register to P2PB2B as soon as possible&lt;/a&gt;&lt;/strong&gt; and complete verification to be eligible for the competition.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/contest/trading/2019/08/02/stacktical-dsla-trading-competition-p2pb2b.html</link>
+        <guid isPermaLink="true">http://localhost:4000/contest/trading/2019/08/02/stacktical-dsla-trading-competition-p2pb2b.html</guid>
+        
+        
+        <category>contest</category>
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>DSLA/ETH debuts trading on P2PB2B</title>
@@ -995,252 +1079,6 @@ Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Priv
         <pubDate>Mon, 17 Jun 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/reporting/2019/06/17/weekly-status-update-june-10-june-16.html</link>
         <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/17/weekly-status-update-june-10-june-16.html</guid>
-        
-        
-        <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Weekly Status Update: June 3rd, 2019 - June 9th, 2019</title>
-        <description>&lt;h1 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h1&gt;
-
-&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
-
-&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Initially used as the platform destination, &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;&lt;/strong&gt; will soon host our new corporate website.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Released&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;We’ve finished deploying our new blogging system (you’re here!) and are currently proceeding the migrations of our posts.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;From now on, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com&quot;&gt;https://blog.stacktical.com&lt;/a&gt;&lt;/strong&gt; will be the main destination for our publications.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;50%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Product Management team is experimenting with ways to collect feedbacks about the upcoming Stacktical Platform.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;After diving into a first Oracle integration, we have decided to pursue our experiments using a competing solution.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
-
-&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are exprimenting with new audio and video format.&lt;/li&gt;
-  &lt;li&gt;We have started designing a new contest in preparation with the upcoming listing of the DSLA token.&lt;/li&gt;
-  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2 years and a new blog&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/company/2019/06/10/a-new-blog-for-stacktical.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have discussed co-marketing opportunities with our close partners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have started validating DSLA Network Platform Access plans with our close partners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have closed a new deal with a lead in the media industry. 50% of media companies requiring 99.999% uptime SLA from their cloud service provider.&lt;br /&gt;
-This collaboration will be the opportunity to further explore the needs of this vertical.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Our commercial presentation has been updated following our discussion with a top 20 cryptocurrency exchange.
-This new deck will serve as a basis for further business development efforts with exchanges and financial services.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;partnerships&quot;&gt;Partnerships&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have signed a new partnership with a fellow blockchain company to empower new Decentralized SLA use cases.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will make sure to make a proper announcement in due time.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
-
-&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;0 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;33% (1/3)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA ROI since ICO&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;N/A&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have reached a pre-agreement with a centralized cryptocurrency exchange.&lt;/li&gt;
-  &lt;li&gt;We have approached major DEX platform that we have been experimenting with for the past weeks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We’re hoping that having DSLA also listed on a DEX, along with being listed on centralized exchanges, will provide more options to the community.&lt;/p&gt;
-
-&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In preparation for exchange listing, we plan on burning 1B DSLA tokens.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This will reduce the total supply from 10B to 9B DSLA.&lt;/p&gt;
-
-&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To improve our efficiency in dealing reaching agreements with our stakeholders, the Legal Team has started refactoring the different steps of our legal lifecycle. Our Legal Manager will introduce a series of flow charts describing improved operations.&lt;/li&gt;
-  &lt;li&gt;We have initiated a series of workshop to ensure the General Data Protection Regulation (GDPR) compliance of the upcoming DSLA Network.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2019/06/10/weekly-status-update-june-3-june-9.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/10/weekly-status-update-june-3-june-9.html</guid>
         
         
         <category>reporting</category>
