@@ -25,7 +25,7 @@ Dear community, to celebrate the 1st listing of the DSLA token, and bring furthe
 
 ## Dates
 
-The contest will run from **August 3rd, 2019 to November 3rd, 2019 23:59 (CET)**.  
+The contest will run from **August 5th, 2019 to September 30th, 2019 23:59 (CET)**.  
 Dates are subject to change as we are still finalization preparation with P2PB2B.
 
 ## General Requirements
@@ -40,6 +40,4 @@ Please note that **wash trading is strictly forbidden** (perpetrators will be in
 
 ## Registration
 
-The official registration page to the DSLA trading competition will be available shortly.  
-
-In the mean time, if you don't have a P2PB2B account yet, we advise you to **[register to P2PB2B as soon as possible](https://p2pb2b.io/trade/DSLA_ETH)** and complete verification to be eligible for the competition.
+Please **[go to this website](http://bit.ly/DSLA_ETH)** to register to the DSLA Trading Competition.

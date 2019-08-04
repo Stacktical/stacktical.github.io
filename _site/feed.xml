@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Aug 2019 04:27:03 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Aug 2019 04:27:03 +0200</lastBuildDate>
+    <pubDate>Sun, 04 Aug 2019 23:03:00 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Aug 2019 23:03:00 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -61,7 +61,7 @@
 
 &lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
 
-&lt;p&gt;The contest will run from &lt;strong&gt;August 3rd, 2019 to November 3rd, 2019 23:59 (CET)&lt;/strong&gt;.&lt;br /&gt;
+&lt;p&gt;The contest will run from &lt;strong&gt;August 5th, 2019 to September 30th, 2019 23:59 (CET)&lt;/strong&gt;.&lt;br /&gt;
 Dates are subject to change as we are still finalization preparation with P2PB2B.&lt;/p&gt;
 
 &lt;h2 id=&quot;general-requirements&quot;&gt;General Requirements&lt;/h2&gt;
@@ -78,9 +78,7 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
 
 &lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
 
-&lt;p&gt;The official registration page to the DSLA trading competition will be available shortly.&lt;/p&gt;
-
-&lt;p&gt;In the mean time, if you don’t have a P2PB2B account yet, we advise you to &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;register to P2PB2B as soon as possible&lt;/a&gt;&lt;/strong&gt; and complete verification to be eligible for the competition.&lt;/p&gt;
+&lt;p&gt;Please &lt;strong&gt;&lt;a href=&quot;http://bit.ly/DSLA_ETH&quot;&gt;go to this website&lt;/a&gt;&lt;/strong&gt; to register to the DSLA Trading Competition.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/contest/trading/2019/08/02/stacktical-dsla-trading-competition-p2pb2b.html</link>
