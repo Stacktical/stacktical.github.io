@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA/ETH debuts trading on P2PB2B"
 author: Team
 categories: [ reporting, trading ]

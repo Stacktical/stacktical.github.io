@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting, trading ]

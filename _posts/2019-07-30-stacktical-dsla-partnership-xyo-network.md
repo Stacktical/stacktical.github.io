@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "New Partnership Announcement — Stacktical (DSLA) x XYO Network (XYO)"
 author: Team
 categories: [ partnership, press ]
