@@ -4,7 +4,7 @@ featured: true
 title:  "DSLA.eth ENS Domain Name Acquired"
 author: Team
 categories: [ blockchain, ethereum ]
-image: assets/img/2019-09-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
+image: assets/img/2019-08-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
 ---
 
 # Stacktical secures the `DSLA.eth` ENS domain name

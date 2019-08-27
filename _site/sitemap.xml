@@ -49,6 +49,10 @@
 <lastmod>2019-08-02T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blockchain/ethereum/2019/08/23/dsla-dot-eth-secured-ens-ethereum-name-service.html</loc>
+<lastmod>2019-08-23T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -85,6 +89,15 @@
 <loc>http://localhost:4000/category/contest/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/blockchain/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/ethereum/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 </urlset>

@@ -5,9 +5,49 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Aug 2019 23:03:00 +0200</pubDate>
-    <lastBuildDate>Sun, 04 Aug 2019 23:03:00 +0200</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 22:23:13 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 22:23:13 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA.eth ENS Domain Name Acquired</title>
+        <description>&lt;h1 id=&quot;stacktical-secures-the-dslaeth-ens-domain-name&quot;&gt;Stacktical secures the &lt;code class=&quot;highlighter-rouge&quot;&gt;DSLA.eth&lt;/code&gt; ENS domain name&lt;/h1&gt;
+
+&lt;p&gt;Today the Stacktical team has been successfully granted the 4 characters &lt;code class=&quot;highlighter-rouge&quot;&gt;DSLA.eth&lt;/code&gt; short domain name after a review conducted by the Ethereum Name Service (ENS) Team conducted during the official ENS &lt;a href=&quot;https://medium.com/the-ethereum-name-service/announcing-the-ens-3-6-character-eth-name-reservation-process-7f3cc4d13f65&quot;&gt;Short Name Reservation Process&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our team is glad to own ` DSLA.eth` and is looking forward to enriching the experience of the Stacktical community and the capabilities of the &lt;a href=&quot;https://dsla.network&quot;&gt;Stacktical Platform&lt;/a&gt; with cryptography-verified URLs and web proterties that everybody can trust .&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-ethereum-name-service-ens&quot;&gt;About the Ethereum Name Service (ENS)&lt;/h2&gt;
+
+&lt;p&gt;ENS is the domain name system that is built on top of the Ethereum Blockchain Network.&lt;/p&gt;
+
+&lt;p&gt;As you might know, Internet is made of protocols that allow individuals to access online ressource using IP addresses,like &lt;code class=&quot;highlighter-rouge&quot;&gt;165.42.13.37&lt;/code&gt;. The purpose of a domain name system is to replace such sequence of numbers with something that is easier to read, remember and use, like &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;stacktical.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In that spirit,  &lt;strong&gt;the Ethereum Name Service eliminates the need to read, remember and use 42 characters long addresses&lt;/strong&gt;, like &lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;, to access decentralized resources, send cryptocurrencies and interact with DApps.&lt;/p&gt;
+
+&lt;p&gt;You can already expect ` DSLA.eth` to provide effortless access to our token smart contract.
+ENS addresses are already supported by multiple mobile and desktop cryptocurrency wallets, and some online services like popular cryptocurrency exchange Bitfinex.&lt;/p&gt;
+
+&lt;h2 id=&quot;time-for-a-better-safer-fairer-web&quot;&gt;Time for a better, safer, fairer Web&lt;/h2&gt;
+
+&lt;p&gt;ENS is not just the name service for Ethereum, it is an important piece of the Web 3.0 infrastructure that paves the way to a better, more decentralized Internet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ENS offers a secure &amp;amp; decentralised way to address resources both on and off the blockchain using simple, human-readable names.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nick Johnson and the rest of the ENS Team are continuously improving the ENS service, allowing domains to be transfered easily as tokens and be traded on cryptocurrency exchanges. We’re always excited for their new developements, such as the &lt;a href=&quot;https://medium.com/the-ethereum-name-service/ens-now-supports-tor-onion-address-resolution-9bb3bdff6217&quot;&gt;recently introduced ability to handle Tor .onion addresses&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Aug 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blockchain/ethereum/2019/08/23/dsla-dot-eth-secured-ens-ethereum-name-service.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blockchain/ethereum/2019/08/23/dsla-dot-eth-secured-ens-ethereum-name-service.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>ethereum</category>
+        
+      </item>
     
       <item>
         <title>DSLA Trading Competition</title>
@@ -835,248 +875,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</link>
         <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</guid>
-        
-        
-        <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Weekly Status Update: June 9th, 2019 - June 16th, 2019</title>
-        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h2&gt;
-
-&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
-
-&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;10%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;10%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The specifications of our new corporate website are nearly complete.&lt;/li&gt;
-  &lt;li&gt;We are getting started with developments.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Released&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;No new developments for the Stacktical Blog this week.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This post is a good example of the (creative) freedom provided be our own blog.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;85%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;10%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The scope of our next iteration has been defined.&lt;/li&gt;
-  &lt;li&gt;The Product, Tech and Legal teams attended a series of workshop about Privacy by Design.&lt;br /&gt;
-Please refer to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Legal / Privacy Policy&lt;/code&gt; of this post for details.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Learn more about our agile development methodology &lt;a href=&quot;https://www.agilealliance.org/glossary/scrum/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'scrum))~searchTerm~'~sort~false~sortDirection~'asc~page~1)&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The DSLA Network infrastructure will be ready soon.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
-
-&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have started experimenting with a new Weekly Status Update format.&lt;/li&gt;
-  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Weekly Status Update: June 3rd, 2019 - June 9th, 2019&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/10/weekly-status-update-june-3-june-9.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are experimenting with text-to-speech technologies for our audio production pipeline.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have started validating our Referral Partner Program initiative with our close partners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have started validating DSLA Network listing fees with our close partners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have started refactoring our sales pipeline in preparation for our upcoming pipeline development activities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are preparing a series of new commercial presentation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
-
-&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;33% (1/3)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have reached a new pre-agreement with a centralized cryptocurrency exchange.&lt;/li&gt;
-  &lt;li&gt;We have reached a new pre-agreement with a decentralized cryptocurrency exchange.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are still actively pursueing opportunities with both decentralized (D) and centralized (X) exchanges.&lt;/p&gt;
-
-&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In preparation for exchange listing, we plan on burning 1B DSLA tokens.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This will reduce the total supply from 10B to 9B DSLA.&lt;/p&gt;
-
-&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How do you enforce the right to be forgotten in an immutable environment?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It appears that an Ethereum wallet address can be a Personal Data as per GDPR’s definitions. From the management of user consent to enforcing the right to be forgotten, the Stacktical Legal Team has led a series of workshop to ensure that the DSLA Network Platform that we are building complies with privacy and personal data custody practices.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 17 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2019/06/17/weekly-status-update-june-10-june-16.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/17/weekly-status-update-june-10-june-16.html</guid>
         
         
         <category>reporting</category>
