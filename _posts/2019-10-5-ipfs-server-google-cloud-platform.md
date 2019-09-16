@@ -7,25 +7,80 @@ categories: [ blockchain, ethereum ]
 image: assets/img/2019-08-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
 ---
 
-# Host a IPFS node on Google Cloud Platform in 3 Steps
-# The definite guide to protected IPFS code in the Cloud
+# The definite guide to your own IPFS Gateway in the Cloud
 
-## Storage layer
+So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strenghening the network? You are at the right place! I compiled the essential bits so you can get this done quickly.
 
+What's IPFS? The Interplanetary File System is exacly what the name says, a distributed file system to replace the centralised HTTP Web that we know.
 
-Add to fstab:
+This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight json payload).
+We limited the domain that access our node with CORS and used an nginx encrypted proxy to handle HTTPS connections to IPFS.
+
+Turnkeys solutions like infura's IPFS Gateway and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't really provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5)).
+
+This article will cover:
+
+* The complete Setup of a The server to run our IPFS node on
+* How to make you node available for your App or Dapp
+* Some example of adding and accessing the data in your shiny IPFS Node
+
+## IPFS Server setup
+
+We are leveraging GCP so this article will cover setup on a compute instance type `n1-standard-1` with Debian OS but it's pretty much straightforward on other Cloud vendors and Linux Oses.
+Here we create and instance with `http` and `https` allowed in the firewall section.
+
+++IMAGE++
+
+Or with the GCP SDK:
+
 ```
-UUID=aefaa284-e247-4c81-a9c6-1493b4aa4e9b /mnt/disks/ipfs ext4 discard,defaults,nofail 0 2
+gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server
 ```
 
+
+### Storage layer
+
+Our Node Storage need will most likely grow in size, so it's better to give our node a dedicated Volume for [flexibility](https://medium.com/google-cloud/resize-your-persist-disk-on-google-cloud-on-the-fly-b3491277b718) and extra persistency:
+
+Add a persistent disk to your [IPFS Node instance](https://cloud.google.com/compute/docs/disks/add-persistent-disk) and [mount it](https://cloud.google.com/compute/docs/disks/add-persistent-disk#formatting).
+
+
+That's how our node fstab entry looked like:
+
 ```
-echo 'export IPFS_PATH=/data/ipfs' >>~/.bash_profile
+UUID=[DISK_UUID] /mnt/disks/[MNT_DIR] ext4 discard,defaults,nofail 0 2
+```
+Where:
+* [DISK_UUID] is the Disk Unique Id obtained with the `blkid` command.
+* [MNT_DIR] is the directory where the ipfs volume will be mounted, `/mnt/disk/ipfs-disk/` in our case.
+
+Set the Volume location for IPFS to make use of it:
+```
+echo 'export IPFS_PATH=/mnt/disk/ipfs-disk/ipfs' >>~/.bash_profile
 source ~/.bash_profile
 sudo chown -R  ubuntu:ubuntu $IPFS_PATH/*
+mkdir $IPFS_PATH/ipfs
 ```
+You may change the user of the `chown` command to yourself of a newly created one for ipfs (here ubuntu as an example).
+
+### Install IPFS
+
+This is where the fun begins, the installation of IPFS is quite straighforward.
+We use `ipfs-update` tool to install and update IPFS easily:
 
 ```
-silversurfer@influxdb-dsla-vm:~/influxdb/influxdb-fetcher$ sudo ipfs-update install v0.4.22
+cd ~/
+wget https://dist.ipfs.io/ipfs-update/v1.5.2/ipfs-update_v1.5.2_linux-amd64.tar.gz
+tar xvfz ipfs-update_v1.5.2_linux-amd64.tar.gz
+cd ipfs-update
+sudo ./install.sh
+ipfs-update versions
+ipfs-update install latest
+```
+Running `ipfs-update install latest` will automatically install the latest release of IPFS or an upgrade:
+
+```
+$ sudo ipfs-update install v0.4.22
 fetching go-ipfs version v0.4.22
 binary downloaded, verifying...
 success! tests all passed.
@@ -37,9 +92,15 @@ Installation complete!
 Remember to restart your daemon before continuing
 ```
 
-We can now automate the IPFS daemon management with 
+Now we have to initialize IPFS Server with `ipfs init --profile server` (making sure IPFS_PATH is properly set) to generate the repo and its configuration file.
+We will have to edit that configuration file to turn the install into a proper IPFS Server.
+You can already check the content of that configuration file in `$IPFS_PATH/ipfs/config`
 
-Create 
+#### IPFS Service setup
+
+We can now automate the IPFS daemon management with Systemd or [supervisord](http://supervisord.org/)
+
+Create the following systemd to persist the lunch of IPFS Server accross reboots:
 ```
 sudo bash -c 'cat >/lib/systemd/system/ipfs.service <<EOL
 [Unit]
@@ -57,38 +118,95 @@ Environment="IPFS_PATH=/mnt/disks/ipfs/ipfs_data/"
 WantedBy=multi-user.target
 EOL'
 ```
+We can now enable that service to start upon reboots:
+
 ```
 $ sudo systemctl daemon-reload
 $ sudo systemctl enable ipfs
 $ sudo systemctl start ipfs
 ```
 
-## About the Ethereum Name Service (ENS)
+## IPFS Gateway setup
 
+Configure CORS on IPFS
 
-## Hardening
+```
+ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin '["<your domain or all (*)>"]'
+ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '["PUT", "GET", "POST"]'
+```
 
-we strongly recommend enabling unattended upgrades on your server
+And confirm/edit the content on the API section of the configuration file:
 
-## Welcome to the Decentralized Web
+```
+"HTTPHeaders": {
+   "Access-Control-Allow-Headers": [
+      "X-Requested-With",
+      "Access-Control-Expose-Headers",
+      "Range"
+   ],   "Access-Control-Expose-Headers": [
+      "Location",
+      "Ipfs-Hash"
+   ],   "Access-Control-Allow-Methods": [
+      "POST",
+      "GET"
+   ],   "Access-Control-Allow-Origin": [
+      "<your_domain or all (*)>"
+   ],   "X-Special-Header": [
+      "Access-Control-Expose-Headers: Ipfs-Hash"
+   ]
+},"RootRedirect": "",
+"Writable": true,
+"PathPrefixes": [],
+"APICommands": []
+```
+Note: If you want to accept all domains accessing your endpoint set the Acess Control Allow Origin to `*`, otherwise specify the domain(s) you want to restrict the access to.
 
+We can now restart the IPFS service to apply the changes:
 
-## Secure your IPFS server
+`sudo systemctl restart ipfs`
+
+### Test
+
+#### Test connectivity and CORS
+
+```
+curl -v -H "Origin: http://<wrong or right domains>" \
+-H "Access-Control-Request-Method: POST" \
+-H "Access-Control-Request-Headers: X-Requested-With" \
+http://0.0.0.0:5001/api/v0/swarm/peers
+```
+
+You can test the non/working reachability from different domains according to your CORS restrictions
+
+## NGINX Proxy Setup
+
+A NGINX installation as a proxy pass will enable us to store data with POST methods to `https://<your ipfs domain>/api/v0/add` and fetch them with GET method to`https://<your ipfs domain>/ipfs`
+
+First let's install nginx. on Debian Based distributions:
+
+```
+sudo apt update
+sudo apt install -y nginx
+sudo systemctl status nginx
+```
 
 ### Install Certbot
 
+By following the instructions on the Certbot 
 `https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html`
 
+This will have our nginx configuration file ready for us to add the final touches.
+The end result should be a file with location sections for `/api/v0/add`, `ipfs` and `/` to deny all other traffic:
 
 ```
 server {
-    server_name ipfs.dsla.network; # managed by Certbot
+    server_name <your ipfs domain name>; # managed by Certbot
 
     location /api/v0/add {
-            proxy_pass http://localhost:5001;
-            proxy_set_header Host $host;
-            proxy_cache_bypass $http_upgrade;
-            allow all;
+        proxy_pass http://localhost:5001;
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+        allow all;
     }
 
     location /ipfs {
@@ -99,10 +217,10 @@ server {
     }
 
     location / {
-            proxy_pass http://localhost:5001;
-            proxy_set_header Host $host;
-            proxy_cache_bypass $http_upgrade;
-            deny all;
+        proxy_pass http://localhost:5001;
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+        deny all;
     }
 
 
@@ -116,14 +234,14 @@ server {
 }
 
 server {
-    if ($host = ipfs.dsla.network) {
+    if ($host = <your ipfs domain name>) {
         return 301 https://$host$request_uri;
     } # managed by Certbot
 
 
         listen 80 ;
         listen [::]:80 ;
-    server_name ipfs.dsla.network;
+    server_name <your ipfs demain name>;
     return 404; # managed by Certbot
 }
 ```
@@ -133,5 +251,16 @@ We can now restart the nginx server:
 sudo systemctl restart nginx
 ```
 
-And try our `add` endpoint:
+## Hardening
+
+We strongly recommend enabling [unattended upgrades](https://libre-software.net/ubuntu-automatic-updates/) on your server and monitor the size of your IPFS Volume. You may have to grow it in size depending on your usage.
+
+### Final notes
+
+Private IPFS Network are an interestging way to answer the scalability of the IPFS network:
+Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you.
+
+That's it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork! Reach out to us if you want to be part of it!
+
+We hpe this guide will help other project who are using IPFS. Don't hesitate to give us a shoot if this article was useful to you at: t.me/stacktical
 
