@@ -1,42 +1,42 @@
 ---
 layout: post
 featured: true
-title:  "DSLA.eth ENS Domain Name Acquired"
+title:  "The definite guide to your high performance IPFS Gateway"
 author: Team
-categories: [ blockchain, ethereum ]
+categories: [ ipfs, gateway, dapp ]
 image: assets/img/2019-08-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
 ---
 
-# The definite guide to your own IPFS Gateway in the Cloud
+# The definite guide to your high performance IPFS Gateway
 
 So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strenghening the network? You are at the right place! I compiled the essential bits so you can get this done quickly.
 
-What's IPFS? The Interplanetary File System is exacly what the name says, a distributed file system to replace the centralised HTTP Web that we know.
+What's IPFS?
+The Interplanetary File System is exacly what the name says, a distributed file system to replace the centralised HTTP Web that we know.
 
 This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight json payload).
 We limited the domain that access our node with CORS and used an nginx encrypted proxy to handle HTTPS connections to IPFS.
 
-Turnkeys solutions like infura's IPFS Gateway and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't really provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5)).
+Turnkeys solutions like infura's IPFS Gateway and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't really provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5).
 
 This article will cover:
 
-* The complete Setup of a The server to run our IPFS node on
-* How to make you node available for your App or Dapp
+* The complete setup of a The server to run our IPFS node in the Cloud
+* How to make your node securely available for your (D)app
 * Some example of adding and accessing the data in your shiny IPFS Node
 
 ## IPFS Server setup
 
 We are leveraging GCP so this article will cover setup on a compute instance type `n1-standard-1` with Debian OS but it's pretty much straightforward on other Cloud vendors and Linux Oses.
-Here we create and instance with `http` and `https` allowed in the firewall section.
+Here we create and instance with `http` and `https` allowed in the firewall section (We will have a http -> https redirect).
 
-++IMAGE++
+![google cloud new instance](/assets/img/2019-10-05-google-cloud-ipfs-server.jpg){:width="75%" }
 
 Or with the GCP SDK:
 
 ```
 gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server
 ```
-
 
 ### Storage layer
 
@@ -77,7 +77,7 @@ sudo ./install.sh
 ipfs-update versions
 ipfs-update install latest
 ```
-Running `ipfs-update install latest` will automatically install the latest release of IPFS or an upgrade:
+Running `ipfs-update install latest` will automatically install the latest release of IPFS or upgrade an previous installation like this:
 
 ```
 $ sudo ipfs-update install v0.4.22
@@ -109,10 +109,10 @@ After=network.target
 
 [Service]
 ExecStart=/usr/local/bin/ipfs daemon
-User=ipfs
+User=ubuntu
 Restart=always
 LimitNOFILE=10240
-Environment="IPFS_PATH=/mnt/disks/ipfs/ipfs_data/"
+Environment="IPFS_PATH=/mnt/disks/ipfs-disk/ipfs"
 
 [Install]
 WantedBy=multi-user.target
@@ -245,22 +245,22 @@ server {
     return 404; # managed by Certbot
 }
 ```
-
+{% gist fe08d3659250e89a63aba314e1067a76 %}
 We can now restart the nginx server:
+
 ```
 sudo systemctl restart nginx
 ```
-
 ## Hardening
 
 We strongly recommend enabling [unattended upgrades](https://libre-software.net/ubuntu-automatic-updates/) on your server and monitor the size of your IPFS Volume. You may have to grow it in size depending on your usage.
 
 ### Final notes
 
-Private IPFS Network are an interestging way to answer the scalability of the IPFS network:
-Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you.
+Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by [the folks at Pinata](https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d)
 
-That's it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork! Reach out to us if you want to be part of it!
+Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you. Reach out to us if you want to be part of it!
 
-We hpe this guide will help other project who are using IPFS. Don't hesitate to give us a shoot if this article was useful to you at: t.me/stacktical
+That's it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork!
 
+We hope this guide will help other project who are using IPFS. Don't hesitate to give us a shoot if this article was useful to you at: t.me/stacktical
