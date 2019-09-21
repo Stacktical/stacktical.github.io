@@ -5,9 +5,375 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2019 13:57:37 +0200</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2019 13:57:37 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 16:28:52 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 16:28:52 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>The definite guide to your high-performance IPFS Gateway</title>
+        <description>&lt;h1 id=&quot;the-definite-guide-to-your-high-performance-ipfs-gateway&quot;&gt;The definite guide to your high-performance IPFS Gateway&lt;/h1&gt;
+
+&lt;p&gt;So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strengthening the network? You are at the right place!
+I compiled the essential bits so you can get this done quickly.&lt;/p&gt;
+
+&lt;p&gt;What’s IPFS?
+The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.&lt;/p&gt;
+
+&lt;p&gt;This is how Stacktical’s IPFS server is used to our own &lt;a href=&quot;https://dsla.network&quot;&gt;platform’s&lt;/a&gt; needs (15s faster &lt;code class=&quot;highlighter-rouge&quot;&gt;add&lt;/code&gt; operations for a lightweight JSON payload).
+We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.&lt;/p&gt;
+
+&lt;p&gt;Turnkey solutions like &lt;a href=&quot;https://infura.io&quot;&gt;Infura’s IPFS Gateway&lt;/a&gt; and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don’t provide the &lt;a href=&quot;https://status.infura.io/incidents/mdh6tjbt8gt5&quot;&gt;performance and reliability you need for your (D)app&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This article will cover:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The complete setup of a Cloud instance to run our IPFS node&lt;/li&gt;
+  &lt;li&gt;How to make your node securely available for your (D)app&lt;/li&gt;
+  &lt;li&gt;Some example of adding and accessing the data in your shiny IPFS Node&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ipfs-server-setup&quot;&gt;IPFS Server setup&lt;/h2&gt;
+
+&lt;p&gt;We are leveraging Google Cloud Platform so this article will cover setup on a compute instance type &lt;code class=&quot;highlighter-rouge&quot;&gt;n1-standard-1&lt;/code&gt; with Debian OS but it’s pretty much straightforward on other Cloud vendors and Linux Oses.
+Here we create an instance with HTTP and HTTPS allowed in the firewall section (We will have an HTTP -&amp;gt; HTTPS redirect).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-21-google-cloud-ipfs-server.jpg&quot; alt=&quot;google cloud new instance&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or with the GCP SDK:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;storage-layer&quot;&gt;Storage layer&lt;/h3&gt;
+
+&lt;p&gt;Our Node Storage need will most likely grow in size, so it’s better to give our node a dedicated Volume for &lt;a href=&quot;https://medium.com/google-cloud/resize-your-persist-disk-on-google-cloud-on-the-fly-b3491277b718&quot;&gt;flexibility&lt;/a&gt; and extra persistency:&lt;/p&gt;
+
+&lt;p&gt;Add a persistent disk to your &lt;a href=&quot;https://cloud.google.com/compute/docs/disks/add-persistent-disk&quot;&gt;IPFS Node instance&lt;/a&gt; and &lt;a href=&quot;https://cloud.google.com/compute/docs/disks/add-persistent-disk#formatting&quot;&gt;mount it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;That’s how our node fstab entry looked like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;UUID=[DISK_UUID] /mnt/disks/[MNT_DIR] ext4 discard,defaults,nofail 0 2&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;[DISK_UUID] is the Disk Unique Id obtained with the &lt;code class=&quot;highlighter-rouge&quot;&gt;blkid&lt;/code&gt; command.&lt;/li&gt;
+  &lt;li&gt;[MNT_DIR] is the directory where the ipfs volume will be mounted, &lt;code class=&quot;highlighter-rouge&quot;&gt;/mnt/disk/ipfs-disk/&lt;/code&gt; in our case.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Set the Volume location for IPFS to make use of it:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;echo 'export IPFS_PATH=/mnt/disk/ipfs-disk/ipfs' &amp;gt;&amp;gt;~/.bash_profile
+source ~/.bash_profile
+sudo chown -R  ubuntu:ubuntu $IPFS_PATH/*
+mkdir $IPFS_PATH/ipfs
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;You may change the user of the &lt;code class=&quot;highlighter-rouge&quot;&gt;chown&lt;/code&gt; command to yourself of a newly created one for ipfs (here ubuntu as an example).&lt;/p&gt;
+
+&lt;h3 id=&quot;install-ipfs&quot;&gt;Install IPFS&lt;/h3&gt;
+
+&lt;p&gt;This is where the fun begins, the installation of IPFS is quite straightforward.
+We use &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs-update&lt;/code&gt; tool to install and update IPFS easily:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;cd ~/
+wget https://dist.ipfs.io/ipfs-update/v1.5.2/ipfs-update_v1.5.2_linux-amd64.tar.gz
+tar xvfz ipfs-update_v1.5.2_linux-amd64.tar.gz
+cd ipfs-update
+sudo ./install.sh
+ipfs-update versions
+ipfs-update install latest
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Running &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs-update install latest&lt;/code&gt; will automatically install the latest release of IPFS or upgrade a previous installation like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;$ sudo ipfs-update install v0.4.22
+fetching go-ipfs version v0.4.22
+binary downloaded, verifying...
+success! tests all passed.
+stashing old binary
+installing new binary to /usr/local/bin/ipfs
+checking if repo migration is needed...
+
+Installation complete!
+Remember to restart your daemon before continuing
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we have to initialize IPFS Server with &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs init --profile server&lt;/code&gt; (making sure IPFS_PATH is properly set) to generate the repo and its configuration file.
+We will have to edit that configuration file to turn the install into a proper IPFS Server.
+You can already check the content of that configuration file in &lt;code class=&quot;highlighter-rouge&quot;&gt;$IPFS_PATH/ipfs/config&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ipfs-service-setup&quot;&gt;IPFS Service setup&lt;/h4&gt;
+
+&lt;p&gt;We can now automate the IPFS daemon management with Systemd or &lt;a href=&quot;http://supervisord.org/&quot;&gt;supervisord&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Create the following systemd to persist the lunch of IPFS Server across reboots:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;sudo bash -c 'cat &amp;gt;/lib/systemd/system/ipfs.service &amp;lt;&amp;lt;EOL
+[Unit]
+Description=IPFS Daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/ipfs daemon
+User=ubuntu
+Restart=always
+LimitNOFILE=10240
+Environment=&quot;IPFS_PATH=/mnt/disks/ipfs-disk/ipfs&quot;
+
+[Install]
+WantedBy=multi-user.target
+EOL'
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;We can now enable that service to start upon reboots:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;$ sudo systemctl daemon-reload
+$ sudo systemctl enable ipfs
+$ sudo systemctl start ipfs
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;ipfs-gateway-setup&quot;&gt;IPFS Gateway setup&lt;/h2&gt;
+
+&lt;p&gt;Configure CORS on IPFS&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin '[&quot;&amp;lt;your domain or all (*)&amp;gt;&quot;]'
+ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '[&quot;PUT&quot;, &quot;GET&quot;, &quot;POST&quot;]'
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And confirm/edit the content on the API section of the configuration file:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&quot;HTTPHeaders&quot;: {
+   &quot;Access-Control-Allow-Headers&quot;: [
+      &quot;X-Requested-With&quot;,
+      &quot;Access-Control-Expose-Headers&quot;,
+      &quot;Range&quot;
+   ],   &quot;Access-Control-Expose-Headers&quot;: [
+      &quot;Location&quot;,
+      &quot;Ipfs-Hash&quot;
+   ],   &quot;Access-Control-Allow-Methods&quot;: [
+      &quot;POST&quot;,
+      &quot;GET&quot;
+   ],   &quot;Access-Control-Allow-Origin&quot;: [
+      &quot;&amp;lt;your_domain or all (*)&amp;gt;&quot;
+   ],   &quot;X-Special-Header&quot;: [
+      &quot;Access-Control-Expose-Headers: Ipfs-Hash&quot;
+   ]
+},&quot;RootRedirect&quot;: &quot;&quot;,
+&quot;Writable&quot;: true,
+&quot;PathPrefixes&quot;: [],
+&quot;APICommands&quot;: []
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Note: If you want to accept all domains accessing your endpoint set the Acess Control Allow Origin to &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, otherwise specify the domain(s) you want to restrict the access to.&lt;/p&gt;
+
+&lt;p&gt;We can now restart the IPFS service to apply the changes:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo systemctl restart ipfs&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;test&quot;&gt;Test&lt;/h3&gt;
+
+&lt;h4 id=&quot;test-connectivity-and-cors&quot;&gt;Test connectivity and CORS&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;curl -v -H &quot;Origin: http://&amp;lt;wrong or right domains&amp;gt;&quot; \
+-H &quot;Access-Control-Request-Method: POST&quot; \
+-H &quot;Access-Control-Request-Headers: X-Requested-With&quot; \
+http://0.0.0.0:5001/api/v0/swarm/peers
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can test the non/working reachability from different domains according to your CORS restrictions&lt;/p&gt;
+
+&lt;h2 id=&quot;nginx-proxy-setup&quot;&gt;NGINX Proxy Setup&lt;/h2&gt;
+
+&lt;p&gt;An NGINX installation as a proxy pass will enable us to store data with POST methods to &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&amp;lt;your ipfs domain&amp;gt;/api/v0/add&lt;/code&gt; and fetch them with GET method to&lt;code class=&quot;highlighter-rouge&quot;&gt;https://&amp;lt;your ipfs domain&amp;gt;/ipfs&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;First let’s install nginx. on Debian Based distributions:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;sudo apt update
+sudo apt install -y nginx
+sudo systemctl status nginx
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;install-certbot&quot;&gt;Install Certbot&lt;/h3&gt;
+
+&lt;p&gt;By following the instructions on the Certbot 
+&lt;code class=&quot;highlighter-rouge&quot;&gt;https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This will have our nginx configuration file ready for us to add the final touches.
+The end result should be a file with location sections for &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/v0/add&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; to deny all other traffic:&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta http-equiv=&amp;quot;Content-type&amp;quot; content=&amp;quot;text/html; charset=utf-8&amp;quot;&amp;gt;
+    &amp;lt;meta http-equiv=&amp;quot;Content-Security-Policy&amp;quot; content=&amp;quot;default-src &amp;#39;none&amp;#39;; style-src &amp;#39;unsafe-inline&amp;#39;; img-src data:; connect-src &amp;#39;self&amp;#39;&amp;quot;&amp;gt;
+    &amp;lt;title&amp;gt;Site not found &amp;amp;middot; GitHub Pages&amp;lt;/title&amp;gt;
+    &amp;lt;style type=&amp;quot;text/css&amp;quot; media=&amp;quot;screen&amp;quot;&amp;gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+
+    &amp;lt;/style&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+
+    &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+
+      &amp;lt;h1&amp;gt;404&amp;lt;/h1&amp;gt;
+      &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;There isn&amp;#39;t a GitHub Pages site here.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+      &amp;lt;p&amp;gt;
+        If you&amp;#39;re trying to publish one,
+        &amp;lt;a href=&amp;quot;https://help.github.com/pages/&amp;quot;&amp;gt;read the full documentation&amp;lt;/a&amp;gt;
+        to learn how to set up &amp;lt;strong&amp;gt;GitHub Pages&amp;lt;/strong&amp;gt;
+        for your repository, organization, or user account.
+      &amp;lt;/p&amp;gt;
+
+      &amp;lt;div id=&amp;quot;suggestions&amp;quot;&amp;gt;
+        &amp;lt;a href=&amp;quot;https://githubstatus.com&amp;quot;&amp;gt;GitHub Status&amp;lt;/a&amp;gt; &amp;amp;mdash;
+        &amp;lt;a href=&amp;quot;https://twitter.com/githubstatus&amp;quot;&amp;gt;@githubstatus&amp;lt;/a&amp;gt;
+      &amp;lt;/div&amp;gt;
+
+      &amp;lt;a href=&amp;quot;/&amp;quot; class=&amp;quot;logo logo-img-1x&amp;quot;&amp;gt;
+        &amp;lt;img width=&amp;quot;32&amp;quot; height=&amp;quot;32&amp;quot; title=&amp;quot;&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=&amp;quot;&amp;gt;
+      &amp;lt;/a&amp;gt;
+
+      &amp;lt;a href=&amp;quot;/&amp;quot; class=&amp;quot;logo logo-img-2x&amp;quot;&amp;gt;
+        &amp;lt;img width=&amp;quot;32&amp;quot; height=&amp;quot;32&amp;quot; title=&amp;quot;&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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&amp;quot;&amp;gt;
+      &amp;lt;/a&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/fe08d3659250e89a63aba314e1067a76.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;We can now restart the nginx server:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo systemctl restart nginx&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hardening&quot;&gt;Hardening&lt;/h2&gt;
+
+&lt;p&gt;We strongly recommend enabling &lt;a href=&quot;https://libre-software.net/ubuntu-automatic-updates/&quot;&gt;unattended upgrades&lt;/a&gt; on your server and monitor the size of your IPFS Volume. You may have to grow it in size depending on your usage.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-notes&quot;&gt;Final notes&lt;/h3&gt;
+
+&lt;p&gt;Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by &lt;a href=&quot;https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d&quot;&gt;the folks at Pinata&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you. Reach out to us if you want to be part of it!&lt;/p&gt;
+
+&lt;p&gt;That’s it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork!&lt;/p&gt;
+
+&lt;p&gt;We hope this guide will help other project who are using IPFS. Don’t hesitate to give us a shoot if this article was useful to you at: t.me/stacktical&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Sep 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</guid>
+        
+        
+        <category>ipfs</category>
+        
+        <category>gateway</category>
+        
+        <category>dapp</category>
+        
+      </item>
     
       <item>
         <title>DSLA.eth ENS Domain Name Acquired</title>
@@ -644,240 +1010,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         <category>news</category>
         
         <category>outages</category>
-        
-      </item>
-    
-      <item>
-        <title>Weekly Status Update: June 17th, 2019 - June 23rd, 2019</title>
-        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-last-week&quot;&gt;A quick look at what kept us busy last week&lt;/h2&gt;
-
-&lt;h3 id=&quot;-product--technology&quot;&gt;&lt;i class=&quot;fas fa-file-code&quot;&gt;&lt;/i&gt; Product &amp;amp; Technology&lt;/h3&gt;
-
-&lt;h4 id=&quot;product--stacktical-website&quot;&gt;Product / Stacktical Website&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;50%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;10%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Specifications are complete.&lt;/li&gt;
-  &lt;li&gt;We are halfway through developments.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;product--stacktical-blog&quot;&gt;Product / Stacktical Blog&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Released&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;No new developments for the Stacktical Blog this week.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;product--dsla-network&quot;&gt;Product / DSLA Network&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;90%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;50%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Specifications of our upcoming major release are complete.&lt;/li&gt;
-  &lt;li&gt;We are now confident in our ability to release the DSLA Network Platform within two weeks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;technology--dsla-network&quot;&gt;Technology / DSLA Network&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;80% of the DSLA Network infrastructure has been completed.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We have experienced some unforeseen configuration challenges and our operations have been slightly delayed accordingly. No impact on development.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
-
-&lt;h4 id=&quot;marketing--promotion&quot;&gt;Marketing / Promotion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Weekly Status Update: June 9th, 2019 - June 16th, 2019&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/17/weekly-status-update-june-10-june-16.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are experimenting with text-to-speech technologies for our audio production pipeline.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;marketing--distribution&quot;&gt;Marketing / Distribution&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are getting ready to list the DSLA token information on popular discovery platforms.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;marketing--pricing&quot;&gt;Marketing / Pricing&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DSLA Network listing fees have been validated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will make sure to share our pricing table with the community soon.&lt;/p&gt;
-
-&lt;h4 id=&quot;sales&quot;&gt;Sales&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We are still refactoring our sales pipeline in preparation for our upcoming pipeline development activities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sales--enablement&quot;&gt;Sales / Enablement&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The work continues with a series of new commercial presentation.&lt;/li&gt;
-  &lt;li&gt;We have introduced a new lead scoring approach.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-finance--operations&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance &amp;amp; Operations&lt;/h3&gt;
-
-&lt;h4 id=&quot;finance--cryptocurrency-exchange-listing&quot;&gt;Finance / Cryptocurrency Exchange Listing&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task or Indicator&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Value&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (DEX)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;3 out of 3 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre-agreements (Centralized)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;2 out of 1 objective(s)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing Status&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;33%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Listing ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2019&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have reached our 3/3 objective with DEX pre-agreements.&lt;/li&gt;
-  &lt;li&gt;We have been introduced to two new centralized cryptocurrency exchanges through one of our advisors.&lt;/li&gt;
-  &lt;li&gt;We had a meeting with a European centralized cryptocurrency exchanges through one of our partners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are still actively pursueing opportunities with both decentralized (D) and centralized (X) exchanges.&lt;/p&gt;
-
-&lt;h4 id=&quot;finance--ops&quot;&gt;Finance / Ops&lt;/h4&gt;
-
-&lt;p&gt;1B DSLA tokens have been burnt.&lt;/p&gt;
-
-&lt;p&gt;The total supply has shrinked from 10B to 9B DSLA.&lt;/p&gt;
-
-&lt;h4 id=&quot;legal--ops&quot;&gt;Legal / Ops&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Our Legal Officer will be joining the upcoming DSLA Network iteration to enable developers to ship GDPR-related user stories.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/24/weekly-status-update-june-17-june-23.html</guid>
-        
-        
-        <category>reporting</category>
         
       </item>
     

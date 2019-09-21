@@ -1,42 +1,41 @@
 ---
 layout: post
 featured: true
-title:  "The definite guide to your high performance IPFS Gateway"
+title:  "The definite guide to your high-performance IPFS Gateway"
 author: Team
 categories: [ ipfs, gateway, dapp ]
 image: assets/img/2019-08-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
 ---
 
-# The definite guide to your high performance IPFS Gateway
+# The definite guide to your high-performance IPFS Gateway
 
-So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strenghening the network? You are at the right place! I compiled the essential bits so you can get this done quickly.
+So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strengthening the network? You are at the right place!
+I compiled the essential bits so you can get this done quickly.
 
 What's IPFS?
-The Interplanetary File System is exacly what the name says, a distributed file system to replace the centralised HTTP Web that we know.
+The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.
 
-This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight json payload).
-We limited the domain that access our node with CORS and used an nginx encrypted proxy to handle HTTPS connections to IPFS.
+This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight JSON payload).
+We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.
 
-Turnkeys solutions like infura's IPFS Gateway and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't really provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5).
+Turnkey solutions like [Infura's IPFS Gateway](https://infura.io) and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5).
 
 This article will cover:
 
-* The complete setup of a The server to run our IPFS node in the Cloud
+* The complete setup of a Cloud instance to run our IPFS node
 * How to make your node securely available for your (D)app
 * Some example of adding and accessing the data in your shiny IPFS Node
 
 ## IPFS Server setup
 
-We are leveraging GCP so this article will cover setup on a compute instance type `n1-standard-1` with Debian OS but it's pretty much straightforward on other Cloud vendors and Linux Oses.
-Here we create and instance with `http` and `https` allowed in the firewall section (We will have a http -> https redirect).
+We are leveraging Google Cloud Platform so this article will cover setup on a compute instance type `n1-standard-1` with Debian OS but it's pretty much straightforward on other Cloud vendors and Linux Oses.
+Here we create an instance with HTTP and HTTPS allowed in the firewall section (We will have an HTTP -> HTTPS redirect).
 
-![google cloud new instance](/assets/img/2019-10-05-google-cloud-ipfs-server.jpg){:width="75%" }
+![google cloud new instance](/assets/img/2019-09-21-google-cloud-ipfs-server.jpg){:width="75%" }
 
 Or with the GCP SDK:
 
-```
-gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server
-```
+`gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server`
 
 ### Storage layer
 
@@ -47,9 +46,8 @@ Add a persistent disk to your [IPFS Node instance](https://cloud.google.com/comp
 
 That's how our node fstab entry looked like:
 
-```
-UUID=[DISK_UUID] /mnt/disks/[MNT_DIR] ext4 discard,defaults,nofail 0 2
-```
+`UUID=[DISK_UUID] /mnt/disks/[MNT_DIR] ext4 discard,defaults,nofail 0 2`
+
 Where:
 * [DISK_UUID] is the Disk Unique Id obtained with the `blkid` command.
 * [MNT_DIR] is the directory where the ipfs volume will be mounted, `/mnt/disk/ipfs-disk/` in our case.
@@ -65,7 +63,7 @@ You may change the user of the `chown` command to yourself of a newly created on
 
 ### Install IPFS
 
-This is where the fun begins, the installation of IPFS is quite straighforward.
+This is where the fun begins, the installation of IPFS is quite straightforward.
 We use `ipfs-update` tool to install and update IPFS easily:
 
 ```
@@ -77,7 +75,7 @@ sudo ./install.sh
 ipfs-update versions
 ipfs-update install latest
 ```
-Running `ipfs-update install latest` will automatically install the latest release of IPFS or upgrade an previous installation like this:
+Running `ipfs-update install latest` will automatically install the latest release of IPFS or upgrade a previous installation like this:
 
 ```
 $ sudo ipfs-update install v0.4.22
@@ -100,7 +98,7 @@ You can already check the content of that configuration file in `$IPFS_PATH/ipfs
 
 We can now automate the IPFS daemon management with Systemd or [supervisord](http://supervisord.org/)
 
-Create the following systemd to persist the lunch of IPFS Server accross reboots:
+Create the following systemd to persist the lunch of IPFS Server across reboots:
 ```
 sudo bash -c 'cat >/lib/systemd/system/ipfs.service <<EOL
 [Unit]
@@ -180,7 +178,7 @@ You can test the non/working reachability from different domains according to yo
 
 ## NGINX Proxy Setup
 
-A NGINX installation as a proxy pass will enable us to store data with POST methods to `https://<your ipfs domain>/api/v0/add` and fetch them with GET method to`https://<your ipfs domain>/ipfs`
+An NGINX installation as a proxy pass will enable us to store data with POST methods to `https://<your ipfs domain>/api/v0/add` and fetch them with GET method to`https://<your ipfs domain>/ipfs`
 
 First let's install nginx. on Debian Based distributions:
 
@@ -198,59 +196,12 @@ By following the instructions on the Certbot
 This will have our nginx configuration file ready for us to add the final touches.
 The end result should be a file with location sections for `/api/v0/add`, `ipfs` and `/` to deny all other traffic:
 
-```
-server {
-    server_name <your ipfs domain name>; # managed by Certbot
-
-    location /api/v0/add {
-        proxy_pass http://localhost:5001;
-        proxy_set_header Host $host;
-        proxy_cache_bypass $http_upgrade;
-        allow all;
-    }
-
-    location /ipfs {
-        proxy_pass http://localhost:8080;
-        proxy_set_header Host $host;
-        proxy_cache_bypass $http_upgrade;
-        allow all;
-    }
-
-    location / {
-        proxy_pass http://localhost:5001;
-        proxy_set_header Host $host;
-        proxy_cache_bypass $http_upgrade;
-        deny all;
-    }
-
-
-    listen [::]:443 ssl ipv6only=on; # managed by Certbot
-    listen 443 ssl; # managed by Certbot
-    ssl_certificate /etc/letsencrypt/live/ipfs.dsla.network/fullchain.pem; # managed by Certbot
-    ssl_certificate_key /etc/letsencrypt/live/ipfs.dsla.network/privkey.pem; # managed by Certbot
-    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
-    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
-
-}
-
-server {
-    if ($host = <your ipfs domain name>) {
-        return 301 https://$host$request_uri;
-    } # managed by Certbot
-
-
-        listen 80 ;
-        listen [::]:80 ;
-    server_name <your ipfs demain name>;
-    return 404; # managed by Certbot
-}
-```
 {% gist fe08d3659250e89a63aba314e1067a76 %}
 We can now restart the nginx server:
 
-```
-sudo systemctl restart nginx
-```
+
+`sudo systemctl restart nginx`
+
 ## Hardening
 
 We strongly recommend enabling [unattended upgrades](https://libre-software.net/ubuntu-automatic-updates/) on your server and monitor the size of your IPFS Volume. You may have to grow it in size depending on your usage.
