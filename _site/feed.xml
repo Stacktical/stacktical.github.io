@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Sep 2019 17:01:17 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Sep 2019 17:01:17 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 19:06:54 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 19:06:54 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,12 +14,12 @@
         <description>&lt;h1 id=&quot;the-definite-guide-to-your-high-performance-ipfs-gateway&quot;&gt;The definite guide to your high-performance IPFS Gateway&lt;/h1&gt;
 
 &lt;p&gt;So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strengthening the network? You are at the right place!
-I compiled the essential bits so you can get this done quickly.&lt;/p&gt;
+We compiled the essential bits so you can get this done quickly.&lt;/p&gt;
 
 &lt;p&gt;What’s IPFS?
 The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.&lt;/p&gt;
 
-&lt;p&gt;This is how Stacktical’s IPFS server is used to our own &lt;a href=&quot;https://dsla.network&quot;&gt;platform’s&lt;/a&gt; needs (15s faster &lt;code class=&quot;highlighter-rouge&quot;&gt;add&lt;/code&gt; operations for a lightweight JSON payload).
+&lt;p&gt;This is how Stacktical’s IPFS server is used to our own &lt;a href=&quot;https://dsla.network&quot;&gt;platform’s&lt;/a&gt; needs (15s faster &lt;code class=&quot;highlighter-rouge&quot;&gt;add&lt;/code&gt; operations for a lightweight JSON payload vs Infura’s).
 We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.&lt;/p&gt;
 
 &lt;p&gt;Turnkey solutions like &lt;a href=&quot;https://infura.io&quot;&gt;Infura’s IPFS Gateway&lt;/a&gt; and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don’t provide the &lt;a href=&quot;https://status.infura.io/incidents/mdh6tjbt8gt5&quot;&gt;performance and reliability you need for your (D)app&lt;/a&gt;.&lt;/p&gt;
@@ -29,7 +29,6 @@ We limited the domain that accesses our node with CORS and used an Nginx encrypt
 &lt;ul&gt;
   &lt;li&gt;The complete setup of a Cloud instance to run our IPFS node&lt;/li&gt;
   &lt;li&gt;How to make your node securely available for your (D)app&lt;/li&gt;
-  &lt;li&gt;Some example of adding and accessing the data in your shiny IPFS Node&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ipfs-server-setup&quot;&gt;IPFS Server setup&lt;/h2&gt;

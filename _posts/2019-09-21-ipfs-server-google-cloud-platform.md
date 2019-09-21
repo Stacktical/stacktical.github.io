@@ -4,18 +4,18 @@ featured: true
 title:  "The definite guide to your high-performance IPFS Gateway"
 author: Team
 categories: [ ipfs, gateway, dapp ]
-image: assets/img/2019-08-23-dsla-dot-eth-secured-ens-ethereum-name-service.jpg
+image: assets/img/2019-09-21-google-cloud-ipfs-gateway.jpg
 ---
 
 # The definite guide to your high-performance IPFS Gateway
 
 So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strengthening the network? You are at the right place!
-I compiled the essential bits so you can get this done quickly.
+We compiled the essential bits so you can get this done quickly.
 
 What's IPFS?
 The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.
 
-This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight JSON payload).
+This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) needs (15s faster `add` operations for a lightweight JSON payload vs Infura's).
 We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.
 
 Turnkey solutions like [Infura's IPFS Gateway](https://infura.io) and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access Decentralized (which defeat the purpose of Decentralization and don't provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5).
@@ -24,7 +24,6 @@ This article will cover:
 
 * The complete setup of a Cloud instance to run our IPFS node
 * How to make your node securely available for your (D)app
-* Some example of adding and accessing the data in your shiny IPFS Node
 
 ## IPFS Server setup
 
