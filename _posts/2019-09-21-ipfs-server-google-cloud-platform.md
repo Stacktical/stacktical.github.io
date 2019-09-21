@@ -190,11 +190,16 @@ sudo systemctl status nginx
 
 ### Install Certbot
 
-By following the instructions on the Certbot 
-`https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html`
+By following the instructions on the Certbot site:
+
+(https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html)[https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html]
 
 This will have our nginx configuration file ready for us to add the final touches.
-The end result should be a file with location sections for `/api/v0/add`, `ipfs` and `/` to deny all other traffic:
+The end result should be a NGINX config file with location sections:
+
+* `/api/v0/add` For adding files (pinning is on by default).
+* `/ipfs` To fetch content on the network.
+* `/` To deny all other traffic.
 
 {% gist fe08d3659250e89a63aba314e1067a76 %}
 We can now restart the nginx server:
@@ -208,10 +213,10 @@ We strongly recommend enabling [unattended upgrades](https://libre-software.net/
 
 ### Final notes
 
-Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by [the folks at Pinata](https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d)
+Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by [the folks at Pinata](https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d).
 
 Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you. Reach out to us if you want to be part of it!
 
 That's it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork!
 
-We hope this guide will help other project who are using IPFS. Don't hesitate to give us a shoot if this article was useful to you at: t.me/stacktical
+We hope this guide will help other project who are using IPFS. Don't hesitate to give us a shoot if this article was useful to you at [t.me/stacktical](https://t.me/stacktical)

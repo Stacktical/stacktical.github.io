@@ -5,8 +5,8 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Sep 2019 16:28:52 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Sep 2019 16:28:52 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 17:01:17 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 17:01:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -256,11 +256,18 @@ sudo systemctl status nginx
 
 &lt;h3 id=&quot;install-certbot&quot;&gt;Install Certbot&lt;/h3&gt;
 
-&lt;p&gt;By following the instructions on the Certbot 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;By following the instructions on the Certbot site:&lt;/p&gt;
+
+&lt;p&gt;(https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html)[https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html]&lt;/p&gt;
 
 &lt;p&gt;This will have our nginx configuration file ready for us to add the final touches.
-The end result should be a file with location sections for &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/v0/add&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; to deny all other traffic:&lt;/p&gt;
+The end result should be a NGINX config file with location sections:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/api/v0/add&lt;/code&gt; For adding files (pinning is on by default).&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/ipfs&lt;/code&gt; To fetch content on the network.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; To deny all other traffic.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
@@ -354,13 +361,13 @@ The end result should be a file with location sections for &lt;code class=&quot;
 
 &lt;h3 id=&quot;final-notes&quot;&gt;Final notes&lt;/h3&gt;
 
-&lt;p&gt;Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by &lt;a href=&quot;https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d&quot;&gt;the folks at Pinata&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by &lt;a href=&quot;https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d&quot;&gt;the folks at Pinata&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you. Reach out to us if you want to be part of it!&lt;/p&gt;
 
 &lt;p&gt;That’s it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork!&lt;/p&gt;
 
-&lt;p&gt;We hope this guide will help other project who are using IPFS. Don’t hesitate to give us a shoot if this article was useful to you at: t.me/stacktical&lt;/p&gt;
+&lt;p&gt;We hope this guide will help other project who are using IPFS. Don’t hesitate to give us a shoot if this article was useful to you at &lt;a href=&quot;https://t.me/stacktical&quot;&gt;t.me/stacktical&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Sep 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</link>
