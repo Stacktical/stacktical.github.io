@@ -53,6 +53,10 @@
 <lastmod>2019-08-23T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</loc>
+<lastmod>2019-09-21T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -93,6 +97,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/ethereum/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/ipfs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/gateway/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/dapp/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
