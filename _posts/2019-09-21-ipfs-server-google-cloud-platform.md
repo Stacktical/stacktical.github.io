@@ -15,7 +15,7 @@ We compiled the essential bits so you can get this done quickly.
 What's IPFS?
 The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.
 
-This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) Dapp (15s faster `add` operations for a lightweight JSON payload vs Infura's).
+This is how Stacktical's IPFS server is used to our own [platform's](https://dsla.network) Dapp ([15s](https://github.com/INFURA/infura/issues/128) faster `add` operations for a lightweight JSON payload vs Infura's).
 We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.
 
 Turnkey solutions like [Infura's IPFS Gateway](https://infura.io) and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access decentralized services (which defeat the purpose of Decentralization and don't provide the [performance and reliability you need for your (D)app](https://status.infura.io/incidents/mdh6tjbt8gt5).
