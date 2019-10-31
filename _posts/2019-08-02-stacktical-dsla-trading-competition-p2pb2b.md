@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Trading Competition"
 author: Team
 categories: [ contest, trading ]
@@ -40,4 +40,4 @@ Please note that **wash trading is strictly forbidden** (perpetrators will be in
 
 ## Registration
 
-Please **[go to this website](http://bit.ly/DSLA_ETH)** to register to the DSLA Trading Competition.
+Closed.
