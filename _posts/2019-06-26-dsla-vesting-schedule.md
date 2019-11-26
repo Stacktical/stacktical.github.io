@@ -17,15 +17,12 @@ The distribution of the DSLA tokens to token sale contributors follows a specifi
 
 ### Private sale contributor
 This type of contributor has obtained **25% of their total purchase, at the moment of purchase.**  
-![purchase](http://progressed.io/bar/25?title=total%20purchase "purchase") 
 
 ### Pre sale contributor
 This type of contributor has obtained **50% of their total purchase, at the moment of purchase.**  
-![purchase](http://progressed.io/bar/50?title=total%20purchase "purchase") 
 
 ### Public sale contributor
 This type of contributor has obtained **75% of their total purchase, at the moment of purchase.**  
-![purchase](http://progressed.io/bar/75?title=total%20purchase "purchase") 
 
 ## Agreement for future token allocation
 
