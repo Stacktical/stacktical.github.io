@@ -133,11 +133,16 @@ ___
 | :------------- | :-------------|
 | DSLA Vesting Schedule | [Read More](https://blog.stacktical.com/reporting/2019/06/26/dsla-vesting-schedule.html)   |
 
+
 * The DSLA token is being tracked by the following websites:
 
 | Coin Tracker        | Link           |
 | :------------- | :-------------|
-| CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
+| **(NEW)** CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
+| **(NEW)** Coin Codex | [Here](https://coincodex.com/crypto/decentralized-service-level-agre/)   |
+| **(NEW)** Coinpaprika | [Here](https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/)   |
+| **(NEW)** CryptoCompare | [Here](https://www.cryptocompare.com/coins/dsla/overview)   |
+| **(NEW)** Nomics | [Here](https://nomics.com/assets/dsla-dsla)   |
 
 
 * Stacktical is the proud recipient of an Overseas Innovation Prize, during the 2019 edition of the #InnovationOutremer competition at STATION F, the world’s largest startup incubator.
