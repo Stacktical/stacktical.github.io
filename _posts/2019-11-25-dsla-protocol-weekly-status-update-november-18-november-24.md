@@ -127,7 +127,7 @@ ___
 
 #### Promotion
 
-* We have published a new series of articles:
+* We have published and updated a new series of articles:
 
 | Title        | Link           |
 | :------------- | :-------------|
@@ -138,10 +138,7 @@ ___
 | Coin Tracker        | Link           |
 | :------------- | :-------------|
 | CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
-| CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
-| CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
-| CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
-| CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
+
 
 * Stacktical is the proud recipient of an Overseas Innovation Prize, during the 2019 edition of the #InnovationOutremer competition at STATION F, the world’s largest startup incubator.
 
@@ -149,8 +146,9 @@ This story is developing and will be share in a dedicated blog post here.
 
 #### Distribution
 
-* Winning a prize at the #InnovationOutremer competition has unlocked a series of distribution and partnership opportunities that we've started exploring. We're hoping to make corresponding announcements soon.
+* Winning a prize at the #InnovationOutremer competition has unlocked a series of distribution and partnership opportunities that we've started exploring.   
 
+This story is developing and will be share in a dedicated blog post here.
 
 ### <i class="fas fa-chart-line"></i> Finance
 
