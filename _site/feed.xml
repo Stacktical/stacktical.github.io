@@ -5,9 +5,399 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Sep 2019 15:51:03 +0200</pubDate>
-    <lastBuildDate>Thu, 26 Sep 2019 15:51:03 +0200</lastBuildDate>
+    <pubDate>Tue, 26 Nov 2019 12:08:13 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2019 12:08:13 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Weekly Status Update: November 18th, 2019 - November 24th, 2019</title>
+        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-lately&quot;&gt;A quick look at what kept us busy lately&lt;/h2&gt;
+
+&lt;h3 id=&quot;-products&quot;&gt;&lt;i class=&quot;fas fa-code&quot;&gt;&lt;/i&gt; Products&lt;/h3&gt;
+
+&lt;h4 id=&quot;stacktical-website&quot;&gt;Stacktical Website&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 3.0.0 &lt;a href=&quot;https://stacktical.com&quot;&gt;stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The new Stacktical website has been released.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Stacktical website is the home of the Stacktical company, and the gateway to the different components of the Stacktical Platform. &lt;/p&gt;
+
+&lt;p&gt;As such, it is our responsibility to make sure it conveys clear corporate and product information to our private contributors, our developer and cryptocurrency community, our customers and an increasingly diverse crowd of project stakeholders.&lt;/p&gt;
+
+&lt;p&gt;In order to be aligned enough with the evolving direction of the Stacktical project, we put the Stacktical Website developments on hold during Summer, and focused on challenging the Product and Technology story that we want like to tell.&lt;/p&gt;
+
+&lt;p&gt;A gazillion drawings, discussions and aha moments later, it is time to re-introduce DSLA to the world, and our new website definitely does set the tone for greater things moving forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;Visit the new Stacktical Website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;stacktical-blog&quot;&gt;Stacktical Blog&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 2.1.0 &lt;a href=&quot;https://blog.stacktical.com&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No new developments for the Stacktical Blog this month.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dsla-protocol&quot;&gt;DSLA Protocol&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 2.0.1 (Ropsten) &lt;a href=&quot;https://ropsten.etherscan.io/address/0x1F67727e52F0885DdBd487eEfA0453A38d61932A&quot;&gt;0x1F67727e52F0885DdBd487eEfA0453A38d61932A&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Re-introducing DSLA to the World&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Have you heard about DeFi, short for &lt;strong&gt;De&lt;/strong&gt;centralized &lt;strong&gt;Fi&lt;/strong&gt;nance?&lt;/p&gt;
+
+&lt;p&gt;DeFi introduces the ability for anyone to roll-out traditional financial products (e.g. loans), and reap their benefits (e.g. interests) on a decentralized network like the Ethereum blockchain.&lt;/p&gt;
+
+&lt;p&gt;Lately, we’ve been experimenting on adding DeFi capabilities to SLAs, to address some of the design challenges that comes with decentralized service governance. The illiquid nature of SLA compensation pool, for example.&lt;/p&gt;
+
+&lt;p&gt;These experiments turned out to be a great way to improve how we’re breaking down the Stacktical Platform into products, and exactly what product should represent our project.&lt;/p&gt;
+
+&lt;p&gt;Originally, we planned on positionning the &lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network application&lt;/a&gt;&lt;/strong&gt; as our flagship product. But it led the community into believe that we were simply developing a decentralized application, while we were in fact building a fully-fledged governance protocol.&lt;/p&gt;
+
+&lt;p&gt;In the Stacktical Platform architecture, a collection of smart contracts support the DSLA Network application behind the scenes. To put our blockchain development at the forefront, we’ve decided to officialize the DSLA protocol as our core component.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/stacktical_introducing-dsla-protocol.png&quot; alt=&quot;DSLA by Stacktical: An Autonomous SLA Protocol for the Web 3.0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DSLA Protocol&lt;/strong&gt; is the simplest expression of what we’re really doing: building an autonomous governance protocol for developers like ourselves, willing to roll-out, bargain and enforce service level agreements at scale.&lt;/p&gt;
+
+&lt;p&gt;Along with empowering the &lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network application&lt;/a&gt;&lt;/strong&gt;, we can’t wait to see how SaaS and other applications can leverage the DSLA Protocol to supercharge their SLA contracting and reliability engineering practices.&lt;/p&gt;
+
+&lt;p&gt;More information a dedicated series of post here, soon.&lt;br /&gt;
+For now, please join the developer discussion &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot;&gt;on Telegram&lt;/a&gt;&lt;/strong&gt;, if you haven’t already.
+___&lt;/p&gt;
+
+&lt;h4 id=&quot;dsla-token&quot;&gt;DSLA Token&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 2 (Mainnet) &lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Token Information&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Verified Value&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Technology&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ERC-20 (ETHEREUM BLOCKCHAIN)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Official Address&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Official ABI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/blob/master/build/contracts/DSLA_v0.json&quot;&gt;DSLA.json&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Circulating Supply&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;6,500,000,000 DSLA&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Total Supply&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;10,000,000,000 DSLA&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Issued&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The DSLA protocol uses the DSLA cryptocurrency to transfer value between customers and providers, according to good and bad service levels.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No bug fix or security update to the DSLA token this month.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Previous fixes :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/issues/5&quot;&gt;Transfer function returns false when wrapped in a require statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dsla-network&quot;&gt;DSLA Network&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 0.0.1 (Ropsten) &lt;a href=&quot;https://dsla.network&quot;&gt;dsla.network&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Originally announced in the official Stacktical White Paper, The user-facing product of the Stacktical V2 Platform, dubbed “DSLA Network”, is finally up and running at &lt;a href=&quot;https://dsla.network&quot;&gt;https://dsla.network&lt;/a&gt; 🎉&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla-network__iphone-x-front.png&quot; alt=&quot;https://dsla.network&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The DSLA Network is a web application to roll out Decentralized Service Level Agreements (SLAs) and deploy autonomous SLA compensation programs using the DSLA Protocol and the DSLA Token.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
+
+&lt;h4 id=&quot;promotion&quot;&gt;Promotion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have published a new series of articles:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Vesting Schedule&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/26/dsla-vesting-schedule.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The DSLA token is being tracked by the following websites:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stacktical is the proud recipient of an Overseas Innovation Prize, during the 2019 edition of the #InnovationOutremer competition at STATION F, the world’s largest startup incubator.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This story is developing and will be share in a dedicated blog post here.&lt;/p&gt;
+
+&lt;h4 id=&quot;distribution&quot;&gt;Distribution&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Winning a prize at the #InnovationOutremer competition has unlocked a series of distribution and partnership opportunities that we’ve started exploring. We’re hoping to make corresponding announcements soon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-finance&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance&lt;/h3&gt;
+
+&lt;h4 id=&quot;cryptocurrency-exchange-listing&quot;&gt;Cryptocurrency Exchange Listing&lt;/h4&gt;
+
+&lt;p&gt;The DSLA cryptocurrency token is available for trading on the following exchanges.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Exchange&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pair&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Trade at&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/ETH&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;https://p2pb2b.io/trade/DSLA_ETH&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/BTC&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_BTC&quot;&gt;https://p2pb2b.io/trade/DSLA_BTC&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/USD&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_USD&quot;&gt;https://p2pb2b.io/trade/DSLA_USD&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;finops&quot;&gt;FinOps&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;legalops&quot;&gt;LegalOps&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/reporting/2019/11/25/dsla-protocol-weekly-status-update-november-18-november-24.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2019/11/25/dsla-protocol-weekly-status-update-november-18-november-24.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
+    
+      <item>
+        <title>Throwback Thursday: InsurTech &amp; the Future of Insurance</title>
+        <description>&lt;p&gt;In this video, Stacktical’s CEO, Wilhem Pujar, moderates a panel on InsurTech and the future of insurance, at the 2018 FIN/SUM conference in Tokyo, Japan.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OY4cMwcauYw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Our warm thanks to The Nikkei for sharing the video with us, and for inviting our co-founders to one of the greatest FinTech event in the world. For more information about The Nikkei’s FIN/SUM event series, please go to &lt;a href=&quot;https://finsum.jp&quot;&gt;https://finsum.jp&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/news/throwback%20thursday/event/2019/10/31/stacktical-dsla-throwback-thursday-finsum-2018-tokyo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/throwback%20thursday/event/2019/10/31/stacktical-dsla-throwback-thursday-finsum-2018-tokyo.html</guid>
+        
+        
+        <category>news</category>
+        
+        <category>throwback thursday</category>
+        
+        <category>event</category>
+        
+      </item>
     
       <item>
         <title>The definite guide to your high-performance IPFS Gateway</title>
@@ -268,7 +658,85 @@ The end result should be a NGINX config file with location sections:&lt;/p&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; To deny all other traffic.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;noscript&gt;&lt;pre&gt;400: Invalid request
+&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta http-equiv=&amp;quot;Content-type&amp;quot; content=&amp;quot;text/html; charset=utf-8&amp;quot;&amp;gt;
+    &amp;lt;meta http-equiv=&amp;quot;Content-Security-Policy&amp;quot; content=&amp;quot;default-src &amp;#39;none&amp;#39;; style-src &amp;#39;unsafe-inline&amp;#39;; img-src data:; connect-src &amp;#39;self&amp;#39;&amp;quot;&amp;gt;
+    &amp;lt;title&amp;gt;Site not found &amp;amp;middot; GitHub Pages&amp;lt;/title&amp;gt;
+    &amp;lt;style type=&amp;quot;text/css&amp;quot; media=&amp;quot;screen&amp;quot;&amp;gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+
+    &amp;lt;/style&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+
+    &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+
+      &amp;lt;h1&amp;gt;404&amp;lt;/h1&amp;gt;
+      &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;There isn&amp;#39;t a GitHub Pages site here.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+      &amp;lt;p&amp;gt;
+        If you&amp;#39;re trying to publish one,
+        &amp;lt;a href=&amp;quot;https://help.github.com/pages/&amp;quot;&amp;gt;read the full documentation&amp;lt;/a&amp;gt;
+        to learn how to set up &amp;lt;strong&amp;gt;GitHub Pages&amp;lt;/strong&amp;gt;
+        for your repository, organization, or user account.
+      &amp;lt;/p&amp;gt;
+
+      &amp;lt;div id=&amp;quot;suggestions&amp;quot;&amp;gt;
+        &amp;lt;a href=&amp;quot;https://githubstatus.com&amp;quot;&amp;gt;GitHub Status&amp;lt;/a&amp;gt; &amp;amp;mdash;
+        &amp;lt;a href=&amp;quot;https://twitter.com/githubstatus&amp;quot;&amp;gt;@githubstatus&amp;lt;/a&amp;gt;
+      &amp;lt;/div&amp;gt;
+
+      &amp;lt;a href=&amp;quot;/&amp;quot; class=&amp;quot;logo logo-img-1x&amp;quot;&amp;gt;
+        &amp;lt;img width=&amp;quot;32&amp;quot; height=&amp;quot;32&amp;quot; title=&amp;quot;&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=&amp;quot;&amp;gt;
+      &amp;lt;/a&amp;gt;
+
+      &amp;lt;a href=&amp;quot;/&amp;quot; class=&amp;quot;logo logo-img-2x&amp;quot;&amp;gt;
+        &amp;lt;img width=&amp;quot;32&amp;quot; height=&amp;quot;32&amp;quot; title=&amp;quot;&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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&amp;quot;&amp;gt;
+      &amp;lt;/a&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
 &lt;/pre&gt;&lt;/noscript&gt;
 &lt;script src=&quot;https://gist.github.com/fe08d3659250e89a63aba314e1067a76.js&quot;&gt; &lt;/script&gt;
 
@@ -412,7 +880,7 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
 
 &lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
 
-&lt;p&gt;Please &lt;strong&gt;&lt;a href=&quot;http://bit.ly/DSLA_ETH&quot;&gt;go to this website&lt;/a&gt;&lt;/strong&gt; to register to the DSLA Trading Competition.&lt;/p&gt;
+&lt;p&gt;Closed.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/contest/trading/2019/08/02/stacktical-dsla-trading-competition-p2pb2b.html</link>
@@ -801,143 +1269,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         
         
         <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>DSLA Vesting Schedule</title>
-        <description>&lt;h2 id=&quot;vesting-schedule&quot;&gt;Vesting Schedule&lt;/h2&gt;
-
-&lt;p&gt;The distribution of the DSLA tokens to token sale contributors follows a specific calendar called a vesting schedule.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A token vesting process is a common process in which a number of tokens are secured and locked away by a company for a certain period of time. It helps to prevent market price manipulations and protect the stability of the token over time. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;initial-allocation-per-token-sale-contributor-type&quot;&gt;Initial allocation per token sale contributor type&lt;/h2&gt;
-
-&lt;h3 id=&quot;private-sale-contributor&quot;&gt;Private sale contributor&lt;/h3&gt;
-&lt;p&gt;This type of contributor has obtained &lt;strong&gt;25% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&quot;http://progressed.io/bar/25?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;pre-sale-contributor&quot;&gt;Pre sale contributor&lt;/h3&gt;
-&lt;p&gt;This type of contributor has obtained &lt;strong&gt;50% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&quot;http://progressed.io/bar/50?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;public-sale-contributor&quot;&gt;Public sale contributor&lt;/h3&gt;
-&lt;p&gt;This type of contributor has obtained &lt;strong&gt;75% of their total purchase, at the moment of purchase.&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&quot;http://progressed.io/bar/75?title=total%20purchase&quot; alt=&quot;purchase&quot; title=&quot;purchase&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;agreement-for-future-token-allocation&quot;&gt;Agreement for future token allocation&lt;/h2&gt;
-
-&lt;p&gt;According to our token sale smart contract and other signed agreements, a token sale contributor is authorized to claim &lt;strong&gt;25% more DSLA from her total DSLA purchase, every 3 months, since January 1st 2018.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is the corresponding vesting table:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; At Purchase&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; March 31st&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; June 30th&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; September 30th&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Private sale contributor&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/25&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pre sale contributor&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/50&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Public sale contributor&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/75&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;http://progressed.io/bar/100&quot; alt=&quot;purchase&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;how-to-claim-expert-users&quot;&gt;How to claim (expert users)&lt;/h2&gt;
-
-&lt;p&gt;To claim your tokens, expert user can directly call the public &lt;strong&gt;claimTokens()&lt;/strong&gt; function from the wallet used to contribute to the DSLA token sale.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;    /**
-      * @dev Allows the sender to claim the tokens he is allowed to withdraw
-      */
-    function claimTokens() public {
-        require(getWithdrawableAmount(msg.sender) != 0);
-
-        uint256 amount = getWithdrawableAmount(msg.sender);
-        withdrawn[msg.sender] = withdrawn[msg.sender].add(amount);
-
-        _deliverTokens(msg.sender, amount);
-    }
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Please see &lt;a href=&quot;https://github.com/Stacktical/stacktical-tokensale-contracts/blob/master/contracts/Crowdsale/DSLACrowdsale.sol&quot;&gt;our token sale contract repository&lt;/a&gt; for reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-claim-all-users&quot;&gt;How to claim (all users)&lt;/h2&gt;
-
-&lt;p&gt;Users will need to wait for the claimTokens() feature to be available on the official Stacktical Website. &lt;br /&gt;
-&lt;strong&gt;ETA&lt;/strong&gt;: July 31st&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2019/06/26/dsla-vesting-schedule.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/06/26/dsla-vesting-schedule.html</guid>
-        
-        
-        <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Verizon Knocked Large Parts of the Internet Offline Yesterday</title>
-        <description>&lt;h2 id=&quot;my-name-is-route&quot;&gt;My name is route&lt;/h2&gt;
-
-&lt;p&gt;On June 24th, Verizon accidently started routing Internet traffic through a small company in Nothern Pennsylvania for nearly three hours, causing a major outage of Cloudflare, Facebook, Amazon and other online service providers, including customers of the three aforementioned technology companies (including Discord).&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href=&quot;https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/&quot;&gt;Cloudflare’s incident report&lt;/a&gt;, although they repeatedly called and emailed their support, the Cloudflare Ops team still had not hear from Verizon at the time of writing, over 8 hours after the incident. Nobody was aware of Verizon taking action to resolve the issue.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;At Cloudflare, we wish that events like this never take place, but unfortunately the current state of the Internet does very little to prevent incidents such as this one from occurring.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Fortunately, routing security technologies like &lt;a href=&quot;https://blog.cloudflare.com/cloudflares-rpki-toolkit/&quot;&gt;RPKI&lt;/a&gt; and Decentralized Security SLAs powered by &lt;a href=&quot;https://stacktical.com&quot;&gt;Stacktical&lt;/a&gt; could bring new ways to mitigate these risks in the future.&lt;/p&gt;
-
-&lt;p&gt;Read more about the news on &lt;a href=&quot;https://www.theverge.com/2019/6/24/18715308/discord-down-outage-cloudflare-problems-crunchyroll-feedly&quot;&gt;The Verge&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/outages/2019/06/25/verizon-routing-outage-june-24.html</guid>
-        
-        
-        <category>news</category>
-        
-        <category>outages</category>
         
       </item>
     

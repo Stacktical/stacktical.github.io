@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA.eth ENS Domain Name Acquired"
 author: Team
 categories: [ blockchain, ethereum ]

@@ -35,9 +35,9 @@ Here is the corresponding vesting table:
 
 |  | At Purchase          | March 31st          | June 30th           | September 30th           |
 | :------------- | :-------------| :-------------| :-------------| :-------------|
-| Private sale contributor | ![purchase](http://progressed.io/bar/25) | ![purchase](http://progressed.io/bar/50)  | ![purchase](http://progressed.io/bar/75)  | ![purchase](http://progressed.io/bar/100)  |
-| Pre sale contributor | ![purchase](http://progressed.io/bar/50)  | ![purchase](http://progressed.io/bar/75)  | ![purchase](http://progressed.io/bar/100)  |  |
-| Public sale contributor |  ![purchase](http://progressed.io/bar/75)  | ![purchase](http://progressed.io/bar/100)  |  |  |
+| Private sale contributor | 25% | 50%  | 75%  | 100%  |
+| Pre sale contributor | 50%  | 75%  | 100%  |  |
+| Public sale contributor |  75%  | 100%  |  |  |
 
 ## How to claim (expert users)
 
@@ -62,7 +62,34 @@ Please see [our token sale contract repository](https://github.com/Stacktical/st
 
 ## How to claim (all users)
 
-Users will need to wait for the claimTokens() feature to be available on the official Stacktical Website.   
-**ETA**: July 31st
+### Go to [https://stacktical.com](https://stacktical.com)  
 
+**Make sure that the address in your browser in https://stacktical.com before proceeding!**  
+
+Note that DSLA tokens issued during the token sale are claimable, by now.   
+
+You will need the [MetaMask browser extension](https://metamask.io) to claim your DSLA tokens. 
+Please connect to the main Ethereum network using the same account you have used during the DSLA token sale.  
+
+### Scroll the page down to the footer  
+
+The "CLAIM NOW" link is located in the "SERVICE" section of our official website footer.
+
+### Click on "CLAIM DSLA TOKENS"  
+
+If you are authorized to claim DSLA tokens with the selected MetaMask account, click "CLAIM NOW" to withdraw your DSLA.  
+If you are not authorized to claim DSLA tokens, the "NOTHING TO CLAIM!" message will be displayed instead.
+
+Congratulations on receiving your tokens, you will be able to use them on the Stacktical Platform upon launch. 
+
+### Possible issues
+
+*The website footer keeps displayed "NOTHING TO CLAIM!" but I haven't claimed all my DSLA tokens yet...*
+Make sure your MetaMask is connected to the same account you have used during the DSLA token sale.
+
+*The "Claim Tokens" transaction has been confirmed in MetaMask, but my DSLA balance isn't updated...*
+Make sure you have imported the right DSLA token in your MetaMask. Instructions [https://medium.com/stacktical/how-to-add-the-dsla-token-to-the-list-of-cryptocurrencies-in-your-erc-20-compatible-wallet-53266b8ce536](here)!
+
+*I'm using an hardware wallet, and the transactions seems to be stuck and/or my MetaMask is buggy...*
+Make sure your close your hardware wallet management software (e.g. Ledger Live) and retry.
 

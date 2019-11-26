@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "The definite guide to your high-performance IPFS Gateway"
 author: Team
 categories: [ ipfs, gateway, dapp ]
