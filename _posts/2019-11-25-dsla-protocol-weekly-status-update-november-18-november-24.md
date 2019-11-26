@@ -164,14 +164,3 @@ The DSLA cryptocurrency token is available for trading on the following exchange
 | P2PB2B | **DSLA/BTC** | **Now Trading** | [https://p2pb2b.io/trade/DSLA_BTC](https://p2pb2b.io/trade/DSLA_BTC)
 | P2PB2B | **DSLA/USD** | **Now Trading** | [https://p2pb2b.io/trade/DSLA_USD](https://p2pb2b.io/trade/DSLA_USD)
 
-
-* TBD
-
-#### FinOps
-
-* TBD
-
-#### LegalOps
-
-* TBD
-
