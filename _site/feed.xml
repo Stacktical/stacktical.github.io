@@ -5,21 +5,19 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Dec 2019 02:43:12 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2019 02:43:12 +0100</lastBuildDate>
+    <pubDate>Tue, 17 Dec 2019 00:39:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2019 00:39:00 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>DSLA Listing Roadmap</title>
         <description>&lt;h2 id=&quot;when-new-exchange-&quot;&gt;When new exchange ?&lt;/h2&gt;
 
-&lt;p&gt;As an early stage business-to-business initiative with a legitimate use for blockchain technologies, the Stacktical Platform has definitely room for adoption and commercial growth. But it goes without saying that we also have a lot to learn, to achieve these goals, as a young company.&lt;/p&gt;
+&lt;p&gt;As an early stage business-to-business initiative, with a legitimate use of blockchain and decentralized ledger technologies, the Stacktical Platform has definitely room for adoption. But we are also well aware that we have a lot to learn, to achieve our goals as a company.&lt;/p&gt;
 
-&lt;p&gt;6 months after our initial listing &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;on the P2PB2B exchange&lt;/a&gt;,&lt;/strong&gt; the DSLA trading volume and activity have yet to meet the expectations of our community, and offer relatively poor onboarding conditions for our institutional partners. While it is worth noting that this first listing put our project on the cryptocurrency map, and was undoubtedly a step in the right direction, our team is well aware that it is high time for novelty.&lt;/p&gt;
+&lt;p&gt;6 months after our initial appearance &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;on the P2PB2B cryptocurrency exchange&lt;/a&gt;,&lt;/strong&gt; the trading activity of the DSLA token have yet to meet the expectations of our stakeholders. While this first listing put our company on the cryptocurrency map, and was undoubtedly an important step in the right direction, DSLA needs to be more liquid to fulfill its mission as a governance protocol.&lt;/p&gt;
 
-&lt;p&gt;Now, we want to actively work on bringing the liquidity we need to fully empower DSLA compensation scenarios on the main Ethereum network, and have a better shot at getting promoted on top tier discovery platforms such as &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;CoinMarketCap&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We have been exploring several new listing opportunities with this objective in mind.The result of this effort is a series of DSLA listing milestones that closely follow the development maturity of the DSLA Protocol, the collection of smart contracts empowering Stacktical:&lt;/p&gt;
+&lt;p&gt;Thankfully, we have been exploring several new listing opportunities with this objective in mind. The result of this effort is a series of DSLA listing milestones, that closely follow the development maturity of the collection of smart contracts empowering Stacktical.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -58,7 +56,7 @@
       &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Phase 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Phase 2’&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge Listing 2&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q2/Q3 2020&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;RC&lt;/em&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
@@ -76,48 +74,48 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Our end goal is to land on a major exchange when, and only when, the platform is ready to demonstrate its full potential.&lt;/p&gt;
+&lt;p&gt;Long story short, our end goal is to list DSLA on a major exchange &lt;strong&gt;when, and only when, the Stacktical Platform and the DSLA Protocol are ready to demonstrate their full potential&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;Network Maturity&lt;/th&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;Description&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;DSLA Protocl Token Integration&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;DSLA Protocol Token Integration&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;N/A&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Genesis&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;DSLA Protocol smart contracts are not available yet.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;No DSLA&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;αlpha&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Alpha&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;DSLA Protocol smart contracts are privately available on the testnet.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Test DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;βeta&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Beta&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt; DSLA Protocol smart contracts are publicly available on the testnet.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Test DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;RC&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release Candidate&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt; DSLA Protocol smart contracts are publicly available on the mainnet, in limited mode.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Real DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Live&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;DSLA Protocol smart contracts are publicly available on the mainnet, without limitation.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Real DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;For now, we will focus on listing DSLA in Q1 2020, on an exchange that is more representative of the current maturity of our the DSLA Protocol.&lt;/p&gt;
+&lt;p&gt;In the meantime, &lt;strong&gt;we will partner with a new, medium-sized exchange in Q1 2020&lt;/strong&gt; to increase our chances of being featured in top-tier discovery service such as &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;CoinMarketCap&lt;/a&gt;&lt;/strong&gt;, and provide a second, reliable purchasing option to our community.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This story is still developing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We originally planned for a December listing but, as you might have notices, there’s simply too much blood in the streets at this time.&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html</link>
