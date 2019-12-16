@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Throwback Thursday: InsurTech & the Future of Insurance"
 author: Team
 categories: [ news, throwback thursday, event ]
