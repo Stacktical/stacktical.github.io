@@ -5,9 +5,182 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Dec 2019 11:31:15 +0100</pubDate>
-    <lastBuildDate>Tue, 17 Dec 2019 11:31:15 +0100</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2020 18:01:49 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2020 18:01:49 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>The Year 2019 in Review</title>
+        <description>&lt;h2 id=&quot;happy-new-year-to-the-stacktical-community-&quot;&gt;Happy New Year to the Stacktical Community !&lt;/h2&gt;
+
+&lt;p&gt;What better way to start 2020, than reflecting on last year’s achievements, and setting ever bigger goals for ourselves? Thank you for sticking with us through our crazy journey, and best of wishes for this new decade.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/l49JXTYPlm0ABKYzS/giphy-downsized.gif&quot; alt=&quot;Happy New Year 2020 to the Stacktical Community!&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;10-we-crossed-1000-dsla-holders&quot;&gt;10. We crossed 1000 DSLA holders&lt;/h3&gt;
+
+&lt;p&gt;More than 1000 early adopters acquired DSLA tokens in 2019. It has been an important milestone for Stacktical, considering that service level agreements are relatively unknown to the general public.&lt;/p&gt;
+
+&lt;p&gt;As expected, the technical and business expertise required to assess the potential of decentralized service level agreements and cryptocurrency service credits, has limited the adoption of the DSLA token.&lt;/p&gt;
+
+&lt;p&gt;But it has also forced us to review our copy, and better articulate our vision for the future.&lt;/p&gt;
+
+&lt;p&gt;By focusing &lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network&lt;/a&gt;&lt;/strong&gt; on &lt;strong&gt;rolling out service level agreements between proof-of-stake validators and delegators&lt;/strong&gt;, we are expecting to grow our DSLA holders tenfold this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/MRxJqmk3MNta8/giphy-downsized.gif&quot; alt=&quot;10. We crossed 1000 DSLA holders&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;9-a-new-updated-vision-is-born&quot;&gt;9. A new, updated vision is born&lt;/h3&gt;
+
+&lt;p&gt;From the project inception, we have always defined Stacktical as a &lt;strong&gt;Platform: a combination of service management products working together&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;But last year, we realised that we were in fact building a true &lt;strong&gt;Protocol: a set of rules governing the exchange of data and value between stakeholders&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This means :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;DSLA Token&lt;/a&gt;&lt;/strong&gt; is the currency of the DSLA Protocol&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network&lt;/a&gt;&lt;/strong&gt;, our flagship product, is the &lt;strong&gt;1st implementation of the DSLA Protocol&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Other teams could implement DSLA Protocol&lt;/strong&gt; to build their own SLA-based experiences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2020 will be the perfect opportunity to introduce our plans, regarding the latter point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy-downsized.gif&quot; alt=&quot;9. A new, updated vision is born&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8-dsla-has-been-listed-on-its-1st-exchange&quot;&gt;8. DSLA has been listed on its 1st exchange&lt;/h3&gt;
+
+&lt;p&gt;You need DSLA tokens to roll out, upgrade and enforce service level agreements on DSLA Network, or use DSLA Protocol in your own implementations.&lt;/p&gt;
+
+&lt;p&gt;Listing DSLA on its 1st exchange has provided a simple, initial way of acquiring DSLA tokens, in preparation for the Q2 2020 launch of the Protocol mainnet. As per our roadmap, &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;more listings are to be expected&lt;/a&gt;&lt;/strong&gt; in 2020.&lt;/p&gt;
+
+&lt;p&gt;We strongly advise you &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot;&gt;stay tuned on Telegram&lt;/a&gt;&lt;/strong&gt; for announcements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy-downsized.gif&quot; alt=&quot;8. DSLA has been listed on its 1st exchange&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-dsla-has-been-listed-on-coin-trackers&quot;&gt;7. DSLA has been listed on coin trackers&lt;/h3&gt;
+
+&lt;p&gt;In 2019 and following its listing on a cryptocurrency exchange, DSLA made its first appearance on coin discovery services such as &lt;strong&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;CoinGecko&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;a href=&quot;https://www.cryptocompare.com/coins/dsla/overview&quot;&gt;CryptoCompare&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Coin Codex&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coincodex.com/crypto/decentralized-service-level-agre/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Coinpaprika&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CryptoCompare&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.cryptocompare.com/coins/dsla/overview&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Nomics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Getting listed on &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;CoinMarketCap&lt;/a&gt;&lt;/strong&gt;, the leading coin tracker, will require additional exchange listings, and consistent trading activity. This will be a core area of focus for the year ahead and we will make sure update the community once we meet these requirements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/Gx73wTS8W05Gw/giphy.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-we-released-a-new-website&quot;&gt;6. We released a new website&lt;/h3&gt;
+
+&lt;p&gt;During Summer 2019, our co-founders felt the urge to challenge the Product and Technology story that we want like to tell with the Stacktical Platform. A gazillion drawings, discussions and aha moments later, we introduced a new website that better articulates what the DSLA Protocol, the DSLA Token and the DSLA Network initiatives helps us fulfill our mission as a Service Governance company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;Visit the new Stacktical Website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-we-won-an-innovation-award&quot;&gt;5. We won an innovation award&lt;/h3&gt;
+
+&lt;p&gt;In November 2019, Stacktical has received an Overseas Innovation Prize, during the 2019 edition of the Innovation Outremer competition at &lt;strong&gt;&lt;a href=&quot;https://stationf.co/&quot;&gt;STATION F&lt;/a&gt;&lt;/strong&gt;, the world’s biggest startup campus.&lt;/p&gt;
+
+&lt;p&gt;We would like to renew our thanks to Daniel Hierso, his team at &lt;strong&gt;&lt;a href=&quot;http://www.outremernetwork.fr/&quot;&gt;Outremer Network&lt;/a&gt;&lt;/strong&gt;, Orange, and all the partners that made this recognition possible. We’re humbled by your trust in our vision for the future of service governance, and we’re dedicated to making it a reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/stacktical_innovation-award-november-2019.jpg&quot; alt=&quot;5. We won an innovation award&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-we-released-the-dsla-protocol-β&quot;&gt;4. We released the DSLA Protocol β&lt;/h3&gt;
+
+&lt;p&gt;DSLA is an autonomous service level agreement protocol built for service providers, to offer provable service level guarantees to customers, better adapt to changing service level needs, and effortlessly mitigate the economic impact of bad service levels.&lt;/p&gt;
+
+&lt;p&gt;As a protocol, its purpose is to be implemented into various products using a Software Development Kit (SDK). &lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network&lt;/a&gt;, our flagship product, is the first decentralized application to &lt;strong&gt;implement DSLA Protocol to solve the specific problem of cascade slashing for Proof-of-Stake network participants&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/stacktical_introducing-dsla-protocol.png&quot; alt=&quot;4. We released the DSLA Protocol β&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-we-released-the-dsla-network-β&quot;&gt;3. We released the DSLA Network β&lt;/h3&gt;
+
+&lt;p&gt;In 2019, more than 25% of Blockchain networks used the Proof-of-Stake (PoS) security model instead of (Bitcoin’s) Proof-of-Work (PoW). Sign of the new decade to come?&lt;/p&gt;
+
+&lt;p&gt;In a Proof-of-Stake network, transactions are validated and securely added to the blockchain by network participants called &lt;strong&gt;Validators&lt;/strong&gt;. Any network participant can become a Validator, by making a cryptocurrency security deposit called &lt;strong&gt;a Stake&lt;/strong&gt;. Stakes entitle Validators to timely &lt;strong&gt;Block Rewards&lt;/strong&gt;, in exchange for securing the network.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/xT9DPi61MmrDLzVFzq/giphy-downsized.gif&quot; alt=&quot;PoS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If other participants want to help secure the network without becoming Validators, they can &lt;strong&gt;delegate their Stake&lt;/strong&gt; to the Validators of their choice, and earn &lt;strong&gt;a fraction of the Block Reward&lt;/strong&gt; in return.&lt;/p&gt;
+
+&lt;p&gt;The problem is that Validators that fail to meet the reliability requirements of a Proof-of-Stake network &lt;strong&gt;expose themselves and their Delegators to financial penalties&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/3o7qE85sxcWIGOg9Lq/giphy-downsized.gif&quot; alt=&quot;PoS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is known as the &lt;strong&gt;slashing risk&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Powered by DSLA Protocol, DSLA Network is a decentralized web application to protect Tezos Nominators and PoS Delegators against losing their cryptocurrency stake, when their Tezos Bakers and PoS Validators miss blocks, or misbehave on the network.&lt;/p&gt;
+
+&lt;p&gt;Staking on DSLA Network enables Tezos Nominators and PoS Delegators to enrol in slashing compensation programs.&lt;/p&gt;
+
+&lt;p&gt;DSLA Protocol will automatically compensate program enrolees upon missed blocks and slashing events, and will automatically reward program owners, to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Incentivize Quality of Service over time;&lt;/li&gt;
+  &lt;li&gt;Increase their self-bonding capacity;&lt;/li&gt;
+  &lt;li&gt;Accept more Tezos Nominators and Pos Delegators.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;🏆 Win-Win !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://storage.googleapis.com/stacktical-public/STACKTICAL_DECK.pdf&quot;&gt;Read the deck&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla_network.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-we-won-a-grant-from-a-top-blockchain-foundation&quot;&gt;2. We won a grant from a top blockchain foundation&lt;/h3&gt;
+
+&lt;p&gt;We have received a Research &amp;amp; Development grant from one of the most respectables blockchain foundations in the industry, to work on three open source products aiming at improving the experience of their Proof-of-Stake network participants, and the experience of their blockchain researchers.&lt;/p&gt;
+
+&lt;p&gt;These products will pave the way to more decentralization and more interoperability in the DSLA architecture, especially when it comes to monitoring onchain block validation metrics, to enforce block agreements between PoS Validators and Delegators.&lt;/p&gt;
+
+&lt;p&gt;We will make sure to share more details about the grant and the full scope of the project, in a dedicated article, as soon as we’re properly authorized to disclose this initiative.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/qLHzYjlA2FW8g/giphy-downsized.gif&quot; alt=&quot;2. We won a grant from a top blockchain foundation&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-we-partnered-with-companies-we-admire&quot;&gt;1. We partnered with companies we admire&lt;/h3&gt;
+
+&lt;p&gt;In 2019, we have interviewed hundreds of incredible service providers, in order to fine-tune our understanding of their SLA management needs.&lt;/p&gt;
+
+&lt;p&gt;This focused effort has been instrumental in validating and dismissing the product assumptions we had made until then, and getting to the bottom of what the DSLA Network should be about, from the perspective of true DevOps professionals.&lt;/p&gt;
+
+&lt;p&gt;Today, we have onboarded several new providers with our revamped approach, and are very excited to work with them over the course of the year 2020.&lt;/p&gt;
+
+&lt;p&gt;If you’re a validator interested in protecting your delegators against slashing, feel free to email us at &lt;strong&gt;&lt;a href=&quot;mailto:contact@stacktical.com&quot;&gt;contact@stacktical.com&lt;/a&gt;&lt;/strong&gt;, to explore partnership opportunities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/3ohhwoy4AB7fXp0GVq/giphy.gif&quot; alt=&quot;1. We partnered with companies we admire&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/reporting/2020/01/15/stacktical-dsla-year-2019-review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/01/15/stacktical-dsla-year-2019-review.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
     
       <item>
         <title>DSLA Listing Roadmap</title>
@@ -98,12 +271,12 @@ But our end goal is to list DSLA on a major exchange &lt;strong&gt;when, and onl
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Beta&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; DSLA Protocol smart contracts are publicly available on the testnet.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Protocol smart contracts are publicly available on the testnet.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Test DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Release Candidate&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; DSLA Protocol smart contracts are publicly available on the mainnet, in limited mode.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Protocol smart contracts are publicly available on the mainnet, in limited mode.&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Real DSLA tokens&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -1135,30 +1308,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/reporting/trading/2019/07/24/dsla-listing-postponed-stacktical-partnership-p2pb2b.html</link>
         <guid isPermaLink="true">http://localhost:4000/reporting/trading/2019/07/24/dsla-listing-postponed-stacktical-partnership-p2pb2b.html</guid>
-        
-        
-        <category>reporting</category>
-        
-        <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>DSLA Listing Announcement</title>
-        <description>&lt;h2 id=&quot;-mark-your-calendar&quot;&gt;&lt;i class=&quot;fas fa-calendar&quot;&gt;&lt;/i&gt; Mark your Calendar&lt;/h2&gt;
-
-&lt;p&gt;We are pleased to inform the community that the DSLA utility token empowering the Stacktical Platform will be listed on the &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io&quot;&gt;P2PB2B cryptocurrency exchange&lt;/a&gt;&lt;/strong&gt; on &lt;strong&gt;Thursday, July 25th, 2019&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;P2PB2B is a &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/rankings/exchanges/&quot;&gt;Top 50 CMC exchange&lt;/a&gt;&lt;/strong&gt;, with more than $165M in daily trading volume. DSLA will initially debut trading under the &lt;strong&gt;DSLA/ETH pair&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;This first listing is aligned with the upcoming release of our revamped Platform, and will facilitate the onboarding of our customers, as well as the provisionning of their delay and downtime compensation pools.&lt;/p&gt;
-
-&lt;p&gt;We strongly advise you &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io&quot;&gt;sign up to P2PB2B&lt;/a&gt;&lt;/strong&gt; as soon as possible for a smooth trading experience.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/trading/2019/07/21/dsla-listing-cryptocurrency-exchange-p2pb2b-july-25.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/trading/2019/07/21/dsla-listing-cryptocurrency-exchange-p2pb2b-july-25.html</guid>
         
         
         <category>reporting</category>

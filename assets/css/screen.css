@@ -786,6 +786,11 @@ h6 {
     margin-bottom: 1.5rem;
 }
 
+.article-post img {
+    min-width: 60%;
+    border: 1px solid #eaeaea;
+}
+
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
@@ -856,7 +861,7 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../img/dsla-network__iphone-x-front.png);
+        background-image: url(https://storage.googleapis.com/stacktical-public/dsla-network__iphone-x-side.png);
         background-position: center center;
     }
 
@@ -874,7 +879,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../img/dsla-network__iphone-x-front.png);
+    background-image: url(https://storage.googleapis.com/stacktical-public/dsla-network__iphone-x-side.png);
     background-size: cover;
     background-position: center center;
 }

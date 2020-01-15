@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Weekly Status Update: November 18th, 2019 - November 24th, 2019"
 author: Team
 categories: [ reporting ]

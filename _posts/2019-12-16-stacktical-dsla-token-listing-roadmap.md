@@ -16,7 +16,7 @@ As an early stage business-to-business initiative, with a legitimate use of bloc
 Thankfully, and with the help of our community, we have been exploring several new listing opportunities with this liquidity objective in mind. The result of this effort is a series of regulatory-compliant DSLA listing milestones, that closely follow the development maturity of the collection of smart contracts empowering Stacktical.
 
 | Phase        | Description           | ETA           | DSLA Protocol Network Maturity | Status           | Exchange 
-| :------------- | :-------------| :-------------| :-------------| :-------------| :-------------|
+| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
 | 0 | Token Generation Event| Q3 2018 | **Genesis** of the DSLA Protocol | **Done** | **N/A**
 | 1 | Initial Listing | Q3 2019 | **Alpha** available on the Ethereum **Test** Network | **Done** | [P2PB2B](https://p2pb2b.io/trade/DSLA_ETH)
 | 2 | Bridge 1 | Q1 2020 | **Beta** available on the Ethereum **Test** Network  | **In Progress** | TBA
@@ -27,12 +27,12 @@ As you can see, in the short term, **we will partner with a new mid-tier exchang
 But our end goal is to list DSLA on a major exchange **when, and only when, the Stacktical Platform is ready to demonstrate its full potential**.   
 
 | Network Maturity | Description           | DSLA Protocol Token Integration           |
-| :-------------| :-------------| :-------------|
-| Genesis | DSLA Protocol smart contracts are not available yet. | No DSLA
-| Alpha | DSLA Protocol smart contracts are privately available on the testnet. | Test DSLA tokens
-| Beta | DSLA Protocol smart contracts are publicly available on the testnet. | Test DSLA tokens
-| Release Candidate | DSLA Protocol smart contracts are publicly available on the mainnet, in limited mode. | Real DSLA tokens
-| Release | DSLA Protocol smart contracts are publicly available on the mainnet, without limitation. | Real DSLA tokens 
+| :------------- | :------------- | :------------- |
+| Genesis | DSLA Protocol smart contracts are not available yet. | No DSLA  
+| Alpha | DSLA Protocol smart contracts are privately available on the testnet. | Test DSLA tokens  
+| Beta | DSLA Protocol smart contracts are publicly available on the testnet. | Test DSLA tokens  
+| Release Candidate | DSLA Protocol smart contracts are publicly available on the mainnet, in limited mode. | Real DSLA tokens  
+| Release | DSLA Protocol smart contracts are publicly available on the mainnet, without limitation. | Real DSLA tokens   
 
 At maximum Network Maturity, **real DSLA tokens are used by the protocol to empower production applications**.
 
@@ -41,7 +41,7 @@ While we originally planned for a major listing in December, there is simply too
 The DSLA token is currently being tracked by the following websites:
 
 | Coin Tracker        | Link           |
-| :------------- | :-------------|
+| :------------- | :------------- |
 | **(NEW)** CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
 | **(NEW)** Coin Codex | [Here](https://coincodex.com/crypto/decentralized-service-level-agre/)   |
 | **(NEW)** Coinpaprika | [Here](https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/)   |
