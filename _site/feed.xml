@@ -5,9 +5,34 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jan 2020 18:01:49 +0100</pubDate>
-    <lastBuildDate>Wed, 15 Jan 2020 18:01:49 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2020 14:56:11 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 14:56:11 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA Listing Announcement</title>
+        <description>&lt;h2 id=&quot;-mark-your-calendar&quot;&gt;&lt;i class=&quot;fas fa-calendar&quot;&gt;&lt;/i&gt; Mark your Calendar&lt;/h2&gt;
+
+&lt;p&gt;Shortly after sharing our &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;listing roadmap&lt;/a&gt;&lt;/strong&gt; for 2020, we are pleased to inform the community that the DSLA utility token empowering the DSLA Protocol will be listed on the &lt;strong&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA&quot;&gt;STEX cryptocurrency exchange&lt;/a&gt;&lt;/strong&gt; on &lt;strong&gt;Thursday, January 23rd, 2020&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;STEX is a &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/rankings/exchanges/&quot;&gt;Top 100 CMC exchange&lt;/a&gt;&lt;/strong&gt;, with more than $40M in daily trading volume. It is a an excellent place for projects to be noticed by enthusiastic, early token adopters. DSLA will debut trading under the &lt;strong&gt;DSLA/ETH pair&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;deposit-your-dsla-on-stex-now&quot;&gt;Deposit your DSLA on STEX now&lt;/h2&gt;
+
+&lt;p&gt;We strongly advise you &lt;strong&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA&quot;&gt;sign up to STEX&lt;/a&gt;&lt;/strong&gt; and deposit your DSLA tokens as soon as possible, for a smooth trading experience.
+Also make sure your verify your account, if that is a requirement.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/reporting/trading/2020/01/22/dsla-listing-cryptocurrency-exchange-stex-january-23.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/trading/2020/01/22/dsla-listing-cryptocurrency-exchange-stex-january-23.html</guid>
+        
+        
+        <category>reporting</category>
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>The Year 2019 in Review</title>
@@ -1269,50 +1294,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         <category>partnership</category>
         
         <category>press</category>
-        
-      </item>
-    
-      <item>
-        <title>DSLA Listing (Slightly) Delayed</title>
-        <description>&lt;h2 id=&quot;no-new-listing-date-yet-but-a-matter-of-days&quot;&gt;No new listing date yet, but a matter of days&lt;/h2&gt;
-
-&lt;p&gt;Originally scheduled for July 25th, 2019, we regret to inform you that the DSLA token listing has been posponed, due to unforeseen circumstances with DSLA deposits and withdrawals on the P2PB2B exchange.&lt;/p&gt;
-
-&lt;p&gt;We have no exact date to share at this stage, but according to official information we have received from our account manager, &lt;strong&gt;the DSLA token will still be listed in a matter of days&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;dont-do-dsla-deposits-to-the-exchange-yet&quot;&gt;Don’t do DSLA deposits to the exchange yet&lt;/h2&gt;
-
-&lt;p&gt;Yesterday, members in our community noticed that the DSLA deposit feature had mistakenly been made available to all users on the exchange, despite any official announcement from P2PB2B and Stacktical.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please refrain from doing any DSLA deposit until further notice, you might lose your assets.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In reality, the DSLA token smart contract integration was, and is still undergoing live testing before getting approved for effective listing, and the DSLA deposit featured should have never been available to users, other than P2PB2B developers.&lt;/p&gt;
-
-&lt;p&gt;The postponement of the DSLA listing is the result of integration issues, raised by the aforementioned live testing session. While the development team achieved a certain degree of successful integration of DSLA, &lt;strong&gt;they expressed the will to fix these issues before listing us, rather than potentially undermining the community’s DSLA trading experience on d-day.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While we undertand your frustration, we believe that P2PB2B team’s approach to handling the issue is in the true spirit of reliability engineering, and we appreciate their commitment to maintaining a good quality of service for their exchange, even if it means exposing the Stacktical team and our community to some downtime.&lt;/p&gt;
-
-&lt;p&gt;It’s in our DNA to approach these situations cool-headed, since Stacktical has been created to help service providers align their reliability engineering and customer service capabilities with the risk that customers are willing to bear.&lt;/p&gt;
-
-&lt;h2 id=&quot;turning-a-bad-situation-into-an-opportunity&quot;&gt;Turning a bad situation into an opportunity&lt;/h2&gt;
-
-&lt;p&gt;We would like to take this unfortunate opportunity to announce that, along with listing of the DSLA token on the P2PB2B exchange, Stacktical is also proud to partner with P2PB2B to help them track their quality of service, boost employee morale and compensate customers for service level violations, in a highly automated way.&lt;/p&gt;
-
-&lt;p&gt;We will make sure to share the ins and outs of our partnership in a dedicated post.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, this bad customer experience is a foundational step to a future where uptime, deposit, withdrawal and other exchange commitments, are backed with Stacktical’s Decentralized Service Level Agreements and the DSLA token.&lt;/p&gt;
-
-&lt;p&gt;It does help to have a taste of your own medecine.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/trading/2019/07/24/dsla-listing-postponed-stacktical-partnership-p2pb2b.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/trading/2019/07/24/dsla-listing-postponed-stacktical-partnership-p2pb2b.html</guid>
-        
-        
-        <category>reporting</category>
-        
-        <category>trading</category>
         
       </item>
     
