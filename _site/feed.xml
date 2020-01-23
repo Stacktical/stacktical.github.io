@@ -5,9 +5,33 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jan 2020 14:56:11 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2020 14:56:11 +0100</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2020 01:45:48 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2020 01:45:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA Listing Update</title>
+        <description>&lt;h2 id=&quot;focusing-on-a-new-series-of-listing&quot;&gt;Focusing on a new series of listing&lt;/h2&gt;
+
+&lt;p&gt;To prepare DSLA for the &lt;strong&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;next steps of its development&lt;/a&gt;&lt;/strong&gt; for 2020, the DSLA/ETH pair has stopped trading on the &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io&quot;&gt;P2PB2B&lt;/a&gt;&lt;/strong&gt; exchange, effective immediately.&lt;/p&gt;
+
+&lt;p&gt;We invite all DSLA holders to withdraw their DSLA tokens from P2PB2B, and use the &lt;strong&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA&quot;&gt;STEX cryptocurrency exchange&lt;/a&gt;&lt;/strong&gt; to acquire DSLA tokens from now on.&lt;/p&gt;
+
+&lt;h2 id=&quot;withdraw-everything-before-feb-5th-2020&quot;&gt;Withdraw everything before Feb 5th, 2020&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Withdrawals will not be possible after Feb 5th, 2020&lt;/strong&gt;.&lt;br /&gt;
+Please make sure you proceed as soon as you can, to avoid losing your tokens.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/reporting/trading/2020/01/23/dsla-listing-update-exchange-alert.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/trading/2020/01/23/dsla-listing-update-exchange-alert.html</guid>
+        
+        
+        <category>reporting</category>
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>DSLA Listing Announcement</title>
@@ -1250,50 +1274,6 @@ Dates are subject to change as we are still finalization preparation with P2PB2B
         <category>reporting</category>
         
         <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>New Partnership Announcement — Stacktical (DSLA) x XYO Network (XYO)</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Stacktical and XYO announce their partnership to empower the future of the travel industry and reinvent travel experiences using their respective technologies.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;PARIS, FRANCE — Stacktical, a Blockchain Platform for managing Service Level Agreements (SLA), and XYO, the first Geospatial Blockchain Network, are joining forces to introduce Geospatial Decentralized Service Level Agreements to the travel industry and superchage the operations of airline companies, airports and more travel service providers.&lt;/p&gt;
-
-&lt;p&gt;With over 20 million luggages lost by airlines last year, and a record number of flight delays costing nearly 30 billion dollars to travel stakeholders, the travel industry is in urgent need for new governance approaches and technology solutions to remain sustainable.&lt;/p&gt;
-
-&lt;p&gt;By joining forces, Stacktical and XYO can align airline and airport logistics capabilities with the risk that consumers are willing to bear, and ultimately alleviate the frustration of travelers upon delays and other service failures.&lt;/p&gt;
-
-&lt;p&gt;This partnership is also a unique opportunity for Stacktical to explore how combining an open network of service level agreements and cryptocurrency incentives can increase the efficiency of existing consumer laws, such as the European &lt;em&gt;Flight Compensation Regulation 261/2004&lt;/em&gt;, that entitles travelers to compensation following flight delays.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;about-xyo-network-xyo&quot;&gt;About XYO Network (XYO)&lt;/h2&gt;
-
-&lt;p&gt;XYO is a network of devices that anonymously collect and validate geospatial data, such as the location of an e-commerce package or the humidity of the world’s most remote places.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/logo_xyo-network.png&quot; alt=&quot;stacktical_logo_v2-light&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;about-stacktical-dsla&quot;&gt;About Stacktical (DSLA)&lt;/h2&gt;
-
-&lt;p&gt;Powered by the DSLA token, Stacktical is a Service Level Agreement (SLA) platform for documenting, bargaining and tracking service commitments between service providers, employees and customers.&lt;/p&gt;
-
-&lt;p&gt;Decentralized SLAs align the interests of service stakeholders by creating an open network of highly automated agreements that can boost employee morale and settle customer disputes using DSLA token service credits.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/stacktical_logo_v2-light.png&quot; alt=&quot;stacktical_logo_v2-light&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/partnership/press/2019/07/30/stacktical-dsla-partnership-xyo-network.html</link>
-        <guid isPermaLink="true">http://localhost:4000/partnership/press/2019/07/30/stacktical-dsla-partnership-xyo-network.html</guid>
-        
-        
-        <category>partnership</category>
-        
-        <category>press</category>
         
       </item>
     
