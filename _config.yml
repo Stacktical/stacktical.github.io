@@ -12,7 +12,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 
 twitter:
   username: stacktical
-  card: summary_large
+  card: summary_large_image
 
 # Authors
 authors:
