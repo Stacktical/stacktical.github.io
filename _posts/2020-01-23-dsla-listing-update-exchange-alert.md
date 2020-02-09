@@ -13,8 +13,8 @@ To prepare DSLA for the **[next steps of its development](https://blog.stacktica
 
 We invite all DSLA holders to withdraw their DSLA tokens from P2PB2B, and use the **[STEX cryptocurrency exchange](https://app.stex.com/en/trade/pair/ETH/DSLA)** to acquire DSLA tokens from now on.  
 
-## Withdraw everything before Feb 5th, 2020
-**Withdrawals will not be possible after Feb 5th, 2020**.  
+## Withdraw everything before Feb 18th, 2020
+**Withdrawals will not be possible after Feb 18th, 2020**.  
 Please make sure you proceed as soon as you can, to avoid losing your tokens.
 
 
