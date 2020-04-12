@@ -1,13 +1,13 @@
 ---
 layout: post
 featured: true
-title:  "The Year 2019 in Review"
+title:  "Q1 2020 in Review"
 author: Team
 categories: [ reporting ]
 image: assets/img/2020-01-15-stacktical-dsla-year-2019-review.jpg
 ---
 
-## Happy New Year to the Stacktical Community !
+## DSLA Quarterly Update
 
 What better way to start 2020, than reflecting on last year's achievements, and setting ever bigger goals for ourselves? Thank you for sticking with us through our crazy journey, and best of wishes for this new decade.
 
