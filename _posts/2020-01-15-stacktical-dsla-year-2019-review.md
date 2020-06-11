@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "The Year 2019 in Review"
 author: Team
 categories: [ reporting ]

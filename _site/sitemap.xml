@@ -89,6 +89,18 @@
 <lastmod>2020-02-12T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reporting/2020/04/15/stacktical-dsla-quarterly-update-Q1-2020.html</loc>
+<lastmod>2020-04-15T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/reporting/2020/06/01/dsla-protocol-monthly-status-update-may-2020.html</loc>
+<lastmod>2020-06-01T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/reporting/2020/06/11/dsla-token-cryptocurrency-listing-june-july-2020.html</loc>
+<lastmod>2020-06-11T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -153,5 +165,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page5/</loc>
 </url>
 </urlset>

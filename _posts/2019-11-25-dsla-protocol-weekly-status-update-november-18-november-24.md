@@ -138,11 +138,11 @@ ___
 
 | Coin Tracker        | Link           |
 | :------------- | :-------------|
-| **(NEW)** CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla)   |
+| **(NEW)** CoinGecko | [Here](https://www.coingecko.com/en/coins/dsla-protocol)   |
 | **(NEW)** Coin Codex | [Here](https://coincodex.com/crypto/decentralized-service-level-agre/)   |
-| **(NEW)** Coinpaprika | [Here](https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/)   |
+| **(NEW)** Coinpaprika | [Here](https://coinpaprika.com/coin/dsla-dsla-protocol/)   |
 | **(NEW)** CryptoCompare | [Here](https://www.cryptocompare.com/coins/dsla/overview)   |
-| **(NEW)** Nomics | [Here](https://nomics.com/assets/dsla-dsla)   |
+| **(NEW)** Nomics | [Here](https://nomics.com/assets/dsla-dsla-protocol)   |
 
 
 * Stacktical is the proud recipient of an Overseas Innovation Prize, during the 2019 edition of the #InnovationOutremer competition at STATION F, the world’s largest startup incubator.

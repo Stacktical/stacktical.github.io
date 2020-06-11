@@ -5,9 +5,464 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Feb 2020 10:47:06 +0100</pubDate>
-    <lastBuildDate>Thu, 13 Feb 2020 10:47:06 +0100</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2020 12:13:53 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2020 12:13:53 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>A new listing is coming soon</title>
+        <description>&lt;h2 id=&quot;more-liquidity-more-volume&quot;&gt;More liquidity, More volume&lt;/h2&gt;
+
+&lt;p&gt;As per our &lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;DSLA token listing roadmap&lt;/a&gt;, we are proud to announce that will proceed with our second bridge listing, on a new cryptocurrency exchange, shortly.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Phase&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Description&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; ETA&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;DSLA Protocol Network Maturity&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Exchange&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Token Generation Event&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2018&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Genesis&lt;/strong&gt; of the DSLA Protocol&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;strong&gt;N/A&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Initial Listing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2019&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Alpha&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q1 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Beta&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA/1&quot;&gt;STEX&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Until then, we strongly advise that you acquire DSLA on STEX now, as we are gearing up for new announcements.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2020/06/11/dsla-token-cryptocurrency-listing-june-july-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/06/11/dsla-token-cryptocurrency-listing-june-july-2020.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
+    
+      <item>
+        <title>Monthly Status Update: May 2020</title>
+        <description>&lt;h2 id=&quot;stacktical-turns-3-&quot;&gt;Stacktical turns 3 🎂&lt;/h2&gt;
+
+&lt;p&gt;Did you know that the average lifespan of 90% of technology companies is less than 2 years?&lt;/p&gt;
+
+&lt;p&gt;As we celebrate our third anniversary right in the middle of an unprecedented global crisis, it is humbling to be still around and kicking, more dedicated than ever to sustain the development of DSLA Protocol and the entire family of DSLA products.&lt;/p&gt;
+
+&lt;p&gt;Happy birthday to us and courage to our friends going through difficult times right now.&lt;/p&gt;
+
+&lt;p&gt;It’s never been more important to care about your customers, and we will keep providing support to the industries that need to reinvent themselves in order to show demonstrable care as an inherent part of their customer experience, and look forward to optimize their financial and non-financial revenue using the DSLA Protocol and the DSLA Network DApp.&lt;/p&gt;
+
+&lt;p&gt;If you’re staking service provider or an individual validator, interested in joining our growing list of launch partners, please check out our official partner deck &lt;a href=&quot;https://storage.googleapis.com/stacktical-public/STACKTICAL_DSLA-DECK.pdf&quot;&gt;at this address&lt;/a&gt;. Among other perks, early commitments to use DSLA Protocol as an official launch partners will grant you reduced maintenance fees for SLA checks.&lt;/p&gt;
+
+&lt;p&gt;Let’s chat !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2020-06-01-dsla-protocol-monthly-status-update-may-2020-birthday.jpg&quot; alt=&quot;Stacktical turns 3&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-lately&quot;&gt;A quick look at what kept us busy lately&lt;/h2&gt;
+
+&lt;h3 id=&quot;-products&quot;&gt;&lt;i class=&quot;fas fa-code&quot;&gt;&lt;/i&gt; Products&lt;/h3&gt;
+
+&lt;h4 id=&quot;stacktical-website&quot;&gt;Stacktical Website&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 4.0.0 &lt;a href=&quot;https://stacktical.com&quot;&gt;stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;June 30th&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The new Stacktical website is being developed right now.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re often mistaken for an insurance solution. It is very much understandable since a SLA contracts protects customers against unforeseen events using financial incentives, often in the form of service credits. But service level agreements are first and foremost a governance vehicle for service providers, meaning it’s a framework to design and make decisions to consistently meet quality standards when it comes to delivering data, services, goods and transporting people.&lt;/p&gt;
+
+&lt;p&gt;The upcoming version 4.0.0 of the Stacktical Website aims at demonstrating the capabilities of DSLA Protocol in various industries, and better articulate the benefits of decentralizing a SLA contract, compared to existing centralized Service Level Management (SLM) solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;Visit the Stacktical Website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;stacktical-blog&quot;&gt;Stacktical Blog&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 2.1.0 &lt;a href=&quot;https://blog.stacktical.com&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No new developments for the Stacktical Blog this month.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dsla-protocol&quot;&gt;DSLA Protocol&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 2.1.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;80%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;July 2020&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A new DSLA Protocol version is being developed right now.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our objective with the release of DSLA Protocol version 2.0.1 was to provide an end-to-end uptime SLA scenario where a user could be easily compensated for the downtimes of a given website. Feedbacks from the community has helped us identify several issues and areas of improvements that needs to be addressed through a new release.&lt;/p&gt;
+
+&lt;p&gt;DSLA Protocol version 2.1.0 aims at integrating our new Oracle partner to ensure reliable, decentralized periodic SLA checks, and the automated enforcement of SLA policies (e.g. monthly downtime compensation in DSLA token).&lt;/p&gt;
+
+&lt;p&gt;If you would like to know more about this upcoming release, lease join the developer discussion &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot;&gt;on Telegram&lt;/a&gt;&lt;/strong&gt;, if you haven’t already.
+___&lt;/p&gt;
+
+&lt;h4 id=&quot;dsla-token&quot;&gt;DSLA Token&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 2 (Mainnet) &lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Token Information&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Verified Value&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Technology&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ERC-20 (ETHEREUM BLOCKCHAIN)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Official Address&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Official ABI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/blob/master/build/contracts/DSLA_v0.json&quot;&gt;DSLA.json&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Circulating Supply&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;4,098,261,677 DSLA&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Total Supply&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;9,000,000,000 DSLA&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Issued&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The DSLA protocol uses the DSLA cryptocurrency to transfer value between customers and providers, according to good and bad service levels.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No bug fix or security update to the DSLA token this month.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Previous fixes :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/issues/5&quot;&gt;Transfer function returns false when wrapped in a require statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dsla-network&quot;&gt;DSLA Network&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Version 0.9.0 &lt;a href=&quot;https://dsla.network&quot;&gt;dsla.network&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Q3 2020&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The new DSLA Network DApp is being developed right now.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The flagship use case of DSLA Protocol is to secure staking rewards against slashing penalties and unfulfilled reliability promises. It’s a great way for staking service providers to meet quality standards and de-risk staking for their delegators.&lt;/p&gt;
+
+&lt;p&gt;While this is something we’re already explicitely mentioning on the &lt;a href=&quot;https://dsla.network/&quot;&gt;DSLA Network homepage&lt;/a&gt;, the Proof-of-Stake blockchain networks and assets that will be supported by the protocol have yeat to appear somewhere on the DApp. Version 0.9.0 of DSLA Network will introduce a series of change in the SLA creation workflow, and introduce a Staking SLA along with the existing Uptime SLA.&lt;/p&gt;
+
+&lt;p&gt;Wilhem has discussed with the top management of the world’s best staking service providers to establish a list of priority networks and assets that should be made available at launch. It goes without saying that we plan on supporting Kusama and Polkadot from the get-go, as we’re working on our W3F grant assignments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla-network__iphone-x-front.png&quot; alt=&quot;https://dsla.network&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
+
+&lt;h4 id=&quot;promotion&quot;&gt;Promotion&lt;/h4&gt;
+
+&lt;p&gt;This month we focused on establishing that DSLA is a microcap gem that should pick the interest of the worldwide cryptocurrency community.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The DSLA token has been listed on CoinMarketCap and Feixiaohao (Chinese CMC)&lt;/li&gt;
+  &lt;li&gt;The DSLA token is being tracked by the following websites:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinMarketCap&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Feixiaohao&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.feixiaohao.com/currencies/dslaprotocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Nomics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;distribution&quot;&gt;Distribution&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have connected with a major international Cloud vendor to explore a potential distribution partnership on their marketplace.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;partnerships&quot;&gt;Partnerships&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(UNDER NDA) New monitoring data broker, to address a very special industry vertical and use case&lt;/li&gt;
+  &lt;li&gt;(UNDER NDA) New decentralized Oracle provider, to propel our mainnet launch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-finance&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance&lt;/h3&gt;
+
+&lt;h4 id=&quot;cryptocurrency-exchange-listing&quot;&gt;Cryptocurrency Exchange Listing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We plan on listing DSLA to a new exchange by mid-July 2020.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The DSLA cryptocurrency token is still available for trading on the following exchanges :&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Exchange&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pair&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Trade at&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;STEX&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/ETH&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA&quot;&gt;https://app.stex.com/en/trade/pair/ETH/DSLA&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA&quot;&gt;&lt;img src=&quot;/assets/img/2020-06-01-stex.jpg&quot; alt=&quot;Trade DSLA on STEX&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2020/06/01/dsla-protocol-monthly-status-update-may-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/06/01/dsla-protocol-monthly-status-update-may-2020.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
+    
+      <item>
+        <title>Q1 2020 in Review</title>
+        <description>&lt;h1 id=&quot;dsla-quarterly-update&quot;&gt;DSLA Quarterly Update&lt;/h1&gt;
+
+&lt;p&gt;When you launch a project that leverages emerging technology, you must be ready for anything. But little did we know that the world as we know it, would change to such extent in such a short amound of time.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-dsla-has-been-listed-on-stex&quot;&gt;5. DSLA has been listed on STEX&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.stex.com/en/basic-trade/pair/ETH/DSLA&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/iK4pTU2J8VfQjCSDpO/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-dsla-crosses-250k-dsla-in-market-cap&quot;&gt;4. DSLA crosses $250K DSLA in Market Cap&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;DSLA Protocol on CoinGecko&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/MYxeC2jJVq2OBtJkfu/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-dslas-first-appearance-on-coinmarketcap&quot;&gt;3. DSLA’s first appearance on CoinMarketCap&lt;/h2&gt;
+
+&lt;p&gt;The DSLA token is currently being tracked by the following websites:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinMarketCap&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Feixiaohao&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.feixiaohao.com/currencies/dslaprotocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Nomics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/H1jy89gVYt1UtKj9wp/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-we-shipped-a-scalability-prediction-platform&quot;&gt;2. We shipped a Scalability Prediction Platform&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Will it scale ?&lt;/code&gt; is an open source Predictive Analysis Platform that enables you to engineer scalable distributed applications, networks and other systems, by applying mathematical models to bytesized performance measurements.&lt;/p&gt;
+
+&lt;p&gt;This initiative is the product of 3 years of R&amp;amp;D at Stacktical (DSLA Protocol), and our hands-on experience with capacity planning in cloud computing environments. We are proud to make it public, for everyone to enjoy, as we direct our efforts towards the blockchain industry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://camo.githubusercontent.com/877b615322662e09c8532ca04fcb124b09b328af/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f737461636b746963616c2d7075626c69632f77696c6c69747363616c652d706f6c6b61646f742e6a7067&quot; alt=&quot;Polkadot : Will it scale ?&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contribute now at &lt;a href=&quot;https://github.com/Stacktical/willitscale-polkadot&quot;&gt;https://github.com/Stacktical/willitscale-polkadot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-our-team-friends-and-family-are-safe&quot;&gt;1. Our team, friends and family are safe&lt;/h2&gt;
+
+&lt;h3 id=&quot;stay-safe-everyone-&quot;&gt;Stay safe, everyone. 😷&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/WpUnq7ZdJDEQT3w9po/giphy.gif&quot; alt=&quot;Stay safe for covid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Original GIF By &lt;a href=&quot;https://giphy.com/gifs/hands-wash-hygiene-d7HWDCV6t72iRm9vPh&quot;&gt;Joan Kamberaj&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2020/04/15/stacktical-dsla-quarterly-update-Q1-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/04/15/stacktical-dsla-quarterly-update-Q1-2020.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
     
       <item>
         <title>Stacktical receives web3 foundation grant to predict the scalability of Polkadot and Substrate blockchains </title>
@@ -323,9 +778,12 @@ Also make sure your verify your account, if that is a requirement.&lt;/p&gt;
         <title>DSLA Listing Roadmap</title>
         <description>&lt;h2 id=&quot;when-new-exchange-&quot;&gt;When new exchange ?&lt;/h2&gt;
 
+&lt;p&gt;&lt;em&gt;🎉 Edit: We have officially left P2PB2B for &lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA/1&quot;&gt;STEX&lt;/a&gt;.&lt;br /&gt;
+🎉 Edit: DSLA is now available on &lt;a href=&quot;https://coinmarketcap.com/currencies/dsla-protocol/&quot;&gt;CoinMarketCap&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;As an early stage business-to-business initiative, with a legitimate use of blockchain and decentralized ledger technologies, the Stacktical Platform has definitely room for adoption. And we’re well aware that we have a lot to learn to achieve our goals as a company.&lt;/p&gt;
 
-&lt;p&gt;6 months after our initial appearance &lt;strong&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;on the P2PB2B cryptocurrency exchange&lt;/a&gt;,&lt;/strong&gt; the trading activity of the DSLA token have yet to meet the expectations of our community stakeholders. While this first listing put our company on the cryptocurrency map, and was undoubtedly an important step in the right direction, DSLA needs to be more liquid to fulfill its mission as the utility token of the &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;DSLA Protocol&lt;/a&gt;&lt;/strong&gt;, and empower reward, compensation and staking scenarios on the Platform.&lt;/p&gt;
+&lt;p&gt;6 months after our initial appearance on the P2PB2B cryptocurrency exchange, the trading activity of the DSLA token have yet to meet the expectations of our community stakeholders. While this first listing put our company on the cryptocurrency map, and was undoubtedly an important step in the right direction, DSLA needs to be more liquid to fulfill its mission as the utility token of the &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;DSLA Protocol&lt;/a&gt;&lt;/strong&gt;, and empower reward, compensation and staking scenarios on the Platform.&lt;/p&gt;
 
 &lt;p&gt;Thankfully, and with the help of our community, we have been exploring several new listing opportunities with this liquidity objective in mind. The result of this effort is a series of regulatory-compliant DSLA listing milestones, that closely follow the development maturity of the collection of smart contracts empowering Stacktical.&lt;/p&gt;
 
@@ -355,23 +813,23 @@ Also make sure your verify your account, if that is a requirement.&lt;/p&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q3 2019&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Alpha&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;P2PB2B&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge 1&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q1 2020&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Beta&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;In Progress&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA/1&quot;&gt;STEX&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge 2&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
@@ -439,23 +897,19 @@ But our end goal is to list DSLA on a major exchange &lt;strong&gt;when, and onl
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinGecko&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinMarketCap&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinmarketcap.com/currencies/dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CoinGecko&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coin Codex&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coincodex.com/crypto/decentralized-service-level-agre/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Coinpaprika&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CryptoCompare&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.cryptocompare.com/coins/dsla/overview&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Nomics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Nomics&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -742,7 +1196,7 @@ ___&lt;/p&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinGecko&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coin Codex&lt;/td&gt;
@@ -750,7 +1204,7 @@ ___&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-decentralized-service-level-agreement/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CryptoCompare&lt;/td&gt;
@@ -758,7 +1212,7 @@ ___&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Nomics&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -821,363 +1275,6 @@ ___&lt;/p&gt;
         
         
         <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Throwback Thursday: InsurTech &amp; the Future of Insurance</title>
-        <description>&lt;p&gt;In this video, Stacktical’s CEO, Wilhem Pujar, moderates a panel on InsurTech and the future of insurance, at the 2018 FIN/SUM conference in Tokyo, Japan.&lt;/p&gt;
-
-&lt;div class=&quot;video&quot;&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OY4cMwcauYw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Our warm thanks to The Nikkei for sharing the video with us, and for inviting our co-founders to one of the greatest FinTech event in the world. For more information about The Nikkei’s FIN/SUM event series, please go to &lt;a href=&quot;https://finsum.jp&quot;&gt;https://finsum.jp&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/news/throwback%20thursday/event/2019/10/31/stacktical-dsla-throwback-thursday-finsum-2018-tokyo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/throwback%20thursday/event/2019/10/31/stacktical-dsla-throwback-thursday-finsum-2018-tokyo.html</guid>
-        
-        
-        <category>news</category>
-        
-        <category>throwback thursday</category>
-        
-        <category>event</category>
-        
-      </item>
-    
-      <item>
-        <title>The definite guide to your high-performance IPFS Gateway</title>
-        <description>&lt;h1 id=&quot;the-definite-guide-to-your-high-performance-ipfs-gateway&quot;&gt;The definite guide to your high-performance IPFS Gateway&lt;/h1&gt;
-
-&lt;p&gt;So you want to store and fetch your public IPFS Assets with no compromise of speed and reliability while participating in strengthening the network? You are at the right place!
-We compiled the essential bits so you can get this done quickly.&lt;/p&gt;
-
-&lt;p&gt;What’s IPFS?
-The Interplanetary File System is exactly what the name says, a distributed file system to replace the centralized HTTP Web that we know.&lt;/p&gt;
-
-&lt;p&gt;This is how Stacktical’s IPFS server is used to our own &lt;a href=&quot;https://dsla.network&quot;&gt;platform’s&lt;/a&gt; Dapp (&lt;a href=&quot;https://github.com/INFURA/infura/issues/128&quot;&gt;15s&lt;/a&gt; faster &lt;code class=&quot;highlighter-rouge&quot;&gt;add&lt;/code&gt; operations for a lightweight JSON payload vs Infura’s).
-We limited the domain that accesses our node with CORS and used an Nginx encrypted proxy to handle HTTPS connections to IPFS.&lt;/p&gt;
-
-&lt;p&gt;Turnkey solutions like &lt;a href=&quot;https://infura.io&quot;&gt;Infura’s IPFS Gateway&lt;/a&gt; and Pinata are great to start and to give IPFS a try but everyone should avoid Centralized Services to access decentralized services (which defeat the purpose of Decentralization and don’t provide the &lt;a href=&quot;https://status.infura.io/incidents/mdh6tjbt8gt5&quot;&gt;performance and reliability you need for your (D)app&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This article will cover:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The complete setup of a Cloud instance to run our IPFS node&lt;/li&gt;
-  &lt;li&gt;How to make your node securely available for your (D)app&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ipfs-server-setup&quot;&gt;IPFS Server setup&lt;/h2&gt;
-
-&lt;p&gt;We are leveraging Google Cloud Platform so this article will cover setup on a compute instance type &lt;code class=&quot;highlighter-rouge&quot;&gt;n1-standard-1&lt;/code&gt; with Debian OS but it’s pretty much straightforward on other Cloud vendors and Linux Oses.
-Here we create an instance with HTTP and HTTPS allowed in the firewall section (We will have an HTTP -&amp;gt; HTTPS redirect).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/2019-09-21-google-cloud-ipfs-server.jpg&quot; alt=&quot;google cloud new instance&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or with the GCP SDK:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gcloud compute --project=stacktical-0 instances create ipfs-node-1 --zone=us-central1-b --machine-type=n1-standard-1 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --tags=http-server,https-server&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;storage-layer&quot;&gt;Storage layer&lt;/h3&gt;
-
-&lt;p&gt;Our Node Storage need will most likely grow in size, so it’s better to give our node a dedicated Volume for &lt;a href=&quot;https://medium.com/google-cloud/resize-your-persist-disk-on-google-cloud-on-the-fly-b3491277b718&quot;&gt;flexibility&lt;/a&gt; and extra persistency:&lt;/p&gt;
-
-&lt;p&gt;Add a persistent disk to your &lt;a href=&quot;https://cloud.google.com/compute/docs/disks/add-persistent-disk&quot;&gt;IPFS Node instance&lt;/a&gt; and &lt;a href=&quot;https://cloud.google.com/compute/docs/disks/add-persistent-disk#formatting&quot;&gt;mount it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That’s how our node fstab entry looked like:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;UUID=[DISK_UUID] /mnt/disks/[MNT_DIR] ext4 discard,defaults,nofail 0 2&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;[DISK_UUID] is the Disk Unique Id obtained with the &lt;code class=&quot;highlighter-rouge&quot;&gt;blkid&lt;/code&gt; command.&lt;/li&gt;
-  &lt;li&gt;[MNT_DIR] is the directory where the ipfs volume will be mounted, &lt;code class=&quot;highlighter-rouge&quot;&gt;/mnt/disk/ipfs-disk/&lt;/code&gt; in our case.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Set the Volume location for IPFS to make use of it:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;echo 'export IPFS_PATH=/mnt/disk/ipfs-disk/ipfs' &amp;gt;&amp;gt;~/.bash_profile
-source ~/.bash_profile
-sudo chown -R  ubuntu:ubuntu $IPFS_PATH/*
-mkdir $IPFS_PATH/ipfs
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;You may change the user of the &lt;code class=&quot;highlighter-rouge&quot;&gt;chown&lt;/code&gt; command to yourself of a newly created one for ipfs (here ubuntu as an example).&lt;/p&gt;
-
-&lt;h3 id=&quot;install-ipfs&quot;&gt;Install IPFS&lt;/h3&gt;
-
-&lt;p&gt;This is where the fun begins, the installation of IPFS is quite straightforward.
-We use &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs-update&lt;/code&gt; tool to install and update IPFS easily:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;cd ~/
-wget https://dist.ipfs.io/ipfs-update/v1.5.2/ipfs-update_v1.5.2_linux-amd64.tar.gz
-tar xvfz ipfs-update_v1.5.2_linux-amd64.tar.gz
-cd ipfs-update
-sudo ./install.sh
-ipfs-update versions
-ipfs-update install latest
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Running &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs-update install latest&lt;/code&gt; will automatically install the latest release of IPFS or upgrade a previous installation like this:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;$ sudo ipfs-update install v0.4.22
-fetching go-ipfs version v0.4.22
-binary downloaded, verifying...
-success! tests all passed.
-stashing old binary
-installing new binary to /usr/local/bin/ipfs
-checking if repo migration is needed...
-
-Installation complete!
-Remember to restart your daemon before continuing
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Now we have to initialize IPFS Server with &lt;code class=&quot;highlighter-rouge&quot;&gt;ipfs init --profile server&lt;/code&gt; (making sure IPFS_PATH is properly set) to generate the repo and its configuration file.
-We will have to edit that configuration file to turn the install into a proper IPFS Server.
-You can already check the content of that configuration file in &lt;code class=&quot;highlighter-rouge&quot;&gt;$IPFS_PATH/ipfs/config&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ipfs-service-setup&quot;&gt;IPFS Service setup&lt;/h4&gt;
-
-&lt;p&gt;We can now automate the IPFS daemon management with Systemd or &lt;a href=&quot;http://supervisord.org/&quot;&gt;supervisord&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Create the following systemd to persist the lunch of IPFS Server across reboots:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;sudo bash -c 'cat &amp;gt;/lib/systemd/system/ipfs.service &amp;lt;&amp;lt;EOL
-[Unit]
-Description=IPFS Daemon
-After=network.target
-
-[Service]
-ExecStart=/usr/local/bin/ipfs daemon
-User=ubuntu
-Restart=always
-LimitNOFILE=10240
-Environment=&quot;IPFS_PATH=/mnt/disks/ipfs-disk/ipfs&quot;
-
-[Install]
-WantedBy=multi-user.target
-EOL'
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;We can now enable that service to start upon reboots:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;$ sudo systemctl daemon-reload
-$ sudo systemctl enable ipfs
-$ sudo systemctl start ipfs
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;ipfs-gateway-setup&quot;&gt;IPFS Gateway setup&lt;/h2&gt;
-
-&lt;p&gt;Configure CORS on IPFS&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin '[&quot;&amp;lt;your domain or all (*)&amp;gt;&quot;]'
-ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '[&quot;PUT&quot;, &quot;GET&quot;, &quot;POST&quot;]'
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;And confirm/edit the content on the API section of the configuration file:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&quot;HTTPHeaders&quot;: {
-   &quot;Access-Control-Allow-Headers&quot;: [
-      &quot;X-Requested-With&quot;,
-      &quot;Access-Control-Expose-Headers&quot;,
-      &quot;Range&quot;
-   ],   &quot;Access-Control-Expose-Headers&quot;: [
-      &quot;Location&quot;,
-      &quot;Ipfs-Hash&quot;
-   ],   &quot;Access-Control-Allow-Methods&quot;: [
-      &quot;POST&quot;,
-      &quot;GET&quot;
-   ],   &quot;Access-Control-Allow-Origin&quot;: [
-      &quot;&amp;lt;your_domain or all (*)&amp;gt;&quot;
-   ],   &quot;X-Special-Header&quot;: [
-      &quot;Access-Control-Expose-Headers: Ipfs-Hash&quot;
-   ]
-},&quot;RootRedirect&quot;: &quot;&quot;,
-&quot;Writable&quot;: true,
-&quot;PathPrefixes&quot;: [],
-&quot;APICommands&quot;: []
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Note: If you want to accept all domains accessing your endpoint set the Acess Control Allow Origin to &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, otherwise specify the domain(s) you want to restrict the access to.&lt;/p&gt;
-
-&lt;p&gt;We can now restart the IPFS service to apply the changes:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo systemctl restart ipfs&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;test&quot;&gt;Test&lt;/h3&gt;
-
-&lt;h4 id=&quot;test-connectivity-and-cors&quot;&gt;Test connectivity and CORS&lt;/h4&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;curl -v -H &quot;Origin: http://&amp;lt;wrong or right domains&amp;gt;&quot; \
--H &quot;Access-Control-Request-Method: POST&quot; \
--H &quot;Access-Control-Request-Headers: X-Requested-With&quot; \
-http://0.0.0.0:5001/api/v0/swarm/peers
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You can test the non/working reachability from different domains according to your CORS restrictions&lt;/p&gt;
-
-&lt;h2 id=&quot;nginx-proxy-setup&quot;&gt;NGINX Proxy Setup&lt;/h2&gt;
-
-&lt;p&gt;An NGINX installation as a proxy pass will enable us to store data with POST methods to &lt;code class=&quot;highlighter-rouge&quot;&gt;https://&amp;lt;your ipfs domain&amp;gt;/api/v0/add&lt;/code&gt; and fetch them with GET method to&lt;code class=&quot;highlighter-rouge&quot;&gt;https://&amp;lt;your ipfs domain&amp;gt;/ipfs&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;First let’s install nginx. on Debian Based distributions:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;sudo apt update
-sudo apt install -y nginx
-sudo systemctl status nginx
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;install-certbot&quot;&gt;Install Certbot&lt;/h3&gt;
-
-&lt;p&gt;By following the instructions on the Certbot site:&lt;/p&gt;
-
-&lt;p&gt;(https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html)[https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx.html]&lt;/p&gt;
-
-&lt;p&gt;This will have our nginx configuration file ready for us to add the final touches.
-The end result should be a NGINX config file with location sections:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/api/v0/add&lt;/code&gt; For adding files (pinning is on by default).&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/ipfs&lt;/code&gt; To fetch content on the network.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; To deny all other traffic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/fe08d3659250e89a63aba314e1067a76.js&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;We can now restart the nginx server:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo systemctl restart nginx&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;hardening&quot;&gt;Hardening&lt;/h2&gt;
-
-&lt;p&gt;We strongly recommend enabling &lt;a href=&quot;https://libre-software.net/ubuntu-automatic-updates/&quot;&gt;unattended upgrades&lt;/a&gt; on your server and monitor the size of your IPFS Volume. You may have to grow it in size depending on your usage.&lt;/p&gt;
-
-&lt;h3 id=&quot;final-notes&quot;&gt;Final notes&lt;/h3&gt;
-
-&lt;p&gt;Private IPFS Network are an interestging way to answer the scalability of the IPFS network as described by &lt;a href=&quot;https://medium.com/pinata/dedicated-ipfs-networks-c692d53f938d&quot;&gt;the folks at Pinata&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Stacktical will soon provide a service that will measure the uptime of each IPFS gateways and return the best endpoints to you. Reach out to us if you want to be part of it!&lt;/p&gt;
-
-&lt;p&gt;That’s it! We went through tht process of installing a IPFS Gateway to store and deliver content securely on the IPFS Nerwork!&lt;/p&gt;
-
-&lt;p&gt;We hope this guide will help other project who are using IPFS. Don’t hesitate to give us a shoot if this article was useful to you at &lt;a href=&quot;https://t.me/stacktical&quot;&gt;t.me/stacktical&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Sep 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipfs/gateway/dapp/2019/09/21/ipfs-server-google-cloud-platform.html</guid>
-        
-        
-        <category>ipfs</category>
-        
-        <category>gateway</category>
-        
-        <category>dapp</category>
-        
-      </item>
-    
-      <item>
-        <title>DSLA.eth ENS Domain Name Acquired</title>
-        <description>&lt;h1 id=&quot;stacktical-secures-the-dslaeth-ens-domain-name&quot;&gt;Stacktical secures the &lt;code class=&quot;highlighter-rouge&quot;&gt;DSLA.eth&lt;/code&gt; ENS domain name&lt;/h1&gt;
-
-&lt;p&gt;Today the Stacktical team has been successfully granted the 4 characters &lt;code class=&quot;highlighter-rouge&quot;&gt;DSLA.eth&lt;/code&gt; short domain name after a review conducted by the Ethereum Name Service (ENS) Team conducted during the official ENS &lt;a href=&quot;https://medium.com/the-ethereum-name-service/announcing-the-ens-3-6-character-eth-name-reservation-process-7f3cc4d13f65&quot;&gt;Short Name Reservation Process&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our team is glad to own ` DSLA.eth` and is looking forward to enriching the experience of the Stacktical community and the capabilities of the &lt;a href=&quot;https://dsla.network&quot;&gt;Stacktical Platform&lt;/a&gt; with cryptography-verified URLs and web proterties that everybody can trust .&lt;/p&gt;
-
-&lt;h2 id=&quot;about-the-ethereum-name-service-ens&quot;&gt;About the Ethereum Name Service (ENS)&lt;/h2&gt;
-
-&lt;p&gt;ENS is the domain name system that is built on top of the Ethereum Blockchain Network.&lt;/p&gt;
-
-&lt;p&gt;As you might know, Internet is made of protocols that allow individuals to access online ressource using IP addresses,like &lt;code class=&quot;highlighter-rouge&quot;&gt;165.42.13.37&lt;/code&gt;. The purpose of a domain name system is to replace such sequence of numbers with something that is easier to read, remember and use, like &lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;stacktical.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In that spirit,  &lt;strong&gt;the Ethereum Name Service eliminates the need to read, remember and use 42 characters long addresses&lt;/strong&gt;, like &lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;, to access decentralized resources, send cryptocurrencies and interact with DApps.&lt;/p&gt;
-
-&lt;p&gt;You can already expect ` DSLA.eth` to provide effortless access to our token smart contract.
-ENS addresses are already supported by multiple mobile and desktop cryptocurrency wallets, and some online services like popular cryptocurrency exchange Bitfinex.&lt;/p&gt;
-
-&lt;h2 id=&quot;time-for-a-better-safer-fairer-web&quot;&gt;Time for a better, safer, fairer Web&lt;/h2&gt;
-
-&lt;p&gt;ENS is not just the name service for Ethereum, it is an important piece of the Web 3.0 infrastructure that paves the way to a better, more decentralized Internet.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ENS offers a secure &amp;amp; decentralised way to address resources both on and off the blockchain using simple, human-readable names.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nick Johnson and the rest of the ENS Team are continuously improving the ENS service, allowing domains to be transfered easily as tokens and be traded on cryptocurrency exchanges. We’re always excited for their new developements, such as the &lt;a href=&quot;https://medium.com/the-ethereum-name-service/ens-now-supports-tor-onion-address-resolution-9bb3bdff6217&quot;&gt;recently introduced ability to handle Tor .onion addresses&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Aug 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blockchain/ethereum/2019/08/23/dsla-dot-eth-secured-ens-ethereum-name-service.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blockchain/ethereum/2019/08/23/dsla-dot-eth-secured-ens-ethereum-name-service.html</guid>
-        
-        
-        <category>blockchain</category>
-        
-        <category>ethereum</category>
         
       </item>
     
