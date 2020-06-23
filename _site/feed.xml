@@ -5,9 +5,48 @@
     <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jun 2020 12:13:53 +0200</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2020 12:13:53 +0200</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2020 01:44:32 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2020 01:44:32 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>DSLA Listing Announcement</title>
+        <description>&lt;h2 id=&quot;mark-your-calendar&quot;&gt;Mark your Calendar&lt;/h2&gt;
+
+&lt;p&gt;🙌 Support for DSLA has grown tremendously over the past few weeks.&lt;/p&gt;
+
+&lt;p&gt;We are pleased to inform the community that, a couple days after hitting the &lt;strong&gt;&lt;a href=&quot;https://coinmarketcap.com/currencies/dsla-protocol/&quot;&gt;$1,000,000 market capitalization&lt;/a&gt;&lt;/strong&gt;, the DSLA utility token will be listed on the &lt;strong&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;ProBit cryptocurrency exchange&lt;/a&gt;&lt;/strong&gt; on &lt;strong&gt;Tuesday, June 30th, 2020 at 5pm KST&lt;/strong&gt; ! 🎉&lt;/p&gt;
+
+&lt;p&gt;ProBit is a &lt;strong&gt;South Korean 🇰🇷, &lt;a href=&quot;https://coinmarketcap.com/rankings/exchanges/&quot;&gt;Top 30 CoinMarketCap exchange&lt;/a&gt;&lt;/strong&gt;, with more than $40M in daily trading volume and great liquidity. As one the fastest growing cryptocurrency exchanges this year, ProBit will enable us to further build momentum for DSLA Protocol, DSLA Token and the DSLA family of products, in one of the most important cryptocurrency markets in the world.&lt;/p&gt;
+
+&lt;p&gt;👉 DSLA will debut trading under the &lt;strong&gt;DSLA/USDT pair&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;registration--deposit&quot;&gt;Registration &amp;amp; Deposit&lt;/h2&gt;
+&lt;h3 id=&quot;get-ready-for-takeoff-&quot;&gt;Get ready for takeoff 🚀&lt;/h3&gt;
+
+&lt;p&gt;☝️ We strongly advise you &lt;strong&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;sign up to ProBit now&lt;/a&gt;&lt;/strong&gt; for a smooth trading experience on d-day.&lt;/p&gt;
+
+&lt;p&gt;⏰ DSLA Deposits open on &lt;strong&gt;Monday, June 29th, 2020 at 5pm KST&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-dsla-protocol&quot;&gt;About DSLA Protocol&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png&quot; alt=&quot;DSLA Protocol&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;DSLA Protocol is a decentralized alternative to SLA contracts. It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations.&lt;/p&gt;
+
+&lt;p&gt;Currently available in public beta at &lt;a href=&quot;https://dsla.network&quot;&gt;https://dsla.network&lt;/a&gt;, DSLA Protocol will debut on the mainnet in Q4 2020, and will initially focus on securing staking rewards against slashing penalties, and unfulfilled reliability promises in the DeFi and Open Finance industries.&lt;/p&gt;
+
+&lt;p&gt;ℹ️ For more information about DSLA Protocol, go to &lt;a href=&quot;https://stacktical.com&quot;&gt;https://stacktical.com&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2020/06/23/dsla-listing-cryptocurrency-exchange-probit-june-30.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/06/23/dsla-listing-cryptocurrency-exchange-probit-june-30.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
     
       <item>
         <title>A new listing is coming soon</title>
@@ -919,359 +958,6 @@ But our end goal is to list DSLA on a major exchange &lt;strong&gt;when, and onl
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html</link>
         <guid isPermaLink="true">http://localhost:4000/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html</guid>
-        
-        
-        <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Weekly Status Update: November 18th, 2019 - November 24th, 2019</title>
-        <description>&lt;h2 id=&quot;a-quick-look-at-what-kept-us-busy-lately&quot;&gt;A quick look at what kept us busy lately&lt;/h2&gt;
-
-&lt;h3 id=&quot;-products&quot;&gt;&lt;i class=&quot;fas fa-code&quot;&gt;&lt;/i&gt; Products&lt;/h3&gt;
-
-&lt;h4 id=&quot;stacktical-website&quot;&gt;Stacktical Website&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Version 3.0.0 &lt;a href=&quot;https://stacktical.com&quot;&gt;stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;The new Stacktical website has been released.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Stacktical website is the home of the Stacktical company, and the gateway to the different components of the Stacktical Platform. &lt;/p&gt;
-
-&lt;p&gt;As such, it is our responsibility to make sure it conveys clear corporate and product information to our private contributors, our developer and cryptocurrency community, our customers and an increasingly diverse crowd of project stakeholders.&lt;/p&gt;
-
-&lt;p&gt;In order to be aligned enough with the evolving direction of the Stacktical project, we put the Stacktical Website developments on hold during Summer, and focused on challenging the Product and Technology story that we want like to tell.&lt;/p&gt;
-
-&lt;p&gt;A gazillion drawings, discussions and aha moments later, it is time to re-introduce DSLA to the world, and our new website definitely does set the tone for greater things moving forward.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://stacktical.com&quot;&gt;Visit the new Stacktical Website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;stacktical-blog&quot;&gt;Stacktical Blog&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Version 2.1.0 &lt;a href=&quot;https://blog.stacktical.com&quot;&gt;blog.stacktical.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;No new developments for the Stacktical Blog this month.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;dsla-protocol&quot;&gt;DSLA Protocol&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Version 2.0.1 (Ropsten) &lt;a href=&quot;https://ropsten.etherscan.io/address/0x1F67727e52F0885DdBd487eEfA0453A38d61932A&quot;&gt;0x1F67727e52F0885DdBd487eEfA0453A38d61932A&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Re-introducing DSLA to the World&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have you heard about DeFi, short for &lt;strong&gt;De&lt;/strong&gt;centralized &lt;strong&gt;Fi&lt;/strong&gt;nance?&lt;/p&gt;
-
-&lt;p&gt;DeFi introduces the ability for anyone to roll-out traditional financial products (e.g. loans), and reap their benefits (e.g. interests) on a decentralized network like the Ethereum blockchain.&lt;/p&gt;
-
-&lt;p&gt;Lately, we’ve been experimenting on adding DeFi capabilities to SLAs, to address some of the design challenges that comes with decentralized service governance. The illiquid nature of SLA compensation pool, for example.&lt;/p&gt;
-
-&lt;p&gt;These experiments turned out to be a great way to improve how we’re breaking down the Stacktical Platform into products, and exactly what product should represent our project.&lt;/p&gt;
-
-&lt;p&gt;Originally, we planned on positionning the &lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network application&lt;/a&gt;&lt;/strong&gt; as our flagship product. But it led the community into believe that we were simply developing a decentralized application, while we were in fact building a fully-fledged governance protocol.&lt;/p&gt;
-
-&lt;p&gt;In the Stacktical Platform architecture, a collection of smart contracts support the DSLA Network application behind the scenes. To put our blockchain development at the forefront, we’ve decided to officialize the DSLA protocol as our core component.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/stacktical_introducing-dsla-protocol.png&quot; alt=&quot;DSLA by Stacktical: An Autonomous SLA Protocol for the Web 3.0&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DSLA Protocol&lt;/strong&gt; is the simplest expression of what we’re really doing: building an autonomous governance protocol for developers like ourselves, willing to roll-out, bargain and enforce service level agreements at scale.&lt;/p&gt;
-
-&lt;p&gt;Along with empowering the &lt;strong&gt;&lt;a href=&quot;https://dsla.network&quot;&gt;DSLA Network application&lt;/a&gt;&lt;/strong&gt;, we can’t wait to see how SaaS and other applications can leverage the DSLA Protocol to supercharge their SLA contracting and reliability engineering practices.&lt;/p&gt;
-
-&lt;p&gt;More information a dedicated series of post here, soon.&lt;br /&gt;
-For now, please join the developer discussion &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot;&gt;on Telegram&lt;/a&gt;&lt;/strong&gt;, if you haven’t already.
-___&lt;/p&gt;
-
-&lt;h4 id=&quot;dsla-token&quot;&gt;DSLA Token&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Version 2 (Mainnet) &lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Token Information&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Verified Value&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Technology&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;ERC-20 (ETHEREUM BLOCKCHAIN)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Official Address&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&quot;&gt;0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Official ABI&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/blob/master/build/contracts/DSLA_v0.json&quot;&gt;DSLA.json&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Circulating Supply&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;6,500,000,000 DSLA&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Total Supply&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;10,000,000,000 DSLA&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Issued&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The DSLA protocol uses the DSLA cryptocurrency to transfer value between customers and providers, according to good and bad service levels.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;No bug fix or security update to the DSLA token this month.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Previous fixes :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Stacktical/stacktical-dsla-token/issues/5&quot;&gt;Transfer function returns false when wrapped in a require statement&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;dsla-network&quot;&gt;DSLA Network&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Version 0.0.1 (Ropsten) &lt;a href=&quot;https://dsla.network&quot;&gt;dsla.network&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Task&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Status&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Specifications&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Developments&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Quality Assurance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Release ETA&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Released&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Originally announced in the official Stacktical White Paper, The user-facing product of the Stacktical V2 Platform, dubbed “DSLA Network”, is finally up and running at &lt;a href=&quot;https://dsla.network&quot;&gt;https://dsla.network&lt;/a&gt; 🎉&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla-network__iphone-x-front.png&quot; alt=&quot;https://dsla.network&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The DSLA Network is a web application to roll out Decentralized Service Level Agreements (SLAs) and deploy autonomous SLA compensation programs using the DSLA Protocol and the DSLA Token.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;-marketing--sales&quot;&gt;&lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt; Marketing &amp;amp; Sales&lt;/h3&gt;
-
-&lt;h4 id=&quot;promotion&quot;&gt;Promotion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We have published and updated a new series of articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DSLA Vesting Schedule&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://blog.stacktical.com/reporting/2019/06/26/dsla-vesting-schedule.html&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The DSLA token is being tracked by the following websites:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinGecko&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coin Codex&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coincodex.com/crypto/decentralized-service-level-agre/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CryptoCompare&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.cryptocompare.com/coins/dsla/overview&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Nomics&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Stacktical is the proud recipient of an Overseas Innovation Prize, during the 2019 edition of the #InnovationOutremer competition at STATION F, the world’s largest startup incubator.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This story is developing and will be share in a dedicated blog post here.&lt;/p&gt;
-
-&lt;h4 id=&quot;distribution&quot;&gt;Distribution&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Winning a prize at the #InnovationOutremer competition has unlocked a series of distribution and partnership opportunities that we’ve started exploring.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This story is developing and will be share in a dedicated blog post here.&lt;/p&gt;
-
-&lt;h3 id=&quot;-finance&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Finance&lt;/h3&gt;
-
-&lt;h4 id=&quot;cryptocurrency-exchange-listing&quot;&gt;Cryptocurrency Exchange Listing&lt;/h4&gt;
-
-&lt;p&gt;The DSLA cryptocurrency token is available for trading on the following exchanges.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Exchange&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Pair&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Status&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Trade at&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/ETH&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_ETH&quot;&gt;https://p2pb2b.io/trade/DSLA_ETH&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/BTC&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_BTC&quot;&gt;https://p2pb2b.io/trade/DSLA_BTC&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;DSLA/USD&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Now Trading&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://p2pb2b.io/trade/DSLA_USD&quot;&gt;https://p2pb2b.io/trade/DSLA_USD&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-        <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/reporting/2019/11/25/dsla-protocol-weekly-status-update-november-18-november-24.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2019/11/25/dsla-protocol-weekly-status-update-november-18-november-24.html</guid>
         
         
         <category>reporting</category>
