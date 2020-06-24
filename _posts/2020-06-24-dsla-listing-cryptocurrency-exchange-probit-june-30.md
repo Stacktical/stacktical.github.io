@@ -4,7 +4,7 @@ featured: true
 title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting ]
-image: assets/img/2020-06-23-dsla-listing-cryptocurrency-exchange-probit-june-30.jpg
+image: assets/img/2020-06-24-dsla-listing-cryptocurrency-exchange-probit-june-30.jpg
 ---
 
 ## Mark your Calendar
@@ -13,7 +13,9 @@ image: assets/img/2020-06-23-dsla-listing-cryptocurrency-exchange-probit-june-30
 
 We are pleased to inform the community that, a couple days after hitting the **[$1,000,000 market capitalization](https://coinmarketcap.com/currencies/dsla-protocol/)**, the DSLA utility token will be listed on the **[ProBit cryptocurrency exchange](https://www.probit.com/app/exchange/DSLA-USDT)** on **Tuesday, June 30th, 2020 at 5pm KST** ! 🎉
 
-ProBit is a **South Korean 🇰🇷, [Top 30 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $40M in daily trading volume and great liquidity. As one the fastest growing cryptocurrency exchanges this year, ProBit will enable us to further build momentum for DSLA Protocol, DSLA Token and the DSLA family of products, in one of the most important cryptocurrency markets in the world.  
+ProBit is a **Top 4 South Korean cryptocurrency exchange 🇰🇷** and **[Top 30 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $40M in daily trading volume. 
+
+As one the fastest growing cryptocurrency exchanges this year, ProBit will enable us to further build momentum for DSLA Protocol, DSLA Token and the DSLA family of products, in one of the most important cryptocurrency markets in the world (South Koreans amount for 30% of global cryptocurrency trades).
 
 👉 DSLA will debut trading under the **DSLA/USDT pair**.
 
