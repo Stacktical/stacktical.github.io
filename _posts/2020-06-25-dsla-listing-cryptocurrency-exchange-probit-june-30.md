@@ -4,7 +4,7 @@ featured: true
 title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting ]
-image: assets/img/2020-06-24-dsla-listing-cryptocurrency-exchange-probit-june-30.jpg
+image: assets/img/2020-06-25-dsla-listing-cryptocurrency-exchange-probit-june-30.jpg
 ---
 
 ## Mark your Calendar
