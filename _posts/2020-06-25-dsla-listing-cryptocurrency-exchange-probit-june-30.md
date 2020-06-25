@@ -26,6 +26,8 @@ As one the fastest growing cryptocurrency exchanges this year, ProBit will enabl
 
 ⏰ DSLA Deposits open on **Monday, June 29th, 2020 at 5pm KST**.  
 
+🗣 Original announcement on ProBit: **[https://support.probit.com/hc/en-us/articles/900001539686](https://support.probit.com/hc/en-us/articles/900001539686)**.
+
 ## About DSLA Protocol
 
 ![DSLA Protocol](https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png) 
