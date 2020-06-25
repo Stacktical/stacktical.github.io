@@ -9,7 +9,7 @@ image: assets/img/2020-06-24-dsla-network-dapp-discovery-cryptocurrency-bitforex
 
 ## DSLA Protocol joins the BitForex CApp Town
 
-Members of the cryptocurrency community like talking about (the lack of) marketing activities a lot! But marketing isn't just about communication: the success of DSLA as a blockchain projects will **first and foremost depend on our ability to develop a strong distribution network for the products that we're building** (something that you learn as a 2nd time entrepreneur).  
+Members of the cryptocurrency community sure like to talk about (the lack of) marketing activities... But marketing isn't just about communication: the success of DSLA as a blockchain project will **first and foremost depend on our ability to develop a strong distribution network for the products that we're building** (something that you learn as a 2nd time entrepreneur).  
 
 Initiated by leading cryptocurrency exchange BitForex, **[CApp Town](https://www.bitforex.com/en/capptown)** is an up and coming service for discovering cryptocurrency and blockchain applications like DSLA Protocol and the family of DSLA products.
 
