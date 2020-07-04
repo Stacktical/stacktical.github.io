@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the official blog of Stacktical</title>
-    <description>A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token.</description>
+    <title>Meet DSLA Protocol,</title>
+    <description>A decentralized, peer-to-peer alternative to service level agreements, to de-risk 3rd party services using the power of maths, money and people.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Jul 2020 21:43:09 +0200</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2020 21:43:09 +0200</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2020 22:07:25 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2020 22:07:25 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>

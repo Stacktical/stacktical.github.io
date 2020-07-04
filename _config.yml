@@ -1,7 +1,7 @@
 # Site
-name: "The Stacktical Blog"
-title: "Welcome to the official blog of Stacktical"
-description: "A Service Level Agreement (SLA) Platform, powered by Blockchain Smart Contracts and the DSLA token."
+name: "DSLA Protocol Blog"
+title: "Meet DSLA Protocol,"
+description: "A peer-to-peer alternative to service level agreements powered by maths, money and mankind."
 logo: 'assets/img/logo.png'
 favicon: 'assets/img/logo.png'
 baseurl: ''
