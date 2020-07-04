@@ -7,7 +7,7 @@ categories: [ reporting, trading ]
 image: assets/img/2020-07-01-dsla-usdt-cryptocurrency-exchange-trading-probit.jpg
 ---
 
-## <i class="fas fa-rocket"></i> Trade DSLA/ETH now
+## Trade DSLA/USDT now 🚀
 
 Dear community and valued customers, we inform you that the DSLA token has debuted trading under the DSLA/USDT pair, on the **[ProBit cryptocurrency exchange](https://www.probit.com/app/exchange/DSLA-USDT)**.
 
