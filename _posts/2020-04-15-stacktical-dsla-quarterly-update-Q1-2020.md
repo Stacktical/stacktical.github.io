@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Q1 2020 in Review"
 author: Team
 categories: [ reporting ]
