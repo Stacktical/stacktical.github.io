@@ -1,32 +1,30 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting ]
-image: assets/img/2020-06-25-dsla-listing-cryptocurrency-exchange-probit-june-30.jpg
+image: assets/img/2020-07-21-dsla-listing-cryptocurrency-exchange-bilaxy-july-21.jpg
 ---
 
 ## Mark your Calendar
 
-🙌 Support for DSLA has grown tremendously over the past few weeks.  
+We are pleased to inform the community that, following our 800% June rally and after hitting a **[$1,000,000 market capitalization](https://coinmarketcap.com/currencies/dsla-protocol/)**, the DSLA utility token will be listed on the **[Bilaxy cryptocurrency exchange](https://bilaxy.com/trade/DSLA_USDT)** on **Tuesday, July 21st, 2020 at 2pm CET** ! 🎉
 
-We are pleased to inform the community that, a couple days after hitting the **[$1,000,000 market capitalization](https://coinmarketcap.com/currencies/dsla-protocol/)**, the DSLA utility token will be listed on the **[ProBit cryptocurrency exchange](https://www.probit.com/app/exchange/DSLA-USDT)** on **Tuesday, June 30th, 2020 at 5pm KST** ! 🎉
+Bilaxy is a **[Top 50 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $100M in daily trading volume. 
 
-ProBit is a **Top 4 South Korean cryptocurrency exchange 🇰🇷** and **[Top 30 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $40M in daily trading volume. 
-
-As one the fastest growing cryptocurrency exchanges this year, ProBit will enable us to further build momentum for DSLA Protocol, DSLA Token and the DSLA family of products, in one of the most important cryptocurrency markets in the world (South Koreans amount for 30% of global cryptocurrency trades).
+This third bridge listing will **allow DSLA to be eligible for circulating supply and market cap tracking on CoinMarketCap**, a major step towards the global adoption of the project.
 
 👉 DSLA will debut trading under the **DSLA/USDT pair**.
 
 ## Registration & Deposit
 ### Get ready for takeoff 🚀
 
-☝️ We strongly advise you **[sign up to ProBit now](https://www.probit.com/app/exchange/DSLA-USDT)** for a smooth trading experience on d-day.
+☝️ We strongly advise you **[sign up to Bilaxy now](https://bilaxy.com/trade/DSLA_USDT)** for a smooth trading experience on d-day.
 
-⏰ DSLA Deposits open on **Monday, June 29th, 2020 at 5pm KST**.  
+⏰ DSLA Deposits are already open !
 
-🗣 Original announcement on ProBit: **[https://support.probit.com/hc/en-us/articles/900001539686](https://support.probit.com/hc/en-us/articles/900001539686)**.
+🗣 Original announcement on Bilaxy: **[https://bilaxy.zendesk.com/hc/en-us/articles/900001831306-Bilaxy-Lists-DSLA-Protocol-DSLA-](https://bilaxy.zendesk.com/hc/en-us/articles/900001831306-Bilaxy-Lists-DSLA-Protocol-DSLA-)**.
 
 ## Listing Roadmap
 ### When exchange?

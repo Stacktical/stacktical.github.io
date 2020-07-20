@@ -9,8 +9,9 @@ image: assets/img/2019-12-16-stacktical-dsla-token-listing-roadmap.jpg
 
 ## When new exchange ?
 
-*🎉 Edit: We have officially left P2PB2B for [STEX](https://app.stex.com/en/trade/pair/ETH/DSLA/1).  
-🎉 Edit: DSLA is now available on [CoinMarketCap](https://coinmarketcap.com/currencies/dsla-protocol/).*
+*🎉 Edit: We have officially left P2PB2B for [STEX](https://app.stex.com/en/trade/pair/ETH/DSLA/1).*  
+*🎉 Edit: DSLA/USDT debuts trading on [ProBit](https://www.probit.com/app/exchange/DSLA-USDT).*  
+*🎉 Edit: DSLA/USDT debuts trading on [Bilaxy](https://bilaxy.com/trade/DSLA_USDT).*  
 
 As an early stage business-to-business initiative, with a legitimate use of blockchain and decentralized ledger technologies, the Stacktical Platform has definitely room for adoption. And we're well aware that we have a lot to learn to achieve our goals as a company.
 
@@ -23,8 +24,9 @@ Thankfully, and with the help of our community, we have been exploring several n
 | 0 | Token Generation Event| Q3 2018 | **Genesis** of the DSLA Protocol | **Done** | **N/A**
 | 1 | Initial Listing | Q3 2019 | **Alpha** available on the Ethereum **Test** Network | **Done** | P2PB2B
 | 2 | Bridge 1 | Q1 2020 | **Beta** available on the Ethereum **Test** Network  | **Done** | [STEX](https://app.stex.com/en/trade/pair/ETH/DSLA/1)
-| 3 | Bridge 2 | Q2 2020 | **Release Candidate** available on the Ethereum **Main** Network  | In progress | In progress
-| 4 | Major Listing | Q4 2020 | **Release** on the Ethereum **Main** Network | TBA | TBA
+| 3 | Bridge 2 | Q2 2020 | **Release Candidate** available on the Ethereum **Test** Network  | **Done** | [ProBit](https://www.probit.com/app/exchange/DSLA-USDT)
+| 4 | Bridge 3 | Q3 2020 | **Release Candidate** available on the Ethereum **Test** Network  | **Done**  | [Bilaxy](https://bilaxy.com/trade/DSLA_USDT)
+| 5 | Major Listing | Q4 2020 | **Release** on the Ethereum **Main** Network | TBA | TBA
 
 As you can see, in the short term, **we will partner with a new mid-tier exchange in Q1 2020**, as we'll be moving to the Beta phase of the DSLA Protocol and DSLA Network.
 But our end goal is to list DSLA on a major exchange **when, and only when, the Stacktical Platform is ready to demonstrate its full potential**.   

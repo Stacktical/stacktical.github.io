@@ -5,13 +5,15 @@
     <description>A peer-to-peer alternative to service level agreements powered by maths, money and mankind.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jul 2020 16:13:51 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2020 16:13:51 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2020 23:46:17 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2020 23:46:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>A new listing is coming soon</title>
         <description>&lt;h2 id=&quot;en-route-to-cmc&quot;&gt;En route to CMC&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Edit (2020/07/21): DSLA/USDT debuts trading on &lt;a href=&quot;https://bilaxy.com/trade/DSLA_USDT&quot;&gt;Bilaxy&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We have updated our &lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;DSLA token listing roadmap&lt;/a&gt; to integrate a third bridge listing! This will allow DSLA to be eligible for circulating supply and market cap tracking on CoinMarketCap, a major step towards the global adoption of the project:&lt;/p&gt;
 
@@ -55,17 +57,25 @@
       &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge 2&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;ProBit&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge 3&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://bilaxy.com/trade/DSLA_USDT&quot;&gt;Bilaxy&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Major Listing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q4 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release&lt;/strong&gt; on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -440,6 +450,72 @@ ___&lt;/p&gt;
 
 &lt;p&gt;🗣 Original announcement on ProBit: &lt;strong&gt;&lt;a href=&quot;https://support.probit.com/hc/en-us/articles/900001539686&quot;&gt;https://support.probit.com/hc/en-us/articles/900001539686&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;h2 id=&quot;listing-roadmap&quot;&gt;Listing Roadmap&lt;/h2&gt;
+&lt;h3 id=&quot;when-exchange&quot;&gt;When exchange?&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Phase&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; Description&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; ETA&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;DSLA Protocol Network Maturity&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Exchange&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Token Generation Event&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2018&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Genesis&lt;/strong&gt; of the DSLA Protocol&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;strong&gt;N/A&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Initial Listing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2019&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Alpha&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;N/A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q1 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Beta&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://app.stex.com/en/trade/pair/ETH/DSLA/1&quot;&gt;STEX&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;ProBit&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://bilaxy.com/trade/DSLA_USDT&quot;&gt;Bilaxy&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Major Listing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q4 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release&lt;/strong&gt; on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
 &lt;h2 id=&quot;about-dsla-protocol&quot;&gt;About DSLA Protocol&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png&quot; alt=&quot;DSLA Protocol&quot; /&gt;&lt;/p&gt;
@@ -496,6 +572,8 @@ ___&lt;/p&gt;
         <title>A new listing is coming soon</title>
         <description>&lt;h2 id=&quot;more-liquidity-more-volume&quot;&gt;More liquidity, More volume&lt;/h2&gt;
 
+&lt;p&gt;&lt;em&gt;Edit: DSLA/USDT debuts trading on &lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;ProBit&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;As per our &lt;a href=&quot;https://blog.stacktical.com/reporting/2019/12/16/stacktical-dsla-token-listing-roadmap.html&quot;&gt;DSLA token listing roadmap&lt;/a&gt;, we are proud to announce that will proceed with our second bridge listing, on a new cryptocurrency exchange, shortly.&lt;/p&gt;
 
 &lt;table&gt;
@@ -524,7 +602,7 @@ ___&lt;/p&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q3 2019&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Alpha&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;P2PB2B&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;N/A&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
@@ -538,9 +616,25 @@ ___&lt;/p&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Bridge 2&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Q2 2020&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;In progress&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;ProBit&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bridge 3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q3 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release Candidate&lt;/strong&gt; available on the Ethereum &lt;strong&gt;Test&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://bilaxy.com/trade/DSLA_USDT&quot;&gt;Bilaxy&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Major Listing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Q4 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Release&lt;/strong&gt; on the Ethereum &lt;strong&gt;Main&lt;/strong&gt; Network&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;TBA&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
