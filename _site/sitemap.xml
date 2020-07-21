@@ -121,6 +121,14 @@
 <lastmod>2020-07-20T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reporting/2020/07/21/dsla-listing-cryptocurrency-exchange-bilaxy-july-21.html</loc>
+<lastmod>2020-07-21T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/reporting/trading/2020/07/21/dsla-usdt-cryptocurrency-exchange-trading-bilaxy.html</loc>
+<lastmod>2020-07-21T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -188,5 +196,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page6/</loc>
 </url>
 </urlset>
