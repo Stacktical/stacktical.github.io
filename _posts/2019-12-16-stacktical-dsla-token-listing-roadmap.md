@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "DSLA Listing Roadmap"
 author: WilhemPujar
 categories: [ reporting ]

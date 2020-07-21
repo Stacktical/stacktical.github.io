@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: true
-title:  "DSLA/USDT debuts trading on ProBit"
+title:  "DSLA/USDT debuts trading on Bilaxy"
 author: Team
 categories: [ reporting, trading ]
 image: assets/img/2020-07-21-dsla-usdt-cryptocurrency-exchange-trading-bilaxy.jpg
