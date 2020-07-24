@@ -35,7 +35,7 @@ Just like their real counterpart, bDSLA tokens will be used to pay for the perio
 
 ## Starring Harmony (ONE) and more
 
-The DSLA Incentivized Deta will exemplify how the **DSLA Protocol provides a decentralized way to derisks the staking experience of some of the best blockchain networks out there**. 
+The DSLA Incentivized Beta will exemplify how the **DSLA Protocol provides a decentralized way to derisks the staking experience of some of the best blockchain networks out there**. 
 
 We are excited to announce that Harmony ONE staking deposits will be amongst the first assets supported by DSLA Protocol during the incentivized beta test!
 
