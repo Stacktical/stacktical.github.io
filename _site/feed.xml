@@ -5,9 +5,121 @@
     <description>A peer-to-peer alternative to service level agreements powered by maths, money and mankind.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jul 2020 14:20:59 +0200</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 14:20:59 +0200</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2020 22:04:51 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2020 22:04:51 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Announcing the DSLA Incentivized Beta Test: Road to Mainnet</title>
+        <description>&lt;h2 id=&quot;beta-test-real-rewards&quot;&gt;Beta Test, Real Rewards&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in what’s happening behind the scenes of cryptocurrency staking, you might have had the opportunity to contribute to &lt;strong&gt;incentivized testnets&lt;/strong&gt;, test blockchain networks that &lt;strong&gt;reward their participants using cryptocurrency with actual market value&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;By making testing new blockchain networks less asymmetric between users and developers (users get rewarded for the time they pour into testing new product developments), incentivized testnets have emerged as &lt;strong&gt;a compelling way to attract the first Validators and Delegators of new proof-of-stake projects&lt;/strong&gt;, and bootstrap their security by producing and endorsing their first series of blocks.&lt;/p&gt;
+
+&lt;p&gt;In that spirit, to better align the interest of the community (earn DSLA rewards and DSLA compensations) with the interest of core DSLA developers (product-market fit), we are proud to announce that we will be organizing a &lt;strong&gt;DSLA incentivized beta test&lt;/strong&gt; using a test version of the DSLA Network, the first decentralized application implementing the DSLA Protocol.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/stacktical-public/dsla_network.png&quot; alt=&quot;DSLA Network&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On &lt;strong&gt;September 30th 2020&lt;/strong&gt;, the DSLA Network DApp hosted of the Ropsten Ethereum network will &lt;strong&gt;reward beta participants using DSLA tokens with actual market value&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;For our team, your contribution will be the perfect chance to validate the functional, performance, reliability and security assumptions of the DSLA Network before &lt;strong&gt;launching on the mainnet on November 30th 2020&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-dsla-incentivized-beta-test&quot;&gt;The DSLA Incentivized Beta Test&lt;/h2&gt;
+
+&lt;p&gt;By outsourcing block production and endorsement to third party staking providers, Delegators do not need to operate their own blockchain node to earn staking rewards. But at the same time, they are exposed to the potential bad behaviour and unfulfilled reliability promises of Validators.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This puts their staking deposit at risk of being depleted (slashing penalty).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DSLA Protocol is a decentralized alternative to SLA contracts for derisking staking services. It enables anyone to vouch for the reliability of a staking service, earn rewards when the staking service performs as expected, and claim financial compensation when the staking service doesn’t meet expectations.&lt;/p&gt;
+
+&lt;p&gt;A test ERC-20 token called &lt;strong&gt;bDSLA&lt;/strong&gt; will be issued on the Ethereum test network, to specifically empower the DSLA Incentivized Beta Test.&lt;/p&gt;
+
+&lt;p&gt;Just like their real counterpart, bDSLA tokens will be used to pay for the periodic verification of DSLA contracts, and empower the reward / compensation scenarios of the DSLA Protocol.  When the protocol launches on the mainnet this year, &lt;strong&gt;bDSLA token holders will then be able to convert their bDSLA rewards and compensation into real DSLA tokens&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;starring-harmony-one-and-more&quot;&gt;Starring Harmony (ONE) and more&lt;/h2&gt;
+
+&lt;p&gt;The DSLA Incentivized Deta will exemplify how the &lt;strong&gt;DSLA Protocol provides a decentralized way to derisks the staking experience of some of the best blockchain networks out there&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are excited to announce that Harmony ONE staking deposits will be amongst the first assets supported by DSLA Protocol during the incentivized beta test!&lt;/p&gt;
+
+&lt;h3 id=&quot;about-harmony&quot;&gt;About Harmony&lt;/h3&gt;
+
+&lt;p&gt;Harmony is a fast and open blockchain for decentralized applications. Through secure and random state sharding, the Harmony Mainnet supports thousands of nodes that produce blocks in a few seconds with instant finality. The protocol’s Effective Proof-of-Stake (EPoS) staking mechanism reduces centralization while supporting stake delegation, reward compounding and &lt;strong&gt;double-sign slashing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;harmony-x-dsla-protocol&quot;&gt;Harmony x DSLA Protocol&lt;/h3&gt;
+
+&lt;p&gt;During the DSLA Incentivized Beta Test, ONE Delegators will be able to easily hedge against Validators downtimes and double-sign slashing risks, by &lt;strong&gt;signing Staking Efficiency DSLA contracts&lt;/strong&gt; and &lt;strong&gt;staking bDSLA tokens&lt;/strong&gt; in the reward pool.&lt;/p&gt;
+
+&lt;p&gt;In parallel, anyone on the Internet will be able to earn bDSLA tokens for protecting ONE Delegators from downtimes and double-sign slashing, by &lt;strong&gt;creating Staking Efficiency DSLA contracts **and **staking bDSLA tokens&lt;/strong&gt; in the compensation pool.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Staking Efficiency is the percentage of realized rewards by a Validator.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
+
+&lt;p&gt;In practice, every n days, DSLA contracts compare the measured staking efficiency of a Validator, with the efficiency objective defined in the Staking Efficiency DSLA contract then :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;DSLA Rewards&lt;/strong&gt; are distributed to contract owners and staking service providers, if the staking efficiency of the designated Validator &lt;strong&gt;does not drop below the defined objective&lt;/strong&gt;;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;DSLA Compensations&lt;/strong&gt; are distributed to contract enrollees, if the staking effiency of the designated Validator &lt;strong&gt;drops below the defined objective&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We can wait to see how DSLA will improve the delegation experience of the Harmony community and the Quality of Service of Harmony ONE staking service providers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2020-07-24-dsla-protocol-incentivized-beta-test_activity_staking-efficiency-dsla.png&quot; alt=&quot;activity_staking-efficiency-dsla.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;more-assets-planned-for-the-beta-launch&quot;&gt;More assets planned for the beta launch&lt;/h3&gt;
+
+&lt;p&gt;Along with Harmony’s ONE, other popular proof-of-stake assets will be unveiled during the weeks preceeding the DSLA Incentivited Beta. Ever since the project’s inception, we have been talking with world class teams like Harmony to bring Decentralized IT Service Management (ITSM) and Customer Service practices to the DeFi and Open Finance industry.&lt;/p&gt;
+
+&lt;h2 id=&quot;participating-in-the-beta-as-easy-as-1-2-3&quot;&gt;Participating in the Beta: As easy as 1-2-3&lt;/h2&gt;
+
+&lt;p&gt;Until the comprehensive Incentivized Beta Test documentation is ready and available, here’s an overview on how to get started with the DSLA Network DApp upon beta launch. It will mostly consist of three simple steps.&lt;/p&gt;
+
+&lt;h3 id=&quot;️-step-1-acquire-bdsla-tokens&quot;&gt;☝️ STEP 1) Acquire bDSLA tokens&lt;/h3&gt;
+
+&lt;p&gt;The first time you connect your wallet to the beta, &lt;strong&gt;your bDSLA token balance will be synced once with your real DSLA token balance.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;N. B. If you are not a DSLA token holder just yet, you will need to &lt;strong&gt;&lt;a href=&quot;https://www.probit.com/app/exchange/DSLA-USDT&quot;&gt;first become one&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;️-step-2-stake-bdsla-tokens&quot;&gt;✌️ STEP 2) Stake bDSLA tokens&lt;/h3&gt;
+
+&lt;p&gt;Once your bDSLA token balance is synced, you will be able to :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sign an existing DSLA contract and stake bDSLA to its DSLA Reward Pool;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new DSLA contract and stake bDSLA to setup a new DSLA Compensation Pool.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-step-3-compound-bdsla-rewards&quot;&gt;🤟 STEP 3) Compound bDSLA rewards&lt;/h3&gt;
+
+&lt;p&gt;Extra bDSLA tokens will be periodically claimable by the users that created or signed a DSLA contract, &lt;strong&gt;according to the measured Staking Efficiency of the Validator designated in the contract.&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;follow-the-dsla-incentivized-beta-news&quot;&gt;Follow the DSLA Incentivized Beta news&lt;/h2&gt;
+
+&lt;p&gt;To keep up with the ins and outs of the DSLA Incentivized Beta, please subscribe to our dedicated &lt;strong&gt;&lt;a href=&quot;https://www.producthunt.com/upcoming/dsla-network&quot;&gt;Product Hunt page&lt;/a&gt;&lt;/strong&gt;, and join the ongoing conversation in our official &lt;strong&gt;&lt;a href=&quot;https://t.me/stacktical&quot;&gt;Telegram group&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We have many surprises planned for the coming days and weeks.&lt;/p&gt;
+
+&lt;p&gt;It’s going to be a hot summer ☀️&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Jul 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/reporting/2020/07/24/dsla-protocol-incentivized-beta-test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reporting/2020/07/24/dsla-protocol-incentivized-beta-test.html</guid>
+        
+        
+        <category>reporting</category>
+        
+      </item>
     
       <item>
         <title>DSLA/USDT debuts trading on Bilaxy</title>
@@ -1096,86 +1208,6 @@ ___&lt;/p&gt;
         <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/reporting/2020/06/01/dsla-protocol-monthly-status-update-may-2020.html</link>
         <guid isPermaLink="true">http://localhost:4000/reporting/2020/06/01/dsla-protocol-monthly-status-update-may-2020.html</guid>
-        
-        
-        <category>reporting</category>
-        
-      </item>
-    
-      <item>
-        <title>Q1 2020 in Review</title>
-        <description>&lt;h1 id=&quot;dsla-quarterly-update&quot;&gt;DSLA Quarterly Update&lt;/h1&gt;
-
-&lt;p&gt;When you launch a project that leverages emerging technology, you must be ready for anything. But little did we know that the world as we know it, would change to such extent in such a short amound of time.&lt;/p&gt;
-
-&lt;h2 id=&quot;5-dsla-has-been-listed-on-stex&quot;&gt;5. DSLA has been listed on STEX&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://app.stex.com/en/basic-trade/pair/ETH/DSLA&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/iK4pTU2J8VfQjCSDpO/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-dsla-crosses-250k-dsla-in-market-cap&quot;&gt;4. DSLA crosses $250K DSLA in Market Cap&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla&quot;&gt;DSLA Protocol on CoinGecko&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/MYxeC2jJVq2OBtJkfu/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3-dslas-first-appearance-on-coinmarketcap&quot;&gt;3. DSLA’s first appearance on CoinMarketCap&lt;/h2&gt;
-
-&lt;p&gt;The DSLA token is currently being tracked by the following websites:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Coin Tracker&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; Link&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; CoinMarketCap&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(NEW)&lt;/strong&gt; Feixiaohao&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.feixiaohao.com/currencies/dslaprotocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; CoinGecko&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Coinpaprika&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://coinpaprika.com/coin/dsla-dsla-protocol/&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;(UPDATED)&lt;/strong&gt; Nomics&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nomics.com/assets/dsla-dsla-protocol&quot;&gt;Here&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/dsla-protocol&quot;&gt;&lt;img src=&quot;https://media.giphy.com/media/H1jy89gVYt1UtKj9wp/giphy.gif&quot; alt=&quot;DSLA Token&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2-we-shipped-a-scalability-prediction-platform&quot;&gt;2. We shipped a Scalability Prediction Platform&lt;/h2&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Will it scale ?&lt;/code&gt; is an open source Predictive Analysis Platform that enables you to engineer scalable distributed applications, networks and other systems, by applying mathematical models to bytesized performance measurements.&lt;/p&gt;
-
-&lt;p&gt;This initiative is the product of 3 years of R&amp;amp;D at Stacktical (DSLA Protocol), and our hands-on experience with capacity planning in cloud computing environments. We are proud to make it public, for everyone to enjoy, as we direct our efforts towards the blockchain industry.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://camo.githubusercontent.com/877b615322662e09c8532ca04fcb124b09b328af/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f737461636b746963616c2d7075626c69632f77696c6c69747363616c652d706f6c6b61646f742e6a7067&quot; alt=&quot;Polkadot : Will it scale ?&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contribute now at &lt;a href=&quot;https://github.com/Stacktical/willitscale-polkadot&quot;&gt;https://github.com/Stacktical/willitscale-polkadot&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-our-team-friends-and-family-are-safe&quot;&gt;1. Our team, friends and family are safe&lt;/h2&gt;
-
-&lt;h3 id=&quot;stay-safe-everyone-&quot;&gt;Stay safe, everyone. 😷&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/WpUnq7ZdJDEQT3w9po/giphy.gif&quot; alt=&quot;Stay safe for covid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Original GIF By &lt;a href=&quot;https://giphy.com/gifs/hands-wash-hygiene-d7HWDCV6t72iRm9vPh&quot;&gt;Joan Kamberaj&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Apr 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/reporting/2020/04/15/stacktical-dsla-quarterly-update-Q1-2020.html</link>
-        <guid isPermaLink="true">http://localhost:4000/reporting/2020/04/15/stacktical-dsla-quarterly-update-Q1-2020.html</guid>
         
         
         <category>reporting</category>

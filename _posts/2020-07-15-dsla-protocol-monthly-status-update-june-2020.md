@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Monthly Status Update: June 2020"
 author: Team
 categories: [ reporting ]
