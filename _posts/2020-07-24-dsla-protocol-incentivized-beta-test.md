@@ -2,7 +2,7 @@
 layout: post
 featured: true
 title:  "Announcing the DSLA Incentivized Beta Test: Road to Mainnet"
-author: WilhemPujar
+author: Team
 categories: [ reporting ]
 image: assets/img/2020-07-24-dsla-protocol-incentivized-beta-test.jpg
 ---
@@ -47,7 +47,7 @@ Harmony is a fast and open blockchain for decentralized applications. Through se
 
 During the DSLA Incentivized Beta Test, ONE Delegators will be able to easily hedge against Validators downtimes and double-sign slashing risks, by **signing Staking Efficiency DSLA contracts** and **staking bDSLA tokens** in the reward pool.
 
-In parallel, anyone on the Internet will be able to earn bDSLA tokens for protecting ONE Delegators from downtimes and double-sign slashing, by **creating Staking Efficiency DSLA contracts **and **staking bDSLA tokens** in the compensation pool.
+In parallel, anyone on the Internet will be able to earn bDSLA tokens for protecting ONE Delegators from downtimes and double-sign slashing, by **creating Staking Efficiency DSLA contracts** and **staking bDSLA tokens** in the compensation pool.
 
 **Staking Efficiency is the percentage of realized rewards by a Validator.**
 
