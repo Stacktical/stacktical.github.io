@@ -23,9 +23,6 @@ Start trading DSLA/USDT  **[now](https://bilaxy.com/trade/DSLA_USDT)**.
 
 DSLA Protocol is a decentralized alternative to SLA contracts. It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations. 
 
-Currently available in public beta at [https://dsla.network](https://dsla.network), DSLA Protocol will debut on the mainnet in Q4 2020, and will initially focus on securing staking rewards against slashing penalties, and unfulfilled reliability promises in the DeFi and Open Finance industries. 
+DSLA Protocol will debut an incentivized beta on the Ethereum testnet in Q3 2020, and will initially focus on providing a hedge against staking risks, and unfulfilled reliability promises in the DeFi and Open Finance industries. 
 
 ℹ️ For more information about DSLA Protocol, go to [https://stacktical.com](https://stacktical.com).
-
-
-

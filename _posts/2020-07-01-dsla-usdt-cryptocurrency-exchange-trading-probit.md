@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA/USDT debuts trading on ProBit"
 author: Team
 categories: [ reporting, trading ]

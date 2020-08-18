@@ -133,6 +133,10 @@
 <lastmod>2020-07-24T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/defi/residency/2020/08/18/dsla-token-community-faucet-uniswap-liquidity-mining.html</loc>
+<lastmod>2020-08-18T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -188,6 +192,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/event/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/defi/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/residency/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
