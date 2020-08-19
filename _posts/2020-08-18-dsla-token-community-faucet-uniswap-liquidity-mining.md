@@ -19,7 +19,7 @@ Today, we are proud to announce that one of the first contributions to the Progr
 
 ## Meet the DSLA Community Faucet
 
-Borrowed from Ampleforth's Geyser DApp, the DSLA Community Faucet is **a smart faucet that rewards users in DSLA tokens, for providing liquidity on [the official DSLA/WETH pair on Uniswap](https://uniswap.info/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)**. 
+Borrowed from Ampleforth's Geyser DApp, the DSLA Community Faucet is **a smart faucet that rewards users in DSLA tokens, for providing liquidity on [the official DSLA-ETH pair on Uniswap](https://uniswap.info/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)**. 
 
 The more DSLA liquidity you provide on Uniswap, and for longer, the greater share of the faucet pool you receive.
 
