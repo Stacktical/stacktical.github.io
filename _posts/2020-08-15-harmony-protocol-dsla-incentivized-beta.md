@@ -28,7 +28,7 @@ Harmony is the first proof-of-stake blockchain network to be officially supporte
 
 Our teams will join forces to make staking ONE tokens rank amongst the safest and most rewarding staking experiences in the industry.  
 
-![Harmony on DSLA](/assets/img/2020-08-15-harmony-protocol-dsla-incentivized-beta-smartphone.jpg)
+![Harmony on DSLA](/assets/img/2020-08-15-harmony-protocol-dsla-incentivized-beta-smartphone-alt.jpg)
 
 To follow the news about the DSLA Incentivized Beta, feel free to subscribe to our [Product Hunt page](https://www.producthunt.com/upcoming/dsla-network), and join the ongoing conversation on [Telegram](https://t.me/stacktical). We will share more information about the beta roadmap very soon.
 
