@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "After ONE and BAND, DSLA to improve the Polkadot (DOT) staking experience"
+title:  "DSLA will also back the Polkadot DOT staking experience at launch"
 author: Team
 categories: [ partnership ]
 image: assets/img/2020-08-28-polkadot-dsla-incentivized-beta-smartphone.jpg
@@ -9,17 +9,17 @@ image: assets/img/2020-08-28-polkadot-dsla-incentivized-beta-smartphone.jpg
 
 ## Earn rewards for protecting DOT staking deposits against staking risks
 
-Dear DSLA Champions, our team is proud to announce that we are adding support for the Polkadot network to the DSLA Protocol! 🎉 Polkadot relies on a Nominated Proof of Stake (NPoS) system, where nominators back validators with their own stake as a show of faith in the good behavior of the validator. 
+Dear DSLA Champions, our team is proud to announce that we are adding support for the Polkadot network to the DSLA Protocol! Polkadot relies on a Nominated Proof of Stake (NPoS) system, where nominators back validators with their own stake as a show of faith in the good behavior of the validator. 
 
 During the upcoming DSLA Incentivized Beta, DSLA contracts will provide DOT token nominators with a decentralized hedge against slashing, staking efficiency drops and late reward payouts, while enabling anyone to earn rewards for protecting DOT staking deposits against staking risks.
 
 > This will allow DSLA to enable Polkadot validators to become provably trustworthy validators, even if they lack the track record and brand recognition to convince nominators to back them.  
 
-Note that, although we share common goals with the Polkadot team, and work on the scope of the W3F grant as recipient, we are not official Polkadot partners, nor Polkadot has officially endorsed the listing of DOT staking on DSLA. Our team simply thought this was the perfect opportunity to demonstrate the permissionless nature of DSLA Protocol. 
+Note that, although we share common goals with the Polkadot team, we are not official Polkadot partners. Polkadot hasn't officially endorsed the DSLA incentivized beta.
 
-Adding DOT staking insurance to the DSLA protocol is in line with the work initiated on Parachain scalability and service level management since February 2020. Expect more announcements related to the Polkadot ecosystem, as we're finishing up developments and solidify the final scope of the DSLA architecture.
+That being said, adding DOT staking insurance to the DSLA protocol is in line with the scope of our Polkadot W3F grant, and the work initiated on Parachain scalability and service level management since February 2020.
 
-Viva la descentralización.
+You can expect more news related to the Polkadot ecosystem in the coming weeks, as we're finishing up developments and solidify the final scope of the DSLA architecture.
  
  ![Polkadot (DOT) DSLA Contract on DSLA.network](/assets/img/2020-08-28-polkadot-dsla-incentivized-beta-smartphone-alt.jpg)
 
