@@ -1,7 +1,7 @@
 ---
 layout: post
-featured: true
-title:  "DSLA Uniswap Liquidity Mining 🦄⛏"
+featured: false
+title:  "DSLA Uniswap Liquidity Mining 🦄💎⛏"
 author: Team
 categories: [ DeFi, residency ]
 image: assets/img/2020-08-18-dsla-token-community-faucet-uniswap-liquidity-mining.jpg
@@ -55,16 +55,20 @@ The DSLA Community Faucet has initially been filled with **15M DSLA, rewarded ov
 
 Before the faucet expires on **September 1st, 2020**, and if it is deemed useful (and has the statistics to prove it), we will proceed with adding a more sizeable contribution to the Community Faucet pool, and further accompany the growth of liquidity on Uniswap for the rest of the year.
 
-**Time to 🦄⛏  !**
+**Time to 🦄💎⛏  !**
 
-## About DSLA Protocol
+## About the DSLA Protocol
 
 ![DSLA Protocol](https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png) 
 
-DSLA Protocol is a decentralized alternative to SLA contracts. It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations. 
+**DSLA Protocol is a decentralized alternative to SLA contracts.**
 
-DSLA Protocol will debut an incentivized beta on the Ethereum testnet in Q3 2020, and will initially focus on providing a hedge against staking risks, and unfulfilled reliability promises in the DeFi and Open Finance industries. 
+It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations. 
 
-ℹ️ For more information about DSLA Protocol, go to [https://stacktical.com](https://stacktical.com).
+DSLA Protocol and the DSLA.network Ðapp, will debut an incentivized beta in Q4 2020, focusing on providing a hedge against staking risks, and unfulfilled reliability promises.
+
+---
+
+💡 **For more information about DSLA Protocol, please go to [https://stacktical.com](https://stacktical.com).**
 
 
