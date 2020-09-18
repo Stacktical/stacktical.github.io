@@ -161,6 +161,10 @@
 <lastmod>2020-09-04T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/listing/protocol/2020/09/07/dsla-protocol-listing-announcement-chainlink-oracle-provider.html</loc>
+<lastmod>2020-09-07T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -222,6 +226,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/residency/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/listing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/protocol/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
