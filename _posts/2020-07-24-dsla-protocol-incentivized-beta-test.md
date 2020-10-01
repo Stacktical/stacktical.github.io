@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Announcing the DSLA Incentivized Beta Test: Road to Mainnet"
 author: Team
 categories: [ reporting ]

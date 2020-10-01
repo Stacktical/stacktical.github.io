@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "Phase 0 is Here"
 author: Team
 categories: [ beta ]
