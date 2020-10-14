@@ -9,6 +9,7 @@ google_analytics: 'UA-74934840-3'
 disqus: 'stacktical'
 include: ["_pages"]
 permalink: /:categories/:year/:month/:day/:title:output_ext
+url: https://blog.stacktical.com
 
 twitter:
   username: stacktical
