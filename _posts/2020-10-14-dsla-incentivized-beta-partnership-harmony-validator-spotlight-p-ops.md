@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Harmony (ONE) Validator Spotlight: P-OPS"
 author: Team
 categories: [ beta, partnership ]
