@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Phase 2 is Here"
 author: Team
 categories: [ beta ]
@@ -49,30 +49,13 @@ ___
 
 ## 💡 Feature Spotlight
 
-There are many changes expected with the **[DSLA.network Ðapp](https://dsla.network)** during Phase II.
+*EDIT 2020/10/29: Previous Items #2 and #3 of Phase II have moved to Phase III.*
 
 ### #1 Ability to withdraw bDSLA stakes
 
 Delegators, Validators and their Vouchers will be able to withdraw the bDSLA tokens they staked to DSLA Contracts, minus the rewards and compensations they might have paid at the end of Phase I.
 
-
-### #2 Ability to claim bDSLA compensations / rewards
-
-25+ DSLA Contracts have been created during the Phase I of the DSLA incentivized beta, and verified at the start of Phase II. But bDSLA staking rewards are yet to be distributed to Delegators, Validators and their Vouchers.
-
-Based on the measured Harmony (ONE) Staking Efficiency of our partner, the P-OPS Validator, bDSLA rewards and compensations will become self-claimable by DSLA Contract stakeholders during Phase II:
-
-* **A Delegator** will be able to claim 99.7% of her initial stake if her agreement is breached (0.3% claiming fees);  
-
-* **A Validator** will be able to claim 19.94% of their Delegators stake if her agreement is honoured (0.3% claiming fees);  
-
-* **A Voucher** will be able to claim 15.95% of Delegators stake if her agreement is honoured (0.3% claiming fees + 20% commission to the Validator she vouches for).
-
-### #3 Instant token burn of claiming fees
-
-For every claim at the end of a Phase, the DSLA Protocol will charge and burn 0.3% claiming fee to Delegators, Validators and Vouchers. All tokens burned by the DSLA Protocol during DSLA claims are removed from circulation forever.
-
-### #4 Better tracking of stakes
+### #2 Better tracking of stakes
 
 During Phase I it was not easy to keep track of the agreements you staked to.
 
