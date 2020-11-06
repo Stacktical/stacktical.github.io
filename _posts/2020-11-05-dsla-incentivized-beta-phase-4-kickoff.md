@@ -37,6 +37,11 @@ DSLA core developers are humbled by the response of the community 🙏 :
 
 Few transfers, high value locked. 
 
+![Unleash the Kraken](https://media.giphy.com/media/IdTBkruzkGeq1HEnlP/giphy.gif)
+
+Time to [unleash the Kraken](https://twitter.com/Stacktical/status/1324512582405922818?s=20)!
+
+
 ___
 
 ## 📕 Beta Guide
@@ -49,7 +54,8 @@ ___
 
 ### #1 DSLA Contract Widgets
 
-Validators and Vouchers need creative and effective ways to onboard Delegators to their DSLA Contracts. DSLA Contract widgets are the first step towards enabling just that.
+Validators and Vouchers need creative and effective ways to onboard Delegators to their DSLA Contracts. DSLA Contract widgets are the first step towards enabling just that.  
+
 ___
 
 ## About DSLA Protocol
