@@ -31,7 +31,6 @@ Thank you for your participating in the Phase II of the DSLA incentivized beta!
 
 DSLA core developers are humbled by the response of the community 🙏 :
 
-#### 🔥 More than 40 bDSLA token transfers
 #### 🔥 More than 10M bDSLA tokens staked
 #### 🔥 More than 10 DSLA contracts created
 

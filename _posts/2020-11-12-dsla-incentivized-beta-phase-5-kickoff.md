@@ -1,45 +1,38 @@
 ---
 layout: post
-featured: false
-title:  "Phase 4 is Here"
+featured: true
+title:  "Phase 5 is Here"
 author: Team
 categories: [ beta ]
-image: assets/img/2020-11-05-dsla-incentivized-beta-phase-4-kickoff.jpg
+image: assets/img/2020-11-12-dsla-incentivized-beta-phase-5-kickoff.jpg
 ---
 
-## 🎷 Codename `SAX`
+## ⚡️ Codename `AMP`
 
-Dear DSLA champions, on November 4 12:00am (UTC), we have entered Phase IV of the DSLA incentivized beta, Codename `SAX`. 
+Dear DSLA champions, on November 11 12:00am (UTC), we have entered Phase V of the DSLA incentivized beta, Codename `AMP`. 
 
-🎷 
+⚡️ 
 
 * All DSLA Contracts started a new weekly monitoring cycle. 
-* Phase III staking compensations / rewards can be proven. 
-* Phase III staking compensations / rewards will be claimable soon.
+* Phase IV staking compensations / rewards can be proven. 
+* Phase IV staking compensations / rewards will be claimable soon.
 
 ###  Phase Timestamps:   
-#### ⏰ `1604448000` (start)
-#### ⏰ `1605052800` (end)
+#### ⏰ `1605052800` (start)
+#### ⏰ `1605657600` (end)
 
 Access the Ðapp at **[DSLA.network](https://dsla.network)** to get started now!
 
 ___
 
-## 🏆 Phase III Report
+## 🏆 Phase IV Report
 
-Thank you for your participating in the Phase III of the DSLA incentivized beta! 
+Thank you for your participating in the Phase IV of the DSLA incentivized beta! 
 
 DSLA core developers are humbled by the response of the community 🙏 :
 
-#### 🔥 More than 15M bDSLA tokens staked
-#### 🔥 More than 10 DSLA contracts created
-
-Few transfers, high value locked. 
-
-![Unleash the Kraken](https://media.giphy.com/media/IdTBkruzkGeq1HEnlP/giphy.gif)
-
-Time to [unleash the Kraken](https://twitter.com/Stacktical/status/1324512582405922818?s=20)!
-
+#### 🔥 More than 10M bDSLA tokens staked
+#### 🔥 More than 15 DSLA contracts created
 
 ___
 
@@ -51,9 +44,13 @@ ___
 
 ## 💡 Feature Spotlight
 
-### #1 DSLA Contract Widgets
+### #1 New Networks
 
-Validators and Vouchers need creative and effective ways to onboard Delegators to their DSLA Contracts. DSLA Contract widgets are the first step towards enabling just that.  
+Validators, Vouchers and Delegators will be able to reduce their exposure to the staking risks of more networks such as Polkadot.
+
+### #2 New Validators
+
+Staking Rewards' Top 25 Validators will be available in the DSLA Contract creation workflow.
 
 ___
 
