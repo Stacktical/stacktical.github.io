@@ -51,7 +51,7 @@ These information also aim at increasing the overall auditability of the project
 
 ### B) 🤝 Trusted Trading Platforms
 
-As we're figuring out the ins and outs of the sell-off with the ProBit team, we strongly advise you do not deposit any funds to their service
+**As we are figuring out the ins and outs of the sell-off with the ProBit team, we strongly advise you do not deposit any funds to the exchange, and consider withdrawing your funds as soon as possible.** Here is a list of more reliable, decentralized options:
 
 
 | Type        |  | Status           | Exchange 
@@ -64,14 +64,17 @@ As we're figuring out the ins and outs of the sell-off with the ProBit team, we 
 
 ### C) 💧 DEX Liquidity
 
-We had already hinted at new iterations to the DSLA Community Faucet in the past. This incident further puts that effort in perspective. We will make it one of our priorities from now on .
+We had already hinted at new iterations to the DSLA Community Faucet in the past. This incident further puts that effort in perspective. We will make it one of our priorities from now on.
 
 ___
 
 
 ## What's next?
 
-We will keep investigating the sell-off, and share new updates as new information come in.
+* Exchange answers
+* Token burn details
+
+Thanks for the unwavering support, champions. 💪
 
 ___
 
