@@ -39,7 +39,7 @@ But we can still harden DSLA against suppression, manipulation, and trading abus
 
 ### A) 🔥 2B+ DSLA Token Burn
 
-On November 30, 2020, we will proceed with a **2,000,000,000.00 DSLA token burn** using our personal, team, company and participating partners wallets. All other DSLA holders will benefit from the increase in scarcity / decreate in total supply of DSLA.
+On November 30, 2020, we will proceed with a **2,000,000,000.00 DSLA token burn** using our personal, team, company and participating partners wallets. All other DSLA holders will benefit from the increase in scarcity / decrease in total supply of DSLA.
 
 In that same spirit, we will also inaugurate a new section on the [DSLA Protocol official website](https://stacktical.com), dedicated to: 
 
@@ -71,10 +71,12 @@ ___
 
 ## What's next?
 
-* Exchange answers
-* Token burn details
+* We will publish a new SAR once ProBit answers our questions
+* We will provide additional details about the 2B DSLA token burn
 
 Thanks for the unwavering support, champions. 💪
+
+Make sure you [join the conversation on Telegram](https://t.me/stacktical).
 
 ___
 
