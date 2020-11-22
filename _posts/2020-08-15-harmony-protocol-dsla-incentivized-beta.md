@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Harmony ONE staking to become the  first DSLA-backed staking experience"
 author: Team
 categories: [ partnership ]
