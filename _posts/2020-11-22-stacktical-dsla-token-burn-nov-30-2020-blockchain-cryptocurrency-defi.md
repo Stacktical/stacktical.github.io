@@ -17,7 +17,7 @@ Here are 5 key information you absolutely need to know about the event:
 
 DSLA tokens have been issued in the Billions, for the DSLA Protocol to empower use cases across a wide variety of industries beyond staking, and settle breached / honoured DSLA contracts using integer numbers. 
 
-After the event, the maximum number of DSLA tokens in existence will be 7,000,000,000.00 (7 Billion) DSLA, a 28.5% decrease from 9,000,000,000.00 (9 Billion).
+After the event, the maximum number of DSLA tokens in existence will be 7,000,000,000.00 (7 Billion) DSLA, a 22.2% decrease from 9,000,000,000.00 (9 Billion).
 
 #### 2. ✌️ Circulating Supply will cross 90% of Total Supply
 
@@ -27,9 +27,9 @@ Not only the current number of DSLA tokens circulating on the market will not be
 
 More than ever, our tokenomics will send a strong signal that our community is ready to write the next chapter of DSLA Protocol and the DSLA family of products.
 
-#### 3. 🤟 Current Individual Holdings will increase by 28.5%
+#### 3. 🤟 Current Individual Holdings will increase by 22.2%
 
-By decreasing the DSLA Total Supply by 28.5%, each DSLA Holders will equally hold 28.5% more of the fully diluted Market Cap of DSLA. For example, an individual holding 30M DSLA will see her holding percentage increase from 0.33% to 0.42%. 
+By decreasing the DSLA Total Supply by 22.2%, each DSLA Holders will equally hold 22.2% more of the fully diluted Market Cap of DSLA. For example, an individual holding 30M DSLA will see her holding percentage increase from 0.33% to 0.42%. 
 
 A provable increase in community power.
 
