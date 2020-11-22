@@ -9,7 +9,7 @@ image: assets/img/2020-11-22-stacktical-dsla-token-burn-nov-30-2020-blockchain-c
 
 ## Disco Inferno
 
-On November 30, 11:11 CET, Stacktical, the core development team of DSLA Protocol, will proceed with a 2,000,000,000.00 (2 Billion) DSLA token burn as part of its [Suspicion Activity Report (SAR) Mitigation Plan](https://blog.stacktical.com/post-mortem/security/2020/11/14/suspicious-activity-report-mitigation-plan.html), and to further pave the way to the DSLA Protocol and DSLA.network Ðapp mainnet launches this year.
+On November 30, 11:11 CET, Stacktical, the core development team of DSLA Protocol, will proceed with a 2,000,000,000.00 (2 Billion) DSLA token burn as part of its [Suspicious Activity Report (SAR) Mitigation Plan](https://blog.stacktical.com/post-mortem/security/2020/11/14/suspicious-activity-report-mitigation-plan.html), and to further pave the way to the DSLA Protocol and DSLA.network Ðapp mainnet launches this year.
 
 Here are 5 key information you absolutely need to know about the event:
 
