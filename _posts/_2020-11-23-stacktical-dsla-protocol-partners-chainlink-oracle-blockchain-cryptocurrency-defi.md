@@ -1,13 +1,13 @@
 ---
 layout: post
 featured: true
-title:  "2 Billion DSLA Token Burn Event"
+title:  "Chainlink to bring battle-tested Oracles to the DSLA Protocol Mainnet"
 author: WilhemPujar
 categories: [ event ]
-image: assets/img/2020-11-22-stacktical-dsla-token-burn-nov-30-2020-blockchain-cryptocurrency-defi.jpg
+image: assets/img/2020-11-23-stacktical-dsla-protocol-partners-chainlink-oracle-blockchain-cryptocurrency-defi.jpg
 ---
 
-## Disco Inferno
+## New Partnership Announcement
 
 On November 30, 11:11 CET, Stacktical, the core development team of DSLA Protocol, will proceed with a 2,000,000,000.00 (2 Billion) DSLA token burn as part of its [Suspicious Activity Report (SAR) Mitigation Plan](https://blog.stacktical.com/post-mortem/security/2020/11/14/suspicious-activity-report-mitigation-plan.html), and to further pave the way to the DSLA Protocol and DSLA.network Ðapp mainnet launches this year.
 
@@ -27,9 +27,9 @@ Not only the current number of DSLA tokens circulating on the market will not be
 
 More than ever, our tokenomics will send a strong signal that our community is ready to write the next chapter of DSLA Protocol and the DSLA family of products.
 
-#### 3. 🤟 Current Individual Holdings will increase by 28.57%
+#### 3. 🤟 Current Individual Holdings will increase by 22.2%
 
-By decreasing the DSLA Total Supply by 22.2%, each DSLA Holders will equally hold 28.57% more of the fully diluted Market Cap of DSLA. For example, an individual holding 30M DSLA will see her holding percentage increase from 0.33% to 0.42%. 
+By decreasing the DSLA Total Supply by 22.2%, each DSLA Holders will equally hold 22.2% more of the fully diluted Market Cap of DSLA. For example, an individual holding 30M DSLA will see her holding percentage increase from 0.33% to 0.42%. 
 
 A provable increase in community power.
 
