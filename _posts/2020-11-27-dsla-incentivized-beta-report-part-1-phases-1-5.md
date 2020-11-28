@@ -78,13 +78,13 @@ Here is a snapshot of the participation across all phases:
 #### 🔥 More than 60 DSLA contracts created
 
 ___
-## Beta Objective
+## 🎯 Beta Objective
 
 Remember? The objective of the DSLA incentivized beta was to validate the functional requirements of DSLA Protocol and DSLA.network, our flagship Ðapp, in preparation for their respective mainnet launch.
 
 To challenge our core team's assumptions about what we must develop, the community was involved in a controlled usability test split across 5 weekly phases, designed to collect feedbacks about the Ðapp, iterate in real-time on the best ideas, and establish the final scope of the protocol to be audited by our security partner.
 
-## The Good
+## 👍 The Good
 
 Phase I and II proceeded as planned, with high levels of participation from the community, and active conversation on all communication channels. Especially on our [Telegram](https://t.me/stacktical). 
 
@@ -96,7 +96,7 @@ This enabled us to battle-test core features of DSLA Protocol and the DSLA.netwo
 
 ___
 
-## The Bad
+## 👎 The Bad
 
 Real-time developments have started stalling in Phase III. 
 
@@ -115,7 +115,7 @@ Last but not least, we underestimated the difference in implementation between t
 
 ___
 
-## The Fix
+## 💪 The Fix
 
 ### Withdrawals & Claims Refactoring
 
@@ -142,7 +142,7 @@ We are taking a bit of a top down approach, here. Moving forwards, we will prima
 
 ___
 
-## 💡 Feature Spotlight
+## 💡 Upcoming Features Spotlight
 
 Here is a series of other identified issues that we are looking forward to fixing.
 
@@ -158,16 +158,11 @@ Active pool and hedge views does not indicate how stakes are diversified across 
 
 Unused stakes remain bound to their Phase instead of being carried over to the new Phase.
 
-## The Ðapp will up until mainnet
+## The Ðapp will remain available
 
 The [DSLA.network](https://dsla.network) Ðapp will remain up, running and improving until mainnet launch. Past testers and newcomers alike will have plenty of time and opportunity to try new features as they are released to the Koven test network.
 
 See you in Outro Part 2, where we will wrap things up and officialize the next steps of the DSLA Protocol roadmap.
-___
-
-## 📕 User Manual
-
-Please refer to the official **[DSLA Incentivized Beta Guide](https://readme.stacktical.com/dsla-incentivized-beta/)** to learn more.
 ___
 
 ## About DSLA Protocol
