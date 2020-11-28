@@ -2,7 +2,7 @@
 layout: post
 featured: true
 title:  "2 Billion DSLA Token Burn Event"
-author: WilhemPujar
+author: Team
 categories: [ event ]
 image: assets/img/2020-11-22-stacktical-dsla-token-burn-nov-30-2020-blockchain-cryptocurrency-defi.jpg
 ---

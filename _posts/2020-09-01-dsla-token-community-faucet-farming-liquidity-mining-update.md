@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "The DSLA Liquidity Mining Program continues 🦄💎⛏"
 author: Team
 categories: [ DeFi, residency ]

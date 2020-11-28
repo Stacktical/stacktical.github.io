@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Hardening DSLA against CEX Programmatic Sell-Offs"
 author: WilhemPujar
 categories: [ post-mortem, security ]

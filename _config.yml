@@ -1,7 +1,7 @@
 # Site
 name: "DSLA Protocol Blog"
 title: "Meet DSLA Protocol,"
-description: "A peer-to-peer alternative to service level agreements powered by maths, money and mankind."
+description: "A peer-to-peer alternative to service level agreements on the Ethereum and Polkadot blockchain networks."
 logo: 'assets/img/logo.png'
 favicon: 'assets/img/logo.png'
 baseurl: ''
@@ -19,12 +19,12 @@ twitter:
 authors:
   Team:
     name: 'Team'
-    display_name: 'Team Stacktical'
+    display_name: 'DSLA Core Team'
     gravatar: d8c1c1b45f2fe69edac3806d574a183f
     email: 'contact@stacktical.com'
     web: https://stacktical.com
     twitter: https://twitter.com/Stacktical
-    description: "The team behind Stacktical and the DSLA token."
+    description: "The team behind DSLA Protocol, and the DSLA family of products."
   WilhemPujar:
     name: 'Wilhem Pujar'
     display_name: 'Wilhem Pujar'
@@ -32,7 +32,7 @@ authors:
     email: 'wilhem.pujar@stacktical.com'
     web: https://stacktical.com
     twitter: https://twitter.com/WilhemPujar
-    description: "Co-founder and CEO at Stacktical. Co-creator of the DSLA Network."
+    description: "Core Developer at DSLA Protocol"
 
 # Plugins
 plugins:
