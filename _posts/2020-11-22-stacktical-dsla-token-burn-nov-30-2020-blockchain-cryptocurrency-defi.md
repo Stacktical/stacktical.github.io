@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "2 Billion DSLA Token Burn Event"
 author: Team
 categories: [ event ]
