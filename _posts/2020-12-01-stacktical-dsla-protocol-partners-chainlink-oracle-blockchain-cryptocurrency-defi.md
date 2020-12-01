@@ -4,7 +4,7 @@ featured: true
 title:  "Stacktical integrates Chainlink to bring battle-tested Oracles to the DSLA Protocol Mainnet"
 author: Team
 categories: [ partnership, mainnet ]
-image: assets/img/2020-12-01-stacktical-dsla-protocol-partners-chainlink-oracle-blockchain-cryptocurrency-defi.jpg
+image: assets/img/2020-12-01-stacktical-dsla-protocol-partners-chainlink-oracle-blockchain-cryptocurrency-defi-bis.jpg
 ---
 
 ## DSLA x LINK
