@@ -7,7 +7,7 @@ categories: [ partnership, mainnet ]
 image: assets/img/2020-12-01-stacktical-dsla-protocol-partners-chainlink-oracle-blockchain-cryptocurrency-defi-bis.jpg
 ---
 
-## DSLA x LINK
+## DSLA x Chainlink
 
 Dear community, [Stacktical](https://stacktical.com/), the core development team of the DSLA Protocol, is proud to announce that we have integrated [Chainlink](https://chain.link/) to bring its widely used decentralized [Price Feeds](https://feeds.chain.link/) and staking analytics data to the DSLA Protocol mainnet and its flagship Ðapp, [DSLA.network](https://dsla.network/).
  
