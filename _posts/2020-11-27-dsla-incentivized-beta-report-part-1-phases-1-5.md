@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Beta Outro Part 1: Phase I-V"
 author: Team
 categories: [ beta ]
@@ -9,7 +9,7 @@ image: assets/img/2020-11-27-dsla-incentivized-beta-report-part-1-phases-1-5.jpg
 
 ## 👏 Thanks for Participating
 
-*This is the 1st post of a two-part Beta Outro series, signaling the end of the DSLA Incentivized Beta. The 2nd and final part of this series will be posted on December 2nd, 2020.*
+*This is the 1st post of a two-part Beta Outro series, signaling the end of the DSLA Incentivized Beta. The 2nd and final part of this series will be posted on December 4th, 2020.*
 
 Dear DSLA champions, all Phases of the DSLA incentivized beta have now been completed.  
  
@@ -125,7 +125,7 @@ We can't directly address these limitations by improving the DSLA Protocol smart
 
 Even if we were not changing networks, actively developping ways to migrate beta DSLA contracts to the new Kovan deployment would have been be a distraction from our roadmap.
 
-**Instead, we will communicate the final status of the Ðapp developments in the [Beta Outro Part 2](https://app.gitbook.com/@stacktical/s/dsla-incentivized-beta/fundamentals/key-dates) on December 2nd.**
+**Instead, we will communicate the final status of the Ðapp developments in the [Beta Outro Part 2](https://app.gitbook.com/@stacktical/s/dsla-incentivized-beta/fundamentals/key-dates) on December 4th.**
 
 ### Architecture Deprecation
 
