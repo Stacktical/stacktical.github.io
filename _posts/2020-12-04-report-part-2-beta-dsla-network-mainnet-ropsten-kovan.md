@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: true
-title:  "Beta Outro Part 2: Phase I-V"
+title:  "Beta Outro Part 2: Conclusion"
 author: Team
 categories: [ beta ]
 image: assets/img/2020-12-04-report-part-2-beta-dsla-network-mainnet-ropsten-kovan.jpg
