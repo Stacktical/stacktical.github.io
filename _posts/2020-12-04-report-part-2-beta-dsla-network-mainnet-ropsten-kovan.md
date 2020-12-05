@@ -7,7 +7,7 @@ categories: [ beta ]
 image: assets/img/2020-12-04-report-part-2-beta-dsla-network-mainnet-ropsten-kovan.jpg
 ---
 
-## Update your bookmarks
+## Update your Bookmarks
 
 *This is the 2nd post of a two-part Beta Outro series, signaling the end of the DSLA Incentivized Beta. Read the 1st post [here](https://blog.stacktical.com/beta/2020/11/27/dsla-incentivized-beta-report-part-1-phases-1-5.html).*
 
@@ -17,7 +17,7 @@ The main address at [DSLA.network](https://dsla.network) now gives you access to
 
 The MVP Ðapp is the closest thing there is to the upcoming mainnet release, except for the use of test assets. The DSLA core development team will keep updating the MVP, until it reaches the functional and non-functional requirements set for the mainnet.
 
-## The missing parts of beta.dsla.network
+## The Missing Parts of beta.dsla.network
 
 During the beta, we did not manage to ship bDSLA withdrawal and claiming features within the allocated time. A series of reliability incidents highlighted point of failures in the beta architecture, and hindered our ability to develop in realtime, hackathon conditions.
 
@@ -51,17 +51,17 @@ While the DSLA architecture has dramatically improved, and that key areas of the
 
 But instead of allocating more resources to the beta Ðapp, and running into more third-party infrastructure issues, we will focus our team's efforts on our core mission. **All claims based on your staking activity during the beta will be directly available on the mainnet's revamped [bonfire](http://dsla.network/bonfire) upon launch.**
 
-## For a safer mainnet in Q1 2021
+## For a Better, Safer Mainnet in Q1 2021
 
-The tentative launch of the DSLA Protocol and the DSLA.network Ðapp on the mainnet were contingent on developments and security audits.
+The tentative launch window of the DSLA Protocol and the DSLA.network Ðapp on the mainnet was contingent on the pace of developments, and mandatory security audits.
 
-As expressed in our [previous post](https://blog.stacktical.com/beta/2020/11/27/dsla-incentivized-beta-report-part-1-phases-1-5.html), we do not quite meet the mainnet requirements and our partners expectations yet. 
+As expressed in our [previous post](https://blog.stacktical.com/beta/2020/11/27/dsla-incentivized-beta-report-part-1-phases-1-5.html), we do not quite meet the mainnet functional requirements just yet. 
 
-Additionally, the current backlog of our security partners does not allow a Q4 2020 launch anymore. There are a lot of projects to be audited at the moment, and the capacity of teams is limited during the Holiday season and the global crisis.
+From a security standpoint, the current backlog of our auditing partners does not allow a Q4 2020 launch. There are a lot of projects waiting to be audited at the moment, and the waiting time increases with the limited capacity of auditing teams during the Holiday season.
 
-We have decided to postpone the DSLA mainnet release to Q1 2021 to ensure that security audits are not rushed, to further polish our developments based on the beta feedbacks, and to have more room to introduce the community to our growing list of mainnet partners.
+We have decided to set the new launch window of the DSLA Protocol and the DSLA.network Ðapp to Q1 2021 to remove all incentives to rush security audits, to further polish our developments based on the incentivized beta test feedbacks, and to have more room to introduce the community to our growing list of mainnet partners through a series of marketing initiatives.
 
-Stay tuned for a series of announcements, 10 AMAs, 5 influencer reviews and multiple press features as we get closer to primetime.
+Stay tuned for our upcoming partnership announcements, 10 AMAs with the best AMAs communities in the blockchain and cryptocurrency industry, a new wave of influencer coverage of DSLA Protocol, and multiple other exciting events, as we get closer to primetime.
 
 Join the conversation [on Telegram](https://t.me/stacktical).
 
