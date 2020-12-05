@@ -61,7 +61,7 @@ Additionally, the current backlog of our security partners does not allow a Q4 2
 
 We have decided to postpone the DSLA mainnet release to Q1 2021 to ensure that security audits are not rushed, to further polish our developments based on the beta feedbacks, and to have more room to introduce the community to our growing list of mainnet partners.
 
-Stay tuned for a series of announcements, events and press features.
+Stay tuned for a series of announcements, 10 AMAs, 5 influencer reviews and multiple press features as we get closer to primetime.
 
 Join the conversation [on Telegram](https://t.me/stacktical).
 
