@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Beta Outro Part 2: Conclusion"
 author: Team
 categories: [ beta ]
