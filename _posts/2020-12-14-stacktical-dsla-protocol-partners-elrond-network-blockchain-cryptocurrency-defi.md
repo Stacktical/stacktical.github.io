@@ -9,7 +9,7 @@ image: assets/img/2020-12-14-stacktical-dsla-protocol-partners-elrond-network-bl
 
 ## DSLA x Elrond
 
-Dear community, [Stacktical](https://stacktical.com/), the core development team of the DSLA Protocol, is proud to announce that we have partnered with the [Elrond](https://chain.link/) network to launch DSLA Maxima "Elrond Edition", a maximalist port of DSLA Protocol on the Elrond blockchain.
+Dear community, [Stacktical](https://stacktical.com/), the core development team of the DSLA Protocol, is proud to announce that we have partnered with the [Elrond](https://elrond.com/) network to launch DSLA Maxima "Elrond Edition", a maximalist port of DSLA Protocol on the Elrond blockchain.
 
 The first DSLA product helps validators and delegators on Proof of Stake networks reduce their mutual exposure to staking infrastructure risks, using decentralized service level agreements and two-way, self-settled compensation claims.
 
