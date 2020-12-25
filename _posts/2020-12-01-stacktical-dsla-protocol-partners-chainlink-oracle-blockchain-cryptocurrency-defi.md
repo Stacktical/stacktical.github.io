@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Stacktical integrates Chainlink to bring battle-tested Oracles to the DSLA Protocol Mainnet"
 author: Team
 categories: [ partnership, mainnet ]
