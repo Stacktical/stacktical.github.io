@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Announcing DSLA Maxima \"Elrond Edition\", a maximalist port of DSLA Protocol on the Elrond Network"
 author: Team
 categories: [ beta ]
