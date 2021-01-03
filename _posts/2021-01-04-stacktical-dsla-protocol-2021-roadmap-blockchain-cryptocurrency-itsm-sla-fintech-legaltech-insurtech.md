@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: true
-title:  "2021 Roadmap"
+title:  "New Product Offering & 2021 Roadmap"
 author: WilhemPujar
 categories: [ mainnet, news ]
 image: assets/img/2021-01-04-stacktical-dsla-protocol-2021-roadmap-blockchain-cryptocurrency-itsm-sla-fintech-legaltech-insurtech.jpg
@@ -25,13 +25,15 @@ As developers ourselves, we use DSLA Protocol to build [DSLA.network](http://dsl
 
 Think of it as a way to lead developers by example, with a laser-focused use case with high commercial viability.
 
-To ensure that DSLA.network meets its market, we ran hundreds of user customer interviews with wallet developers, staking pool operators and Proof-of-Stake network teams, and addressed their functional and non-functional requirements with care.
+To ensure that DSLA.network meets its market, we ran hundreds of user user interviews with wallet developers, staking pool operators and Proof-of-Stake network teams, and addressed their functional and non-functional requirements with care.
 
 Except for one requirement: the ability to **use DSLA Protocol on other blockchain networks than Ethereum**.
 
 ## DSLA Maxima
 
-A native, stand-alone edition of DSLA Protocol on your favorite network. This is DSLA Maxima. We are teaming up with the best Proof-of-Stake network teams to enable both our community of developers to:  
+To address the need expressed by an ever growing number of potential customers and friends, we are officializing DSLA Maxima, a native, stand-alone edition of DSLA Protocol on your favorite network.  
+
+The DSLA core developers are teaming up with the best Proof-of-Stake networks to enable both our community of developers :  
 
 - Tap into their network-specific capabilities;
 - Access their DeFi protocols with composability;
