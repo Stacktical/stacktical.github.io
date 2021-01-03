@@ -25,7 +25,7 @@ As developers ourselves, we use DSLA Protocol to build [DSLA.network](http://dsl
 
 Think of it as a way to lead developers by example, with a laser-focused use case with high commercial viability.
 
-To ensure that DSLA.network meets its market, we ran hundreds of user user interviews with wallet developers, staking pool operators and Proof-of-Stake network teams, and addressed their functional and non-functional requirements with care.
+To ensure that DSLA.network meets its market, we ran hundreds of user interviews with wallet developers, staking pool operators and Proof-of-Stake network teams, and addressed their functional and non-functional requirements with care.
 
 Except for one requirement: the ability to **use DSLA Protocol on other blockchain networks than Ethereum**.
 
@@ -42,6 +42,8 @@ The DSLA core developers are teaming up with the best Proof-of-Stake networks to
 
 ## High Level 2021 Roadmap
 
+The stacktical.com website we be updated with our 2021 as we unveil our next wave of partners. Until then, our overall plan for the year is to focus on the mainnet release short term, before triggering 3 DSLA Maxima initiatives throughout the year.
+
 ### Q1 2021  
 * **03/31** DSLA Agnos Mainnet
 * **03/31** DSLA.network connects to the DSLA Agnos Mainnet
@@ -57,9 +59,9 @@ The DSLA core developers are teaming up with the best Proof-of-Stake networks to
 
 ## Next DSLA Maxima Network
 
-The next DSLA Maxima Network will be announced this month.
+Following our partnership with Elrond, the next DSLA Maxima Network will be announced this January 2021. Rather than building more of the same on a different network, this new initiative will pave the way to entirely different possibilities that we will detail in our upcoming announcement.
 
-
+⚡️
 ___
 
 ## About DSLA Protocol
