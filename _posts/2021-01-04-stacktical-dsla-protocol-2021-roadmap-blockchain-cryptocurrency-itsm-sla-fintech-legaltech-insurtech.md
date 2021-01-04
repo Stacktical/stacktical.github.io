@@ -49,6 +49,8 @@ Our overall plan for the year is to focus on the DSLA Protocol Agnos mainnet rel
 
 ### ⏰ Q1 2021  
 
+![DSLA W3F/Polkadot Grant](https://camo.githubusercontent.com/e8319951fdc39eb40bd55c053a52c4853a4149b287a375ef3da6ad5e417ee4d7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f737461636b746963616c2d7075626c69632f77696c6c69747363616c652d706f6c6b61646f742e6a7067)
+
 #### 🔸  **[TBA]** W3F Grant Stage 1 (Refactoring)
 
 The Polkadot and Parachain scalability prediction platform is refactored.
@@ -60,6 +62,8 @@ The Polkadot and Parachain scalability prediction platform is integrated to Polk
 #### 🔸  **[TBA]** W3F Grant Stage 3
 
 DSLA Protocol functions are integrated to the [Polkadot Ðapp](https://polkadot.js.org/apps/#/explorer).
+
+![DSLA Protocol Agnos Mainnet](/assets/img/2021-01-04-stacktical-dsla-protocol-2021-roadmap-blockchain-cryptocurrency-itsm-sla-fintech-legaltech-insurtech_agnos.jpg)
 
 #### 🔸 **[03/31]** DSLA Agnos Mainnet
 
@@ -77,6 +81,8 @@ ___
 #### 🔸 **[TBA]** DSLA Agnos Developer Tools
 
 The official DSLA Protocol developer documentation and SDKs are made available to the general public.
+
+![DSLA Protocol Agnos Mainnet](/assets/img/2021-01-04-stacktical-dsla-protocol-2021-roadmap-blockchain-cryptocurrency-itsm-sla-fintech-legaltech-insurtech_maxima_elrond.jpg)
 
 #### 🔸 **[06/30]** DSLA Maxima "Elrond Edition" Alpha  
 
