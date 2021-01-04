@@ -49,6 +49,18 @@ Our overall plan for the year is to focus on the DSLA Protocol Agnos mainnet rel
 
 ### ⏰ Q1 2021  
 
+#### 🔸  **TBA** W3F Grant Stage 1 (Refactoring)
+
+The Polkadot and Parachain scalability prediction platform is refactored.
+
+#### 🔸  **TBA** W3F Grant Stage 2
+
+The Polkadot and Parachain scalability prediction platform is integrated to Polkadot deployment tools.
+
+#### 🔸  **TBA** W3F Grant Stage 3
+
+DSLA Protocol functions are integrated to the [Polkadot Ðapp](https://polkadot.js.org/apps/#/explorer)
+
 #### 🔸 **03/31** DSLA Agnos Mainnet
 
 The DSLA Protocol smart contract are deployed on the Ethereum mainnet.
