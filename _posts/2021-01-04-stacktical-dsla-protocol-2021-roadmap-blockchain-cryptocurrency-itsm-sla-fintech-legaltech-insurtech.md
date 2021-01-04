@@ -49,23 +49,23 @@ Our overall plan for the year is to focus on the DSLA Protocol Agnos mainnet rel
 
 ### ⏰ Q1 2021  
 
-#### 🔸  **TBA** W3F Grant Stage 1 (Refactoring)
+#### 🔸  **[TBA]** W3F Grant Stage 1 (Refactoring)
 
 The Polkadot and Parachain scalability prediction platform is refactored.
 
-#### 🔸  **TBA** W3F Grant Stage 2
+#### 🔸  **[TBA]** W3F Grant Stage 2
 
 The Polkadot and Parachain scalability prediction platform is integrated to Polkadot deployment tools.
 
-#### 🔸  **TBA** W3F Grant Stage 3
+#### 🔸  **[TBA]** W3F Grant Stage 3
 
-DSLA Protocol functions are integrated to the [Polkadot Ðapp](https://polkadot.js.org/apps/#/explorer)
+DSLA Protocol functions are integrated to the [Polkadot Ðapp](https://polkadot.js.org/apps/#/explorer).
 
-#### 🔸 **03/31** DSLA Agnos Mainnet
+#### 🔸 **[03/31]** DSLA Agnos Mainnet
 
 The DSLA Protocol smart contract are deployed on the Ethereum mainnet.
 
-#### 🔸 **03/31** DSLA.network connects to the DSLA Agnos Mainnet
+#### 🔸 **[03/31]** DSLA.network connects to the DSLA Agnos Mainnet
 
 The DSLA.network Ðapp is deployed to a production environment, and interact with the smart contracts of DSLA Agnos.
 
@@ -74,7 +74,11 @@ ___
 
 ### ⏰ Q2 2021  
 
-#### 🔸 **06/30** DSLA Maxima "Elrond Edition" Alpha  
+#### 🔸 **[TBA]** DSLA Agnos Developer Tools
+
+The official DSLA Protocol developer documentation and SDKs are made available to the general public.
+
+#### 🔸 **[06/30]** DSLA Maxima "Elrond Edition" Alpha  
 
 DSLA Protocol is ported to the Elrond blockchain network to empower high throughput, low fees use cases.
 
@@ -82,7 +86,7 @@ ___
 
 ### ⏰ Q3 2021  
 
-#### 🔸 **09/30** DSLA Maxima "TBA Edition" Alpha  
+#### 🔸 **[09/30]** DSLA Maxima "TBA Edition" Alpha  
 
 DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
 
@@ -91,7 +95,7 @@ ___
 
 ### ⏰ Q4 2021
 
-#### 🔸 **12/31** DSLA Maxima "TBA Edition" Alpha
+#### 🔸 **[12/31]** DSLA Maxima "TBA Edition" Alpha
 
 DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
 
