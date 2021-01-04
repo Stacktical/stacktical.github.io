@@ -29,44 +29,78 @@ To ensure that DSLA.network meets its market, we ran hundreds of user interviews
 
 Except for one requirement: the ability to **use DSLA Protocol on other blockchain networks than Ethereum**.
 
-## DSLA Maxima
+## Agnos & Maxima
 
-To address the need expressed by an ever growing number of potential customers and friends, we are officializing DSLA Maxima, a native, stand-alone edition of DSLA Protocol on your favorite network.  
+To address the need expressed by an ever growing number of potential customers and friends, we are officializing DSLA Maxima, a native, stand-alone edition of DSLA Protocol on your favorite network.
 
-The DSLA core developers are teaming up with the best Proof-of-Stake networks to enable both our community of developers :  
+Our network-agnostic product, the original DSLA Protocol running on the Ethereum blockchain, will be identified as DSLA Agnos, moving forwards.
 
-- Tap into their network-specific capabilities;
-- Access their DeFi protocols with composability;
-- Use their favorite currency or cryptocurrency standard;
-- Develop new industry use cases.
+With Maxima, the DSLA core developers are joining forces with the best Proof-of-Stake network teams to enable our community of developers to :  
+
+- Tap into their network-specific capabilities (e.g. Elrond's high throughput);
+- Access available DeFi protocols using composability;
+- Use their favorite cryptocurrency or cryptocurrency standard;
+
+Furthermore, Maxima will empower the development of new industry use cases that are either not possible on Ethereum today, or a poor fit for a variety of reasons.
 
 ## High Level 2021 Roadmap
 
-The stacktical.com website we be updated with our 2021 as we unveil our next wave of partners. Until then, our overall plan for the year is to focus on the mainnet release short term, before triggering 3 DSLA Maxima initiatives throughout the year.
+Our overall plan for the year is to focus on the DSLA Protocol Agnos mainnet release short term, before triggering a new Maxima initiative every quarter.
 
-### Q1 2021  
-* **03/31** DSLA Agnos Mainnet
-* **03/31** DSLA.network connects to the DSLA Agnos Mainnet
+### ⏰ Q1 2021  
 
-### Q2 2021
-* **06/30** DSLA Maxima "Elrond Edition" Alpha
+#### 🔸 **03/31** DSLA Agnos Mainnet
 
-### Q3 2021
-* **09/30** DSLA Maxima "TBA Edition" Alpha
+The DSLA Protocol smart contract are deployed on the Ethereum mainnet.
 
-### Q4 2021
-* **12/31** DSLA Maxima "TBA Edition" Alpha
+#### 🔸 **03/31** DSLA.network connects to the DSLA Agnos Mainnet
+
+The DSLA.network Ðapp is deployed to a production environment, and interact with the smart contracts of DSLA Agnos.
+
+___
+
+
+### ⏰ Q2 2021  
+
+#### 🔸 **06/30** DSLA Maxima "Elrond Edition" Alpha  
+
+DSLA Protocol is ported to the Elrond blockchain network to empower high throughput, low fees use cases.
+
+___
+
+### ⏰ Q3 2021  
+
+#### 🔸 **09/30** DSLA Maxima "TBA Edition" Alpha  
+
+DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
+
+
+___
+
+### ⏰ Q4 2021
+
+#### 🔸 **12/31** DSLA Maxima "TBA Edition" Alpha
+
+DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
+
+
+___
+
 
 ## Next DSLA Maxima Network
 
-Following our partnership with Elrond, the next DSLA Maxima Network will be announced this January 2021. Rather than building more of the same on a different network, this new initiative will pave the way to entirely different possibilities that we will detail in our upcoming announcement.
+Following our partnership with Elrond, the next DSLA Maxima Network will be announced this January 2021.
 
-⚡️
+Join the conversation [on Telegram](https://t.me/stacktical).
+
+⚡️  
+
 ___
+
 
 ## About DSLA Protocol
 
-[![DSLA Network, the flagship application of DSLA Protocol, a risk management protocol for developers](/assets/img/dsla-network_square-hand-shot-social.png)](https://dsla.network)
+[![DSLA Network, the flagship application of DSLA Protocol, a risk management protocol for developers](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://dsla.network)
 
 DSLA is a risk management protocol for developers, to build applications and operate infrastructures that are natively capable of financially protecting users against failures.
 
