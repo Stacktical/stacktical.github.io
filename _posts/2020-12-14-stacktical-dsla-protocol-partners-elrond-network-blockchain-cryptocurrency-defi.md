@@ -1,27 +1,31 @@
 ---
 layout: post
 featured: false
-title:  "Announcing DSLA Maxima \"Elrond Edition\", a maximalist port of DSLA Protocol on the Elrond Network"
+title:  "Announcing DSLA Maxima \"Elrond Edition\""
 author: Team
 categories: [ beta ]
 image: assets/img/2020-12-14-stacktical-dsla-protocol-partners-elrond-network-blockchain-cryptocurrency-defi.jpg
 ---
 
-## DSLA x Elrond
+## DSLA Protocol for Elrond
 
-Dear community, [Stacktical](https://stacktical.com/), the core development team of the DSLA Protocol, is proud to announce that we have partnered with the [Elrond](https://elrond.com/) network to launch DSLA Maxima "Elrond Edition", a maximalist port of DSLA Protocol on the Elrond blockchain.
+DSLA Protocol enables anyone to add a service level agreement on top of any third-party service, to reduce customers exposure to infrastructure risks and incentivise the connectivity, performance and availability of networks and applications. 
 
-The first DSLA product helps validators and delegators on Proof of Stake networks reduce their mutual exposure to staking infrastructure risks, using decentralized service level agreements and two-way, self-settled compensation claims.
+To bring our developer community access to more technologies, we are proud to announce that we have partnered with [Elrond](https://elrond.com/) to launch DSLA Maxima "Elrond Edition", a maximalist port of DSLA Protocol on the Elrond blockchain network.
 
-Our immediate collaboration will focus on adding Elrond Network validators information in the DSLA Ethereum-based smart contracts. Soon after, DSLA Protocol will be deployed as smart contracts on the Elrond Network, serving the same purpose but at higher speeds and lower costs, hence the "Maxima" codename.
+Our immediate collaboration will focus on adding **$eGLD Staking Agreements** to the DSLA.network flagship application. 
 
-In the long term, the DSLA core development team will leverage Elrond’s high throughput and inexpensive smart contracts execution platform to deploy a decentralized SLA framework suitable for digital services of any kind.
+$eGLD Staking Agreements compensate $eGLD delegators for drops in $eGLD staking rewards, while rewarding $eGLD staking pool operators for their ability to endorse and validate Elrond Network blocks, and mining DSLA rewards for liquidity providers.
 
-“Elrond has one of the largest validator networks in the PoS space and is a great addition to DSLA Protocol, and our flagship two-way hedge against staking and delegation risks. But the biggest value for us long term is its high throughput and inexpensive smart contracts execution capabilities, which we can leverage to settle SLAs in real-time, at internet-scale, for a wide variety of industries.” said Wilhem Pujar, Stacktical CEO.
+Soon after, DSLA Protocol will be deployed as smart contracts on the Elrond Network, serving the same purpose, but at higher speeds and lower costs, hence the "Maxima" codename.
+
+In the long term, the DSLA core development team will enable developers to add high-throughput, risk management and parametric insurance capabilities to their application built on Elrond.
+
+“Elrond has one of the largest validator networks in the PoS space and is a great addition to DSLA Protocol, and our flagship two-way hedge against staking and delegation risks. But the biggest value for us long term is its high throughput and inexpensive smart contracts execution capabilities, which we can leverage to settle SLAs in real-time, at internet-scale, for a wide variety of industries.” said Wilhem Pujar, CEO at Stacktical and DSLA Protocol core developer.
 
 The collaboration will bring additional adoption for the Elrond smart contract platform and provide an immediately useful tool for Staking Providers looking to increase the quality of their services.
 
-“Today’s unexpected Google outage will likely cause tens of millions of dollars in losses to businesses worldwide. Automatically settling SLA breaches will increase the quality of online services and help avoid such situations. We’re happy to support this through our collaboration with Stacktical” said Beniamin Mincu, Elrond CEO.  
+“Today’s unexpected Google outage will likely cause tens of millions of dollars in losses to businesses worldwide. Automatically settling SLA breaches will increase the quality of online services and help avoid such situations. We’re happy to support this through our collaboration with Stacktical” said Beniamin Mincu, CEO at Elrond.  
 
 ___
 
@@ -34,11 +38,15 @@ For more information about Elrond, visit [elrond.com](https://elrond.com/)
 ___
 
 ## About DSLA Protocol
+![DSLA Protocol, Elrond Edition](/assets/img/dsla-network_square-hand-shot-social_elrond.png)
 
-[![DSLA Network, the flagship application of DSLA Protocol, a risk management protocol for developers](/assets/img/dsla-network_square-hand-shot-social.png)](https://dsla.network)
+As users outsource increasingly more functions of their lives and businesses to third-party service providers, they need better ways to manage their exposure to third-party infrastructure risk. Especially when money is at stake.
 
-DSLA is a risk management protocol for developers, to build applications and operate infrastructures that are natively capable of financially protecting users against failures.
+DSLA Protocol is a risk management framework that gives anyone the ability to create, monitor and execute decentralized service level agreements and parametric insurance policies.
 
-It enables anyone to vouch for the reliability of a service, get paid when the service performs as expected, or get compensated when the service does not meet expectations.
-To learn more, visit [stacktical.com](https://stacktical.com), our official [blog](https://blog.stacktical.com) and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.
+When the monitored performance of a service is within the thresholds of an agreement, third-party service providers and liquidity providers earn the right to claim a reward from the agreement liquidity pool. Conversely, when an agreement is violated, customers earn the right to claim a compensation. 
+
+Win-Win.
+
+To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.
 

@@ -45,11 +45,17 @@ Furthermore, Maxima will empower the development of new industry use cases that 
 
 ## High Level 2021 Roadmap
 
-Our overall plan for the year is to focus on the DSLA Protocol Agnos mainnet release short term, before triggering a new Maxima initiative every quarter.
+Our overall plan for the year is to:
 
-### ⏰ Q1 2021  
+☝️ Wrap up the scope of our **W3F grant** bringing value to the Polkadot ecosystem;
 
-![DSLA W3F/Polkadot Grant](https://camo.githubusercontent.com/e8319951fdc39eb40bd55c053a52c4853a4149b287a375ef3da6ad5e417ee4d7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f737461636b746963616c2d7075626c69632f77696c6c69747363616c652d706f6c6b61646f742e6a7067)
+✌️ Ship the **DSLA Protocol Agnos mainnet** release to Ethereum;
+
+🤟 Trigger and ship a new **DSLA Protocol Maxima initiative** every quarter.
+
+## ⏰ Q1 2021  
+
+[![DSLA W3F/Polkadot Grant](https://camo.githubusercontent.com/e8319951fdc39eb40bd55c053a52c4853a4149b287a375ef3da6ad5e417ee4d7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f737461636b746963616c2d7075626c69632f77696c6c69747363616c652d706f6c6b61646f742e6a7067)](https://github.com/Stacktical/willitscale-polkadot)
 
 #### 🔸  **[TBA]** W3F Grant Stage 1 (Refactoring)
 
@@ -73,10 +79,7 @@ The DSLA Protocol smart contract are deployed on the Ethereum mainnet.
 
 The DSLA.network Ðapp is deployed to a production environment, and interact with the smart contracts of DSLA Agnos.
 
-___
-
-
-### ⏰ Q2 2021  
+## ⏰ Q2 2021  
 
 #### 🔸 **[TBA]** DSLA Agnos Developer Tools
 
@@ -88,25 +91,17 @@ The official DSLA Protocol developer documentation and SDKs are made available t
 
 DSLA Protocol is ported to the Elrond blockchain network to empower high throughput, low fees use cases.
 
-___
-
-### ⏰ Q3 2021  
+## ⏰ Q3 2021  
 
 #### 🔸 **[09/30]** DSLA Maxima "TBA Edition" Alpha  
 
 DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
 
-
-___
-
-### ⏰ Q4 2021
+## ⏰ Q4 2021
 
 #### 🔸 **[12/31]** DSLA Maxima "TBA Edition" Alpha
 
 DSLA Protocol is ported to a new, unveiled blockchain network to empower use cases in different industry verticals.
-
-
-___
 
 
 ## Next DSLA Maxima Network
