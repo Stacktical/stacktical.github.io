@@ -1,13 +1,13 @@
 ---
 layout: post
 featured: false
-title:  "Announcing DSLA Staking, Stablecoin Support & ERC20 Listings"
+title:  "DSLA Protocol to support Stablecoins & Selected ERC20 Utility Tokens"
 author: Team
 categories: [ mainnet ]
 image: assets/img/2021-01-18-stacktical-dsla-protocol-erc20-cryptocurrency-token-listings-defi.jpg
 ---
 
-## DSLA Token Staking
+## DSLA Protocol Staking
 
 While a lot of the conversation has been focusing the compensation capabilities of DSLA Protocol, DSLA Staking is one of the most important pilars of the DSLA experience, and a key utility of the DSLA token.
 
