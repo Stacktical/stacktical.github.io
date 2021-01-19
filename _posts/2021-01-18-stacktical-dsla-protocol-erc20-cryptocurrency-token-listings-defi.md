@@ -7,40 +7,50 @@ categories: [ mainnet ]
 image: assets/img/2021-01-18-stacktical-dsla-protocol-erc20-cryptocurrency-token-listings-defi.jpg
 ---
 
-## DSLA Staking
+## DSLA Token Staking
 
-While a lot of the conversation has surrounded the compensation capabilities of DSLA Protocol, DSLA Staking is one of the most important pilars of the DSLA experience, and a key utility of the DSLA token.
+While a lot of the conversation has been focusing the compensation capabilities of DSLA Protocol, DSLA Staking is one of the most important pilars of the DSLA experience, and a key utility of the DSLA token.
 
 To give service customers access to a rich, open marketplace of peer-to-peer service level agreements, we designed DSLA Staking Rewards as crypto-economic incentives that stimulate the creation of agreements, and justify adding liquidity to existing agreement pools to further empower possible compensation claims. 
 
 A two-step, "create and stake" process we call **Vouching**.
 
-Vouchers are liquidity providers that guarantee the connectivity, performance or availability of a service they do not necessarily operate themselves. In exchange for expanding the list of available hedges on the DSLA contract marketplace, and supporting third-party staking pool operators in their site reliability engineering efforts, DSLA Protocol reward vouching positions, by continuously depleting the insurance premium deposited by proof-of-stake delegators.
+Vouchers are liquidity providers that are vouching for the connectivity, performance or availability of a service they do not necessarily operate themselves. 
+
+In exchange for expanding the list of available hedges on the DSLA contract marketplace, and for supporting third-party service providers in their service delivery efforts, DSLA Protocol rewards Vouching Positions, by depleting the insurance premium deposited by service customer every time a DSLA contract is honoured.
 
 This enables DSLA Protocol to ensure better compliance of its operations and create value for liquidity providers beyond generating groundless yields, or capturing protocol fees.
 
-## ERC20 Stablecoins Pools
+## ERC20 Stablecoins
 
-Along with DSLA token staking, we are excited to announce that DSLA Protocol will also support DAI and USDC stablecoin staking at launch. 
+Along with DSLA token staking, DSLA Protocol will also support DAI and USDC stablecoins staking to DSLA contracts, at mainnet launch. 
 
-DAI and USDC will be added to the DSLA contract creation workflow, and will provide a simple option to reduce proof-of-stake delegators exposure to the volatility of the DSLA token, while enabling liquidity providers to remain exposed to DSLA if that's their wish.
+This addition will reinforce the protocol's ability to de-risk the full extent of the value at risk in delegated proof-of-stake networks, from day one. A value, ~$35M per our estimates, that currently exceeds the fully diluted market capitalization of the DSLA utility token ($8M at the time of writing).
 
-This addition will reinforce DSLA Protocol's ability to secure the $35M value immediately at risk in proof-of-stake networks from day one, a value exceeding the current market capitalization of DSLA token at the time of writing.
+DAI and USDC will be added to the DSLA contract creation workflow, and will provide a simple option to reduce proof-of-stake delegators exposure to the volatility of the DSLA token in DSLA compensation scenarios. 
 
-## ERC20 Tokens Pools
+Vouchers will have the ability to remain exposed to DSLA in DSLA reward scenarios, as they monitor the early evolution of the DSLA utilituy token market capitalization.
 
-Last but not least, we are proud to announce that we are working with selected partners to add support for their own ERC20 asset to DSLA Protocol, as part of our whitelabeling and branding effort for proof-of-stake network core development teams. 
+## Other ERC20 Tokens
 
-Just like it does for DSLA Maxima on Elrond to use eGLD as a native currency, it makes sense for a service customer to claim her third-party cryptocurrency, if it is available.
+So far, we have shared that anyone can stake DSLA tokens and stablecoins to DSLA contract pools, to empower volatile and stable DSLA reward / compensation scenarios in DSLA Protocol. 
 
-This is especially true if DSLA Protocol is transparently integrated with the provider's service, network and application experience.
+But about about other tokens in the ERC20 standard?
+
+We are proud to announce that we are also working with selected partners to add support for their own ERC20 utility token assets to DSLA Protocol, as part of our white labeling and branding effort catering to proof-of-stake network core development teams, and their community of staking pool operators.
+
+Although PayPal and its financial technology legacy enabled third-party service providers to somehow rejuvenate their brand by accepting new currency options in their payment flow, until now, true currencies were largely left out of companies Marketing Mix.
+
+Just like it makes sense for the Elrond Edition of DSLA Protocol to use $eGLD as a native currency, it makes sense for a provider to distribute its own currency to its stakeholders, through the different functional scenarios of the DSLA Protocol.
+
+With cryptocurrency, 
 
 
-## Cross-Chain Buy Back
+## DSLA Buy Backs: Road to DAO
 
-In its first year of operation, 50% of all fees captured while using different cryptocurrencies in DSLA contract liquidity pools on the Ethereum mainnet, will be converted back to DSLA ERC20 tokens, and added to the protocol's treasury. 
+In its first year of operation, 50% of all fees captured while using different cryptocurrencies in DSLA contract liquidity pools on the Ethereum mainnet, will be swapped back to DSLA ERC20 utility tokens, and added to the DSLA Protocol's treasury. 
 
-The buybacks will be transparently documented in a monthly report, and the funds auditable by our community. The treasury will serve as a foundation for our upcoming governance efforts, an important topic we will make sure to articulate in a dedicated post soon.
+The buybacks will be transparently documented in a monthly report, and the funds auditable by our community. The DSLA Protocol Treasury will serve as a foundation for our upcoming governance efforts, an important topic we will make sure to articulate in a dedicated post soon.
 
 ## Conclusion
 
