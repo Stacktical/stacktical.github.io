@@ -25,6 +25,8 @@ Tezos has been at the forefront of the staking movement that has radically trans
 
 Our team is excited to improve the baking experience of the Tezos community, and further drive baking adoption among SLA-savvy, Fortune 500 level corporations, thanks to DSLA Protocol and the DSLA family of products.
 
+We are grateful for the technical support provided by Nomadic Labs to achieve our integration goals and more this year.
+
 ___
 
 ## About DSLA Protocol
