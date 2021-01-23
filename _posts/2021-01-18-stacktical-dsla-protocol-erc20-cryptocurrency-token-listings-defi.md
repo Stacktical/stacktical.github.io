@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "DSLA Protocol to support Stablecoins & Selected ERC20 Utility Tokens"
+title:  "DSLA Protocol to support ERC20 Stablecoins at launch, Selected Utility Tokens later"
 author: Team
 categories: [ mainnet ]
 image: assets/img/2021-01-18-stacktical-dsla-protocol-erc20-cryptocurrency-token-listings-defi.jpg
