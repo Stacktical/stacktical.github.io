@@ -9,7 +9,7 @@ image: assets/img/2021-01-20-stacktical-dsla-protocol-itsm-sla-contract-types-fi
 
 ## There's a dapp for that ⚡️
 
-DSLA Protocol's goal is to enable **anyone** to add a service level agreement on top of **any third-party service**, to reduce customers exposure to infrastructure risks and incentivise the connectivity, performance and availability of networks and applications.
+DSLA Protocol's goal is to enable **anyone** to add a service level agreement on top of **any third-party service**, to reduce customers exposure to infrastructure risks and incentivise the connectivity, performance and availability of networks and applications over time.
 
 To achieve that goal, we are partnering with leading corporations, network infrastructure providers, and developers around the world, to ensure that DSLA Protocol is available as a desktop and mobile software development kits, and fulfil its mission as a next-generation service governance vehicle.
 

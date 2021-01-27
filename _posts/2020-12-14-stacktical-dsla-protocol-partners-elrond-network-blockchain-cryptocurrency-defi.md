@@ -13,11 +13,15 @@ DSLA Protocol enables anyone to add a service level agreement on top of any thir
 
 To bring our developer community access to more technologies, we are proud to announce that we have partnered with [Elrond](https://elrond.com/) to launch DSLA Maxima "Elrond Edition", a maximalist port of DSLA Protocol on the Elrond blockchain network.
 
+## Staking SLAs...
+
 Our immediate collaboration will focus on adding **$eGLD Staking Agreements** to the DSLA.network flagship application. 
 
 $eGLD Staking Agreements compensate $eGLD delegators for drops in $eGLD staking rewards, while rewarding $eGLD staking pool operators for their ability to endorse and validate Elrond Network blocks, and mining DSLA rewards for liquidity providers.
 
 Soon after, DSLA Protocol will be deployed as smart contracts on the Elrond Network, serving the same purpose, but at higher speeds and lower costs, hence the "Maxima" codename.
+
+## ...And more
 
 In the long term, the DSLA core development team will enable developers to add high-throughput, risk management and parametric insurance capabilities to their application built on Elrond.
 
