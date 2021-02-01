@@ -25,8 +25,9 @@ Thankfully, and with the help of our community, we have been exploring several n
 | 1 | Initial Listing | Q3 2019 | **Alpha** available on the Ethereum **Test** Network | **Done** | P2PB2B
 | 2 | Bridge 1 | Q1 2020 | **Beta** available on the Ethereum **Test** Network  | **Done** | [STEX](https://app.stex.com/en/trade/pair/ETH/DSLA/1)
 | 3 | Bridge 2 | Q2 2020 | **Release Candidate** available on the Ethereum **Test** Network  | **Done** | [ProBit](https://www.probit.com/app/exchange/DSLA-USDT)
-| 4 | Bridge 3 | Q3 2020 | **Release Candidate** available on the Ethereum **Test** Network  | **Done**  | [Bilaxy](https://bilaxy.com/trade/DSLA_USDT)
-| 5 | Major Listing | 2021 | **Release** on the Ethereum **Main** Network | TBA | TBA
+| 4 | Bridge 3 | Q3 2020 | **Beta** available on the Ethereum **Test** Network (Ropsten) | **Done**  | [Bilaxy](https://bilaxy.com/trade/DSLA_USDT)
+| 5 | Bridge 4 | February 2021 | **MVP** available on the Ethereum **Test** Network (Kovan)  | TBA  | TBA
+| 6 | Major Listing | TBA | **Release** on the Ethereum **Main** Network | TBA | TBA
 
 As you can see, in the short term, **we will partner with a new mid-tier exchange in Q1 2020**, as we'll be moving to the Beta phase of the DSLA Protocol and DSLA Network.
 But our end goal is to list DSLA on a major exchange **when, and only when, the Stacktical Platform is ready to demonstrate its full potential**.   
@@ -65,7 +66,7 @@ DSLA is currently available on the following decentralized exchanges :
 | 0 | Initial Pool | Q2 2020 | **Genesis** of the DSLA DEX Pools | **Done** | [Uniswap](https://uniswap.info/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
 | 0 | Bridge Pool 1 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Done** | [Mooniswap](https://mooniswap.info/pair/0xd3FE251864dD3D69D47EBB0F530c8541856aA6BB)
 | 0 | Bridge Pool 2 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Done** | [Balancer](https://pools.balancer.exchange/#/pool/0xdff4f867855fd7db4d240b60fd0a88f6a049427a/)
-| 0 | Dex Aggregator | Q3 2020 | **Combination** of all DSLA DEX Pools | **Done** | [1nch](https://1inch.exchange/#/ETH/DSLA)  
+| 0 | Dex Aggregator | Q3 2020 | **Combination** of all DSLA DEX Pools | **Done** | [1inch](https://1inch.exchange/#/ETH/DSLA)  
 
 
 ___

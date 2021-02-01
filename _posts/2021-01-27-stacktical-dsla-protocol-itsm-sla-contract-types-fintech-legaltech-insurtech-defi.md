@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "DSLA Protocol to reduce your exposure to Yield Drops, Payment Delays, Impermanent Loss"
+title:  "DSLA Protocol to reduce your exposure to Rarible NFT Impermanent Loss through Opensea integration"
 author: Team
 categories: [ governance, defi ]
 image: assets/img/2021-01-20-stacktical-dsla-protocol-itsm-sla-contract-types-fintech-legaltech-insurtech-defi.jpg
