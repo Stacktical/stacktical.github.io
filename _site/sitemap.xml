@@ -233,10 +233,6 @@
 <lastmod>2021-01-22T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/governance/defi/2021/01/27/stacktical-dsla-protocol-itsm-sla-contract-types-fintech-legaltech-insurtech-defi.html</loc>
-<lastmod>2021-01-27T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/partnership/security/2021/01/27/stacktical-dsla-protocol-partners-certik-blockchain-cryptocurrency-defi-security.html</loc>
 <lastmod>2021-01-27T00:00:00+01:00</lastmod>
 </url>
@@ -320,12 +316,6 @@
 <loc>http://localhost:4000/category/mainnet/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/governance/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/defi/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
@@ -351,8 +341,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/page10/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page11/</loc>
 </url>
 </urlset>
