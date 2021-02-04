@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "A new listing is coming soon"
+title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting ]
 image: assets/img/2021-02-04-dsla-token-cryptocurrency-listing-mxc-exchange-february-5-2021-fintech-legaltech-insurtech-defi.jpg
