@@ -44,7 +44,7 @@ ___
 
 Avalanche is an open-source platform for launching decentralized applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem. Avalanche is the first smart contracts platform that processes 4,500+ transactions/second and instantly confirms transactions. Ethereum developers can quickly build on Avalanche as Solidity works out-of-the-box.
 
-[Website](https://avax.network/) | [Whitepapers](https://avalabs.org/whitepapers) | [Twitter](https://twitter.com/avalancheavax) | [Discord](https://chat.avalabs.org/) | [GitHub](https://github.com/ava-labs) | [Documentation](https://docs.avax.network/) | [Forum](https://forum.avax.network/) | [Avalanche-X](https://avalabs.org/avalanche-x) | [Telegram](https://t.me/avalancheavax) | [Facebook](https://facebook.com/avalancheavax) | [LinkedIn](https://linkedin.com/company/avalancheavax) | [Reddit](https://reddit.com/r/avax) | [YouTube](http://www.youtube.com/c/AVALabsOfficial)
+[Website](https://avax.network/) | [Whitepapers](https://avalabs.org/whitepapers) | [Twitter](https://twitter.com/avalancheavax) | [Discord](https://chat.avalabs.org/) | [GitHub](https://github.com/ava-labs) | [Documentation](https://docs.avax.network/) | [Forum](https://forum.avax.network/) | [Avalanche-X](https://avalabs.org/avalanche-x) | [Telegram](https://t.me/avalancheavax) | [Facebook](https://facebook.com/avalancheavax) | [LinkedIn](https://linkedin.com/company/avalancheavax) | [Reddit](https://reddit.com/r/avax) | [YouTube](https://www.youtube.com/c/AvalancheAVAX)
 
 ___
 
