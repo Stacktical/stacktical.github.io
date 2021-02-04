@@ -9,9 +9,9 @@ image: assets/img/2021-02-04-dsla-token-cryptocurrency-listing-mxc-exchange-febr
 
 ## Mark your Calendar
 
-We are pleased to inform the community that the DSLA utility token will be listed on the **[MXC cryptocurrency exchange](https://www.mxc.com/)** on **Friday, February 5th, 2021 at 4am CET/11am CST** ! 🎉
+We are pleased to inform the community that the DSLA utility token will be listed on the **[MXC cryptocurrency exchange](https://www.mxc.com/)** on **Friday, February 5th, 2021 at 4am CET / 11am CST** ! 🎉
 
-MXC is a **[Top 100 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $1B in daily trading volume. 
+MXC is a **[Top 50 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $1B in daily trading volume. 
 
 This 4th bridge listing will further allow DSLA to be eligible for proper ranking on [CoinMarketCap](https://coinmarketcap.com/currencies/dsla-protocol/), support the recent rocket growth of DSLA token holders, as well as provide a cheaper alternative to Uniswap and the unbearable gas fees our community has been experiencing for the past weeks.
 
@@ -25,6 +25,24 @@ This 4th bridge listing will further allow DSLA to be eligible for proper rankin
 ⏰ DSLA Deposits are already open !
 
 🗣 Original announcement on MXC: **[https://support.mxc-exchange.com/hc/en-001/articles/360055926652](https://support.mxc-exchange.com/hc/en-001/articles/360055926652)**.
+
+## MXC x DSLA Farming Program
+
+To support our launch on MXC, the exchange team is organising a 4 days DSLA Farming event through their MXC DeFi program.
+
+[![MXC DeFi farming starring DSLA](/assets/img/2021-02-04-dsla-token-cryptocurrency-listing-mxc-exchange-february-5-2021-fintech-legaltech-insurtech-defi_mining-program.jpg)](https://support.mxc-exchange.com/hc/en-001/articles/360055926652)
+
+⏰ **Key Dates:** February 4 - February 7 (4 days in total)
+
+🗣 More details: [https://support.mxc-exchange.com/hc/en-001/articles/360055926652](https://support.mxc-exchange.com/hc/en-001/articles/360055926652)
+
+## MXC x DSLA Ask Me Anything
+
+⭐️ Join Wilhem for a DSLA AMA with the MXC Chinese community on WeChat:
+
+[![MXC DeFi farming starring DSLA](/assets/img/2021-02-04-dsla-token-cryptocurrency-listing-mxc-exchange-february-5-2021-fintech-legaltech-insurtech-defi_ama.jpg)](https://support.mxc-exchange.com/hc/en-001/articles/360055926652)
+
+🗣 More details: [https://support.mxc-exchange.com/hc/en-001/articles/360055926652](https://support.mxc-exchange.com/hc/en-001/articles/360055926652)
 
 ___
 
