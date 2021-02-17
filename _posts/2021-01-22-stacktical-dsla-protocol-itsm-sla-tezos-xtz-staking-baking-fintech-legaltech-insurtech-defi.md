@@ -1,13 +1,13 @@
 ---
 layout: post
 featured: false
-title:  "New Network Announcement: XTZ Baking Agreements are coming to DSLA Protocol"
+title:  "Hello, Tezos World! XTZ Baking Agreements are coming to DSLA Protocol"
 author: Team
 categories: [ mainnet ]
 image: assets/img/2021-01-22-stacktical-dsla-protocol-itsm-sla-tezos-xtz-staking-baking-fintech-legaltech-insurtech-defi.jpg
 ---
 
-## Hedge against XTZ baking risks
+## Use DSLA to hedge against XTZ baking insfrastructure risks
 
 [DSLA Protocol](https://stacktical.com) enables anyone to add a service level agreement on top of any third-party service, to reduce customers exposure to infrastructure risks and incentivise the connectivity, performance and availability of networks and applications.
 

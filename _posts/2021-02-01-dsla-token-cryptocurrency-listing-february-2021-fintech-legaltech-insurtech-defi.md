@@ -42,13 +42,13 @@ DSLA is currently available on the following decentralized exchanges :
 
 ___
 
+
 ## About DSLA Protocol
-[![DSLA Network, Tezos SLA](/assets/img/2021-01-22-stacktical-dsla-protocol-itsm-sla-tezos-xtz-staking-baking-fintech-legaltech-insurtech-defi.jpg)](https://stacktical.com)
+
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
 DSLA Protocol is a risk management framework that enables businesses to reduce their customers exposure to service delays, interruptions and financial losses, using self-executing service level agreements and bonus-malus insurance policies.
 
 Its flagship use case is to offset the financial losses of proof-of-stake delegators and DeFi users, while incentivizing the good performance and reliability of staking pool operators and DeFi service providers such as Uniswap (AMM) and OpenSea (NFT).
-
-[![Tezos (XTZ) Baking Efficiency Agreement](/assets/img/dsla-protocol_activities_staking-efficiency_XTZ.png)](https://stacktical.com)
 
 To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.

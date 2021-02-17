@@ -60,21 +60,13 @@ The more DSLA liquidity you provide, and for longer, the greater share of the fa
 | 0 | Bridge Pool 2 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Done** | [Balancer](https://pools.balancer.exchange/#/pool/0xdff4f867855fd7db4d240b60fd0a88f6a049427a/)
 | 0 | Dex Aggregator | Q3 2020 | **Combination** of all DSLA DEX Pools | **Done** | [1nch](https://1inch.exchange/#/ETH/DSLA)
 
-## About the DSLA Protocol
 
-![DSLA Protocol](https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png) 
+## About DSLA Protocol
 
-**DSLA Protocol is a decentralized alternative to SLA contracts.**
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
-It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations. 
+[DSLA Protocol](https://stacktical.com) is a risk management framework that enables infrastructure operators and developers to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.
 
-DSLA Protocol and the DSLA.network Ðapp, will debut an incentivized beta in Q4 2020, focusing on providing a hedge against staking risks, and unfulfilled reliability promises.
+DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators and DeFi users, while incentivizing the connectivity, performance and availability of staking pool operators and DeFi service providers.
 
----
-
-💡 **For more information about DSLA Protocol, please go to [https://stacktical.com](https://stacktical.com).**
-
-
-
-
-
+To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.

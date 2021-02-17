@@ -165,13 +165,13 @@ The [DSLA.network](https://dsla.network) Ðapp will remain up, running and impro
 See you in Outro Part 2, where we will wrap things up and officialize the next steps of the DSLA Protocol roadmap.
 ___
 
+
 ## About DSLA Protocol
 
-![DSLA Network, the flagship application of DSLA Protocol, a risk management protocol for developers](/assets/img/dsla-network_screenshot_iphone-duo.png)
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
-DSLA is a risk management protocol for developers, to build applications and operate infrastructures that are natively capable of financially protecting users against failures. 
+[DSLA Protocol](https://stacktical.com) is a risk management framework that enables infrastructure operators and developers to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.
 
-It enables anyone to vouch for the reliability of a service, get paid when the service performs as expected, or get compensated when the service does not meet expectations.  
+DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators and DeFi users, while incentivizing the connectivity, performance and availability of staking pool operators and DeFi service providers.
 
-**⚡️ [https://stacktical.com](https://stacktical.com)**
-
+To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.

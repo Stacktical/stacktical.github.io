@@ -37,20 +37,13 @@ The key feature of Phase 0 is the ability for a mainnet DSLA tokens holder to cl
 
 ___
 
+
 ## About DSLA Protocol
 
-![DSLA Protocol](https://storage.googleapis.com/stacktical-public/dsla-protocol_by_stacktical.png) 
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
-DSLA Protocol is a decentralized alternative to service level agreements, contracts that reduce your exposure to delays and disruptions, when using a service.
+[DSLA Protocol](https://stacktical.com) is a risk management framework that enables infrastructure operators and developers to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.
 
-It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations. 
+DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators and DeFi users, while incentivizing the connectivity, performance and availability of staking pool operators and DeFi service providers.
 
----
-
-💡 **For more information about DSLA Protocol and the DSLA family of products, please go to [https://stacktical.com](https://stacktical.com).**
-
----
-
-[![DSLA Token: Now available on Argent](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://1inch.exchange/#/ETH/DSLA)
-
-
+To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.

@@ -50,7 +50,7 @@ ___
 
 ## About DSLA Protocol
 
-[![DSLA Protocol, Oasis Edition](/assets/img/dsla-network_square-hand-shot-social_avalanche.png)](https://stacktical.com)
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
 DSLA Protocol is a risk management framework that enables businesses to reduce their customers exposure to service delays, interruptions and financial losses, using self-executing service level agreements and bonus-malus insurance policies.
 

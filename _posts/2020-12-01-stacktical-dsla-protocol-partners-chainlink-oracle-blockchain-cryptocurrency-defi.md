@@ -68,14 +68,13 @@ Chainlink is trusted by hundreds of organizations to deliver definitive truth vi
 
 ___
 
+
 ## About DSLA Protocol
 
-[![DSLA Network, the flagship application of DSLA Protocol, a risk management protocol for developers](/assets/img/dsla-network_square-hand-shot-social.png)](https://dsla.network)
+[![DSLA Token, now on Argent wallet](/assets/img/2020-08-26-dsla-token-available-on-Argent-keyless-wallet-screenshot.jpg)](https://stacktical.com)
 
-DSLA is a risk management protocol for developers, to build applications and operate infrastructures that are natively capable of financially protecting users against failures.
+[DSLA Protocol](https://stacktical.com) is a risk management framework that enables infrastructure operators and developers to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.
 
-It enables anyone to vouch for the reliability of a service, get paid when the service performs as expected, or get compensated when the service does not meet expectations.
-To learn more, visit [stacktical.com](https://stacktical.com), our official [blog](https://blog.stacktical.com) and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.
+DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators and DeFi users, while incentivizing the connectivity, performance and availability of staking pool operators and DeFi service providers.
 
-[Docs](https://readme.stacktical.com) | [Reddit](https://www.reddit.com/r/stacktical) | [Telegram](https://t.me/stacktical) | [GitHub](https://github.com/Stacktical) | [Facebook](https://facebook.com/stacktical) | [Instagram](https://instagram.com/stacktical) | [LinkedIn](http://linkedin.com/company/stacktical) 
-
+To learn more about DSLA Protocol, please visit [stacktical.com](https://stacktical.com), browse our official [blog](https://blog.stacktical.com), and follow [@stacktical](https://twitter.com/Stacktical) on Twitter.
