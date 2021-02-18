@@ -17,7 +17,7 @@ Until now, core development teams were resorting to liquidity lock mechanisms to
 
 But at a time where Ethereum's dominance as the most attractive EVM-compatible blockchain network is being challenged, we strongly believe that locking your Uniswap liquidity would be a strategic mistake.
 
-With this addition, DSLA Protocol is poised to become a better way for core developement teams to reduce their holders exposure to rug pulls without limiting their migration options and agility on the super hot cryptocurrency market.
+With this addition, DSLA Protocol is poised to become a better way for core development teams to reduce their holders exposure to rug pulls without limiting their migration options and agility on the super hot cryptocurrency market.
 
 ## DEX and Risk: What are Rug Pulls? 
 
