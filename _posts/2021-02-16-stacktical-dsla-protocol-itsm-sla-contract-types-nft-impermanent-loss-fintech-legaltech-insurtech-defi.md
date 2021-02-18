@@ -33,13 +33,17 @@ In short, NFT Impermanent Loss is a byproduct of the volatility of ETH as a paym
 
 ## DSLA Protocol fixes this  
 
-By making DSLA contracts, Creators enable their customers to hedge against the volatility of ETH, and the resulting NFT Impermanent Loss, for a set period of time.
+By signing a DSLA contract, Creators and their customers agree on sanctioning price volatility, and on rewarding stability and growth, for a set period of time.
 
-When the monitored ETH and NFT prices stay within the thresholds of an agreement, Creators earn the right to claim a bonus from the agreement's liquidity pool.
+To activate an agreement, both parties need to put money when their mouth is, by staking DSLA, USDC or DAI to the DSLA contract liquidity pool.
 
-Conversely, when an agreement is violated because of the Impermanent Loss of a NFT, Customers earn the right to claim a compensation from the agreement's liquidity pool. 
+When a NFT Impermanent Loss Agreement is active, DSLA Protocol monitors the NFT price, and the price of its underlying asset (e.g. ETH).
 
-Once again, we're hoping to better balance interests between service providers and service users thanks to DSLA Protocol's unique ability to converge expectations, automate the execution of bonus-malus policies that incentivise both sides of the table, and build trust using upfront capital commitments.
+If the calculated Impermanent Loss stays within the thresholds of the agreement, Creators earn the right to claim a reward, by depleting the coverage stake of customers.
+
+Conversely, whenever an agreement is violated, customers earn the right to claim a compensation, by depleting the upfront commitment of Creators.
+
+Join the conversation **[on Telegram!](https://t.me/stacktical)**
 
 ___
 

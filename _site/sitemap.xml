@@ -249,6 +249,10 @@
 <lastmod>2021-02-16T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/mainnet/dex/amm/2021/02/18/stacktical-dsla-protocol-itsm-sla-contract-types-dex-amm-rug-pull-fintech-legaltech-insurtech-defi.html</loc>
+<lastmod>2021-02-18T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -325,6 +329,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/nft/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/dex/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/amm/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
