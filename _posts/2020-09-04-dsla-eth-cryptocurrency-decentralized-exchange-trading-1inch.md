@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA is now aggregated from all DSLA DEX pools on 1inch"
 author: Team
 categories: [ reporting ]

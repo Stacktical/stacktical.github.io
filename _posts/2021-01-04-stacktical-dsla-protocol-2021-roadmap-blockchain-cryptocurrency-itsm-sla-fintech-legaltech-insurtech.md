@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "New Product Offering & 2021 Roadmap"
 author: WilhemPujar
 categories: [ mainnet, news ]
