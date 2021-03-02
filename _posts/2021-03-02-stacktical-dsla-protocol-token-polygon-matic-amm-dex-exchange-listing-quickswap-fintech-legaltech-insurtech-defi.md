@@ -15,7 +15,16 @@ DSLA tokens can now be transferred to the Polygon network via the [Matic V2 wall
 
 ## Crossing the Polygon bridge from Ethereum
 
-In two simple steps, you will be able to swap DSLA tokens on the QuickSwap exchange. 
+In a couple minutes, you will be able to swap DSLA tokens on the QuickSwap exchange. 
+
+### Step 0: Before your start
+
+Please note that the official address of DSLA on the Polygon/Matic network is **[0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639](https://explorer-mainnet.maticvigil.com/address/0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639/transactions)**.
+
+This address is publicly available on the official Matic Token Mapper application at **[https://mapper.matic.today](https://mapper.matic.today/)**.
+
+
+![DSLA Bridge on Polygon/Matc](/assets/img/2021-03-02-stacktical-dsla-protocol-token-polygon-matic-amm-dex-exchange-listing-quickswap-fintech-legaltech-insurtech-defi-screenshot-bridge.png)
 
 ### Step 1: Bridge your assets
 
