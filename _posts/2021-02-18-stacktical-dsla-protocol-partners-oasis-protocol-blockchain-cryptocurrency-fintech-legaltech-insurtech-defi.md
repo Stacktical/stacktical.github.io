@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Announcing DSLA Maxima \"Oasis Edition\""
 author: Team
 categories: [ partnership, network ]

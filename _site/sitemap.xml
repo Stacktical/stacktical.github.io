@@ -265,6 +265,10 @@
 <lastmod>2021-03-02T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/partnership/network/2021/03/11/stacktical-dsla-protocol-for-tezos-blockchain-cryptocurrency-fintech-legaltech-insurtech-defi.html</loc>
+<lastmod>2021-03-11T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -377,5 +381,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page11/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page12/</loc>
 </url>
 </urlset>
