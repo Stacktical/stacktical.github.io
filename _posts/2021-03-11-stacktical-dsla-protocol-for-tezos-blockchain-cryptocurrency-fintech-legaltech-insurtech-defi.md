@@ -30,6 +30,7 @@ $XTZ Baking Agreements compensate $XTZ delegators for drops in $XTZ baking rewar
 Later this year, DSLA Protocol will be deployed as smart contracts on the Tezos network, serving the same purpose, but with a strong focus on the Tezos DeFi and NFT ecosystem, hence the "Maxima" codename.
 
 Our Tezos-native edition of DSLA Protocol will enable developers to add risk management and parametric insurance capabilities to their applications built on Tezos.
+
 ___
 
 
