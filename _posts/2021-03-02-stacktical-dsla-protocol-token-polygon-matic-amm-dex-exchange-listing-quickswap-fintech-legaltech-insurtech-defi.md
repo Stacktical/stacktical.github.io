@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA is live on Polygon/Matic, debuts low-fee L2 trading on the QuickSwap DEX"
 author: Team
 categories: [ mainnet, amm, dex ]
