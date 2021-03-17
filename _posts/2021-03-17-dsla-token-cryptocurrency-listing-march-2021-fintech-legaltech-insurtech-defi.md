@@ -11,7 +11,7 @@ image: assets/img/2021-03-17-dsla-token-cryptocurrency-listing-march-2021-fintec
 
 Dear DSLA champions, we are proud to announce that we are in the process of listing DSLA token to a new cryptocurrency exchange, in preparation for the DSLA Protocol launch later this month.
 
-This new listing will significantly increase the ability of DSLA Protocol users to acquire DSLA tokens to empower their Decentralized SLA scenarios on d-day. 
+This new listing will significantly increase the ability of DSLA Protocol users to acquire DSLA tokens to empower their Decentralized SLAs scenarios on d-day
 
 ## A new CEX enters the arena
 
@@ -24,9 +24,9 @@ DSLA is currently available on the following centralized exchanges :
 | 2 | Bridge 1 | Q1 2020 | **Beta** available on the Ethereum **Test** Network  | **Done** | [STEX](https://app.stex.com/en/trade/pair/ETH/DSLA/1)
 | 3 | Bridge 2 | Q2 2020 | **Release Candidate** available on the Ethereum **Test** Network  | **Done** | [ProBit](https://www.probit.com/app/exchange/DSLA-USDT)
 | 4 | Bridge 3 | Q3 2020 | **Beta** available on the Ethereum **Test** Network (Ropsten) | **Done**  | [Bilaxy](https://bilaxy.com/trade/DSLA_USDT)
-| 5 | Bridge 4 | February 2021 | **MVP** available on the Ethereum **Test** Network (Kovan)  | TBA  | TBA
+| 5 | Bridge 4 | Q1 2021 | **MVP** available on the Ethereum **Test** Network (Kovan)  | **Done**  | [MXC](https://www.mxc.com/trade/pro#DSLA_USDT)
 
-This new Bridge 4 CEX exchange listing is scheduled for the 1st half of February (probably sooner than you think).
+This new CEX exchange listing is scheduled for the 2nd half of March.
 
 ## Still available on your favorite DEX
 
@@ -36,9 +36,10 @@ DSLA is currently available on the following decentralized exchanges :
 | Phase        | Description           | ETA           | DSLA Protocol Network Maturity | Status           | Exchange 
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
 | 0 | Initial Pool | Q2 2020 | **Genesis** of the DSLA DEX Pools | **Done** | [Uniswap](https://uniswap.info/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
-| 0 | Bridge Pool 1 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Done** | [Mooniswap](https://mooniswap.info/pair/0xd3FE251864dD3D69D47EBB0F530c8541856aA6BB)
+| 0 | Bridge Pool 1 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Migrated** | Mooniswap
 | 0 | Bridge Pool 2 | Q3 2020 | **Extension** of the DSLA DEX Pools | **Done** | [Balancer](https://pools.balancer.exchange/#/pool/0xdff4f867855fd7db4d240b60fd0a88f6a049427a/)
 | 0 | Dex Aggregator | Q3 2020 | **Combination** of all DSLA DEX Pools | **Done** | [1inch](https://1inch.exchange/#/ETH/DSLA)  
+| 0 | L2 Pool 1 | Q1 2021 | **Extension** of all DSLA DEX Pools | **Done** | [QuickSwap](https://info.quickswap.exchange/pair/0xeeb92e3cb8e38375e2c20201e9b9fb8740d0133f)  
 
 ___
 
