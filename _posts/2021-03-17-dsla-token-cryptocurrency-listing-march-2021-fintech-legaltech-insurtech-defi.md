@@ -9,9 +9,9 @@ image: assets/img/2021-03-17-dsla-token-cryptocurrency-listing-march-2021-fintec
 
 ## A new Home for the Mainnet
 
-Dear DSLA champions, we are proud to announce that we are in the process of listing DSLA token to a new cryptocurrency exchange, in preparation for the DSLA Protocol launch later this month.
+Dear DSLA champions, we are proud to announce that we are in the process of listing DSLA token to a new cryptocurrency exchange, in preparation for the DSLA Protocol launch later this month! 🎉
 
-This new listing will significantly increase the ability of DSLA Protocol users to acquire DSLA tokens to empower their Decentralized SLAs scenarios on d-day
+This new listing will significantly increase the ability of DSLA Protocol users to acquire DSLA tokens to empower their Decentralized SLAs scenarios on d-day.
 
 ## A new CEX enters the arena
 
