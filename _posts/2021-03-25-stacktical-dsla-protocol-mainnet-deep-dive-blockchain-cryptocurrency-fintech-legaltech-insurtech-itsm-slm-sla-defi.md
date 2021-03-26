@@ -129,8 +129,8 @@ e.g. In the clause of a business agreement.
 
 DSLA Protocol introduces a new way to tokenize third-party risk. 
 
-In order to understand its economic incentives, it is necessary to it is necessary to understand the motivations of its stakeholders.
-
+**In order to understand its economic incentives, it is necessary to understand the motivations of its stakeholders.
+**
 There are two main types of stakeholders in DSLA Protocol: **Providers and Users**.
 
 Providers create and provide liquidity to Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a bullish bias (LONG)**.
@@ -145,9 +145,13 @@ After a DSLA Period is finished, it can be verified.
 
 The verification fee is split between:
 
-* The User doing the verification (49.7%), to:
+* The User doing the verification (24.7%), to:
     * cover the cost of calling this function in the protocol;
     * incentivize a fast verification after the period is finished.
+
+ * The Developer that created the verification logic (25%), to:
+    * cover development and infrastructure costs;
+    * incentivize the creation of new SLA contract types.
 
 * Core developers (50%), to cover infrastructure costs.
 
