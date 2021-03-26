@@ -71,6 +71,8 @@ It gives users a sense of how much returns **they are missing out on**, compared
 
 This use case has been developed by Stacktical, the core development team of DSLA Protocol. **But it only scratches the surface of its capabilities, as the protocol can evolve through the addition of other types of SLA, and support new use cases in a wide range of industries.**
 
+![Impermanent Loss SLA contracts](/assets/img/dsla-network_device-trio.jpg)
+
 In fact, we went as far as rewarding SLA contract type developers, every time a risk prediction market uses their code during a SLA verification.
 
 ### Reliability Forecasts
@@ -101,7 +103,7 @@ Although they are supposed to drive customer satisfaction, traditional service l
 
 Decentralized SLAs, on the contrary, have the ability to grant cryptocurrency to both Users and Providers, based on how much a service deviates from the Service Level Objectives (SLO) defined in the SLA.
 
-![Harmony ONE Staking Efficiency DSLA contract](https://blog.stacktical.com/assets/img/dsla-protocol_activities_staking-efficiency_ONE.png)
+![Harmony ONE Staking Efficiency DSLA contract](/assets/img/dsla-protocol_activities_staking-efficiency_ONE.png)
 
 Both sides of the user-provider relationship can be bet on.
 
@@ -333,7 +335,7 @@ The spToken is then an inflationary token. i.e. After every period, the average 
 
 ## Security Audits & Bug Bounty
 
-Although it is not the type of risk address by DSLA Protocol, security is close to the project's DevOps DNA. In order to properly secure our mainnet launch, our team has seek the assistance of leading security firms and experts in the industry, and will maintain its efforts after launch.
+Although it is not the type of risk address by DSLA Protocol, security is close to the project's DevOps DNA. In order to properly secure our mainnet launch, our team has sought the assistance of leading security firms and experts in the industry, and will maintain its efforts after launch.
 
 Our security process for DSLA Protocol includes:
 
@@ -343,7 +345,7 @@ Our security process for DSLA Protocol includes:
 * Two independant audits from white hat hackers
 * Comprehensive internal, manual and automated testing
 
-![DSLA Protocol x CertiK](https://blog.stacktical.com/assets/img/2021-01-27-stacktical-dsla-protocol-partners-certik-blockchain-cryptocurrency-defi-security.jpg)
+![DSLA Protocol x CertiK](/assets/img/2021-01-27-stacktical-dsla-protocol-partners-certik-blockchain-cryptocurrency-defi-security.jpg)
 
 Although we were able to address all the bugs we encountered during internal and external auditing so far, we cannot guarantee all DSLA Protocol bugs in existence have been discovered.
 
