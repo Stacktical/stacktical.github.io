@@ -71,8 +71,8 @@ It gives users a sense of how much returns **they are missing out on**, compared
 
 This use case has been developed by Stacktical, the core development team of DSLA Protocol. **But it only scratches the surface of its capabilities, as the protocol can evolve through the addition of other types of SLA, and support new use cases in a wide range of industries.**
 
-![Impermanent Loss SLA contracts](/assets/img/dsla-network_device-trio.jpg)
-
+[![Impermanent Loss SLA contracts](/assets/img/dsla-network_device-trio.jpg)
+](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
 In fact, we went as far as rewarding SLA contract type developers, every time a risk prediction market uses their code during a SLA verification.
 
 ### Reliability Forecasts
@@ -103,8 +103,8 @@ Although they are supposed to drive customer satisfaction, traditional service l
 
 Decentralized SLAs, on the contrary, have the ability to grant cryptocurrency to both Users and Providers, based on how much a service deviates from the Service Level Objectives (SLO) defined in the SLA.
 
-![Harmony ONE Staking Efficiency DSLA contract](/assets/img/dsla-protocol_activities_staking-efficiency_ONE.png)
-
+[![Harmony ONE Staking Efficiency DSLA contract](/assets/img/dsla-protocol_activities_staking-efficiency_ONE.png)
+](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
 Both sides of the user-provider relationship can be bet on.
 
 The more the service exceeds expectations, the more rewards are granted to the SLA contract creator. Users, on the other end, are free to overcollateralize their third-party risk, to earn bigger compensations.
@@ -225,11 +225,11 @@ The burning process in both cases is tied to the staking rules. The withdraw res
 
 The mint process is intended to maintain the providerPoolSize/lpTokenTotalSupply ratio:
 
-$$\frac{providerPoolSize}{lpTokenTotalSupply} = \frac{providerPoolSize+providerStake}{lpTokenTotalSupply+mintedDpTokens}$$
+$$\frac{providerPoolSize}{lpTokenTotalSupply} = \frac{providerPoolSize+providerStake}{lpTokenTotalSupply+mintedLpTokens}$$
 
 And the formula for minted lpTokens is:
 
-$$mintedDpTokens = providerStake* \frac{lpTokenTotalSupply}{providerPoolSize}$$
+$$mintedLpTokens = providerStake* \frac{lpTokenTotalSupply}{providerPoolSize}$$
 
 Where the lpToken minting rate is:
 
@@ -243,7 +243,7 @@ $$lpMintingRate = \frac{98}{100}=0.98$$
 
  If the provider stakes 100 DSLA, then he is going to get:
 
-$$\scriptsize mintedDpTokens = providerStake* \frac{lpTokenTotalSupply}{providerPoolSize}=100*\frac{98}{100}=\text{98 lpTokens}$$
+$$\scriptsize mintedLpTokens = providerStake* \frac{lpTokenTotalSupply}{providerPoolSize}=100*\frac{98}{100}=\text{98 lpTokens}$$
 
 The minting rate changes only after a period is verified because the provider pool size is going to change, but the lpToken total supply is going to stand still.
 
@@ -253,7 +253,7 @@ $$lpMintingRate_1=\frac{lpTokenTotalSupply_1}{providerPoolSize_1+reward_1} = \fr
 
 Which means that if the provider stakes 100 DSLA again, the lpTokens minted would be:
 
-$$\small dpMintedTokens=stake*lpMintingRate=100*0.784 =\text{78.4 lpTokens}$$
+$$\small lpMintedTokens=stake*lpMintingRate=100*0.784 =\text{78.4 lpTokens}$$
 
 This minted token will keep the $lpMintingRate_1$:
 
@@ -265,19 +265,19 @@ The lpToken is then a deflationary token i.e. after every period, the average va
 
 The caller is going to receive a proportion of the provider pool, represented by how much lpTokens is willing to burn, but keeping the user providerPoolSize/lpTokens ratio:
 
-$$\frac{providerPoolSize}{lpTokenTotalSupply} = \frac{providerPoolSize-callerWithdraw}{lpTokenTotalSupply-burnedDpTokens}$$
+$$\frac{providerPoolSize}{lpTokenTotalSupply} = \frac{providerPoolSize-callerWithdraw}{lpTokenTotalSupply-burnedLpTokens}$$
 
 The burned lpTokens and caller withdraw formulas are:
 
-$$burnedDpTokens = callerWithdraw* \frac{lpTokenTotalSupply}{providerPoolSize}$$
+$$burnedLpTokens = callerWithdraw* \frac{lpTokenTotalSupply}{providerPoolSize}$$
 
-$$callerWithdraw = burnedDpTokens* \frac{providerPoolSize }{lpTokenTotalSupply}$$
+$$callerWithdraw = burnedLpTokens* \frac{providerPoolSize }{lpTokenTotalSupply}$$
 
 From here, we can state two formulas:
 
-- $dpBurnRate$: how many lpTokens the caller is going to burn for every withdrawn staked token
+- $lpBurnRate$: how many lpTokens the caller is going to burn for every withdrawn staked token
 
-    $$dpBurnRate =  \frac{lpTokenTotalSupply}{providerPoolSize}$$
+    $$lpBurnRate =  \frac{lpTokenTotalSupply}{providerPoolSize}$$
 
 - $dpWithdrawRate$: how many staked tokens the caller is going to receive for every burned spToken
 
@@ -287,11 +287,11 @@ $$dpWithdrawRate =  \frac{providerPoolSize }{lpTokenTotalSupply}$$
 
 The mint process is intended to maintain the usersPoolSize/spTokenTotalSupply ratio:
 
-$$\frac{usersPoolSize}{spTokenTotalSupply} = \frac{usersPoolSize+userStake}{spTokenTotalSupply+mintedDuTokens}$$
+$$\frac{usersPoolSize}{spTokenTotalSupply} = \frac{usersPoolSize+userStake}{spTokenTotalSupply+mintedSpTokens}$$
 
 And the formula for minted lpTokens is:
 
-$$mintedDuTokens = userStake* \frac{spTokenTotalSupply}{usersPoolSize}$$
+$$mintedSpTokens = userStake* \frac{spTokenTotalSupply}{usersPoolSize}$$
 
 Where the spToken minting rate is:
 
@@ -303,7 +303,7 @@ $$spMintingRate=\frac{200}{100}= 2$$
 
 Which means that if a user stakes 100 DSLA on the period 2, then the spTokens minted are:
 
-$$mintedDuTokens = stake*spMintingRate=100*2 = \text{200 spTokens}$$
+$$mintedSpTokens = stake*spMintingRate=100*2 = \text{200 spTokens}$$
 
 Not that even after the stake, the $spMintingRate$ stays the same:
 
@@ -313,19 +313,19 @@ $$spMintingRate = \frac{spTokenTotalSupply}{usersPoolSize}=\frac{400}{200}=2$$
 
 The caller is going to receive a proportion of the users pool, represented by how much spTokens is willing to burn, but keeping the user usersPoolSize/spTokens ratio:
 
-$$\frac{usersPoolSize}{spTokenTotalSupply} = \frac{usersPoolSize-callerWithdraw}{spTokenTotalSupply-burnedDuTokens}$$
+$$\frac{usersPoolSize}{spTokenTotalSupply} = \frac{usersPoolSize-callerWithdraw}{spTokenTotalSupply-burnedSpTokens}$$
 
 The burned spTokens and caller withdraw formulas are:
 
-$$burnedDuTokens = callerWithdraw* \frac{spTokenTotalSupply}{usersPoolSize}$$
+$$burnedSpTokens = callerWithdraw* \frac{spTokenTotalSupply}{usersPoolSize}$$
 
-$$callerWithdraw = burnedDuTokens* \frac{usersPoolSize }{spTokenTotalSupply}$$
+$$callerWithdraw = burnedSpTokens* \frac{usersPoolSize }{spTokenTotalSupply}$$
 
 From here, we can state two formulas:
 
-* $duBurnRate$:  how many spTokens the caller is going to burn by every withdrawn staked token
+* $spBurnRate$:  how many spTokens the caller is going to burn by every withdrawn staked token
 
-$$duBurnRate =  \frac{spTokenTotalSupply}{usersPoolSize}$$
+$$spBurnRate =  \frac{spTokenTotalSupply}{usersPoolSize}$$
 
 * $duWithdrawRate$: how many staked tokens the caller is going to receive by every burned spToken
 
@@ -345,8 +345,8 @@ Our security process for DSLA Protocol includes:
 * Two independant audits from white hat hackers
 * Comprehensive internal, manual and automated testing
 
-![DSLA Protocol x CertiK](/assets/img/2021-01-27-stacktical-dsla-protocol-partners-certik-blockchain-cryptocurrency-defi-security.jpg)
-
+[![DSLA Protocol x CertiK](/assets/img/2021-01-27-stacktical-dsla-protocol-partners-certik-blockchain-cryptocurrency-defi-security.jpg)
+](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
 Although we were able to address all the bugs we encountered during internal and external auditing so far, we cannot guarantee all DSLA Protocol bugs in existence have been discovered.
 
 It is an unavoidable reality of any software development effort.
@@ -358,7 +358,7 @@ ___
 
 ## About DSLA Protocol
 
-[![DSLA Protocol](/assets/img/dsla-protocol_service-uniswap_mobile-duo.png)](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
+[![DSLA Protocol](/assets/img/dsla-network_device-duo-stacked.jpg)](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
 
 DSLA Protocol is a risk management framework that enables developers and infrastructure operators to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.
 
