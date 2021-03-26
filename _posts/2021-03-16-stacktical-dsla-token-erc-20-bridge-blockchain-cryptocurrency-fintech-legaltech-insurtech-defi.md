@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA evolves beyond the ERC20 Ethereum standard"
 author: Team
 categories: [ partnership, network ]
