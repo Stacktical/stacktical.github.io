@@ -4,18 +4,20 @@ featured: false
 title:  "DSLA Listing Announcement"
 author: Team
 categories: [ reporting ]
-image: assets/img/2021-03-29-dsla-token-cryptocurrency-listing-kucoin-exchange-february-5-2021-fintech-legaltech-insurtech-defi.jpg
+image: assets/img/2021-03-29-dsla-token-cryptocurrency-listing-kucoin-exchange-february-5-2021-fintech-legaltech-insurtech-defi_.jpg
 ---
 
 ## Mark your Calendar
 
-We are pleased to inform the community that the DSLA utility token will be listed on the **[KuCoin cryptocurrency exchange](http://kucoin.com/)** on **Tuesday, March 30th, 2021 at XXam CET / XXpm CST** ! 🎉
+We are pleased to inform the community that the DSLA utility token will be listed on the **[KuCoin cryptocurrency exchange](http://kucoin.com/)** on **Tuesday, March 30th, 2021 at 11am UTC** ! 🎉
 
 KuCoin is a **[Top 10 CoinMarketCap exchange](https://coinmarketcap.com/rankings/exchanges/)**, with more than $1B in daily trading volume. 
 
-This major exchange listing will further the cryptocurrency community to acquire DSLA utility tokens in preparation for the [DSLA Protocol mainnet launch](https://blog.stacktical.com/mainnet/2021/03/25/stacktical-dsla-protocol-mainnet-deep-dive-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi.html).
+This major exchange listing will further the cryptocurrency community to acquire DSLA utility tokens in preparation for the **[DSLA Protocol mainnet launch](https://blog.stacktical.com/mainnet/2021/03/25/stacktical-dsla-protocol-mainnet-deep-dive-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi.html)**.
 
 👉 DSLA will debut trading under the **DSLA/USDT and DSLA/BTC pair**.
+
+🗣 Official KuCoin accouncement: **[https://www.kucoin.com/news/en-dsla-gets-listed-on-kucoin](https://www.kucoin.com/news/en-dsla-gets-listed-on-kucoin)**
 
 ## Registration & Deposit
 ### Get ready for takeoff 🚀
