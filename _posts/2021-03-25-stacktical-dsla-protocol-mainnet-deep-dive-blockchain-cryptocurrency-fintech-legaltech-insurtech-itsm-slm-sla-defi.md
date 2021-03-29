@@ -219,7 +219,7 @@ As minting is going to be applied only on not finished contracts, then we can as
 
 Using the same logic, we can say that lpTokens value is going to increase over time because of the rewards after a respected period, which will increase the providerStakedTokens/lpTokens ratio.
 
-The burning process in both cases is tied to the staking rules. The withdraw result is then proportional to the dTokens that the caller is going to burn in order to withdraw her tokens.
+The burning process in both cases is tied to the staking rules. The withdraw result is then proportional to the DSLA-LP and DSLA-SP that the caller is going to burn in order to withdraw her tokens.
 
 ### lpToken minting
 
