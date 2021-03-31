@@ -77,14 +77,14 @@ We will be focusing on 4 network integrations in the next two months.
 | :------------- | :------------- | :------------- | :------------- |  :------------- | 
 | APR Agreements | Harmony | $ONE Staking & Delegation | Mar 31| In Progress
 | APR Agreements | Avalanche | $AVAX Staking & Delegation | Apr 21 | Coming Soon
-| APR Agreements | Polkadot | $ATOM Staking & Delegation | May 12 | Coming Soon
-| APR Agreements | Cosmos | $DOT Staking & Delegation | Jun 2 | Coming Soon
+| APR Agreements | Polkadot | $DOT Staking & Delegation | May 12 | Coming Soon
+| APR Agreements | Cosmos | $ATOM Staking & Delegation | Jun 2 | Coming Soon
 
 Details about Impermanent Loss Agreements will be shared in a future update.
 
 ## Outro
 
-The DSLA Protocol is the start of a long journey. 
+The DSLA Protocol mainnet is the start of a long journey to product-market fit.
 
 We strongly believe in the benefits of a slightly more controlled launch that what you might be used to, that accounts for the engineering challenges ahead of us.
 
