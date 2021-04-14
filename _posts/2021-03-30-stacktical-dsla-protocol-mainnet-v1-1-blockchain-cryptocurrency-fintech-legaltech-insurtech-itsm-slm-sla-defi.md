@@ -73,7 +73,7 @@ All ONE Staking Agreements created before April 5 will be elligible for the gene
 
 We will be focusing on 4 network integrations in the next two months.
 
-| Use Case        | Network           | Service           | ETA           | Status
+| Use Case        | Network           | Service           | ETA           | Status
 | :------------- | :------------- | :------------- | :------------- |  :------------- | 
 | APR Agreements | Harmony | $ONE Staking & Delegation | Mar 31| In Progress
 | APR Agreements | Avalanche | $AVAX Staking & Delegation | Apr 21 | Coming Soon
