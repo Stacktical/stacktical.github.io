@@ -59,10 +59,9 @@ Here is a summary of the in-house innovations included in DSLA Protocol v1.1:
 
 * **No Code Tools**, enabling third-party service providers to add risk management widgets to their service, without technical knowledge.
 
-
 ## Audit Status
 
-### A 3rd Security Audit is in
+### 3 Successful Audits
 
 At this stage, along with our comprehensive internal testing, we have received three security audits of the DSLA Protocol:  
 
@@ -74,15 +73,16 @@ At this stage, along with our comprehensive internal testing, we have received t
 
 The aforementioned security auditors are in the process of wrapping up their respective reports for DSLA Protocol v1.1. We will share them with the community, and attach them to official DSLA Protocol smart contract on Etherscan, as soon as they are available.
 
-### In Progress
+### Security Bounty
 
 We encourage white hats to keep submitting their findings using the **[security bounty campaign](https://immunefi.com/bounty/dslaprotocol/)** we put in place with our friends at Immunefi.
 
-## Meet you on the dapp?
+## Don't miss our flagship Ðapp launch
 
 Following this successful release of DSLA Protocol v1.1, our flagship Ðapp will launch on April 14, 2021 at **[DSLA.network](https://dsla.network)**.
 
 Ready to turn DeFi risk into an asset with DSLA Protocol?
+
 ___
 
 
