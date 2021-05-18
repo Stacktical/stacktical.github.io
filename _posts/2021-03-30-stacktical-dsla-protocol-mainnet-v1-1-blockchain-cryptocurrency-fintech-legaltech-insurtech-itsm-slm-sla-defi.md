@@ -75,9 +75,9 @@ We will be focusing on 4 network integrations in the next two months.
 
 | Use Case        | Network           | Service           | ETA           | Status
 | :------------- | :------------- | :------------- | :------------- |  :------------- | 
-| APR Agreements | Harmony | $ONE Staking & Delegation | Mar 31| In Progress
-| APR Agreements | Avalanche | $AVAX Staking & Delegation | Apr 21 | Coming Soon
-| APR Agreements | Polkadot | $DOT Staking & Delegation | May 12 | Coming Soon
+| APR Agreements | Harmony | $ONE Staking & Delegation | Mar 31| Done
+| APR Agreements | Avalanche | $AVAX Staking & Delegation | Apr 21 | Done
+| APR Agreements | Polkadot | $DOT Staking & Delegation | May 12 | In Progress
 | APR Agreements | Cosmos | $ATOM Staking & Delegation | Jun 2 | Coming Soon
 
 Details about Impermanent Loss Agreements will be shared in a future update.

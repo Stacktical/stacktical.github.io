@@ -147,7 +147,7 @@ After a DSLA Period is finished, it can be verified.
 
 The verification fee is split between:
 
-* The User doing the verification (24.7%), to:
+* The User doing the verification (25%), to:
     * cover the cost of calling this function in the protocol;
     * incentivize a fast verification after the period is finished.
 
@@ -155,9 +155,9 @@ The verification fee is split between:
     * cover development and infrastructure costs;
     * incentivize the creation of new SLA contract types.
 
-* Core developers (50%), to cover infrastructure costs.
+* Core developers (25%), to cover infrastructure costs.
 
-**The rest of DSLA tokens is burned (0.3%).** 
+**The rest of DSLA tokens is burned (25%).** 
 
 Users provide liquidity to existing Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a bearish bias (SHORT)**.
 
