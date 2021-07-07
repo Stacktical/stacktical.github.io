@@ -71,14 +71,15 @@ All ONE Staking Agreements created before April 5 will be elligible for the gene
 
 ## Integration Roadmap
 
-We will be focusing on 4 network integrations in the next two months.
+We will be primarily exploring 5 network integrations this year.
 
 | Use Case        | Network           | Service           | ETA           | Status
 | :------------- | :------------- | :------------- | :------------- |  :------------- | 
-| APR Agreements | Harmony | $ONE Staking & Delegation | Mar 31| Done
-| APR Agreements | Avalanche | $AVAX Staking & Delegation | Apr 21 | Done
-| APR Agreements | Polkadot | $DOT Staking & Delegation | May 12 | In Progress
-| APR Agreements | Cosmos | $ATOM Staking & Delegation | Jun 2 | Coming Soon
+| APR Agreements | Harmony | $ONE Staking APR Guarantees | **DONE** | **DONE**
+| APR Agreements | Avalanche | $AVAX Staking APR Guarantees | When it's done | Coming Soon
+| APR Agreements | Polkadot | $DOT Staking APR Guarantees | When it's done | Coming Soon
+| APR Agreements | Cosmos | $ATOM Staking APR Guarantees | When it's done | Coming Soon
+| APR Agreements | Cosmos | $ATOM Staking APR Guarantees | When it's done | Coming Soon
 
 Details about Impermanent Loss Agreements will be shared in a future update.
 

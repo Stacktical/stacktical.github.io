@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Protocol v1.1 is live, starring Leveraged Risk Trading"
 author: Team
 categories: [ mainnet ]

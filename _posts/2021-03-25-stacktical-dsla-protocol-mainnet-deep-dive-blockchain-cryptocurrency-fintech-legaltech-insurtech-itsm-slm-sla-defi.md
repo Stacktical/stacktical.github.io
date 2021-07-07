@@ -31,6 +31,8 @@ DSLA Protocol v1 introduces a series of in-house innovations:
 
 * **Reliability Forecasts**, enabling third-party risk assessment at a glance, through the wisdom of the SLA marketplace and its participants;
 
+* **Leveraged Risk Trading**, enabling developers, users, and liquidity providers to better market their SLA contracts and modulate the cost of SLA premiums;
+
 * **SLA Futures Positions**, tokenised LONG/SHORT positions issued to the SLA creator taking on risk (LONG), or to SLA users offsetting risk (SHORT);
 
 * **A Triple Token Design**, to separate the functions of SLA enforcement, and tokenisation of LONG/SHORT SLA positions;
