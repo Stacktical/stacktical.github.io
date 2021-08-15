@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Protocol v1.3 is here"
 author: Team
 categories: [ mainnet ]
