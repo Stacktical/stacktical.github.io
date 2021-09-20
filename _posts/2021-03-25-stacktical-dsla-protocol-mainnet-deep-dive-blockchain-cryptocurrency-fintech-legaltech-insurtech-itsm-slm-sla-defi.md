@@ -181,6 +181,10 @@ For example, if:
 
 $$rewardRate = periodIncentive*sliDeviation=\frac{3}{12}*4=1\%$$
 
+Where sliDeviation is defined as below:  
+
+$$sliDeviation = \frac{SLI-SLO}{\frac{SLI+SLO}{2}}$$
+
 ### Users Compensations
 
 The Users pool is completely protected by the Provider pool.

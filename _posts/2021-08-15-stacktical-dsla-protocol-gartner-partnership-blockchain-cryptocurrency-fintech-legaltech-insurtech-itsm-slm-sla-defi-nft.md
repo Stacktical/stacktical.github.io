@@ -11,8 +11,6 @@ image: assets/img/2021-08-15-stacktical-dsla-protocol-gartner-partnership-blockc
 
 Dear community, the core development team of DSLA Protocol is pleased to announce that we have partnered with world leading research and advisory firm [**Gartner**](https://www.gartner.com/en/about), for the next major milestone of DSLA Protocol's growth: bringing third-party risk management to the masses with real-world, enterprise-grade use cases. 🎉
 
-![Gartner Technology Hype Cycle](/assets/img/2021-08-15-stacktical-dsla-protocol-gartner-partnership-gartner-hype-cycle.png)
-
 Creators of the **legendary technology hype cycle**, Gartner is a trusted advisor and an objective resource for more than 14,000 enterprises in 100+ countries.
 
 Through this partnership, DSLA Protocol will tap into Gartner's technology research teams, playbooks and network to fine-tune the strategy and value proposition of DSLA Protocol together, and onboard thousands of new developers and customers across all industries.
