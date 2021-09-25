@@ -9,13 +9,13 @@ image: assets/img/2021-08-15-stacktical-dsla-protocol-gartner-partnership-blockc
 
 ## Exanding the DSLA Protocol ecosystem to enterprises
 
-Dear community, the core development team of DSLA Protocol is pleased to announce that we are working with world leading research and advisory firm [**Gartner**](https://www.gartner.com/en/about), for the next major milestone of DSLA Protocol's growth: bringing third-party risk management to the masses with real-world, enterprise-grade use cases. 🎉
+Dear community, the core development team of DSLA Protocol is pleased to announce that we are working with world leading research and advisory firm [**Gartner**](https://www.gartner.com/en/about), for the next major milestone of DSLA Protocol's growth: bringing third-party risk management to the masses with real-world, enterprise-grade use cases.
 
 Gartner is a trusted advisor and an objective resource for more than 14,000 enterprises in 100+ countries. Our core development team will tap into the firm's expertise to fine-tune the value proposition of DSLA Protocol, and aim at onboarding thousands of new developers and customers across all industries.
 
 > More than 80% of legal and compliance leaders tell us that third-party risks were identified after initial onboarding and due diligence, suggesting traditional due diligence methods in risk management policy fail to capture new and evolving risks. - Gartner, Inc*
 
-* Gartner, Third Party Risk Management (TPRM) Ebook, https://www.gartner.com/en/legal-compliance/insights/third-party-risk-management
+*Gartner, Third Party Risk Management (TPRM) Ebook, https://www.gartner.com/en/legal-compliance/insights/third-party-risk-management
 ___
 
 
