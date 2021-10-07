@@ -3,7 +3,7 @@ layout: post
 featured: false
 title:  "101 NFTs for the DSLA Academy 101"
 author: Team
-categories: [ partnership ]
+categories: [ dapp, academy ]
 image: assets/img/2021-10-07-stacktical-dsla-protocol-academy-genesis-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
