@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "DSLA brings DeFi risk management to the Fantom community."
+title:  "DSLA brings DeFi risk management to Fantom"
 author: Team
 categories: [ partnership, network ]
 image: assets/img/2021-10-20-stacktical-dsla-protocol-maxima-fantom-edition-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
