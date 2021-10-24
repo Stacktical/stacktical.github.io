@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Protocol scales beyond DeFi"
 author: Team
 categories: [ partnership ]
