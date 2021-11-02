@@ -40,7 +40,7 @@ On the flip side, **Loss of Peg Risk SLAs** will allow for core teams, investor 
 
 > Holders of a pegged asset use DSLA Protocol to trade the risk of depegging away to a counterparty, in exchange for a small premium. The counterparty profits from that premium, if the peg is maintained.
 
-## How it will work 
+### How it will work 
 
 To activate an agreement, both parties need to fund their position by staking one of the many supported currencies (as updated [here!](2021-10-28-stacktical-dsla-protocol-stablecoins-native-tokens-liquid-staking-october-2021-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.md)) to the DSLA contract liquidity pool.
 
@@ -50,7 +50,7 @@ If the difference between the pegged asset price and the underlying asset price 
 
 Conversely, if an agreement is violated, Pegged Asset Holders earn the right to claim a compensation, by depleting the upfront commitment of DSLA Liquidity Providers.
 
-## Sounds complicated
+### Sounds complicated
 
 There is a lot to digest understanding DSLA Protocol and how DSLA Contracts work. If this all seems a bit like watching a movie in a foreign language with no subtitles, don't worry!
 
