@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "We burned 20,511,384.00 DSLA yesterday 🔥"
 author: Team
 categories: [ bonfire, reporting ]

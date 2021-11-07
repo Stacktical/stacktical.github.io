@@ -4,7 +4,7 @@ featured: true
 title:  "Announcing the Dubai DeFi Hackathon"
 author: Team
 categories: [ mainnet, defi ]
-image: assets/img/2021-10-23-stacktical-dsla-protocol-bonfire-burn-event-2-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
+image: assets/img/2021-11-07-stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
 ## Calling all DeFi Champs -- over $300K in prizes! 💰
