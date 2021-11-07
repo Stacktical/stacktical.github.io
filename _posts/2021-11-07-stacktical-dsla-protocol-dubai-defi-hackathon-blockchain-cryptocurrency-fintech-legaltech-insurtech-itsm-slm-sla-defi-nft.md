@@ -1,36 +1,41 @@
 ---
 layout: post
 featured: true
-title:  "Announcing the Dubai DeFi Hackathon"
+title:  "It's BUIDL Time at #DubaiDeFi"
 author: Team
 categories: [ mainnet, defi ]
 image: assets/img/2021-11-07-stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
-## Calling all DeFi Champs -- over $300K in prizes! 💰
+## ⌨️ Developers, Developers, Developers
 
-Ready to BUIDL?  Become one of the DSLA Champs at the biggest hackathon in Dubai!
+Are you ready?
 
-We are thrilled to announce the [**Dubai DeFi Hackathon**](https://dubaidefi.io) presented by [Mimo Capital](https://mimo.capital) and [DSLA Protocol](https://stacktical.com)!
+We are thrilled to announce that the [DSLA Protocol](https://stacktical.com) and [Mimo](https://mimo.capital) core development teams are co-organizing [**Dubai DeFi**](https://dubaidefi.io), the biggest hackathon in the Arabian Peninsula!
 
-Additional sponsors include [SwissBorg](https://swissborg.com),  [Balancer](https://balancer.fi), [Harmony](https://harmony.one), [Fantom](https://fantom.foundation) and more!
+**Over 300,000.00 USD in prizes will be awarded to developers building the best products around DSLA Protocol, Mimo, and other #DubaiDeFi sponsors [Harmony](https://harmony.one), [Fantom](https://fantom.foundation), [Balancer](https://balancer.fi), [SwissBorg](https://swissborg.com).**
 
-The [**Dubai DeFi Hackathon**](https://dubaidefi.io) will be a completely virtual event, taking place November 21, 2021 through November 27, 2021.  Sponsors will be hosting live sessions on Twitch starting **November 12th** to provide technical details about their platforms and assist competitors!
+And guess what...
 
-Check out the hackathon site at [https://dubaidefi.io](https://dubaidefi.io).
+## 🏁 The competition starts... now !
 
-### BUIDL Use Cases.🐱‍💻  WIN Prizes 💰
+You can already submit your repository anytime **from now through November 27, 2021 to projects@dubaidefi.io**, to participate to the hackathon.
 
-Each sponsor will choose their own winner(s) and how to distribute their respective prize pools.  More details will be released **November 12th** by each sponsor to their respective communities.
+Sponsors will be hosting live sessions on Twitch starting **November 12th** to provide technical details about their platforms and assist competitors.
 
-Prize pools include:
-* **$150K** in **$MIMO**
-* **$100K** in **$DSLA**
-* **$50K** in **$ONE**
-* **$25K** in **$FTM**
-* **$10K** in **$CHSB**
+💡 Make sure to check out all #DubaiDeFi information at [https://dubaidefi.io](https://dubaidefi.io).
 
-The overall theme of the hackathon is to use DSLA's Developer Toolkit (DTK) to build a hedging product, integrating one or more sponsors, for one of DSLA Protocol's main DeFi use cases:
+## 🍀 Prize Pools & Product Expectations
+
+Each sponsor will choose their own winner(s) and how to distribute their respective prize pools. Here is the current level of commitment from participating #DubaiDeFi sponsors:  
+
+* **$150K** in **$MIMO**  
+* **$100K** in **$DSLA**  
+* **$50K** in **$ONE**  
+* **$25K** in **$FTM**  
+* **$10K** in **$CHSB**  
+
+As far as DSLA Protocol is concerned, we are expecting developers to use the DSLA Developer Toolkit (DTK) to build a hedging product matching one of the following DeFi use case:
 
 | USE CASE | DESCRIPTION |
 | -------------- | ---------------|
@@ -41,18 +46,17 @@ The overall theme of the hackathon is to use DSLA's Developer Toolkit (DTK) to b
 | Impermanent Loss SLA | Hedge against negative market making returns |
 | Peg SLA | Hedge against stablecoin and synthetic assets losing their peg |
 
+e.g. Build a **$PAR Peg SLA**, to hedge against $PAR losing its peg against EUR.
 
-The prize giveaway ceremony on November 27, 2021 will be streamed live from Mimo's office in Dubai. 🏆
+**💡 Of course, you are welcome to combine any number of sponsor platform in your developments. The winners and prizes will be announced live from Mimo's offices in Dubai on November 27, 2021!**
 
-### How to Enter
+## 📔 DSLA Protocol Developer Guide 
 
-Competitors can submit their github repos starting now to [projects@dubaidefi.io](mailto:projects@dubaidefi.io).
+We will publish a lot more comprehensive instructions about getting involved with #DubaiDeFi soon, but our [Developer Guide](https://readme.stacktical.com/developer-guide/developer-toolkit-1/quick-start) is definitely a good place to get started.
 
-## Stay Tuned! 
+## 🎧 Stay tuned for more announcements
 
-We'll be dropping more details and announcements related to the [**Dubai DeFi Hackathon**](https://dubaidefi.io) soon.
-
-In the meantime, make sure to follow [@stacktical](https://twitter.com/Stacktical) on Twitter and feel free to drop in our [telegram](https://t.me/stacktical) to chat more.
+Make sure to follow [@stacktical](https://twitter.com/Stacktical) on Twitter for official announcements, and join our shiny new [Discord server](https://discord.gg/bknuhcXV) for technical talks.
 
 ---
 
