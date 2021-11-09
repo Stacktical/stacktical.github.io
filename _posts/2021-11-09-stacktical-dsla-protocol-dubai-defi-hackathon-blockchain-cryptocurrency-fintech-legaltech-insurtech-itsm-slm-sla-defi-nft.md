@@ -50,15 +50,13 @@ The DSLA core development team encourages #DubaiDeFi participants to use the DSL
 | Impermanent Loss SLA | Hedge against negative market making returns |
 | Peg SLA | Hedge against stablecoin and synthetic assets losing their peg |
 
-e.g. Build a **$PAR Peg SLA**, to hedge against $PAR losing its peg against EUR.
-
 You are welcome to combine any number of sponsors in your developments:
 
 | SPONSOR | USE CASE | DESCRIPTION |
 | -------------- | :--------------: | -------------- | 
-| Mimo |  $PAR Peg SLA | hedge against $PAR losing its peg against EUR |
-| Harmony  | $WBTC Peg SLA | hedge against $WBTC losing its peg against $BTC | 
-| Fantom | $TOMB Peg SLA | hedge against $TOMB losing its peg against $FTM |
+| Mimo |  PAR Peg SLA | hedge against PAR losing its peg against EUR |
+| Harmony  | WBTC Peg SLA | hedge against WBTC losing its peg against BTC | 
+| Fantom | TOMB Peg SLA | hedge against TOMB losing its peg against FTM |
 | Balancer | Impermanent Loss SLA | Hedge against negative market making returns |
 
 ## 📔 Getting Started with DSLA Protocol
