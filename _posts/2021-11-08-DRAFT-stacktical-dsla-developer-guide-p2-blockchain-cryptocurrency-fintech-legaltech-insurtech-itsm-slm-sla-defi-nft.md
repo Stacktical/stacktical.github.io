@@ -126,6 +126,7 @@ Now that services are running, we can deploy our contracts and Chainlink nodes b
 > confirm that the `BASE_MESSENGER` variable `constants.ts` is as follows `BASE_MESSENGER = 'base-messenger',` instead of `BASE_MESSENGER = 'dummy-use-case',` 
 
 > run the below sudo command to ensure permissions on chainlink-nodes folder
+
 ```
 sudo chown -R dhansen: /home/dhansen/DSLA/Devlopment/stacktical-dsla-developer-toolkit/services/chainlink-nodes
 
