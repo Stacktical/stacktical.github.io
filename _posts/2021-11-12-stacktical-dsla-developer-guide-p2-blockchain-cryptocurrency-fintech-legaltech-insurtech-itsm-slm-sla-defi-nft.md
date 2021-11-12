@@ -86,11 +86,7 @@ npm run external-adapter
 
 Switch back to your working tab.
 
-Now that services are running, we can deploy our contracts and Chainlink nodes.
-
-> Confirm that the `BASE_MESSENGER` variable in `constants.ts` on line 49 is as follows `BASE_MESSENGER = 'base-messenger',` instead of `BASE_MESSENGER = 'dummy-use-case',`
-
-Deploy the contracts and Chainlink nodes using hh deploy with the following command:
+Now that services are running, we can deploy our contracts and Chainlink nodes using hh deploy with the following command:
 
 ```
 hh deploy --network develop --reset
