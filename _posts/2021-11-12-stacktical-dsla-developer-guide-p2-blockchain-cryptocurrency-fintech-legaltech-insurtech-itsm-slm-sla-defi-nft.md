@@ -25,9 +25,8 @@ Let's go over some steps from the Setup and Quick Start sections of our [Develop
 
 #### Quick start
 
-You are going to end up with three console tabs open at then end of this walkthrough.
+You are going to end up with two console tabs open at then end of this walkthrough.
    * One that is your main working tab for the DTK repo (stacktical-dsla-developer-toolkit)
-   * One for running a ganache instance for a local blockchain
    * One for running the external adapter (for your local Chainlink node)
 
 Okay, let's go!
@@ -61,15 +60,9 @@ Set your console to use the .env file as the source for environment variables.
 source .env
 ```
 
-**In a separate console tab**, use ganache to spin up a local blockchain. Navigate into the `stacktical-dsla-developer-toolkit` folder and run the following command:
-```
-npm run custom-ganache
-```
-Leave the ganache tab open and switch back to your working tab.
-
 > Prior to running the next command, ensure that the `index.ts` file in the `stacktical-dsla-developer-toolkit/networks` has the `develop` network enabled. The develop network flag on line 4 should read `{ name: NETWORKS.DEVELOP, enabled: true },`
 
-Next, we will deploy local services for the 'develop' network including local develop blockchain and IPFS node.  Run the folling command to do so:
+Next, we will deploy local services for the 'develop' network including the local `develop` blockchain and IPFS node.  Run the folling command to do so:
 
 ```
 hh stacktical:restart-services --network develop
@@ -92,10 +85,11 @@ Now that services are running, we can deploy our contracts and Chainlink nodes u
 hh deploy --network develop --reset
 ```
 > This will clean any previous deployment of the 'develop' network and run the Chainlink nodes locally.
-> You may run into a permissions error on the /services/chainlink-nodes folder if you run the `hh deploy` command multiple times. If so, run the below command to ensure permissions on chainlink-nodes folder
+> You may run into a permissions error on the /services/chainlink-nodes or the /services/graph-protocol/postgres folders if you run the `hh deploy` command multiple times. If so, run the below commands to ensure permissions on these folders
 
 ```
 sudo chown -R YOUR_USER: /home/your_path_to_DTK/stacktical-dsla-developer-toolkit/services/chainlink-nodes
+sudo chown -R YOUR_USER: /home/your_path_to_DTK/stacktical-dsla-developer-toolkit/services/graph-protocol
 ```
 
 Lastly we bootstrap the protocol, after which it will be ready to use!  Bootstrap using the following command:
@@ -122,19 +116,16 @@ That's it, you've got a full, local deployment of DSLA Protocol!
 
 #### Re-run the DTK after initial install
 
-To quickly spin the DTK back up after install, open three console tabs and follow these steps:
+To quickly spin the DTK back up after install, open two console tabs and follow these steps:
 ```
 // in tab 1
 // navigate to the '/stacktical-dsla-developer-toolkit' folder and run:
-npm run custom-ganache
-
-// in tab 2
-// navigate to the '/stacktical-dsla-developer-toolkit' folder and run:
 npm run external-adapter
 
-// in tab 3
+// in tab 2
 // navigate to `/stacktical-dsla-developer-toolkit` folder and run:
 sudo chown -R YOUR_USER: /home/your_path_to_DTK/stacktical-dsla-developer-toolkit/services/chainlink-nodes
+sudo chown -R YOUR_USER: /home/your_path_to_DTK/stacktical-dsla-developer-toolkit/services/graph-protocol
 hh deploy --network develop --reset
 hh stacktical:bootstrap --network develop
 ```
