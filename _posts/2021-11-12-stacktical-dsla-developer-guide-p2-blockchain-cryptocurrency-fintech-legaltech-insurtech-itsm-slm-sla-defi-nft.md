@@ -181,7 +181,13 @@ For a deeper dive into tokenomics please take a look at [this blog post](2021-03
 
 #### Service Level Agreement (SLA)
 
-A SLA is a contract between a service *provider* and service *user(s)* containing all of the above components. An agreed SLO, to be verified periodically according to a set SLI, with a defined period that the agreement is active.  The token pool is contributed to by both the provider and users and rewards or compensations are paid out of it according to the SLI/SLO results.
+A SLA is a contract between a service *provider* and service *user(s)* containing all of the above components. It will have an agreed SLO, which will be verified periodically according to a set SLI, and be active for a defined period or term.  The token pool is contributed to by both the provider and users, and rewards or compensations are paid out of it according to the SLI/SLO results.
+
+### #DubaiDeFi
+
+[#DubaiDeFi](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), the biggest hackathon on the Arabian Peninsula, is the perfect chance to get started using the DTK to BUIDL! Plus a chance at over **$300K** in prizes!
+
+Read our [blog post](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html) about it or head over to [dubaidefi.io](https://dubaidefi.io) to learn more!
 
 ### Important Links  
 
@@ -199,13 +205,6 @@ A SLA is a contract between a service *provider* and service *user(s)* containin
 
 **DSLA Protocol Community Telegram**<br>
 [https://t.me/stacktical](https://t.me/stacktical)
-
-
-### #DubaiDeFi
-
-[#DubaiDeFi](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), the biggest hackathon on the Arabian Peninsula, is the perfect chance to get started using the DTK to BUIDL! Plus a chance at over **$300K** in prizes!
-
-Read our [blog post](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html) about it or head over to [dubaidefi.io](https://dubaidefi.io) to learn more!
 
 ---
 
