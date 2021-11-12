@@ -203,13 +203,9 @@ A SLA is a contract between a service *provider* and service *user(s)* containin
 
 ### #DubaiDeFi
 
-[#DubaiDeFi](https://blog.stacktical.com/bonfire/reporting/2021/11/07/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), the biggest hackathon on the Arabian Peninsula, is the perfect chance to get started!
+[#DubaiDeFi](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), the biggest hackathon on the Arabian Peninsula, is the perfect chance to get started using the DTK to BUIDL! Plus a chance at over **$300K** in prizes!
 
-
-
-
-![DSLA Protocol Contract Interaction](/assets/img/dsla-protocol_contract_interaction.jpeg)
-
+Read our [blog post](https://blog.stacktical.com/mainnet/defi/2021/11/09/stacktical-dsla-protocol-dubai-defi-hackathon-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html) about it or head over to [dubaidefi.io](https://dubaidefi.io) to learn more!
 
 ---
 
