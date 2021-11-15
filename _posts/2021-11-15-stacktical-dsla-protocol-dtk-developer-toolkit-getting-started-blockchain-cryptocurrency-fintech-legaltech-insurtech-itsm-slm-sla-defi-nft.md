@@ -1,23 +1,23 @@
 ---
 layout: post
 featured: false
-title:  "Build your own insurtech on DSLA Protocol"
+title:  "Build on the world's first L0 Insurance Protocol"
 author: Team
 categories: [ mainnet, dev ]
 image: assets/img/2021-11-15-stacktical-dsla-protocol-dtk-developer-toolkit-getting-started-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
-## Turnkey Risk Management
+## Insurtech as a Service, powered by Decentralized SLAs
 
 The DSLA Protocol core team is proud to announce the release of the [DSLA Protocol Developer Toolkit (DTK)](https://github.com/Stacktical/stacktical-dsla-developer-toolkit) and the [DSLA Protocol Developer Guide](https://readme.stacktical.com/developer-guide/). 
 
-The DTK empowers developers to vyukd new use cases and risk aware applications using DSLA Protocol, and the Developer Guide is there to help you get started!
+The DTK empowers developers to build new use cases and risk aware applications using DSLA Protocol, and the Developer Guide is there to help you get started!
 
 ### Value Proposition for Developers
 
 Why building on DSLA Protocol?
 
-First, developers are able to add peer-to-peer risk management capabilities to their existing applications, networks and services. These capabilities will increase user confidence, leading to higher adoption and retention of your products.
+First, developers are able to add custom, peer-to-peer risk management capabilities to their existing applications, networks and services. These capabilities will increase user confidence, leading to higher production adoption and retention.
 
 Second, developers can provide liquidity to the service-level agreements they create themselves, to earn additional revenue when application, network and service performance targets are met.
 
