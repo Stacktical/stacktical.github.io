@@ -13,7 +13,7 @@ Are you ready?
 
 We are thrilled to announce that the [DSLA Protocol](https://stacktical.com) and [Mimo](https://mimo.capital) core development teams are co-organizing [**Dubai DeFi**](https://dubaidefi.io), the biggest hackathon in the Arabian Peninsula!
 
-**Over 300,000.00 USD in prizes will be awarded to developers building the best products around DSLA Protocol, Mimo, and other #DubaiDeFi sponsors [Harmony](https://harmony.one), [Fantom](https://fantom.foundation), [Balancer](https://balancer.fi), [SwissBorg](https://swissborg.com).**
+**Over 300,000.00 USD in prizes will be awarded to developers building the best products around DSLA Protocol, Mimo, and other [#DubaiDeFi](https://twitter.com/search?q=%23DubaiDefi&src=typed_query&f=live) sponsors [Harmony](https://harmony.one), [Fantom](https://fantom.foundation), [Balancer](https://balancer.fi), [SwissBorg](https://swissborg.com).**
 
 And guess what...
 
@@ -23,19 +23,43 @@ You can already submit your repository anytime **from now through November 27, 2
 
 Sponsors will be hosting live sessions on Twitch starting **November 12th** to provide technical details about their platforms and assist competitors.
 
-💡 Make sure to check out all #DubaiDeFi information at [https://dubaidefi.io](https://dubaidefi.io).
+💡 Make sure to check out all [#DubaiDeFi](https://twitter.com/search?q=%23DubaiDefi&src=typed_query&f=live) information at [https://dubaidefi.io](https://dubaidefi.io).
 
-## 🍀 Prize Pools & Product Expectations
+## 🍀 Prize Pools
 
-Each sponsor will choose their own winner(s) and how to distribute their respective prize pools. Here is the current level of commitment from participating #DubaiDeFi sponsors:  
+### Event Sponsors
+
+Each sponsor will choose their own winner(s) and how to distribute their respective prize pools. Here is the current level of commitment from participating [#DubaiDeFi](https://twitter.com/search?q=%23DubaiDefi&src=typed_query&f=live) sponsors:  
 
 * **$150K** in **$MIMO**  
-* **$100K** in **$DSLA**  
+* **$100K** in **$DSLA** 
 * **$50K** in **$ONE**  
 * **$25K** in **$FTM**  
 * **$10K** in **$CHSB**  
 
-As far as DSLA Protocol is concerned, we are expecting developers to use the DSLA Developer Toolkit (DTK) to build a hedging product matching one of the following DeFi use case:
+### DSLA Prize Pool
+
+The 100K USD prize pool will follow this distribution scheme:
+
+* 🥇 **1st Place:**  
+50K USD in DSLA
+
+* 🥈 **2nd Place:**  
+25K USD in DSLA
+
+* 🥉 **3rd Place:**  
+10K USD in DSLA
+
+### Community Bonus Prize
+
+On top of the 100K USD Prize pool, we are allocating an extra 25K USD to the best project, as elected by the community:
+
+* 💎 **Community Favorite:**  
+25K USD in DSLA
+
+## 🔩 What can you build on DSLA Protocol?
+
+Developers can use the **[DSLA Developer Toolkit (DTK)](https://github.com/Stacktical/stacktical-developer-toolkit)** to **build service-level agreements** matching one of the following DeFi use case:
 
 | USE CASE | DESCRIPTION |
 | -------------- | ---------------|
@@ -48,15 +72,19 @@ As far as DSLA Protocol is concerned, we are expecting developers to use the DSL
 
 e.g. Build a **$PAR Peg SLA**, to hedge against $PAR losing its peg against EUR.
 
-**💡 Of course, you are welcome to combine any number of sponsor platform in your developments. The winners and prizes will be announced live from Mimo's offices in Dubai on November 27, 2021!**
+💡 **You are welcome to combine any number of sponsor platform in your developments, to maximize your chances of winning and the size of your prize.**
 
 ## 📔 DSLA Protocol Developer Guide 
 
-We will publish a lot more comprehensive instructions about getting involved with #DubaiDeFi soon, but our [Developer Guide](https://readme.stacktical.com/developer-guide/developer-toolkit-1/quick-start) is definitely a good place to get started.
+We will publish a lot more comprehensive instructions about getting involved with [#DubaiDeFi](https://twitter.com/search?q=%23DubaiDefi&src=typed_query&f=live) soon, but our [Developer Guide](https://readme.stacktical.com/developer-guide/developer-toolkit-1/quick-start) is definitely a good place to get started.
 
-## 🎧 Stay tuned for more announcements
+## 🎧 Stay tuned for more 
 
 Make sure to follow [@stacktical](https://twitter.com/Stacktical) on Twitter for official announcements, and join our shiny new [Discord server](https://discord.gg/bknuhcXV) for technical talks.
+
+The [#DubaiDefi](https://twitter.com/search?q=%23DubaiDefi&src=typed_query&f=live) winners will be announced live from Mimo's offices in Dubai on November 27, 2021!**
+
+🍀 **Good luck to all participants!** 
 
 ---
 
