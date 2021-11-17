@@ -1,35 +1,34 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "DSLA Protocol Blog"
+title: "DSLA Protocol"
+description: "Welcome to the official blog of DSLA Protocol and the DSLA family of products."
+logo: 'assets/img/logo.png'
+favicon: 'assets/img/favicon.png'
+baseurl: ''
+google_analytics: 'UA-74934840-3'
+disqus: 'stacktical'
 include: ["_pages"]
-permalink: /:title/
-email: wowthemesnet@gmail.com
+permalink: /:categories/:year/:month/:day/:title:output_ext
+url: https://blog.stacktical.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  Team:
+    name: 'Team'
+    display_name: 'DSLA Core Team'
+    gravatar: d8c1c1b45f2fe69edac3806d574a183f
+    email: 'contact@stacktical.com'
+    web: https://stacktical.com
+    twitter: https://twitter.com/Stacktical
+    description: "The team behind DSLA Protocol, and the DSLA family of products."
+  WilhemPujar:
+    name: 'Wilhem Pujar'
+    display_name: 'Wilhem Pujar'
+    gravatar: 22dc6d7cb68c703ab7eeccf965a29034
+    email: 'wilhem.pujar@stacktical.com'
+    web: https://stacktical.com
+    twitter: https://twitter.com/WilhemPujar
+    description: "Core Developer at DSLA Protocol"
 
 # Plugins
 plugins:
@@ -59,12 +58,10 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
-
-
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
