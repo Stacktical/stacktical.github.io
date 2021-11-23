@@ -3,19 +3,41 @@ layout: default
 title: Home
 ---
 
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+
+<hr />
+
+<div class="blog-grid-container featured">
+    {% for post in site.posts %}
+
+    {% if post.featured == true %}
+
+    {% include featured.html %}
+
+    {% endif %}
+
+    {% endfor %}
+</div>
+
+{% endif %}
+
+<hr />
+
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
     {% for post in paginator.posts %}
-        {% include postbox.html %}
+    {% include postbox.html %}
     {% endfor %}
 </div>
 
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
 </div>
-

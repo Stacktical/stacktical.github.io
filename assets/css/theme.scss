@@ -299,6 +299,65 @@ img:hover {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 30px;
+
+    &.featured {
+        grid-template-columns: 1fr 1fr;
+
+        .blog-grid-item:nth-child(1) {
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            flex-direction: column;
+            align-items: flex-start;
+            font-size: 1em;
+            padding: 0;
+
+            .card {
+                background: #0e4377;
+            }
+
+            .card-title {
+                a {
+                    color: #fff;
+                }
+            }
+
+            .img-thumb {
+                object-fit: contain;
+                height: auto !important;
+                width: 100%;
+                object-position: top;
+            }
+        }
+
+        .blog-grid-item:nth-child(2) {
+            .card {
+                background: #0e4377;
+            }
+
+            .card-text {
+                display: block;
+            }
+
+            .img-thumb {
+                object-fit: contain;
+                height: auto !important;
+                width: 100%;
+                object-position: top;
+            }
+
+            .card-title {
+                font-weight: 700;
+                font-size: 28px;
+                line-height: 1.4;
+            }
+
+            a {
+                color: #fff;
+            }
+        }
+    }
 }
 
 .blog-grid-item {
