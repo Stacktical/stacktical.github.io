@@ -29,9 +29,9 @@ We had a number of interesting and innovative submissions, and we are proud to a
 
 There were too many good entries to pick from and we had a tie for third place!
 
-**$5K** USD in **$DSLA**: **Power Plant SLAs** for power plant efficiency. This innovative use case gives the ability to provide an insurance on the efficiency of a solar power plant. OpenRazer API was integrated and used to fetch the data determining efficiency.
+**$10K** USD in **$DSLA**: **Power Plant SLAs** for power plant efficiency. This innovative use case gives the ability to provide an insurance on the efficiency of a solar power plant. OpenRazer API was integrated and used to fetch the data determining efficiency.
 
-**$5K** USD in **$DSLA**: **Google Stackdriver integration using OSS parser**. This submission allows you to fetch SLI data and monitor SLAs using Google Stackdriver, which requires credentials, but with the integration of OSS Parser, the credentials are not visible to the node operator or person providing execution code.
+**$10K** USD in **$DSLA**: **Google Stackdriver integration using OSS parser**. This submission allows you to fetch SLI data and monitor SLAs using Google Stackdriver, which requires credentials, but with the integration of OSS Parser, the credentials are not visible to the node operator or person providing execution code.
 
 ### Other Winners 🏅
 
