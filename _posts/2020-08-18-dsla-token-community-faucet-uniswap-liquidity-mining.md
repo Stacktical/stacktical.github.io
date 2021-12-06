@@ -3,7 +3,7 @@ layout: post
 featured: false
 title:  "DSLA Uniswap Liquidity Mining 🦄💎⛏"
 author: Team
-categories: [ DeFi, residency ]
+categories: [ defi, residency ]
 image: assets/img/2020-08-18-dsla-token-community-faucet-uniswap-liquidity-mining.jpg
 ---
 

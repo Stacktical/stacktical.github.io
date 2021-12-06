@@ -3,7 +3,7 @@ layout: post
 featured: false
 title:  "The DSLA Liquidity Mining Program continues 🦄💎⛏"
 author: Team
-categories: [ DeFi, residency ]
+categories: [ defi, residency ]
 image: assets/img/2020-09-01-dsla-token-community-faucet-farming-liquidity-mining-update.jpg
 ---
 
