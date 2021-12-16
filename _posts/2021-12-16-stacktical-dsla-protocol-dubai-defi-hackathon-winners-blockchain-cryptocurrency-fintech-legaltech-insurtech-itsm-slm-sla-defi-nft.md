@@ -92,7 +92,7 @@ A huge congratulations and thanks go out to all other individuals and teams who 
 
 ## What's Next
 
-Prizes have been distributed to the winners chosen by DSLA already.
+Prizes have been distributed to the winners chosen by the DSLA core team already.
 
 We're excited to see where the #DubaiDeFi hackathon participants take their works. A number of the entries could be built into viable products that we would love to be able to use in the future, and as we already noted the **Stablecoin Peg SLA** is already moving from concept to reality!
 
