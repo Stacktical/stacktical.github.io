@@ -17,7 +17,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords:5 }}</a>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords:10 }}</a>
                 {% if post.rating %}
                 <div class="mb-2 mt-2 font-weight-normal">
                 {% include star_rating_postbox.html %}

@@ -22,3 +22,5 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-gist'
 end
+
+gem "webrick", "~> 1.7"

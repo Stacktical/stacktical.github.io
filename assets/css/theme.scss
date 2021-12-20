@@ -313,13 +313,11 @@ img:hover {
             font-size: 1em;
             padding: 0;
 
-            .card {
-                background: #0e4377;
-            }
-
             .card-title {
+                margin-top: 2rem;
+
                 a {
-                    color: #fff;
+                    font-size: 1.75rem;
                 }
             }
 
@@ -329,13 +327,13 @@ img:hover {
                 width: 100%;
                 object-position: top;
             }
+
+            a {
+                color: #333;
+            }
         }
 
         .blog-grid-item:nth-child(2) {
-            .card {
-                background: #0e4377;
-            }
-
             .card-text {
                 display: block;
             }
@@ -351,10 +349,16 @@ img:hover {
                 font-weight: 700;
                 font-size: 28px;
                 line-height: 1.4;
+                
+                margin-top: 2rem;
+                
+                a {
+                    font-size: 1.75rem;
+                }
             }
 
             a {
-                color: #fff;
+                color: #333;
             }
         }
     }

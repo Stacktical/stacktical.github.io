@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "It's BUIDL Time at #DubaiDeFi"
 author: Team
 categories: [ mainnet, defi ]
