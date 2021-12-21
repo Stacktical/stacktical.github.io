@@ -20,8 +20,6 @@ Parametric. Programmable. Peer-to-Peer. Crowdfunded.
 
 The DSLA Protocol core team has been **pioneering a decentralized alternative to service level agreements since 2018**.
 
-DSLA is a protocol to build and swap protection against bad vendor performance.
-
 2022 will mark the consolidation of the value proposition of SLAs for the Decentralized Finance (DeFi) and Metaverse Finance (MetaFi) sectors, as well as our first notable foray into real world, third-party risk management use cases.
 
 The DSLA core team will introduce new parametric insurance primitives that enable developers, liquidity providers and customers to build, integrate, monetise and use risk swaps for a wider variety of third-party risks. 
@@ -78,7 +76,7 @@ In the meantime, DSLA Protocol will keep evolving until it reaches the v2 stage,
 
 ---
 
-### 🗓 THU, OCT 29, 2022
+### 🗓 THU, OCT 27, 2022
 
 #### 🎯 DSLA No Code
 
@@ -86,7 +84,7 @@ In the meantime, DSLA Protocol will keep evolving until it reaches the v2 stage,
 
 ---
 
-### 🗓 THU, NOV 29, 2022
+### 🗓 THU, NOV 24, 2022
 
 #### 🎯 DSLA Protocol for Tezos
 
@@ -94,7 +92,7 @@ In the meantime, DSLA Protocol will keep evolving until it reaches the v2 stage,
 
 ---
 
-### 🗓 THU, DEC 29, 2022
+### 🗓 THU, DEC 15, 2022
 
 #### 🎯 Real World Proof-of-Concept
 
@@ -104,20 +102,22 @@ In the meantime, DSLA Protocol will keep evolving until it reaches the v2 stage,
 
 # 💡 DSLA Protocol
 
-Managing DeFi risk is hard:
+### A Decentralized Alternative to Service Level Agreements
 
-- 🧐 Due diligence takes time;
+👉 Get started at **[dsla.network](https://dsla.network)** 
 
-- 🔻 Many events can affect your assets;
+👉 Read more at [**stacktical.com**](https://stacktical.com)
 
-- 🧯 And there is no intuitive way to offset losses.
+### Built for DeFi. Ready for More.
 
-So we created DSLA Protocol!
+Managing Decentralized Finance (DeFi) risk is hard:
 
-It enables DeFi users to trade third-party risk with each other using Decentralized SLA positions:
+* 🧐 Due diligence takes time;
+
+* 🔻 Many events can affect your assets;
+
+* 🧯 And there is no intuitive way to offset losses.
 
 {% include youtube_player.html id="3M1FHY9rSqE" %}
 
- 👉 Try it out [https://dsla.network](https://dsla.network) 
-
-👉 Learn more [https://stacktical.com](https://stacktical.com)
+https://stacktical.com)
