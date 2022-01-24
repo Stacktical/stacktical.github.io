@@ -19,9 +19,9 @@ Avalanche is a network of networks. It allows you to create your own blockchain 
 
 The launchpad will enable Avalanche subnet operators to bootstrap the security of their subnet, and incentivise Avalanche validators using performance bounties—a new abstraction and use case of DSLA Protocol's Decentralized Service Level Agreements.
 
-In practice, this means an increase in Staking APR for subnet validators that hit pre-agreed performance and validation targets, and peace of mind for subnet operators.
+In practice, this means an increase in Staking APR for subnet validators that hit pre-agreed performance and validation targets, and peace of mind for
 
-## 🗓 Stay tuned for upcoming events
+## 🗓 Stay tuned for upcomi
 
 2022 will mark the consolidation of the value proposition of SLAs for the Decentralized Finance (DeFi) and Metaverse Finance (MetaFi) sectors, as well as our first notable foray into real world, third-party risk management use cases.
 
@@ -35,15 +35,15 @@ In practice, this means an increase in Staking APR for subnet validators that hi
 
 # 💡 DSLA Protocol
 
-### A Decentralized Alternative to Service Level Agreements
+### Decentralized Service Level Agreements
 
 👉 Get started at **[dsla.network](https://dsla.network)** 
 
 👉 Read more at [**stacktical.com**](https://stacktical.com)
 
-### Built for DeFi. Ready for More.
+### Built for Decentralized Finance. Ready for More.
 
-Managing Decentralized Finance (DeFi) risk is hard:
+Managing DeFi risk is hard:
 
 * 🧐 Due diligence takes time;
 

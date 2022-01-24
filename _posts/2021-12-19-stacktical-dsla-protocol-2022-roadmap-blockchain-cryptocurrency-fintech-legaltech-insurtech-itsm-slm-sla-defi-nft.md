@@ -102,15 +102,15 @@ In the meantime, DSLA Protocol will keep evolving until it reaches the v2 stage,
 
 # 💡 DSLA Protocol
 
-### A Decentralized Alternative to Service Level Agreements
+### Decentralized Service Level Agreements
 
 👉 Get started at **[dsla.network](https://dsla.network)** 
 
 👉 Read more at [**stacktical.com**](https://stacktical.com)
 
-### Built for DeFi. Ready for More.
+### Built for Decentralized Finance. Ready for More.
 
-Managing Decentralized Finance (DeFi) risk is hard:
+Managing DeFi risk is hard:
 
 * 🧐 Due diligence takes time;
 
@@ -119,5 +119,3 @@ Managing Decentralized Finance (DeFi) risk is hard:
 * 🧯 And there is no intuitive way to offset losses.
 
 {% include youtube_player.html id="3M1FHY9rSqE" %}
-
-https://stacktical.com)
