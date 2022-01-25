@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "We burned 101,000,000 DSLA last week 🔥"
+title:  "We burned 101,000,000.00 (101M) DSLA last week 🔥"
 author: Team
 categories: [ bonfire, reporting ]
 image: assets/img/2022-01-25-stacktical-dsla-protocol-bonfire-burn-event-3-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
