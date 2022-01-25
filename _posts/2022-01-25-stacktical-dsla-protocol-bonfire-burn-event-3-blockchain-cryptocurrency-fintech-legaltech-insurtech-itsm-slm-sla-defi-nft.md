@@ -36,7 +36,7 @@ This event will be announced at a later stage.
 
 ### New Native Burn Mechanism 
 
-Up until now, DSLA tokens were burned upon SLA verifications, a core maintain task of DSLA Protocol.
+Up until now, DSLA tokens were burned upon SLA verifications, a core maintenance task of DSLA Protocol.
 
 In 2022, DSLA tokens will be burned for completing other maintenance tasks.
 
