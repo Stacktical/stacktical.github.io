@@ -66,7 +66,7 @@ It will enables new, powerful outcomes following SLA verifications:
 * Risk Parameters Update
 * Compliance Reporting
 
-### Ready for generation deflation?
+### Ready for next generation deflation?
 
 In all cases, an exponential usage of DSLA Protocol will translate into an exponential burn of DSLA tokens reflecting this reality.
 
