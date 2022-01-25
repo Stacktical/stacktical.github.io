@@ -11,7 +11,7 @@ image: assets/img/2022-01-21-stacktical-dsla-protocol-bonfire-burn-event-3-block
 
 We came, we saw, we burned! We're happy to announce to the community that **101,000,000 DSLA tokens** were burned during Bonfire Burn Event #3! 🔥
 
-The fires have been stoked and we are as well -- looking ahead in 2022 we have a number of things coming that will be catalysts for future burns:
+The fires have been stoked and we are as well - looking ahead in 2022 we have a number of things coming that will be catalysts for future burns:
 * DSLA Metaverse NFT's
   * Metaverse NFT mint fees will be paid for in DSLA tokens, with a portion being burned
 * DSLA v2
