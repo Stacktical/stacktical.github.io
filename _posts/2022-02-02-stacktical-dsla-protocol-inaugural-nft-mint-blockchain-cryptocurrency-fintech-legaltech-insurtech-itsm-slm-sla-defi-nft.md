@@ -56,7 +56,7 @@ These are NFT's that may be minted to represent knowledge gained learning in the
 
 ### Skill NFT's ⚔️
 
-Skill NFT's can be minted based on putting knowledge gained in the Academy to use and interacting with DSLA Protocol. These NFT's will have the most utility in the DSLA Metaverse, as they are meant to reward and incentivize Protocol use.
+Skill NFT's can be minted after putting knowledge gained in the Academy to use and interacting with DSLA Protocol. These NFT's will have the most utility in the DSLA Metaverse, as they are meant to reward and incentivize Protocol use.
 
 Because all interactions are on-chain, we can validate protocol usage and calcualte "experience points" based on use. Experience will be calculated and factor into Skill NFT minting in multiple ways. Users may need to meet certain usage thresholds for different skill NFT's to be available to mint. Experience may also factor in when minting with higher experience giving a better chance at more rare or powerful skill NFT's.
 
