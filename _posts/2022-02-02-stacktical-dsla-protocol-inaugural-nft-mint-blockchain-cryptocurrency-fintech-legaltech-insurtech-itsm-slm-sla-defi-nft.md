@@ -76,9 +76,11 @@ So, maybe this is a good time to talk about the Quicksand Dips biome, and it's u
 
 For 2022 we've got an impressive roadmap working towards scaling development, adoption and use of DSLA Protocol. The core team is also working on some big things that have not been announced or put on the roadmap 😉. NFT Floor Price protection, aka Pixel Mutual, is one of these initiatives.
 
-Pixel Mutual will be a standalone dApp, giving projects the ability to guarantee floor price for their NFT projects, increasing their project's profile and reach by providing confidence to early supporters and minters.
+Pixel Mutual will be a standalone dApp, giving projects the ability to guarantee floor price for their NFTs, increasing their project's profile and reach by providing confidence to early supporters and minters.
 
-Our Genesis Mint NFT's are going to be the first NFT's that put the Floor Price SLA to use. That's right, the Inaugural Mint NFT's will have Pixel Mutual Floor Price Protection, powered by DSLA Protocol, how's that for a surprise? 💣
+This use case is still being fine tuned, but once ready our Genesis Mint NFT's are going to be the first NFT's that put the Floor Price SLA to use.
+
+Pixel Mutual Floor Price Protection, powered by DSLA Protocol, how's that for a surprise? 💣
 
 ---
 
