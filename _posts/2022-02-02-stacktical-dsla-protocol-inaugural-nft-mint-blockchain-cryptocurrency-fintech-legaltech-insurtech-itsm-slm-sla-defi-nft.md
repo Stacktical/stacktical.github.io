@@ -70,7 +70,7 @@ Skill NFT's will have numerous potential utilities including:
 * DAO participation
 * Content contribution rights
 
-## Quicksand Dips and the Floor Price SLA 🛡️
+## Quicksand Dips and the NFT Floor Price SLA 🛡️
 
 So, maybe this is a good time to talk about the Quicksand Dips biome, and it's use case of 'NFT Floor Price Protection' (that's new!).
 
