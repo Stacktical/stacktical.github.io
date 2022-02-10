@@ -9,13 +9,13 @@ image: assets/img/2022-02-02-stacktical-dsla-protocol-inaugural-nft-mint-blockch
 
 ## The DSLA Metaverse and Genesis Mint 🗺️
 
-The Genesis world of the DSLA Metaverse is made up of the DSLA Academy along with six elemental-themed biomes. Each biome's elemental theme is associated with a different type of risk that DSLA Protocol can be used to manage.
+The Genesis world of the DSLA Metaverse is made up six elemental-themed biomes. Each biome's elemental theme is associated with a different type of risk that DSLA Protocol can be used to manage.
 
 As communicated [previously](https://blog.stacktical.com/dapp/academy/2021/10/07/stacktical-dsla-protocol-academy-genesis-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), a snapshot was taken of all wallets holding at least 100K DSLA tokens by November 30th, 2021 at 10pm CET. 101 lucky winners were randomly selected from the snapshot to receive one of the Genesis Mint NFTs.
 
 ### Introducing the Biomes 🌍
 
-Each biome in the Genesis world has a primary element (Fire, Water, Earth, Wind, Light, Dark) and represents a type of risk that DSLA Protocol can be used to manage. The six biomes and use cases are: 
+Each biome in the Genesis world has a primary element (Fire, Water, Earth, Air, Light, Dark) and represents a type of risk that DSLA Protocol can be used to manage. The six biomes and use cases are: 
 
 | Biome                 | Risk Type              |
 |-----------------------|------------------------|
