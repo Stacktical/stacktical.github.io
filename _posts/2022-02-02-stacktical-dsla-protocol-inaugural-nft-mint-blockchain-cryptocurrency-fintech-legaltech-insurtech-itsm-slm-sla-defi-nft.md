@@ -47,7 +47,7 @@ Each biome has an Outpost that is established in it to battle the risk and/or ha
 | --- | --- |
 | **Biome:** | Quicksand Dips |
 | **Element:** | Earth 🌍 |
-| **Risk:** | Price Volatility |
+| **Risk:** | Asset Volatility |
 | **Description:** &nbsp; &nbsp; | Quicksand Dips is the source for mystical white quartz used in creating artifacts. White quartz is mined and then refined for use in minting artifacts. The Clock is a mystical artifact within this Outpost, which helps regulate the flow of time between the biomes. The Academy is also located in this biome. |
 |  | [![Quicksand Dips Biome NFT](/assets/img/Quicksand_Dips_Gen0_thumb.png)](/assets/img/Quicksand_Dips_Gen0_sm.png) |
 | **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
@@ -56,7 +56,7 @@ Each biome has an Outpost that is established in it to battle the risk and/or ha
 | --- | --- |
 | **Biome:** | Volatility Creeks |
 | **Element:** | Air 🌪️ |
-| **Risk:** | Pegged Asset Volatility |
+| **Risk:** | Price Volatility |
 | **Description:** &nbsp; &nbsp; | Volatility Creeks' Outpost harnesses the raging and violent winds here to generate power. The Outpost uses weather platforms that are able to catch tornadoes, harvesting their energy and protecting the rest of the biome from damage. |
 |  | [![Volatility Creeks Biome NFT](/assets/img/Volatility_Creeks_Gen0_thumb.png)](/assets/img/Volatility_Creeks_Gen0_sm.png) |
 | **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
@@ -107,9 +107,11 @@ Because all interactions are on-chain, we can validate protocol usage and calcua
 
 ## Quicksand Dips and The Academy 🏰
 
-Users in the DSLA Academy are known as Scholars, and they will use the Academy as the hub for embarking on their DSLA metaverse journey. At the Academy, Scholars can access educational content to help them learn about the blockchain, DSLA Protocol and hedging third party risk. Developers, which we call Engineers in the Academy, can learn about building with and integrating DSLA Protocol risk management middleware.
+Users in the DSLA Academy are known as Scholars, and they will use the Academy as the hub for embarking on their DSLA metaverse journey. At the Academy, Scholars can access educational content to help them learn about the blockchain, DSLA Protocol and hedging third party risk.
 
-Scholars and Engineers will be able to mint different NFTs to represent Knowledge they have acquired learning from the Academy and the Skills they have acquired from interacting with DSLA Protocol. The DSLA Bonfire is located in the Academy, which you can see on the Quicksand Dips Biome NFT, and is where users will burn DSLA tokens to mint NFTs.
+Developers, which we call Engineers in the Academy, can learn about building with and integrating DSLA Protocol risk management middleware.
+
+Scholars and Engineers will be able to mint different NFTs to represent Knowledge they have acquired learning from the Academy and the Skills they have acquired and improved interacting with DSLA Protocol. The DSLA Bonfire is located in the Academy, which you can see on the Quicksand Dips Biome NFT, and is where users will burn DSLA tokens to mint NFTs.
 
 ---
 
