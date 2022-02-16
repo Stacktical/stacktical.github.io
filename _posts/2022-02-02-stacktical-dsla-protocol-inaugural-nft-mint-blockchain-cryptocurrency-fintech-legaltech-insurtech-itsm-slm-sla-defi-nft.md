@@ -4,83 +4,112 @@ featured: false
 title:  "DSLA Metaverse Genesis NFT Mint"
 author: Team
 categories: [ mainnet ]
-image: assets/img/2022-02-02-stacktical-dsla-protocol-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
+image: assets/img/2022-02-22-stacktical-dsla-protocol-inaugural-nft-mint3-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
 ## The DSLA Metaverse and Genesis Mint 🗺️
 
-The Genesis world of the DSLA Metaverse is made up six elemental-themed biomes. Each biome's elemental theme is associated with a different type of risk that DSLA Protocol can be used to manage.
+The Genesis NFTs are out!
 
-As communicated [previously](https://blog.stacktical.com/dapp/academy/2021/10/07/stacktical-dsla-protocol-academy-genesis-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), a snapshot was taken of all wallets holding at least 100K DSLA tokens by November 30th, 2021 at 10pm CET. 101 lucky winners were randomly selected from the snapshot to receive one of the Genesis Mint NFTs.
+As communicated [previously](https://blog.stacktical.com/dapp/academy/2021/10/07/stacktical-dsla-protocol-academy-genesis-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), a snapshot was taken of all wallets holding at least 100K DSLA tokens as of November 30, 2021. **101** winners were randomly selected from the snapshot to receive a Genesis Mint NFT, and we're happy to announce that distribution is complete!
+
+Feel free to check out the [collection on Opensea](https://opensea.io/collection/dsla-metaverse) and let's dive into the details below. 👇
 
 ### Introducing the Biomes 🌍
 
-Each biome in the Genesis world has a primary element (Fire, Water, Earth, Air, Light, Dark) and represents a type of risk that DSLA Protocol can be used to manage. The six biomes and use cases are: 
+We wanted a way to represent DSLA Protocol being used to battle risk that made sense and was easy to connect with. What made sense to us for representing different types of risk?
 
-| Biome                 | Risk Type              |
-|-----------------------|------------------------|
-|🔥 Wildfire Fields&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | APR/APY |
-|💧 Uptime Falls | Uptime |
-|🌍 Quicksand Dips | NFT Floor Price |
-|🌪️ Volatility Creeks | Volatility Mitigation |
-|☀️ Fiber Peaks | Response Time |
-|🌑 Moongate Abyss | Withdrawal Time |
+Elements. Fire🔥, Water💧, Earth🌍, Air🌪️, Light☀️, Dark🌑.
+
+And so the Genesis world in the DSLA Metaverse is made up of six different elemental-themed biomes, with each element representing a different type of risk that DSLA Protocol can be used to manage.
+
+Each biome has an Outpost that is established in it to battle the risk and/or harvest resources. Users will be able to earn and mint NFTs, then put them to work in the biomes and Outposts. The NFTs, biomes and Outposts will add an element of gamification to encourage and reward use, while still keeping DSLA Protocol accessible and professional.
+
+|    |     |
+| --- | --- |
+| **Biome:** | Wildfire Fields |
+| **Element:** | Fire 🔥 |
+| **Risk:** | Returns Volatility |
+| **Description:** &nbsp; &nbsp; | Wildfire Fields has fertile volcanic soil for growing crops, but is in constant danger from fires and volcanic flows. The Outpost harvests geothermal energy to pull water from deep wells and run irrigation protecting and supporting crops. |
+|  | [![Wildfire Fields Biome NFT](/assets/img/Wildfire_Fields_Gen0_thumb.png)](/assets/img/Wildfire_Fields_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
+
+|    |     |
+| --- | --- |
+| **Biome:** | Uptime Falls |
+| **Element:** | Water 💧 |
+| **Risk:** | Uptime Volatility |
+| **Description:** &nbsp; &nbsp; | Uptime Falls benefits from abundant water supplies and uses them to generate hydroelectric power. The Outpost manufactures batteries, using them to store excess power and stockpiling them for later use. |
+|  | [![Uptime Falls Biome NFT](/assets/img/Uptime_Falls_Gen0_thumb.png)](/assets/img/Uptime_Falls_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
+
+|    |     |
+| --- | --- |
+| **Biome:** | Quicksand Dips |
+| **Element:** | Earth 🌍 |
+| **Risk:** | Price Volatility |
+| **Description:** &nbsp; &nbsp; | Quicksand Dips is the source for mystical white quartz used in creating artifacts. White quartz is mined and then refined for use in minting artifacts. The Clock is a mystical artifact within this Outpost, which helps regulate the flow of time between the biomes. The Academy is also located in this biome. |
+|  | [![Quicksand Dips Biome NFT](/assets/img/Quicksand_Dips_Gen0_thumb.png)](/assets/img/Quicksand_Dips_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
+
+|    |     |
+| --- | --- |
+| **Biome:** | Volatility Creeks |
+| **Element:** | Air 🌪️ |
+| **Risk:** | Pegged Asset Volatility |
+| **Description:** &nbsp; &nbsp; | Volatility Creeks' Outpost harnesses the raging and violent winds here to generate power. The Outpost uses weather platforms that are able to catch tornadoes, harvesting their energy and protecting the rest of the biome from damage. |
+|  | [![Volatility Creeks Biome NFT](/assets/img/Volatility_Creeks_Gen0_thumb.png)](/assets/img/Volatility_Creeks_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
+
+|    |     |
+| --- | --- |
+| **Biome:** | Fiber Peaks |
+| **Element:** | Light ☀️ |
+| **Risk:** | Response Time Volatility |
+| **Description:** &nbsp; &nbsp; | Fiber Peaks is the communications hub of the Metaverse. The unique sunlight here is harvested by a collector tower and converted into crystals that power communications throughout the biomes. |
+|  | [![Fiber Peaks Biome NFT](/assets/img/Fiber_Peaks_Gen0_thumb.png)](/assets/img/Fiber_Peaks_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
+
+|    |     |
+| --- | --- |
+| **Biome:** | Moongate Abyss |
+| **Element:** | Dark 🌑 |
+| **Risk:** | Transfer Volatility |
+| **Description:** &nbsp; &nbsp; | The Moongate Abyss harvests dark energy crystals from the deep, which supply the Moongate Portal Generator. This generator powers the various Moongates that allow transportation between biomes. |
+|  | [![Moongate Abyss Biome NFT](/assets/img/Moongate_Abyss_Gen0_thumb.png)](/assets/img/Moongate_Abyss_Gen0_sm.png) |
+| **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
 
 <p></p>
+## NFTs with Utility
 
-## Functional Art
-
-Within the DSLA Metaverse there are three types of NFT's: 
+Within the DSLA Metaverse there are three types of NFTs: 
 * Lore
 * Knowledge
 * Skill
 
-DSLA Metaverse NFT's are #functionalart, being not only collectible as high-quality art in their own right, but further enhanced with meaningful DSLA Protocol functionality.
+DSLA Metaverse NFTs are not only collectible as high-quality art in their own right, but further enhanced with meaningful DSLA Protocol functionality.
 
-### Lore NFT's 📜
+The biome artwork for the Genesis Mint was created by [Abi Daker](https://twitter.com/abidaker). We encourage you to check out her other amazing works!
 
-Lore NFT's capture the history, backstory and other elements making up parts of the the DSLA Metaverse. The Genesis mint biome NFT's are Lore NFT's, with a limited capped supply of each Gen 0 biome. Lore NFT's have the following potential utilities:
-* PFP / Art collectible
-* Protocol modifiers
-* Staking APR modifiers
+### Lore NFTs 📜
 
-The plan for the Gen. 0 biome NFT's is that they will be able to be staked to earn a portion of protocol returns for that biome.
+Lore NFTs capture the history, mythology and other elements making up the the DSLA Metaverse backstory. The Genesis mint biome NFTs are Lore NFTs, with a limited capped supply of each Gen 0 biome (noted on the NFT).
 
-### Knowledge NFT's 📖
+### Knowledge NFTs 📖
 
-These are NFT's that may be minted to represent knowledge gained learning in the the DSLA Academy. Knowledge NFT's may potentially have the following utilities:
+These are NFTs that may be minted to represent knowledge gained learning in the the DSLA Academy.
 
-* PFP / Art collectible
-* Mint fee sharing
-* Staking NFT's for other benefits and rewards
+### Skill NFTs ⚔️
 
-### Skill NFT's ⚔️
+Skill NFTs can be minted after putting knowledge gained in the Academy to work by using DSLA Protocol. These NFTs will have the most utility in the DSLA Metaverse, as they are meant to reward and incentivize Protocol use.
 
-Skill NFT's can be minted after putting knowledge gained in the Academy to use and interacting with DSLA Protocol. These NFT's will have the most utility in the DSLA Metaverse, as they are meant to reward and incentivize Protocol use.
+Because all interactions are on-chain, we can validate protocol usage and calcualte "experience points" based on use. Experience will be calculated and factor into some Skill NFT minting. For instance, users may need to meet certain usage thresholds for different skill NFTs to be available to mint.
 
-Because all interactions are on-chain, we can validate protocol usage and calcualte "experience points" based on use. Experience will be calculated and factor into Skill NFT minting in multiple ways. Users may need to meet certain usage thresholds for different skill NFT's to be available to mint. Experience may also factor in when minting with higher experience giving a better chance at more rare or powerful skill NFT's.
+## Quicksand Dips and The Academy 🏰
 
-Skill NFT's will have numerous potential utilities including:
+Users in the DSLA Academy are known as Scholars, and they will use the Academy as the hub for embarking on their DSLA metaverse journey. At the Academy, Scholars can access educational content to help them learn about the blockchain, DSLA Protocol and hedging third party risk. Developers, which we call Engineers in the Academy, can learn about building with and integrating DSLA Protocol risk management middleware.
 
-* PFP / Art collectible
-* Mint fee sharing
-* Protocol modifiers
-* Staking APR modifiers
-* Dev royalty modifiers
-* DAO participation
-* Content contribution rights
-
-## Quicksand Dips and the NFT Floor Price SLA 🛡️
-
-So, maybe this is a good time to talk about the Quicksand Dips biome, and it's use case of 'NFT Floor Price Protection' (that's new!).
-
-For 2022 we've got an impressive roadmap working towards scaling development, adoption and use of DSLA Protocol. The core team is also working on some big things that have not been announced or put on the roadmap 😉. NFT Floor Price protection, aka Pixel Mutual, is one of these initiatives.
-
-Pixel Mutual will be a standalone dApp, giving projects the ability to guarantee floor price for their NFTs, increasing their project's profile and reach by providing confidence to early supporters and minters.
-
-This use case is still being fine tuned, but once ready our Genesis Mint NFT's are going to be the first NFT's that put the Floor Price SLA to use.
-
-Pixel Mutual Floor Price Protection, powered by DSLA Protocol, how's that for a surprise? 💣
+Scholars and Engineers will be able to mint different NFTs to represent Knowledge they have acquired learning from the Academy and the Skills they have acquired from interacting with DSLA Protocol. The DSLA Bonfire is located in the Academy, which you can see on the Quicksand Dips Biome NFT, and is where users will burn DSLA tokens to mint NFTs.
 
 ---
 
