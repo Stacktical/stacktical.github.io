@@ -48,7 +48,7 @@ Each biome has an Outpost that is established in it to battle the risk and/or ha
 | **Biome:** | Quicksand Dips |
 | **Element:** | Earth 🌍 |
 | **Risk:** | Asset Volatility |
-| **Description:** &nbsp; &nbsp; | Quicksand Dips is the source for mystical white quartz used in creating artifacts. White quartz is mined and then refined for use in minting artifacts. The Clock is a mystical artifact within this Outpost, which helps regulate the flow of time between the biomes. The Academy is also located in this biome. |
+| **Description:** &nbsp; &nbsp; | Quicksand Dips is the source for mystical white quartz used in creating artifacts. White quartz is mined and then refined and cast into ingots, which are used to produce DSLA tokens. The Academy is also located in this biome, where users can learn about DSLA Protocol and interact with the DSLA Bonfire to mint NFTs from DSLA tokens. |
 |  | [![Quicksand Dips Biome NFT](/assets/img/Quicksand_Dips_Gen0_thumb.png)](/assets/img/Quicksand_Dips_Gen0_sm.png) |
 | **Biome NFT Artist:** | [Abi Daker](https://twitter.com/abidaker) |
 
