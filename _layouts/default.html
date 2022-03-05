@@ -10,7 +10,8 @@
 
 {% seo %}
     
-<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+
+<link href="{{ site.baseurl }}/assets/css/solarized.dark.css" rel="stylesheet">
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
@@ -29,18 +30,6 @@
   </script>
 
 </head>
-
-{% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{site.google_analytics}}');
-</script>
-{% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body>
@@ -70,8 +59,6 @@
         <li><a href="https://discord.gg/9tAFnTsj">Developer Discord</a></li>
     </ul>   
 </nav>
-
-{% include search-lunr.html %}
 
 
 <!-- End Sidebar Navigation
@@ -138,16 +125,11 @@
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
 
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
-{% endif %}
-
-{% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
 </body>
