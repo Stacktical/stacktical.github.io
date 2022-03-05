@@ -3,7 +3,7 @@ layout: post
 featured: false
 title:  "A dive into the DSLA Metaverse: Prologue"
 author: Team
-categories: [ metaverse, not ]
+categories: [ metaverse, nft ]
 image: assets/img/2022-03-01-stacktical-dsla-protocol-metaverse-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.png
 ---
 
