@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: false
-title:  "A dive into the DSLA Metaverse: Prologue"
+title:  "A Dive into the DSLA Metaverse: Prologue"
 author: Team
 categories: [ metaverse, nft ]
 image: assets/img/2022-03-01-stacktical-dsla-protocol-metaverse-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.png
@@ -15,9 +15,11 @@ As per our November 30th, 2021 snapshot across all DSLA-supported blockchain net
 
 #### Proof of Mint
 
-[0x01f2f1dcebcb7d377acb3d4fee85df9b2eea72caa11196730031bc377251ad49](https://etherscan.io/tx/0x01f2f1dcebcb7d377acb3d4fee85df9b2eea72caa11196730031bc377251ad49)
+🧾 [0x01...ad49](https://etherscan.io/tx/0x01f2f1dcebcb7d377acb3d4fee85df9b2eea72caa11196730031bc377251ad49)
 
 #### Smart Contract
+
+The following smart contract was use to mint the inaugural DSLA Biomes of the DSLA Metaverse collection.
 
 ```solidity
 // contracts/DSLAMetaverseBiomes.sol
@@ -81,7 +83,7 @@ These NFTs are proofs of your DSLA journey to the gratifying world of investor p
 
 NFTs are fundamentally a credentials technology. On the DSLA Metaverse, trusted learning credentials are split into three types.
 
-#### Type 1: Lore
+#### ☝️ Type 1: Lore
 
 DSLA Lore NFTs embody the mythology of the DSLA brand, and family of products. 
 
@@ -89,7 +91,7 @@ Ownership of these NFTs translates into additional **protocol incentives**.
 
 For example, owning a DSLA Biome NFT entitles you to boosted staking rewards for the corresponding DSLA Biome and DSLA Protocol use cases.
 
-#### Type 2: Knowledge
+#### ✌️ Type 2: Knowledge
 
 DSLA Knowledge NFTs represent the knowledge gained during online courses. 
 
@@ -97,7 +99,7 @@ High knowledge translates into **publishing rights**.
 
 For example, owning a SLA Contract NFT grants you the right to enrich the mediagraphy of the SLA creation online course with your own media.
 
-#### Type 3: Skills
+#### 🖖 Type 3: Skills
 
 DSLA Skill NFTs represent your usage of DSLA Protocol over time. 
 
@@ -189,17 +191,17 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 
 > The Moongate Abyss harvests dark energy crystals from the deep, which supply the Moongate Portal Generator. This generator powers the various Moongates that allow transportation between biomes.
 
-### Collection
+### Our Collection is Live
 
 All **2563 DSLA Biome NFTs** are part of the [DSLA Metaverse collection on OpenSea](https://opensea.io/collection/dsla-metaverse).
 
-As mentioned above, a DSLA Biome NFT entitles you to boosted staking rewards for a DSLA Biome, and its subset of DSLA Protocol use cases. 
+Make sure you [follow us on Twitter](https://twitter.com/stacktical) to keep up with the next DSLA Biome NFT drops, and an introduction to DSLA Knowledge and Skills NFTs!
 
 ---
 
 # Powered by DSLA Protocol
 
-### A Middleware to manage third-party risk without Middlemen
+### A Middleware to manage vendor risk without Middlemen
 
 👉 Get started at **[dsla.network](https://dsla.network)** 
 
