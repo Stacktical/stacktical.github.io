@@ -3,7 +3,7 @@ layout: post
 featured: false
 title:  "A dive into the DSLA Metaverse: Prologue"
 author: Team
-categories: [ metaverse, nft ]
+categories: [ metaverse, not ]
 image: assets/img/2022-03-01-stacktical-dsla-protocol-metaverse-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.png
 ---
 
@@ -111,7 +111,7 @@ DSLA Biomes are **lore-type** tokens of the DSLA Metaverse.
 
 They are the foundation of the DSLA Risk Management Body of Knowledge, and a perfect introduction to the DSLA Metaverse experience.
 
-
+> When I was first approached to illustrate the DSLA metaverse, I was intrigued by the brief which involved creating visual landscapes to represent different areas of their business. As I worked on each biome, my understanding of the function of each area became clearer and more detailed. I look forward to developing the metaverse further and adding more detail and layers to the artwork in the future! Abi Daker
 
 | DSLA Biome | Wildfire Fields |
 | --- | --- |
@@ -122,7 +122,7 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 417 |
 | **Easter Egg** | 417 is the HTTP error code for **Expectation Failed**: "The expectation given in an Expect request-header field could not be met by this server." |
 
-
+> Wildfire Fields has fertile volcanic soil for growing crops, but is in constant danger from fires and volcanic flows. The Outpost harvests geothermal energy to pull water from deep wells and run an irrigation system that protects and support crops.
 
 
 
@@ -135,7 +135,7 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 503                                                          |
 | **Easter Egg**        | 503 is the HTTP error code for **Service Unavailable**: "The request was not completed. The server is temporarily overloading or down." |
 
-
+> Uptime Falls benefits from abundant water supplies and uses it to generate hydroelectric power. The Outpost manufactures batteries, using them to store excess power and stockpiling them for later use.
 
 
 
@@ -148,7 +148,7 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 415                                                          |
 | **Easter Egg**        | 415 is the HTTP error code for **Unsupported Media Type**: "The server will not accept the request, because the mediatype is not supported." |
 
-
+> Quicksand Dips is the source for mystical white quartz used in creating artifacts. White quartz is mined and then refined in a crucible for the final crystal ingots that can be used to mint artifacts.
 
 
 
@@ -161,6 +161,8 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 416                                                          |
 | **Easter Egg**        | 416 is the HTTP error code for **Requested Range Not Satisfiable**: "The requested byte range is not available and is out of bounds." |
 
+> Volatility Creeks harnesses the raging and violent winds to generate power. Supply stockpiles are protected by weather platforms that are able to catch tornadoes, harvesting their energy and protecting the rest of the biome from damage.
+
 
 
 | **Biome:** | Fiber Peaks |
@@ -172,7 +174,7 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 408                                                          |
 | **Easter Egg**        | 408 is the HTTP error code for **Request Timeout**: "The request took longer than the server was prepared to wait." |
 
-
+> Fiber Peaks is the communications hub of the metaverse. The unique sunlight is harvested by a collector tower and converted into crystals that power communications throughout the biomes.
 
 
 
@@ -185,15 +187,13 @@ They are the foundation of the DSLA Risk Management Body of Knowledge, and a per
 | **Supply** | 404                                                          |
 | **Easter Egg**        | 404 is the HTTP error code for **Not Found**: "The server can not find the requested page." |
 
-
+> The Moongate Abyss harvests dark energy crystals from the deep, which supply the Moongate Portal Generator. This generator powers the various Moongates that allow transportation between biomes.
 
 ### Collection
 
 All **2563 DSLA Biome NFTs** are part of the [DSLA Metaverse collection on OpenSea](https://opensea.io/collection/dsla-metaverse).
 
 As mentioned above, a DSLA Biome NFT entitles you to boosted staking rewards for a DSLA Biome, and its subset of DSLA Protocol use cases. 
-
-
 
 ---
 
