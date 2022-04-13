@@ -4,24 +4,26 @@ featured: false
 title:  "DSLA-IP0"
 author: Team
 categories: [ mainnet ]
-image: assets/img/2022-04-11-stacktical-dsla-protocol-dsla-ip0-2-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
+image: assets/img/2022-04-11-stacktical-dsla-protocol-dsla-ip0-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
 ## Embracing Governance 🗳️
 
-Dear members of the DSLA community, we are very excited to announce the next steps in DSLA Protocol's decentralization journey, with the introduction of governance. Going forward, we will start to manage some aspects of the evolution and growth of DSLA Protocol through governance.
+Dear members of the DSLA community, we are very excited to announce the next steps in DSLA Protocol's decentralization journey, with the introduction of governance. Going forward, we will start to manage some aspects of the evolution and growth of DSLA Protocol through governance, with your help!
 
-[Snapshot](https://snapshot.org/) is the governance voting tool we will use and where DSLA-IP (DSLA Improvement Proposals) will live. Our DSLA Snapshot Space is live at [https://snapshot.org/#/dsla.eth](https://snapshot.org/#/dsla.eth), make sure you check it out and **join** so you will be able to **vote**!
+[Snapshot](https://snapshot.org/#/dsla.eth) is the governance voting tool we will use and where DSLA-IP (DSLA Improvement Proposals) will live. Our DSLA Snapshot Space is live at [https://snapshot.org/#/dsla.eth](https://snapshot.org/#/dsla.eth), make sure you check it out and **join** so you will be able to **vote**!
 
 ### A Core Development Team × Community SLA 🤝
 
-Our genesis governance proposal is **DSLA-IP0** and it embodies the Core Team's commitment to deliver, disappointment with current delays and belief that Service Level Agreements are an excellent tool to incentivize good performance.
+We will be leveraging [snapshot](https://snapshot.org/#/dsla.eth) to establish a new Service Level Agreement (SLA) between the *DSLA core development team* and the *DSLA community*, dubbed the **Deadline SLA**. Using Deadline SLAs, the DSLA core development team is committing to the timely release of DSLA-based products through December 31, 2022, as per the official roadmap displayed on [stacktical.com](https://stacktical.com). 
 
-**DSLA-IP0** will establish a Service Level Agreement between the *DSLA core development team* and the *DSLA community* where the DSLA core development team will commit to meet official deliverables through 12/31/2022. This commitment will be backed by **14.73m** DSLA tokens, which will be used to compensate token holders if DSLA-based products are not delivered on time, as per the official roadmap at [stacktical.com](https://stacktical.com) and verified social calendar events at [CoinMarketCal](https://coinmarketcal.com/en/coin/dsla-protocol).
+Our genesis governance proposal **DSLA-IP0** will establish the first Deadline SLA between the *DSLA core development team* and the *DSLA community* for the DSLA Metaverse release, which was initially scheduled for March 31, 2022. With this Deadline SLA, **1,473,000 (1.473m)** DSLA will be pooled by the DSLA core development team for distribution to voting participants for every late day until launch, up to April 20, 2022.
+
+The initial pool size for the **DSLA-IP0** Deadline SLA is **14.73m** DSLA tokens, accounting for being 10 days behind schedule. The maximum pool size is **29.46m** DSLA tokens, which would account for the additional **1.473m** DSLA tokens per day through April 20, 2022.
 
 To be eligible for compensations, DSLA community token holders will need to **join** our DSLA Snapshot Space and **vote** on **DSLA-IP0**.
 
-Check out **DSLA-IP0** [here](https://snapshot.org/#/dsla.eth/proposal/XXXXX) for full details and to **vote** on it!
+Check out **DSLA-IP0** [here](https://snapshot.org/#/dsla.eth/proposal/0xd117bef5d602d04ad4f6868341dc81f6e7e8b58350d0ab95bd71673c3e5b3cf0) for full details and to **vote** on it!
 
 ### Future Protocol Governance
 
