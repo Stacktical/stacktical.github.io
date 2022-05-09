@@ -27,17 +27,15 @@ All deployments are **contingent on the results of ongoing security audits**.
 
 DSLA Protocol v1 introduces a series of in-house innovations:
 
-* **Risk Prediction Markets**, enabling developers, users, and liquidity providers to trade risk with each other using Decentralized Service Level Agreements (SLA);
+* **Risk Hedging**, enabling developers, users, and liquidity providers to trade risk with each other using Decentralized Service Level Agreements (SLA);
 
 * **Reliability Forecasts**, enabling third-party risk assessment at a glance, through the wisdom of the SLA marketplace and its participants;
 
-* **Leveraged Risk Trading**, enabling developers, users, and liquidity providers to better market their SLA contracts and modulate the cost of SLA premiums;
+* **Leveraged Premiums**, enabling developers, users, and liquidity providers to better market their SLA contracts and modulate the cost of SLA premiums;
 
-* **SLA Futures Positions**, tokenised LONG/SHORT positions issued to the SLA creator taking on risk (LONG), or to SLA users offsetting risk (SHORT);
+* **A Triple Token Design**, to separate the functions of SLA enforcement, and tokenisation of SLA positions;
 
-* **A Triple Token Design**, to separate the functions of SLA enforcement, and tokenisation of LONG/SHORT SLA positions;
-
-* **SLA Staking Rewards**, to incentivise the creation of decentralized service level agreements, and the availability of subsequent reliability forecasts;
+* **SLA Maintenance Rewards**, to incentivise the creation of decentralized service level agreements, and the availability of subsequent reliability forecasts;
 
 * **Native Token Burns**, everytime a SLA is verified, to ensure the long-term sustainability of DSLA Protocol and utility of DSLA Token;
 
@@ -49,9 +47,7 @@ DSLA Protocol v1 introduces a series of in-house innovations:
 
 These innovations make DSLA Protocol the 1st ever **Risk Prediction Market Maker**. Although we generally identify ourselves as a **Risk Management framework**.
 
-### Risk Prediction Markets
-
-Prediction Markets let you trade the outcome of real world events. 
+### Risk Hedging
 
 **In DSLA Protocol, service stakeholders can trade third-party risk with each other, by staking on the outcome of periodic events, called SLA verifications.**
 
@@ -96,18 +92,19 @@ Along with the DSLA utility token, that is already issued, DSLA Protocol dynamic
 DSLA Protocol's Triple Token Model is comprised of:
 
 * **DSLA**, our utility token empowering periodic **SLA verifications and governance**,
-* **DSLA-SP**, a token representing a SHORT, user position **for offsetting risk**
-* **DSLA-LP**, a token representing a LONG, provider position **for taking on risk**
+* **DSLA-SP**, a token representing a user position **for offsetting risk**
+* **DSLA-LP**, a token representing a provider position **for taking on risk**
 
-### SLA Staking Rewards
+### SLA Maintenance Rewards
 
 Although they are supposed to drive customer satisfaction, traditional service level agreements are disconnected from the economic remediation of breaches. They also create an incentive for providers to deliver minimum service at minimum cost.
 
 Decentralized SLAs, on the contrary, have the ability to grant cryptocurrency to both Users and Providers, based on how much a service deviates from the Service Level Objectives (SLO) defined in the SLA.
 
 [![Harmony ONE Staking Efficiency DSLA contract](/assets/img/dsla-protocol_activities_staking-efficiency_ONE.png)
-](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9)
-Both sides of the user-provider relationship can be bet on.
+](https://info.uniswap.org/pair/0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9
+
+Both sides of the user-provider relationship can be vouched for.
 
 The more the service exceeds expectations, the more rewards are granted to the SLA contract creator. Users, on the other end, are free to overcollateralize their third-party risk, to earn bigger compensations.
 
@@ -137,7 +134,7 @@ DSLA Protocol introduces a new way to tokenize third-party risk.
 **
 There are two main types of stakeholders in DSLA Protocol: **Providers and Users**.
 
-Providers create and provide liquidity to Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a bullish bias (LONG)**.
+Providers create and provide liquidity to Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a positive bias**.
 
 This unit of time is the **DSLA period**.
 
@@ -161,13 +158,13 @@ The verification fee is split between:
 
 **The rest of DSLA tokens is burned (25%).** 
 
-Users provide liquidity to existing Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a bearish bias (SHORT)**.
+Users provide liquidity to existing Decentralized SLA contracts, to trade the outcome of periodic SLA verifications **with a negative bias**.
 
 If after comparing the SLI with the SLO, the terms of the SLA have been honoured by the third-party service provider, the Provider earns a cryptocurrency reward. And if the SLA is breached, Users can claim compensations.
 
 Now let's have a look at how rewards and compensations are calculated.
 
-### Provider Staking Rewards
+### Provider Incentive
 
 The provider reward equals the Users pool, multiplied by the DSLA period reward rate. 
 
@@ -215,7 +212,7 @@ In order to ensure that the rewards and compensations are correctly distributed 
 
 ## DSLA-SP & DSLA-LP Tokens
 
-After every DSLA period both pools are going to increase or decrease in size. In order to keep track of the stakeholders stakes and claiming right without taking care of DSLA periods, tokenised LONG/SHORT positions are issued to the SLA creator taking on risk (going LONG with DSLA-¨LP), or to SLA users offsetting risk (going SHORT with DSLA-SP).
+After every DSLA period both pools are going to increase or decrease in size. In order to keep track of the stakeholders stakes and claiming right without taking care of DSLA periods, tokenised SLA positions are issued to the SLA creator taking on risk, or to SLA users offsetting risk.
 
 **DSLA-LP and DSLA-SP tokens are minted/burned after every stake/withdrawal.**
 

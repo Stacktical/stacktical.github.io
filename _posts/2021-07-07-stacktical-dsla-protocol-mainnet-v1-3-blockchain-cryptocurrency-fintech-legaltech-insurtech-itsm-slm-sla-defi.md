@@ -35,17 +35,14 @@ Important: DSLA Protocol v1.3 has not been deployed to Polygon at this stage. We
 
 Here is a summary of the in-house innovations included in DSLA Protocol v1.3:
 
-* **Risk Prediction Markets**, enabling developers, users, and liquidity providers to trade risk with each other using Decentralized Service Level Agreements (SLA);
-
-* **Leveraged Risk Trading**, enabling developers, users, and liquidity providers to better market their SLA contracts and modulate the cost of SLA premiums;
-
+* **Risk Hedging**, enabling developers, users, and liquidity providers to trade risk with each other using Decentralized Service Level Agreements (SLA);
 * **Reliability Forecasts**, enabling third-party risk assessment at a glance, through the wisdom of the SLA marketplace and its participants;
 
-* **SLA Futures Positions**, tokenised LONG/SHORT positions issued to the SLA creator taking on risk (LONG), or to SLA users offsetting risk (SHORT);
+* **Leveraged Premiums**, enabling developers, users, and liquidity providers to better market their SLA contracts and modulate the cost of SLA premiums;
 
-* **A Triple Token Design**, to separate the functions of SLA enforcement, and tokenisation of LONG/SHORT SLA positions;
+* **A Triple Token Design**, to separate the functions of SLA enforcement, and tokenisation of SLA positions;
 
-* **SLA Staking Rewards**, to incentivise the creation of decentralized service level agreements, and the availability of subsequent reliability forecasts;
+* **SLA Maintenance Rewards**, to incentivise the creation of decentralized service level agreements, and the availability of subsequent reliability forecasts;
 
 * **Native Token Burns**, everytime a SLA is verified, to ensure the long-term sustainability of DSLA Protocol and utility of DSLA Token;
 
