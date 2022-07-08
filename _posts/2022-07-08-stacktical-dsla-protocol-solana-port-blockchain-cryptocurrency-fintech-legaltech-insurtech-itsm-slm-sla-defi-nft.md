@@ -11,7 +11,7 @@ image: assets/img/2022-07-07-stacktical-dsla-protocol-solana-port-blockchain-cry
 
 We're porting DSLA to Solana and looking to kickstart a decentralized team to make it a happen! Solana will be the seventh network and developer ecosystem that DSLA is available on, and marks the first ***non-EVM*** implementation of DSLA.
 
-Work is underway and the Solana repo is now public on [Github](https://github.com/Stacktical/stacktical-dsla-contracts-solana), so go check it out!
+Work is underway and the Solana repo is now public on [Github](https://github.com/Stacktical/stacktical-dsla-contracts-solana), so go check it out! Also feel free to hop into our [Discord](https://discord.gg/2XhwdRjFnn) server and start chatting about the Solana Port on our shiny new `solana-port` channel.
 
 Audits are being wrapped for DSLA v2.0 right now, which means that the Solana port will start out of the gate with all the added functionality in v2.0.
 
@@ -76,6 +76,8 @@ There are countless ways to leverage DSLA, and we're excited to see what Solana'
 We'll be at [Solana Paris Hacker House](https://solana.com/fi/events/paris-hacker-house) from July 15, 2022 to July 19, 2022.
 
 Come meet up with the DSLA team and let's talk about the DSLA Solana port, risk management, or discuss how your dApp or protocol can benefit from integrating DSLA GRC Automation Middleware!
+
+If you're not going to be at the Paris Hacker House and want to connect, hop into our [Discord](https://discord.gg/2XhwdRjFnn) and we can start chatting about the Solana Port, DSLA or risk management in general!
 
 ---
 
