@@ -4,7 +4,7 @@ featured: false
 title:  "Introducing NFT Floor Price Protection 🖼️"
 author: Team
 categories: [ mainnet ]
-image: assets/img/2022-03-22-stacktical-dsla-protocol-nft-floor-price-sla-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
+image: assets/img/2022-07-18-stacktical-dsla-protocol-nft-floor-price-sla-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
 ## Game Changing Protection for NFTs ☂️
@@ -41,7 +41,7 @@ This is an entirely new market for NFTs where anyone can sign onto the SLA and b
 
 ### Pixelmon Holders, Sorry We Weren't Ready Sooner 👹😔
 
-All kidding aside, the Pixelmon debacle is a great example of where NFT Floor Price Protection would have been invaluable. It serves as a case study on why NFT downside protection is all the more valuable going forward.
+All kidding aside, the Pixelmon debacle is a great example of where NFT Floor Price Protection would have been beneficial. It serves as a case study on why NFT downside protection is all the more valuable going forward.
 
 Looking at what happened with Pixelmon we can easily visualize where the market created by an NFT Floor Price SLA would have interested NFT investors on both sides - those who believed the floor price would be maintained and those who did not.
 
@@ -62,3 +62,9 @@ DSLA's approach to integrated risk management enables the downside-protected del
 👉 Check our blog at [**blog.stacktical.com**](https://blog.stacktical.com)
 
 👉 Start Building at [**readme.stacktical.com**](https://readme.stacktical.com/developer-guide/)
+
+👉 Join our Guild at [**guild.xyz/dsla**](https://guild.xyz/dsla)
+
+👉 Check active bounties at [**dework.xyz/dsla**](https://dework.xyz/dsla)
+
+👉 Discuss on our governance forum at [**commonwealth.im/dsla**](https://commonwealth.im/dsla)
