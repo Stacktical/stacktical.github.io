@@ -55,7 +55,7 @@ We can leverage DSLA's Metaverse NFTs to give governance power to users based on
 
 Is this the ultimate solution to the governance conundrum? Maybe not, but we definitely think it can be part of the toolbox to make governance more effective and egalitarian.
 
-## What Else?
+## What Else? 🤔
 
 We're excited to get the DSLA Metaverse off the ground and would like to hear thoughts from our community and other potential **IFTTM framework** adoptoooors.
 
