@@ -63,7 +63,9 @@ Should we look at making some of the DSLA Metaverse NFTs Soul-bound NFTs? There 
 
 Should some of the DSLA Metaverse NFTs have a timed aspect to their functionality or utility?
 
-How else can we maximize the benefits of this platform? Join our [Guild](https://guild.xyz/dsla) and let's talk about it in our Discord or head on over to our [Commonwealth](https://commonwealth.im/dsla) forum!
+How else can we maximize the benefits of this platform?
+
+Join our [Guild](https://guild.xyz/dsla) and let's talk about it in our Discord or head on over to our [Commonwealth](https://commonwealth.im/dsla) forum!
 
 ---
 
