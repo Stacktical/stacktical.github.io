@@ -25,7 +25,7 @@ While an Unreal Engine-like experience is not what our aim, we did want an inter
 
 ## Under the Hood, a Platform Agnostic Engagement Framework 🏆
 
-The experience we envisioned for the DSLA Metaverse required a new underlying framework to power it, which evolved into the tool we now have. Think of this framework a little like [IFTTT](https://ifttt.com), but for NFTs. **IFTTM** -- If This Then **Mint**.
+The experience we envisioned for the DSLA Metaverse required a new underlying framework to power it, which evolved into the tool we now have. Think of this framework a little like [IFTTT](https://ifttt.com), but for NFTs. **IFTTM** -- If This Then **Mint**. Another way to frame it is similar to a [POAP](https://poap.xyz) (Proof of Attendance Protocol), but instead of just being a Proof of Attenadance NFT, DSLA Metaverse NFTs are a Proof of **Ability** or Proof of **Accomplishment**.
 
 The DSLA Metaverse is a **proof of concept**, the first engagement experience built on top of this new IFTTM engagement framework.
 
