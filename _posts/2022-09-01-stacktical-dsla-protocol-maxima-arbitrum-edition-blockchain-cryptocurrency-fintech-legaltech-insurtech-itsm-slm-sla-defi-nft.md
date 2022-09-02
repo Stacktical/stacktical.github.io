@@ -13,6 +13,14 @@ Layer-two protocols are a key to scaling Ethereum, and Arbitrum is one of the fa
 
 As Arbitrum offers full EVM support, porting DSLA Protocol over is fairly straightforward, and we're beyond excited to launch on Arbitrum with DSLA v2.0! Launching with DSLA v2.0 means we can offer the Arbitrum community the full suite of our flagship risk management use cases and empower Arbitrum developers to add risk management capabilities into their dApps and protocols.
 
+## DSLA Arbitrum Token Information
+
+|--|--|
+| **Token Address** | 0x7ce746b45eabd0c4321538dec1b849c79a9a8476 |
+| **Arbiscan Information** | [arbiscan.io](https://arbiscan.io/token/0x7ce746b45eabd0c4321538dec1b849c79a9a8476) |
+| **Uniswap L2 Trading** | [app.uniswap.org](https://app.uniswap.org/#/swap?outputCurrency=0x7ce746b45eabd0c4321538dec1b849c79a9a8476&chain=arbitrum) |
+
+
 ## What is DSLA? 🤔
 
 DSLA is a Governance, Risk and Compliance (GRC) Automation Middleware that enables the downside-protected delivery of goods, services and digital assets without intermediaries. Using Service Level Agreements (SLA), a special type of risk management contract that DSLA has rebuit for mass adoption, vendors and users can offset risks and incentivize performance.
