@@ -59,7 +59,7 @@ Wanna talk about it? Join our [**Guild**](https://guild.xyz/dsla) and hop into o
 
 **Are you a project that is interested in deploying Parametric Staking?** Click the button below to submit your details and we'll get in touch with you!
 
-<button data-tf-popup="hpTZqog5" data-tf-auto-close="1000" data-tf-iframe-props="title=Parametric Staking Lead Gen" data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0E4377;color:#FFFFFF;font-size:20px;border-radius:0px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">I Want Parametric Staking!</button><script src="//embed.typeform.com/next/embed.js"></script>
+<button data-tf-popup="hpTZqog5" data-tf-auto-close="1000" data-tf-iframe-props="title=Parametric Staking with DSLA" data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0E4377;color:#FFFFFF;font-size:20px;border-radius:0px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">I Want Parametric Staking!</button><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 
