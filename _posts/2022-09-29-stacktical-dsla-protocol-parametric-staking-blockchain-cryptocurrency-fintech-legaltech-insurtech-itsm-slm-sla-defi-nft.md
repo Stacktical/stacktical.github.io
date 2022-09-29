@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "DSLA Parametric Staking"
 author: Team
 categories: [ mainnet ]
@@ -25,19 +25,19 @@ Parametric Staking, powered by DSLA GRC Automation Middleware, is performance-ba
 
 So how does it work?
 
-First we choose a parameter to base the staking on. In our example we'll use **Token Price**, but you could use many different parameters, depending on what you are trying to accomplish with your Parametric Staking program.
+First we choose a parameter to base the staking rewards on. In our example we'll use **Token Price**, but you could use many different parameters, depending on what you are trying to accomplish with your Parametric Staking program.
 
-Now, using **Token Price** as our parameter, we think of Parametric Staking like a Staking Upside Service Level Agreement (SLA), where you are hedging *against* the upside of staked assets. So you are hedging against the risk of the price going up. Like any hedge, if what you are hedging against happens, you make a return.
+Now, using **Token Price** as our parameter, we think of Parametric Staking like a Staking Upside Service Level Agreement (SLA), where you are hedging *against* the upside of staked assets. So you are hedging against the risk of the price going up while your tokens are locked up staking. Like any hedge, if what you are hedging against happens, you make a return.
 
 > With Parametric Staking based on Token Price, if the token price goes up, the staking APR also goes up and stakers earn more rewards.
 
-In the simplest terms possible: **Number go up means number go up 😊.**
+In the simplest 🦍 terms possible: **Number go up means number go up 😊.**
 
-In our example we used token price as the measured parameter, but you could use any measurable input that relates to your token. A few possible examples:
+In our example we used token price as the measured parameter, but you could use any input that relates to your token or protocol as long as the data are available. A few possible examples:
 * **Token Price** - to offset staking returns price pressure
 * **Holder Count** - to encourage an increase in holders
-* **Tokens Locked in Protocol Pools** - to encourage certain types of token or protocol usage (even cross-protocol adoption)
-* **Month-over-Month Growth Metrics** - to reward protocol growth
+* **Tokens Bridged to a New Chain** - to encourage cross-chain adoption
+* **Month-over-Month Growth Metrics** - to reward and encourage protocol growth
 
 Parametric Staking will allow projects to make their staking more targeted and effective. It also becomes a somewhat self-governing program, where more tokens are spent as rewards if the staking program is having the desired effect and less tokens are spent as rewards if it is not.
 
@@ -48,6 +48,22 @@ This is a sharp contrast to other staking regimes where protocols set a rewards 
 One other benefit to Parametric Staking is the Service Credits that stakers will receive. As with any SLA, users who deposit stakes to the SLA receive Branded Service Credits back to represent their SLA position. 
 
 So while the initial tokens deposited are locked, Service Credits are a liquid, tradeable token that derive their value from the performance of the underlying token. This opens up new and novel trading opportunities for users who have locked stakes.
+
+## DSLA's Parametric Staking Program
+
+Parametric Staking is a novel implementation of DSLA's decentralized SLA technology. We've teased some details of the initial iteration of DSLA's Parametric Staking program already and below give a more in depth look at how the first ever Parametric Staking program will work.
+
+DSLA's inaugural Parametric Staking program will provide stakers the ability to hedge the upside risk of the DSLA token price rising while their tokens are locked for staking.
+
+In practice, this means that the more the token price rises, the higher the staking APR will be. Using token price as our parameter, staking APR will scale up based on the calculated Month-over-Month price increase of the DSLA utility token.
+
+> If the token price increases by 250% month-over-month, the staking APR for that period would be up to 300%.
+
+**Up to 300% APR?!?!** Yes. It is important to note, however, that DSLA is not an inflationary token, so staking rewards are not paid through minting new tokens. Rather, the staking pool will be funded by an initial token allocation from reserves and on an ongoing basis through various current and upcoming revenue streams like validation fees, minting fees and claim fees.
+
+As staking periods expire the Parametric Staking program may be fine tuned, based on performance, participation and feedback. We're in a new frontier and happy to have you all along for the journey!
+
+It is also worth specifically noting that, while the headline of up to 300% APR is exciting, it is important to ground expectations on whether the parameters for that will be met month after month.
 
 ## Ready to Shake Up the Staking Landscape 🌋
 
