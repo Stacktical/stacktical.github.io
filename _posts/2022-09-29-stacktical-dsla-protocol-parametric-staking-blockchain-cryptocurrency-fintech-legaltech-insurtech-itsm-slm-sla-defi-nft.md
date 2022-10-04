@@ -38,6 +38,10 @@ In our example we used token price as the measured parameter, but you could use 
 * **Holder Count** - to encourage an increase in holders
 * **Tokens Bridged to a New Chain** - to encourage cross-chain adoption
 * **Month-over-Month Growth Metrics** - to reward and encourage protocol growth
+ 
+The below flowchart gives a visual overview of how Parametric Staking works, powered by DSLA GRC Automation Middleware:
+
+[![Parametric Staking Flowchart](/assets/img/2022-09-29-parametric-staking-sla-flowchart.png)](/assets/img/2022-09-29-parametric-staking-sla-flowchart.png)
 
 Parametric Staking will allow projects to make their staking more targeted and effective. It also becomes a somewhat self-governing program, where more tokens are spent as rewards if the staking program is having the desired effect and less tokens are spent as rewards if it is not.
 
