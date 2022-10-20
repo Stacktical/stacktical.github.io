@@ -120,11 +120,9 @@ Prior to DSLA v2.0, if a periodic verification was performed and the SLA was fou
 
 A new SLA would then need to be created and signed onto again by all parties to hedge and trade risk. Now stakeholders can choose an SLA, sign on for the entire term, and claim compensation or rewards as they go, giving a much smoother user experience for all involved.
 
-### SLA Period and Policy Changes
+### More Flexible SLA Policies
 
-Weekly and monthly periods for verifications are the most practical, in demand and fit for purpose, so we've streamline v2.0 to focus on these.
-
-At the same time, DSLA now supports SLO targets to be set using any of the following operators: `>`, `>=`, `<`, `<=`, `=` and `!=`.
+DSLA now supports SLO targets to be set using any of the following operators: `>`, `>=`, `<`, `<=`, `=` and `!=`, giving SLA Owners more flexibility in how they want to create SLAs and measure performance.
 
 ### Enhanced Integration Tests and Unit Tests
 
