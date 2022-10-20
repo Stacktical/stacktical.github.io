@@ -25,10 +25,10 @@ Let's look at some key structural changes and improvements DSLA v2.0 incorporate
 * **Claim Fees**, improving the overall tokenomics of DSLA and offsetting the up front verification fee deposit required of SLA Owners;
 * **Multi-provider SLA Support**, enabling many-to-many SLA's where anyone can sign on to back an SLA on the Provider side;
 * **Deviation Based Rewards**, making compensations and rewards proportional to performance, and incentivizing providers to **outperform**;
+* **Severity Levels and Penalties**, allowing the setup of SLA's that support fine tuned compensations according to the severity of failure, using pre-agreed severity levels
 * **Introduction of Branded Service Credits**, modifying the previous DSLA-SP and DSLA-LP position tokens to be Branded Service Credits specific to each use case;
 * **Instant Claim Availability**, claim as you go for compensation or rewards you are entitled to;
 * **SLA's Don't Terminate on Breach**, providing a more intuitive user experience, SLA's no longer terminate on the first breach, but stay active through the whole term set when the SLA contract was created;
-* **Streamlining of Periods to Weekly/Monthly**, streamlining user experience around weekly and monthly periods;
 * **More Flexible SLA Policies**, SLA's can be setup to measure performance using any of the following operators: `>`, `>=`, `<`, `<=`, `=` and `!=`;
 * **Integration Tests and Unit Tests**, improved integration and unit tests, ensuring DSLA Protocol performs as expected and making the Developer Toolkit (DTK) more robust and developer friendly;
 * **Refactoring, Gas Optimizations and Bug Fixes**, improving basic protocol operation;
@@ -86,6 +86,10 @@ In practice this means that service providers and **SLA Liquidity Providers** ar
 For **SLA Users** compensations and premiums paid will also scale according to deviation. The worse a provider performs, the larger the compensation for the **SLA User**. On the flip side, smaller premiums will be deducted from the funds the **SLA User** staked in the user pool if the provider just meets SLA targets.
 
 In practice **SLA Users** will often be able to claim back a portion of their staked funds at the end of the SLA term, if the provider met, but did not really exceed, SLA targets.
+
+## Severity Levels and Penalties
+
+Allows
 
 ### Branded Service Credits
 
