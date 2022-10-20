@@ -122,7 +122,7 @@ A new SLA would then need to be created and signed onto again by all parties to 
 
 ### More Flexible SLA Policies
 
-DSLA now supports SLO targets to be set using any of the following operators: `>`, `>=`, `<`, `<=`, `=` and `!=`, giving SLA Owners more flexibility in how they want to create SLAs and measure performance.
+DSLA now supports SLO targets to be set using any of the following operators: `>`, `>=`, `<`, `<=`, `=` and `!=`. This gives SLA Owners more flexibility in how they want to create SLAs and measure performance in comparing SLI and SLO.
 
 ### Enhanced Integration Tests and Unit Tests
 
