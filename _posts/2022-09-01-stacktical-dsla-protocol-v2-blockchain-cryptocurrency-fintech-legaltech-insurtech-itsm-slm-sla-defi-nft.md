@@ -89,7 +89,14 @@ In practice **SLA Users** will often be able to claim back a portion of their st
 
 ## Severity Levels and Penalties
 
-Allows
+Allows. For example a Third Party Logistics (3PL) provider and one of their customers may want to set a SLA with severity levels that have structured penalties if a shipment is **One Hour Late**, **12 Hours+ Late**, **One Day+ Late**, or **One Week+ Late**. With Severity Levels this could easily be accomplished.
+
+DSLA is utilizing this new Severity Level feature in our new Parametric Staking product, where rewards are adjusted according to DSLA token price performance as follows:
+* Severity 1: Any increase under 100% results in a 1% deviation
+* Severity 2: Any increase of 100%+ results in a 10% deviation
+* Severity 3: Any increase of 250%+ results in a 25% deviation
+
+Severity Levels are an excellent and necessary feature to make DSLA more flexible and broadly appealing.
 
 ### Branded Service Credits
 
