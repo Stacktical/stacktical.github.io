@@ -9,7 +9,7 @@ image: assets/img/2022-10-25-stacktical-dsla-protocol-astromancer-minting-event-
 
 ## Enter the Metaverse 🔮
 
-The DSLA Astromancer is a collection of 10,000 Astromancer PFP NFTs which act as your key to the DSLA Metaverse, unlocking the future of DSLA Protocol. 
+The DSLA Astromancer is a collection of 10,000 Astromancer PFP NFTs which act as your key to the DSLA Metaverse, unlocking the future of DSLA. 
 
 Astromancer NFTs will grant access to summoning and staking in the DSLA Metaverse in addition to providing different utilities and benefits based on their attributes. Astromancer NFTs will also be the key participate in governance voting and submitting governance proposals.
 
@@ -77,7 +77,7 @@ Lastly all of the artwork for the Astromancer, along with the biomes, familiars,
 
 ---
 
-# 💡 DSLA Protocol
+# 💡 DSLA
 
 ### GRC Automation Middleware
 
