@@ -19,23 +19,7 @@ Unlike many NFT projects, this is not a PFP with just a roadmap. The Astromancer
 
 Let's look at the various attributes an Astromancer can have and how those attributes affect its utility.
 
-[![Anatomy of an Astromancer](/assets/img/2022-10-25-anatomy-of-an-astromancer.png)](/assets/img/2022-10-25-anatomy-of-an-astromancer)
-
-### Biomes
-
-Staking a Biome will entitle the staker to rewards from that Biome. As we covered in the [Metaverse Prologue blog post](https://blog.stacktical.com/metaverse/nft/2022/03/01/stacktical-dsla-protocol-metaverse-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), each Biome represents a specific type of use case or risk that DSLA can help hedge against.
-
-Users will only be able to stake a Biome if they have an Astromancer with that biome in its orbit. For instance, the Astromancer above in the ***Anatomy of an Astromancer*** infographic could stake the Fire (Wildfire Fields), Water (Uptime Falls), Light (Fibre Peaks), Dark (Moongate Abyss) and Air (Volatility Creeks) biomes. With that Astromancer you would ***not*** be able to stake the Earth (Quicksand Dips) biome.
-
-Users will be able to earn biomes by being in the top 10 of our the monthly leaderboard, by winning specific challenges or by completing specific tasks like summoning a Familiar III.
-
-### Strong and Weak Element
-
-The Astromancers are an elemental being, strong in the primary element that they are formed of, but weak to the natural opposing element.
-
-Enjoy a modifier that increases Biome staking rewards for the Biome associated with your Astromancer's strong element.
-
-On the flip side, Biome staking rewards will be reduced for the Biome matching the element where your Astromancer is weak.
+[![Anatomy of an Astromancer](/assets/img/2022-10-31-anatomy-of-an-astromancer.png)](/assets/img/2022-10-31-anatomy-of-an-astromancer.png)
 
 ### Familiars
 
@@ -46,6 +30,22 @@ Familiars entitle holders to multipliers on Biome staking rewards and governance
 Complete skill-proving tasks such as creating an SLA, depositing a premium to hedge risk or providing liquidity to earn Skill NFTs. Each Skill NFT has a charge that may be used once at the Crucible to summon or upgrade Knowledge NFTs like Familiars.
 
 Skill NFTs also form the basis of governance voting for the DSLA Metaverse, where one Skill NFT will equal one governance vote. Familiars earned, in combination with the right Astromancer, will provide multipliers on a holders Skill NFT governance votes.
+
+### Strong and Weak Element
+
+The Astromancers are an elemental being, strong in the primary element that they are formed of, but weak to the natural opposing element.
+
+Enjoy a modifier that increases Biome staking rewards for the Biome associated with your Astromancer's strong element.
+
+On the flip side, Biome staking rewards will be reduced for the Biome matching the element where your Astromancer is weak.
+
+### Biomes
+
+Staking a Biome will entitle the staker to rewards from that Biome. As we covered in the [Metaverse Prologue blog post](https://blog.stacktical.com/metaverse/nft/2022/03/01/stacktical-dsla-protocol-metaverse-inaugural-nft-mint-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.html), each Biome represents a specific type of use case or risk that DSLA can help hedge against.
+
+Users will only be able to stake a Biome if they have an Astromancer with that biome in its orbit. For instance, the Astromancer above in the ***Anatomy of an Astromancer*** infographic could stake the Fire (Wildfire Fields), Water (Uptime Falls), Light (Fibre Peaks) and Air (Volatility Creeks) biomes. With that Astromancer you would ***not*** be able to stake the Earth (Quicksand Dips) or Dark (Moongate Abyss) biome.
+
+Users will be able to earn biomes by being in the top 10 of our the monthly leaderboard, by winning specific challenges or by completing specific tasks like summoning a Familiar III.
 
 ### Moon Phases
 
@@ -67,7 +67,7 @@ Mint Fee: 0.101 Ξ
 
 We would be remiss to not note that the DSLA Astromancer will also be the first NFT ever to be covered by DSLA's new NFT Floor Price Protection SLA.
 
-## Fees and the DSLA Economy
+### Minting Fees and the DSLA Economy
 
 A portion of Astromancer minting fees will go to buying back DSLA to deposit into and expand the Parametric Staking Pools on [dsla.network/stake](https://dsla.network/stake).
 
