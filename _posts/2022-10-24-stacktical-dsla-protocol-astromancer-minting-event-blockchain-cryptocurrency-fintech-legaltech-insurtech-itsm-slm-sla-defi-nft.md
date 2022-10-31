@@ -4,7 +4,7 @@ featured: false
 title:  "Astromancer Mint Event"
 author: Team
 categories: [ mainnet ]
-image: assets/img/2022-10-25-stacktical-dsla-protocol-astromancer-minting-event-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
+image: assets/img/2022-10-25-stacktical-dsla-protocol-astromancer-minting-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
 ## Enter the Metaverse 🔮
