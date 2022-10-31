@@ -73,7 +73,7 @@ A portion of Astromancer minting fees will go to buying back DSLA to deposit int
 
 ## Art by @abidaker
 
-Lastly, all of the artwork for the Astromancer, along with the biomes, familiars, skills and The Academy was done by the incredibly talented [@abidaker](https://twitter.com/abidaker). 
+Lastly, all of the artwork for the Astromancer, along with the biomes, familiars, skills and The Academy was done by the incredibly talented [@abidaker](https://twitter.com/abidaker).
 
 ---
 
