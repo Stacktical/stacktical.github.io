@@ -79,9 +79,11 @@ Expect more detail about this exciting new use case soon!
 
 ### Minting Fees and the DSLA Economy ♻️
 
-A portion of minting fees from the DSLA Astromancers will go to buying back DSLA to deposit into and expand the Parametric Staking Pools on [dsla.network/stake](https://dsla.network/stake).
+A portion of minting fees from the DSLA Astromancers sale will be used to collateralize the NFT Floor Price Protection SLA for the collection.
 
-In addition, royalties on any secondary sales will be distributed with a portion allocated to each of the following:
+A portion of the remaining fees will go to buying back DSLA to deposit into and expand the Parametric Staking Pools on [dsla.network/stake](https://dsla.network/stake).
+
+Royalties on any secondary sales of the Astromancers will be divided and distributed between the following:
 * Buying back DSLA for deposit to the Parametric Staking Pool
 * A pool for the Artist(s)
 * DSLA DAO Treasury
