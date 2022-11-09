@@ -65,23 +65,11 @@ DSLA Astromancers are minting on November 17, 2022.
 
 Mint Site: [https://dsla.network/metaverse](https://dsla.network/metaverse)
 
-Mint Fee: 0.101 Ξ
+Mint Fee: Free Mint
 
 Join the [Gleam competition](https://gleam.io/competitions/StG6i-dsla-astromancers-whitelist) for a chance to get on the DSLA Astromancers whitelist and a chance to win one of 25 Astromancers we're giving away!
 
-## NFT Floor Price Protection 🪬
-
-We would be remiss to not note that the DSLA Astromancer will also be the first NFT ever to be covered by DSLA's new NFT Floor Price Protection SLA.
-
-NFT Floor Price Protection, powered by DSLA, fills a gap in the NFT ecosystem by providing decentralized risk management and downside protection for NFTs.
-
-Expect more detail about this exciting new use case soon!
-
-### Minting Fees and the DSLA Economy ♻️
-
-A portion of minting fees from the DSLA Astromancers sale will be used to collateralize the NFT Floor Price Protection SLA for the collection.
-
-A portion of the remaining fees will go to buying back DSLA to deposit into and expand the Parametric Staking Pools on [dsla.network/stake](https://dsla.network/stake).
+### Royalty Fees and the DSLA Economy ♻️
 
 Royalties on any secondary sales of the Astromancers will be divided and distributed between the following:
 * Buying back DSLA for deposit to the Parametric Staking Pool
