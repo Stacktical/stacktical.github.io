@@ -35,7 +35,7 @@ Let's take a quick look at some of the use cases and types of SLAs that are read
 
 ### Peg Parity SLAs 🟰
 
-A wide variety of pegged digital assets fall under this group. From stablecoins (whether collateralized or algorithmic) to liquid staking tokens to tokenized stocks. Pegged digital asseta as a class will only continue to grow.
+A wide variety of pegged digital assets fall under this group. From stablecoins (whether collateralized or algorithmic) to liquid staking tokens to tokenized stocks. Pegged digital assets as a class will only continue to grow.
 
 We've seen some spectacular failures in the pegged asset space such as the UST and Iron death spirals. Outside of those events, though, there are countless other examples of stablecoins and other pegged assets losing their peg.
 
