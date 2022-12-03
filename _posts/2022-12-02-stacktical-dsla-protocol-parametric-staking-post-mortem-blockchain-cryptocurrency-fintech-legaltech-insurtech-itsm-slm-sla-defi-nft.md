@@ -1,15 +1,15 @@
 ---
 layout: post
 featured: false
-title:  "Parametric Staking Christmas Bonus"
+title:  "Parametric Staking Excess Rewards"
 author: Team
 categories: [ mainnet ]
 image: assets/img/2022-12-02-stacktical-dsla-protocol-parametric-staking-post-mortem-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
-## It's the Most Wonderful Time of the Year (for Parametric Staking users!) 🎄
+## Excess Rewards Distributed for Period 0
 
-Members of the community who checked their rewards on the DSLA Parametric Staking pool this morning noticed an outsized return of almost 10% for the month. That's about 120% APR, but the token price performance doesn't justify that sort of return. 
+Members of the community who checked their rewards on the DSLA Parametric Staking pool on December 2nd noticed that the staking rewards looked a little too generous -- almost 10% for the month. That's about 120% APR, which is possible with Parametric Staking, but the token price performance for the month didn't justify that sort of return. 
 
 What's going on?
 
@@ -19,7 +19,7 @@ In short, there was a precision error with the way reward levels were configured
 
 This had an unintended result of increasing APR rewards by a factor of 10. With the token price performance over the past month, staking rewards should have been paid out at around the base 12% APR, or approximately 1% for the month. However, due to the reward level misconfiguration, rewards were calculated at a rate of 120% APR, which resulted in a monthly reward distribution of about 10%!
 
-## What's Next
+## What's Next ➡️
 
 First and most important:
 
