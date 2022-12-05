@@ -1,43 +1,49 @@
 ---
 layout: post
 featured: false
-title:  "Parametric Staking Excess Rewards"
+title:  "Migration to a New Parametric Staking pool"
 author: Team
 categories: [ mainnet ]
 image: assets/img/2022-12-02-stacktical-dsla-protocol-parametric-staking-post-mortem-blockchain-cryptocurrency-fintech-legaltech-insurtech-itsm-slm-sla-defi-nft.jpg
 ---
 
-## Excess Rewards Distributed for Period 0
+## APR Boost in Period 0
 
-Members of the community who checked their rewards on the DSLA Parametric Staking pool on December 2nd noticed that the staking rewards looked a little too generous -- almost 10% for the month. That's about 120% APR, which is possible with Parametric Staking, but the token price performance for the month didn't justify that sort of return. 
+Staking rewards for Period 0 of the Parametric Staking experience were higher than expected, almost 10% for the month. 
 
-What's going on?
+That's about 120% APR, which is conceivable with Parametric Staking, but the upside price performance of the DSLA token in November didn't justify such reward level. 
 
-## What Happened 🔎
+## What Happened?
 
-In short, there was a precision error with the way reward levels were configured in the Parametric Staking SLA that was deployed.
+In short, reward levels were misconfigured in the Parametric Staking SLA that was deployed.
 
-This had an unintended result of increasing APR rewards by a factor of 10. With the token price performance over the past month, staking rewards should have been paid out at around the base 12% APR, or approximately 1% for the month. However, due to the reward level misconfiguration, rewards were calculated at a rate of 120% APR, which resulted in a monthly reward distribution of about 10%!
+This had the unintended result of increasing the Parametric Staking APR. With the token price performance over the past month, Parametric Staking APR should have been 12% APR, or 1% for the month. 
 
-## What's Next ➡️
+However, due to the reward level misconfiguration, rewards were calculated at a rate of 120% APR, which resulted in a 10% reward for Period 0.
 
-First and most important:
+## What's Next?
 
-Unstake from the current staking pools and ⚠️⚠️**DO NOT RESTAKE**⚠️⚠️
+1/ Unstake from the current staking pools by **December 19, 2022**.
 
-If you restake to the current pool your funds will be locked through the next period, but won't earn any rewards!
+2/ **Do not re-stake**. If you restake to the current pool, your funds will be locked through the next period, but won't earn any rewards.
 
-Okay, with that out of the way, we are requesting all users currently staking to please ensure that you unstake by December 19, 2022.
+3/ A new Parametric Staking Pool will be deployed on December 29, 2022 at [https://dsla.network/stake](https://dsla.network/stake)
 
-We will be redeploying a new Parametric Staking Pool with the proper reward parameters on December 29, 2022. As previously communicated, staking APR on this pool will be variable, from 12% to 300%, depending on the price performance of the DSLA token.
+As previously communicated, the APR on this pool will be variable, from 12% to 300%, depending on the upside price performance of the DSLA token.
 
-Yes, this does unfortunately mean that stakers will miss out on rewards for December, but we figure that's not a bad tradeoff for considering the 10x on expected rewards for November!
+## Arbitrum & Polygon
 
-Once the new Parametric Staking Pool opens on December 29th, please stake your tokens to it at [https://dsla.network/stake](https://dsla.network/stake). Note that there will again be **limited space** as there will be a cap on each pool!
+This migration plan to a new Parametric Staking Pool only applies to the Ethereum version of DSLA Protocol.
 
-## We Appreciate the Support of the Community🤝
+Verification is still pending on Arbitrum and Polygon network, migration dates for these networks will be shared early January.
 
-While roadbumps are not unexpected when you're launching new and innovative products, they're seldom ideal. We're glad that in this case the result was a nice Christmas Bonus for our community, who are pioneering Parametric Staking with us!
+## Impact
+
+* All Period 0 stakeholders enjoy a 10% reward instead of the expected 1%;
+* New stakeholders will have an opportunity to join the new staking pool;
+* We skip a beat in December, for the better.
+
+While roadbumps are not unexpected when you're launching new and innovative products, they're seldom ideal. We're glad that, in this case, the result was a nice bonus for our community, who are pioneering Parametric Staking with us.
 
 ---
 
