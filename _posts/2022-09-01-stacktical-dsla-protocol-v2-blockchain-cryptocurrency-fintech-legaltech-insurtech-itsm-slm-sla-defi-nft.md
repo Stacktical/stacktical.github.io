@@ -15,7 +15,9 @@ We're excited to cover the improvements and changes in v2.0 that make it more st
 
 ## A Better Way to Manage Risk
 
-Today DSLA is live on six networks: Ethereum, Avalanche, Fantom, Harmony, Binance Smart Chain and Polygon, with work ongoing to port DSLA to Solana. The release of v2.0 also enables a number of new flagship use cases, like NFT Floor Price Protection, that broaden the general audience of end-users that could make use of a DSLA risk management product.
+Today DSLA v2.0 is live on four networks: Ethereum, Avalanche, Arbitrum and Polygon, with work ongoing to port DSLA to Solana. The DSLA token is also available on Fantom, Harmony and Binance Smart Chain, though v2.0 of the protocol is not being deployed on these chains.
+
+The release of v2.0 also enables a number of new flagship use cases, like NFT Floor Price Protection, that broaden the general audience of end-users that could make use of a DSLA risk management product.
 
 It's safe to say that with v2.0, swapping risk with DSLA is more accessible than ever.
 
