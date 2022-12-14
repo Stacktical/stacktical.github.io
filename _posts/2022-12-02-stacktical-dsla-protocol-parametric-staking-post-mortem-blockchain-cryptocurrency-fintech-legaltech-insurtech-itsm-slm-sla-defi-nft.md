@@ -21,21 +21,31 @@ This had the unintended result of increasing the Parametric Staking APR. With th
 
 However, due to the reward level misconfiguration, rewards were calculated at a rate of 120% APR, which resulted in a 10% reward for Period 0.
 
+## Arbitrum Update
+
+SLA verification on Arbitrum was delayed. The DSLA core team worked with the Chainlink team on migrating to a new Chainlink infrastructure in order to resolve the issue.
+
+We're happy to report that with this migration complete, SLA verification has been completed and Arbitrum stakers can claim their rewards.
+
+Please do not restake on Arbitrum, we will be migrating to a new staking pool.
+
 ## What's Next?
 
-1/ Unstake from the current staking pools by **December 19, 2022**.
+1/ Unstake from the current Ethereum and Arbitrum staking pools by **December 19, 2022**.
 
 2/ **Do not re-stake**. If you restake to the current pool, your funds will be locked through the next period, but won't earn any rewards.
 
-3/ A new Parametric Staking Pool will be deployed on December 29, 2022 at [https://dsla.network/stake](https://dsla.network/stake)
+3/ New Parametric Staking Pools will be deployed for Ethereum and Arbitrum on December 29, 2022 at [https://dsla.network/stake](https://dsla.network/stake)
 
 As previously communicated, the APR on this pool will be variable, from 12% to 300%, depending on the upside price performance of the DSLA token.
 
-## Arbitrum & Polygon
+## Polygon
 
-This migration plan to a new Parametric Staking Pool only applies to the Ethereum version of DSLA Protocol.
+This migration plan to a new Parametric Staking Pool only applies to the Ethereum and Arbitrum versions of DSLA Protocol.
 
-Verification is still pending on Arbitrum and Polygon network, migration dates for these networks will be shared early January.
+Verification is still pending on Polygon network, with the current period ending on December 31st. Verification will be completed after that and migration dates for a new Polygon staking pool will be shared early January.
+
+Please do not restake on Polygon.
 
 ## Impact
 
