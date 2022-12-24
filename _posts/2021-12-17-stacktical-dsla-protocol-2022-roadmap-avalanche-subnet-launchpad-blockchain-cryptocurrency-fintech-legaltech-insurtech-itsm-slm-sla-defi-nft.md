@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Announcing our Validation Launchpad for Avalanche Subnets"
 author: Team
 categories: [ mainnet, roadmap ]

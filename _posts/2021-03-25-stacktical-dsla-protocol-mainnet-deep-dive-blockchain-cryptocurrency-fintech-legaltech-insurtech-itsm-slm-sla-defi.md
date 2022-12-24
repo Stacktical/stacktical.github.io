@@ -27,7 +27,7 @@ All deployments are **contingent on the results of ongoing security audits**.
 
 DSLA Protocol v1 introduces a series of in-house innovations:
 
-* **Risk Hedging**, enabling developers, users, and liquidity providers to trade risk with each other using Decentralized Service Level Agreements (SLA);
+* **Risk Hedging**, enabling developers, users, and liquidity providers to transfer risk between peers using Decentralized Service Level Agreements (SLA);
 
 * **Reliability Forecasts**, enabling third-party risk assessment at a glance, through the wisdom of the SLA marketplace and its participants;
 
@@ -49,7 +49,7 @@ These innovations make DSLA Protocol the 1st ever **Risk Prediction Market Maker
 
 ### Risk Hedging
 
-**In DSLA Protocol, service stakeholders can trade third-party risk with each other, by staking on the outcome of periodic events, called SLA verifications.**
+**In DSLA Protocol, service stakeholders can transfer third-party risk between peers, by staking on the outcome of periodic events, called SLA verifications.**
 
 A stakeholder is a user, a provider or someone willing to stake on either side of the user-provider relationship.
 
@@ -110,7 +110,7 @@ The more the service exceeds expectations, the more rewards are granted to the S
 
 ### SLA Verification Token Burn
 
-To align the DSLA token supply with the usage of the DSLA Protocol, DSLA token are burned like fuel, everytime a SLA contract is verified. Starting from our mainnet launch, the 7B supply of DSLA tokens will decrease over time, as service stakeholders trade third-party risk on the marketplace.
+To align the DSLA token supply with the usage of the DSLA Protocol, DSLA token are burned like fuel, everytime a SLA contract is verified. Starting from our mainnet launch, the 7B supply of DSLA tokens will decrease over time, as service stakeholders transfer third-party risk on the marketplace.
 
 ### Developer Tools
 
