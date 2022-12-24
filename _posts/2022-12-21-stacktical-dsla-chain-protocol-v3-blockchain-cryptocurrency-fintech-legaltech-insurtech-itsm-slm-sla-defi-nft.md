@@ -32,7 +32,7 @@ Historically, consumer protection has been lagging behind consumers exposure to 
 
 DSLA Protocol v1.0 was engineered to bridge this gap, by enabling anyone to develop any consumer protection they deem necessary.
 
-We call such protection a **D**ecentralized **S**ervice **L**evel Agreement—that is what DSLA stands for.
+We call such protection a **D**ecentralized **S**ervice **L**evel Agreement—that is what "DSLA" stands for.
 
 
 
@@ -58,7 +58,7 @@ It connects peers to third-party analytics through a Decentralized Service Level
 
 
 
-Each Decentralized Service Level Agreement promises to lock third-party analytics to a fixed performance goal, for a fixed period.
+Each Decentralized Service Level Agreement promises to **lock third-party analytics** to a fixed performance goal, for a fixed period.
 
 
 
@@ -66,9 +66,9 @@ Each Decentralized Service Level Agreement promises to lock third-party analytic
 
 
 
-Hit or Miss? Peers can vote for the outcome of the periodic verification of a Decentralized Service Level Agreement.
+**Hit or Miss?** Peers can vote for the outcome of the periodic verification of a Decentralized Service Level Agreement.
 
-They must stake a collateral, to register their vote. The bigger the stake, the more a peer offsets the risk of hitting or missing a fixed performance goal.
+They must stake a collateral, to register their vote. A stake offsets the risk of hitting or missing a fixed performance goal.
 
 
 
@@ -81,6 +81,10 @@ Opposite votes effectively enables **the transfer of third-party risk between pe
 
 
 ![DSLA Use Case: Peg Parity](https://storage.googleapis.com/dsla-network/resources/dsla_use-case_uptime.png)
+
+
+
+Staking rewards pro-actively **recoup losses**.
 
 
 
