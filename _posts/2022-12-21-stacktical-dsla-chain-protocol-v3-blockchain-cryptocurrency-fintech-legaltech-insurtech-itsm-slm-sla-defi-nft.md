@@ -122,7 +122,7 @@ A parametric escrowing protocol.
 
 * **Publish by DSLA**
 
-A content management protocol based on markdown
+A collaborative content management protocol based on markdown and IPFS.
 
 * **DSLA Protocol v3.0**
 
