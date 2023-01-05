@@ -78,7 +78,7 @@ DSLA's Parametric Staking is made possible by leveraging our SLA 3.0 technology 
 
 We're excited to roll this out for our global community of DSLA Champs first, and then see it grow as other protocols adopt the superior solution that Parametric Staking represents.
 
-**Are you a project that is interested in deploying Parametric Staking?** Join our [**Guild**](https://guild.xyz/dsla) and hop into our Discord server to chat about Parametric Staking!
+**Are you a project that is interested in deploying Parametric Staking?** Join our [**Guild**](https://guild.xyz/dsla) and hop into our Discord server. Once you're there, go to the `#🎯。parametric-staking` channel and open a ticket to get started!
 
 ---
 
