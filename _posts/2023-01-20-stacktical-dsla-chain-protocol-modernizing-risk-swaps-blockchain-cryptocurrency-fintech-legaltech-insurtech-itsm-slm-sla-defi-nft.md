@@ -28,7 +28,9 @@ With DSLA, the seller of a CDS would be a Liquidity Provider, underwriting the r
 
 If a risk can be measured, then it can be tokenized and swapped using DSLA. With this in mind, you can basically think of DSLA as a risk-agnostic Subordinated Risk Swap engine that uses third-party performance analytics to determine the status and outcome of swap agreements.
 
-CDS', specifically ones geared towards the largely unaddressed DeFi market, are one example of a risk that could be swapped using this engine. However, the possibilities are virtually limitless; any risk that can be measured can be tokenized and then swapped.
+CDS', specifically ones geared towards the largely unaddressed DeFi market, are one example of a risk that could be swapped using this engine. DeFi and CeDeFi users are exposed to various risks such as having funds locked in a DeFi protocol, or deposited to a CeDeFi entity that provides lend and earn services. We've seen many cases recently of DeFi and CeDeFi vendors defaulting (think FTX, Gemini, BlockFi). A collateralized CDS could have been invaluable in addressing these default risks for consumers and helping minimize contagion risks.
+
+However, DeFi is just the beginning, and the possibilities are virtually limitless; any risk that can be measured can be tokenized and then swapped.
 
 While it would also be possible to support other types of classic **risk swaps**, these products are generally regulated, as noted in the disclaimer, and there would need to be significant regulatory groundwork laid to do so.
 
