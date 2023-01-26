@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Introducing DSLA Protocol v1.0 and the future of third-party risk management"
 author: Team
 categories: [ mainnet ]
