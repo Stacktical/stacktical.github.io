@@ -32,8 +32,6 @@ CDS', specifically ones geared towards the largely unaddressed DeFi market, are 
 
 However, DeFi is just the beginning, and the possibilities are virtually limitless; any risk that can be measured can be tokenized and then swapped.
 
-While it would also be possible to support other types of classic **risk swaps**, these products are generally regulated, as noted in the disclaimer, and there would need to be significant regulatory groundwork laid to do so.
-
 ## How DSLA Could Improve the Legacy Solution
 
 ### Peer-to-Peer Agreements
@@ -52,7 +50,7 @@ With DSLA, counterparty risk would be further owing to the fact that all decentr
 
 ### Opening the Market to Non-Institutional Participants
 
-DSLA's open, peer-to-peer market could democratize access and participation in a market that is usually reserved for only large corporations or financial institutions.
+DSLA's open, peer-to-peer market could democratize access and participation in a market that is usually reserved for only large corporations or financial institutions. Due to the intermediaries required, the current market for CDS is only really open to large entities like FTX or BlockFi or Genesis, rather than their customers.
 
 ### From Concept to Customer in 48 Hours
 
