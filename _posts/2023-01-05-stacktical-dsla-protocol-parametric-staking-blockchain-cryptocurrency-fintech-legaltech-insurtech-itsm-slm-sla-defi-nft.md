@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Parametric Staking"
 author: Team
 categories: [ mainnet ]
