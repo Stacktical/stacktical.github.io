@@ -51,7 +51,7 @@ How about a launch festival for Travel SLAs?
 
 ___
 
-### 🗓 MAY 17
+### 🗓 JUN 6
 
 DSLA Protocol v2.0 adds support for experimental **Sunny Travel SLA Guarantees** to :
 
@@ -64,7 +64,7 @@ _____
 
 
 
-### 🗓 MAY 19
+### 🗓 JUN 7
 
 Public stress test of the **first Sunny Travel SLA Guarantee** :
 
@@ -77,7 +77,7 @@ ___
 
 
 
-### 🗓 MAY 23
+### 🗓 WED 14
 
 xMILES **Community Focus Group** registration.
 
@@ -87,7 +87,7 @@ _____
 
 
 
-### 🗓 MAY 26
+### 🗓 JUN 26
 
 **Video Deep Dive** with Wilhem, DSLA Protocol Core Contributor.
 
@@ -95,7 +95,7 @@ ___
 
 
 
-### 🗓 JUN 2
+### 🗓 JUN 27
 
 DSLA Protocol v2.0 adds support for experimental **On-Time Travel SLA Guarantees**.
 
@@ -105,7 +105,7 @@ ___
 
 
 
-### 🗓 JUN 7
+### 🗓 JUN 28
 
 Issuance and public stress test of the first **On-Time Travel SLA Guarantee**:
 
@@ -116,7 +116,7 @@ ___
 
 
 
-### 🗓 JUN 14
+### 🗓 JUL 4
 
 Bagage Handling, IoT & Geospatial Oracle Providers: a Community Discussion
 
@@ -124,7 +124,7 @@ ___
 
 
 
-### 🗓 JUN 21
+### 🗓 JUL 7
 
 Official start of the Summer!
 
@@ -133,8 +133,6 @@ Availability of the **Travel SLA case study**, and first results of our xMILES C
 ___
 
 
-
-*Roadmap update in progress.*
 
 ![PePe in Summer](/assets/img/2023-05-12-dsla-protocol-travel-narrative-sla-xmiles-3.jpg)
 
