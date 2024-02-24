@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA Protocol announces DSLA Chain, its own blockchain network"
 author: Team
 categories: [ mainnet ]

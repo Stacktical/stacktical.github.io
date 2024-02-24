@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: false
+featured: true
 title:  "DSLA v2.0"
 author: Team
 categories: [ mainnet ]
