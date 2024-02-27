@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "DSLA in 2023"
 author: Team
 categories: [ mainnet ]

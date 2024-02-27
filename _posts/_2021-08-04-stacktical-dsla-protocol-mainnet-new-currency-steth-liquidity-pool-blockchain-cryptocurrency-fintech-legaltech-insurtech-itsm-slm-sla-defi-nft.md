@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 title:  "Stake stETH and USDT to DSLA contracts"
 author: Team
 categories: [ mainnet ]
