@@ -53,7 +53,7 @@ The need for using service level agreement without capital requirements was expr
 
 DSLA v3.0 will introduce a capital-less mode, that allow service level agreements to operate without value locked, and collectively build a pure ledger of third-party service failures close to Satoshi's vision of timestamping.
 
-**Upon third-party service failures, users and underwriters will have the ability to tokenize a service level agreement breach into a "Proof of Breach" collectible, that can be exchanged for perks in third-party Service Catalog.**
+**Upon third-party service failures, users and underwriters will have the ability to tokenize a service level agreement breach into a "Proof of Breach" collectible, that can be exchanged for perks in a third-party Service Catalog.**
 
 In the most original scenario, the failure of third-party service A, will lead you to earning a perk for third-party service B, effectively acting as a migration incentive. With the addition of migration capabilities, our vision for Peer-to-Peer Risk Management becomes more comprehensive than ever before.
 
