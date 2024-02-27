@@ -49,9 +49,9 @@ It will not be the first thing you experience when you use the dapp. Instead, he
 
 ### Proof of Breach
 
-The need for using service level agreement without capital requirements was expressed by many of the hundreds potential customer we interviewed for the past 5+ years. 
+The need for using service level agreement without capital requirements was expressed by many of the hundreds potential customers we interviewed for the past 5+ years. 
 
-DSLA v3.0 will introduce a capital-less mode, that allow service level agreements to operate without value locked, and collectively build a pure ledger of third-party service failures close to Satoshi's vision of timestamping.
+DSLA v3.0 will introduce a capital-less mode, that allows service level agreements to operate without value locked, and collectively build a pure ledger of third-party service failures close to Satoshi's vision of timestamping.
 
 **Upon third-party service failures, users and underwriters will have the ability to tokenize a service level agreement breach into a "Proof of Breach" collectible, that can be exchanged for perks in a third-party Service Catalog.**
 
@@ -154,7 +154,7 @@ All percentage values will be decided upon through a DSLA Improvement Proposal (
 
 **DSLA v3.0 is set for release end March 2024, or earlier.**
 
-In the meantime, full support for DSLA v2.0 will be restored in the dapp at https://network, including but not limited to unstaking from the Parametric Staking program, and browsing all existing use cases, namely NFT Floor Price SLAs and LST Peg Parity SLAs.
+In the meantime, full support for DSLA v2.0 will be restored in the dapp at https://dsla.network, including but not limited to unstaking from the Parametric Staking program, and browsing all existing use cases, namely NFT Floor Price SLAs and LST Peg Parity SLAs.
 
 We will detail the 2024 Roadmap for DSLA in a dedicated article, and shed light on how we are rebuilding our offering around the best narratives:
 
