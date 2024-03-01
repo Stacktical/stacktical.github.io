@@ -83,7 +83,7 @@ The allocation stands as follow:
 
 
 
-### Airdrop Information & KuCoin Volume Support
+### Airdrop Information
 
 DSLA utility tokens holders will receive BONZAI proportionnally to their DSLA utility tokens holdings, across all supported blockchain networks and DSLA utility tokens v2.0 Parametric Staking pools.
 
@@ -111,9 +111,12 @@ All Ethereum compatible wallets will work (Metamask, Trust and the likes).
 
 #### Airdrop Requirements
 
-* You must be active on the KuCoin market for DSLA utility tokens at [https://www.kucoin.com/trade/DSLA-USDT](https://www.kucoin.com/trade/DSLA-USDT);
-* You must hold both DSLA utility tokens and BONZAI in a cryptocurrency wallet (not an exchange) by March 30 2024, to be eligible for the airdrop;
-* There is no amount requirement for how many DSLA utility tokens or BONZAI you hold.
+* You must hold **both** DSLA utility tokens and BONZAI in a cryptocurrency wallet (not an exchange) by March 30 2024, to be eligible for the airdrop;
+* There is no amount requirement for how many DSLA utility tokens or BONZAI utility tokens you hold in your wallet.
+
+
+
+💡 Don't worry!  You can hold DSLA and BONZAI in different blockchain networks, as long as you are using the same wallet address.
 
 
 
