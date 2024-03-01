@@ -79,7 +79,7 @@ The allocation stands as follow:
 
 
 
-**Following this initial allocation, the FDV (Fully Diluted Value) of BONZAI starts at roughly 2.1M USD, with a current price of 0.00003 ETH per BONZAI (0,1 USD, at the time of writing).**
+**Following this initial allocation, the FDV (Fully Diluted Value) of BONZAI starts at roughly 1.2M USD, with a current price of 0.000025 ETH per BONZAI (0,085 USD, at the time of writing).**
 
 
 
