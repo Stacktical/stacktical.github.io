@@ -75,7 +75,7 @@ The allocation stands as follow:
 
 * **Foundation**: 10% of the total supply (2.1M BONZAI)
 
-* **Investors & Team **: 33% of the total supply (7M BONZAI)
+* **Investors & Team**: 33% of the total supply (7M BONZAI)
 
 
 
@@ -93,6 +93,12 @@ BONZAI is a perfect opportunity for DSLA and its community to demonstrate their 
 
 
 
+#### Supported Wallets
+
+All Ethereum compatible wallets will work (Metamask, Trust and the likes).
+
+
+
 #### Airdrop Snapshot
 
 🗓 March 30 2024, **everywhere except exchanges**
@@ -105,9 +111,9 @@ BONZAI is a perfect opportunity for DSLA and its community to demonstrate their 
 
 #### Airdrop Requirements
 
-* You must be active on the KuCoin market for DSLA utility tokens at [https://www.kucoin.com/trade/DSLA-USDT](https://www.kucoin.com/trade/DSLA-USDT)
-* You must hold both DSLA utility tokens and BONZAI in a cryptocurrency wallet (not an exchange) by March 30 2024, to be eligible for the airdrop.
-* There is no amount requirement for how many DSLA utility tokens or BONZAI you hold
+* You must be active on the KuCoin market for DSLA utility tokens at [https://www.kucoin.com/trade/DSLA-USDT](https://www.kucoin.com/trade/DSLA-USDT);
+* You must hold both DSLA utility tokens and BONZAI in a cryptocurrency wallet (not an exchange) by March 30 2024, to be eligible for the airdrop;
+* There is no amount requirement for how many DSLA utility tokens or BONZAI you hold.
 
 
 
